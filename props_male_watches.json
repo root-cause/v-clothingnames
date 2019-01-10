@@ -1,0 +1,410 @@
+{
+    "0": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "1": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "2": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "3": {
+        "0": {
+            "GXT": "CLO_BBM_W_1_0",
+            "Localized": "Pendulus Sport Black Sports"
+        },
+        "1": {
+            "GXT": "CLO_BBM_W_1_1",
+            "Localized": "Pfister Design Red Sports"
+        },
+        "2": {
+            "GXT": "CLO_BBM_W_1_2",
+            "Localized": "White Sports"
+        },
+        "3": {
+            "GXT": "CLO_BBM_W_1_3",
+            "Localized": "Yellow Sports"
+        },
+        "4": {
+            "GXT": "CLO_BBM_W_1_4",
+            "Localized": "Blue Sports"
+        }
+    },
+    "4": {
+        "0": {
+            "GXT": "CLO_BUSM_W0_0",
+            "Localized": "Gold Watch"
+        },
+        "1": {
+            "GXT": "CLO_BUSM_W0_1",
+            "Localized": "Silver Watch"
+        },
+        "2": {
+            "GXT": "CLO_BUSM_W0_2",
+            "Localized": "Black Watch"
+        },
+        "3": {
+            "GXT": "CLO_BUSM_W0_3",
+            "Localized": "White Gold Watch"
+        }
+    },
+    "5": {
+        "0": {
+            "GXT": "CLO_HP_W_0_0",
+            "Localized": "Red LED, White Strap"
+        },
+        "1": {
+            "GXT": "CLO_HP_W_0_1",
+            "Localized": "Red LED, Brown Strap"
+        },
+        "2": {
+            "GXT": "CLO_HP_W_0_2",
+            "Localized": "White LED, Gold Strap"
+        },
+        "3": {
+            "GXT": "CLO_HP_W_0_3",
+            "Localized": "Yellow LED, Yellow Strap"
+        }
+    },
+    "6": {
+        "0": {
+            "GXT": "CLO_LXM_W_0_0",
+            "Localized": "Pink Gold Kronos Quantum"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_0_1",
+            "Localized": "Silver Kronos Quantum"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_0_2",
+            "Localized": "Carbon Kronos Quantum"
+        }
+    },
+    "7": {
+        "0": {
+            "GXT": "CLO_LXM_W_1_0",
+            "Localized": "Platinum Gaulle Retro Hex"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_1_1",
+            "Localized": "Carbon Gaulle Retro Hex"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_1_2",
+            "Localized": "Gold Gaulle Retro Hex"
+        }
+    },
+    "8": {
+        "0": {
+            "GXT": "CLO_LXM_W_2_0",
+            "Localized": "Gold Covgari Supernova"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_2_1",
+            "Localized": "Carbon Covgari Supernova"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_2_2",
+            "Localized": "Pink Gold Covgari Supernova"
+        }
+    },
+    "9": {
+        "0": {
+            "GXT": "CLO_LXM_W_3_0",
+            "Localized": "Platinum Pendulus Galaxis"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_3_1",
+            "Localized": "Carbon Pendulus Galaxis"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_3_2",
+            "Localized": "Gold Pendulus Galaxis"
+        }
+    },
+    "10": {
+        "0": {
+            "GXT": "CLO_LXM_W_4_0",
+            "Localized": "Silver Crowex Chromosphere"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_4_1",
+            "Localized": "Gold Crowex Chromosphere"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_4_2",
+            "Localized": "Carbon Crowex Chromosphere"
+        }
+    },
+    "11": {
+        "0": {
+            "GXT": "CLO_LXM_W_5_0",
+            "Localized": "Pink Gold Vangelico Geomeister"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_5_1",
+            "Localized": "Silver Vangelico Geomeister"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_5_2",
+            "Localized": "Gold Vangelico Geomeister"
+        }
+    },
+    "12": {
+        "0": {
+            "GXT": "CLO_LXM_W_13_0",
+            "Localized": "Gold iFruit Link"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_13_1",
+            "Localized": "Silver iFruit Link"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_13_2",
+            "Localized": "Pink Gold iFruit Link"
+        }
+    },
+    "13": {
+        "0": {
+            "GXT": "CLO_LXM_W_14_0",
+            "Localized": "Carbon iFruit Tech"
+        },
+        "1": {
+            "GXT": "CLO_LXM_W_14_1",
+            "Localized": "Lime iFruit Tech"
+        },
+        "2": {
+            "GXT": "CLO_LXM_W_14_2",
+            "Localized": "PRB iFruit Tech"
+        }
+    },
+    "14": {
+        "0": {
+            "GXT": "CLO_L2M_W_6_0",
+            "Localized": "Silver Covgari Explorer"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_6_1",
+            "Localized": "Pink Gold Covgari Explorer"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_6_2",
+            "Localized": "Gold Covgari Explorer"
+        }
+    },
+    "15": {
+        "0": {
+            "GXT": "CLO_L2M_W_7_0",
+            "Localized": "Silver Pendulus Gravity"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_7_1",
+            "Localized": "Gold Pendulus Gravity"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_7_2",
+            "Localized": "Platinum Pendulus Gravity"
+        }
+    },
+    "16": {
+        "0": {
+            "GXT": "CLO_L2M_W_8_0",
+            "Localized": "Gold Covgari Universe"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_8_1",
+            "Localized": "Silver Covgari Universe"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_8_2",
+            "Localized": "Steel Covgari Universe"
+        }
+    },
+    "17": {
+        "0": {
+            "GXT": "CLO_L2M_W_9_0",
+            "Localized": "Copper Gaulle Destiny"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_9_1",
+            "Localized": "Vintage Gaulle Destiny"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_9_2",
+            "Localized": "Silver Gaulle Destiny"
+        }
+    },
+    "18": {
+        "0": {
+            "GXT": "CLO_L2M_W_10_0",
+            "Localized": "Carbon Medici Radial"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_10_1",
+            "Localized": "Silver Medici Radial"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_10_2",
+            "Localized": "Steel Medici Radial"
+        }
+    },
+    "19": {
+        "0": {
+            "GXT": "CLO_L2M_W_11_0",
+            "Localized": "Silver Pendulus Timestar"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_11_1",
+            "Localized": "Gold Pendulus Timestar"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_11_2",
+            "Localized": "Carbon Pendulus Timestar"
+        }
+    },
+    "20": {
+        "0": {
+            "GXT": "CLO_L2M_W_12_0",
+            "Localized": "Carbon Kronos Submariner"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_12_1",
+            "Localized": "Red Kronos Submariner"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_12_2",
+            "Localized": "Yellow Kronos Submariner"
+        }
+    },
+    "21": {
+        "0": {
+            "GXT": "CLO_L2M_W_15_0",
+            "Localized": "Red iFruit Snap"
+        },
+        "1": {
+            "GXT": "CLO_L2M_W_15_1",
+            "Localized": "Blue iFruit Snap"
+        },
+        "2": {
+            "GXT": "CLO_L2M_W_15_2",
+            "Localized": "Mint iFruit Snap"
+        }
+    },
+    "22": {
+        "0": {
+            "GXT": "CLO_BIM_PW_0_0",
+            "Localized": "Light Wrist Chain (L)"
+        }
+    },
+    "23": {
+        "0": {
+            "GXT": "CLO_BIM_PW_1_0",
+            "Localized": "Chunky Wrist Chain (L)"
+        }
+    },
+    "24": {
+        "0": {
+            "GXT": "CLO_BIM_PW_2_0",
+            "Localized": "Square Wrist Chain (L)"
+        }
+    },
+    "25": {
+        "0": {
+            "GXT": "CLO_BIM_PW_3_0",
+            "Localized": "Skull Wrist Chain (L)"
+        }
+    },
+    "26": {
+        "0": {
+            "GXT": "CLO_BIM_PW_4_0",
+            "Localized": "Tread Wrist Chain (L)"
+        }
+    },
+    "27": {
+        "0": {
+            "GXT": "CLO_BIM_PW_5_0",
+            "Localized": "Gear Wrist Chains (L)"
+        }
+    },
+    "28": {
+        "0": {
+            "GXT": "CLO_BIM_PW_6_0",
+            "Localized": "Spiked Gauntlet (L)"
+        }
+    },
+    "29": {
+        "0": {
+            "GXT": "CLO_BIM_PW_7_0",
+            "Localized": "Black Gauntlet (L)"
+        },
+        "1": {
+            "GXT": "CLO_BIM_PW_7_1",
+            "Localized": "Chocolate Gauntlet (L)"
+        },
+        "2": {
+            "GXT": "CLO_BIM_PW_7_2",
+            "Localized": "Tan Gauntlet (L)"
+        },
+        "3": {
+            "GXT": "CLO_BIM_PW_7_3",
+            "Localized": "Ox Blood Gauntlet (L)"
+        }
+    }
+}
