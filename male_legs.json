@@ -1,134 +1,134 @@
 {
     "0": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_0",
+            "Localized": "Navy Regular Fit"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_1",
+            "Localized": "Worn Black Regular Fit"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_2",
+            "Localized": "Faded Light Blue Regular Fit"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_3",
+            "Localized": "Tan Regular Fit"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_4",
+            "Localized": "Faded Dark Blue Regular Fit"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_5",
+            "Localized": "Gray Regular Fit"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_6",
+            "Localized": "Faded Classic Blue Regular Fit"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_7",
+            "Localized": "Mustard Regular Fit"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_8",
+            "Localized": "Dark Blue Regular Fit"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_9",
+            "Localized": "Stone Regular Fit"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_10",
+            "Localized": "Worn Light Blue Regular Fit"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_11",
+            "Localized": "Brown Regular Fit"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_12",
+            "Localized": "Black Regular Fit"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_13",
+            "Localized": "Teal Regular Fit"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_14",
+            "Localized": "White Regular Fit"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_0_15",
+            "Localized": "Crimson Regular Fit"
         }
     },
     "1": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_0",
+            "Localized": "Slate Jeans"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_1",
+            "Localized": "Ranch Black Jeans"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_2",
+            "Localized": "Ranch Gray Jeans"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_3",
+            "Localized": "Light Blue Ranch"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_4",
+            "Localized": "Ranch Chocolate Jeans"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_5",
+            "Localized": "Ranch Topaz Jeans"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_6",
+            "Localized": "Ranch Silver Jeans"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_7",
+            "Localized": "Ranch Brown Jeans"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_8",
+            "Localized": "Ranch Patriot Jeans"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_9",
+            "Localized": "Ranch Olive Jeans"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_10",
+            "Localized": "Ranch Purple Jeans"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_11",
+            "Localized": "Ranch Navy Jeans"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_12",
+            "Localized": "Ranch Blue Jeans"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_13",
+            "Localized": "Widow Jeans"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_14",
+            "Localized": "Ranch Tan Jeans"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_1_15",
+            "Localized": "Ranch Faded Jeans"
         }
     },
     "2": {
@@ -177,8 +177,8 @@
             "Localized": "NULL"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_2_11",
+            "Localized": "Gray Two-Tone Sports"
         },
         "12": {
             "GXT": "NO_LABEL",
@@ -199,90 +199,90 @@
     },
     "3": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_0",
+            "Localized": "White Stripe Track Pants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_1",
+            "Localized": "Gray Track Pants"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_2",
+            "Localized": "Black Track Pants"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_3",
+            "Localized": "Blue Track Pants"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_4",
+            "Localized": "Navy Track Pants"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_5",
+            "Localized": "Red Track Pants"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_6",
+            "Localized": "Green Stripe Track Pants"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_7",
+            "Localized": "Orange Track Pants"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_8",
+            "Localized": "Yellow Track Pants"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_9",
+            "Localized": "Purple Track Pants"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_10",
+            "Localized": "Brown Stripe Track Pants"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_11",
+            "Localized": "Tan Track Pants"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_12",
+            "Localized": "Lavender Track Pants"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_13",
+            "Localized": "Blue Stripe Track Pants"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_14",
+            "Localized": "Game Track Pants"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_3_15",
+            "Localized": "Fireball Track Pants"
         }
     },
     "4": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_4_0",
+            "Localized": "Black Fitted"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_4_1",
+            "Localized": "Deep Blue Fitted"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_4_2",
+            "Localized": "Gray Fitted"
         },
         "3": {
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_4_4",
+            "Localized": "Faded Blue Fitted"
         },
         "5": {
             "GXT": "NO_LABEL",
@@ -331,82 +331,82 @@
     },
     "5": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_0",
+            "Localized": "White Stripe Sweatpants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_1",
+            "Localized": "Gray Stripe Sweatpants"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_2",
+            "Localized": "Black Stripe Sweatpants"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_3",
+            "Localized": "Blue Stripe Sweatpants"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_4",
+            "Localized": "Navy Stripe Sweatpants"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_5",
+            "Localized": "Red Stripe Sweatpants"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_6",
+            "Localized": "Green Stripe Sweatpants"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_7",
+            "Localized": "Orange Stripe Sweatpants"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_8",
+            "Localized": "Yellow Stripe Sweatpants"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_9",
+            "Localized": "Purple Stripe Sweatpants"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_10",
+            "Localized": "Brown Stripe Sweatpants"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_11",
+            "Localized": "Tan Stripe Sweatpants"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_12",
+            "Localized": "Lavender Sweatpants"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_13",
+            "Localized": "Camo Sweatpants"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_14",
+            "Localized": "Splatter Sweatpants"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_5_15",
+            "Localized": "Slate Stripe Sweatpants"
         }
     },
     "6": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_6_0",
+            "Localized": "Foam Boards"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_6_1",
+            "Localized": "Seal Boards"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_6_2",
+            "Localized": "Stone Boards"
         },
         "3": {
             "GXT": "NO_LABEL",
@@ -437,8 +437,8 @@
             "Localized": "NULL"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_6_10",
+            "Localized": "Squared Boards"
         },
         "11": {
             "GXT": "NO_LABEL",
@@ -463,74 +463,74 @@
     },
     "7": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_0",
+            "Localized": "Black Work Pants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_1",
+            "Localized": "Chocolate Work Pants"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_2",
+            "Localized": "Gray Work Pants"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_3",
+            "Localized": "Blue Work Pants"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_4",
+            "Localized": "Tan Work Pants"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_5",
+            "Localized": "White Work Pants"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_6",
+            "Localized": "Olive Work Pants"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_7",
+            "Localized": "Forest Work Pants"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_8",
+            "Localized": "Resort Work Pants"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_9",
+            "Localized": "Ash Work Pants"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_10",
+            "Localized": "Teal Work Pants"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_11",
+            "Localized": "Berry Work Pants"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_12",
+            "Localized": "Khaki Work Pants"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_13",
+            "Localized": "Sky Blue Work Pants"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_14",
+            "Localized": "Navy Work Pants"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_7_15",
+            "Localized": "Sport Work Pants"
         }
     },
     "8": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_8_0",
+            "Localized": "Charcoal Chinos"
         },
         "1": {
             "GXT": "NO_LABEL",
@@ -541,12 +541,12 @@
             "Localized": "NULL"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_8_3",
+            "Localized": "Tan Chinos"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_8_4",
+            "Localized": "Gray Chinos"
         },
         "5": {
             "GXT": "NO_LABEL",
@@ -585,8 +585,8 @@
             "Localized": "NULL"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_8_14",
+            "Localized": "Sky Blue Chinos"
         },
         "15": {
             "GXT": "NO_LABEL",
@@ -595,82 +595,82 @@
     },
     "9": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_0",
+            "Localized": "Olive Cargo Pants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_1",
+            "Localized": "Khaki Cargo Pants"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_2",
+            "Localized": "Purple Cargo Pants"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_3",
+            "Localized": "Navy Cargo Pants"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_4",
+            "Localized": "Orange Cargo Pants"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_5",
+            "Localized": "Brown Cargo Pants"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_6",
+            "Localized": "Taupe Cargo Pants"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_7",
+            "Localized": "Black Cargo Pants"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_8",
+            "Localized": "Hawthorn Cargo Pants"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_9",
+            "Localized": "Earth Cargo Pants"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_10",
+            "Localized": "Urban Cargo Pants"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_11",
+            "Localized": "Fire Cargo Pants"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_12",
+            "Localized": "Tundra Cargo Pants"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_13",
+            "Localized": "Black Camo Cargo Pants"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_14",
+            "Localized": "Woodland Camo Cargo Pants"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_9_15",
+            "Localized": "Ice Cargo Pants"
         }
     },
     "10": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_10_0",
+            "Localized": "Black Pants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_10_1",
+            "Localized": "Gray Pants"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_10_2",
+            "Localized": "Blue Pants"
         },
         "3": {
             "GXT": "NO_LABEL",
@@ -793,8 +793,8 @@
     },
     "12": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_12_0",
+            "Localized": "Black Chinos"
         },
         "1": {
             "GXT": "NO_LABEL",
@@ -809,20 +809,20 @@
             "Localized": "NULL"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_12_4",
+            "Localized": "Gray Plaid Chinos"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_12_5",
+            "Localized": "Gray Chinos"
         },
         "6": {
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_12_7",
+            "Localized": "Tan Chinos"
         },
         "8": {
             "GXT": "NO_LABEL",
@@ -841,8 +841,8 @@
             "Localized": "NULL"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_12_12",
+            "Localized": "Navy Chinos"
         },
         "13": {
             "GXT": "NO_LABEL",
@@ -859,16 +859,16 @@
     },
     "13": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_13_0",
+            "Localized": "Black Baggy Pants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_13_1",
+            "Localized": "Gray Baggy Pants"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_13_2",
+            "Localized": "Blue Baggy Pants"
         },
         "3": {
             "GXT": "NO_LABEL",
@@ -925,20 +925,20 @@
     },
     "14": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_14_0",
+            "Localized": "Charcoal Running"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_14_1",
+            "Localized": "Black Running"
         },
         "2": {
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_14_3",
+            "Localized": "Maroon Running"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -973,8 +973,8 @@
             "Localized": "NULL"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_14_12",
+            "Localized": "White Running"
         },
         "13": {
             "GXT": "NO_LABEL",
@@ -991,68 +991,68 @@
     },
     "15": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_0",
+            "Localized": "Off-White Cargo"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_1",
+            "Localized": "Olive Cargo"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_2",
+            "Localized": "White Cargo"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_3",
+            "Localized": "Black Cargo"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_4",
+            "Localized": "Tan Cargo"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_5",
+            "Localized": "Gray Cargo"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_6",
+            "Localized": "Red Cargo"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_7",
+            "Localized": "Brown Cargo"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_8",
+            "Localized": "Purple Cargo"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_9",
+            "Localized": "Urban Camo Cargo"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_10",
+            "Localized": "Woodland Camo Cargo"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_11",
+            "Localized": "Desert Camo Cargo"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_12",
+            "Localized": "Winter Camo Cargo"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_13",
+            "Localized": "Green Cargo"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_14",
+            "Localized": "Blue Cargo"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "L_FMM_15_15",
+            "Localized": "Orange Cargo"
         }
     },
     "16": {

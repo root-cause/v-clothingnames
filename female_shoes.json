@@ -1,20 +1,20 @@
 {
     "0": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_0_0",
+            "Localized": "Charcoal Platforms"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_0_1",
+            "Localized": "Gray Platforms"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_0_2",
+            "Localized": "Off-White Platforms"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_0_3",
+            "Localized": "Navy Platforms"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -67,218 +67,218 @@
     },
     "1": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_0",
+            "Localized": "White Two-Tone Backside"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_1",
+            "Localized": "Black Backside"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_2",
+            "Localized": "Gray Backside"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_3",
+            "Localized": "Light Blue Backside"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_4",
+            "Localized": "Navy Backside"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_5",
+            "Localized": "Burgundy Backside"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_6",
+            "Localized": "Pink Backside"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_7",
+            "Localized": "Baby Blue Backside"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_8",
+            "Localized": "Olive Backside"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_9",
+            "Localized": "Passion Backside"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_10",
+            "Localized": "Off-White Backside"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_11",
+            "Localized": "Wild Backside"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_12",
+            "Localized": "Tribe Backside"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_13",
+            "Localized": "Pink Accent Backside"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_14",
+            "Localized": "Ash Backside"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_1_15",
+            "Localized": "Fluorescent Accent Backside"
         }
     },
     "2": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_0",
+            "Localized": "Sheepskin Winter Boots"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_1",
+            "Localized": "Black Winter Boots"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_2",
+            "Localized": "Gray Winter Boots"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_3",
+            "Localized": "Off-White Winter Boots"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_4",
+            "Localized": "Ash Winter Boots"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_5",
+            "Localized": "Charcoal Winter Boots"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_6",
+            "Localized": "Leopard Winter Boots"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_7",
+            "Localized": "Brocade Winter Boots"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_8",
+            "Localized": "Floral Winter Boots"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_9",
+            "Localized": "Light Pink Winter Boots"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_10",
+            "Localized": "Dark Teal Winter Boots"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_11",
+            "Localized": "Hot Pink Winter Boots"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_12",
+            "Localized": "Baby Blue Winter Boots"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_13",
+            "Localized": "Burgundy Winter Boots"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_14",
+            "Localized": "Tan Winter Boots"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_2_15",
+            "Localized": "Blue Winter Boots"
         }
     },
     "3": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_0",
+            "Localized": "Black Canvas"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_1",
+            "Localized": "White Canvas"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_2",
+            "Localized": "Red Canvas"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_3",
+            "Localized": "Navy Canvas"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_4",
+            "Localized": "Lilac Canvas"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_5",
+            "Localized": "Green Canvas"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_6",
+            "Localized": "Purple Canvas"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_7",
+            "Localized": "Red Plaid Canvas"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_8",
+            "Localized": "Desert Camo Canvas"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_9",
+            "Localized": "Yellow Canvas"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_10",
+            "Localized": "Woodland Camo Canvas"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_11",
+            "Localized": "Blue Canvas"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_12",
+            "Localized": "Pink Safari Canvas"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_13",
+            "Localized": "Barfs Canvas"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_14",
+            "Localized": "Blue Plaid Canvas"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_3_15",
+            "Localized": "Peach Canvas"
         }
     },
     "4": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_4_0",
+            "Localized": "Black Sports"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_4_1",
+            "Localized": "White Sports"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_4_2",
+            "Localized": "Off-White Sports"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_4_3",
+            "Localized": "Blue Sports"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -331,12 +331,12 @@
     },
     "5": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_5_0",
+            "Localized": "Gray Flip-Flops"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_5_1",
+            "Localized": "White Flip-Flops"
         },
         "2": {
             "GXT": "NO_LABEL",
@@ -371,8 +371,8 @@
             "Localized": "NULL"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_5_10",
+            "Localized": "Orange Flip-Flops"
         },
         "11": {
             "GXT": "NO_LABEL",
@@ -383,8 +383,8 @@
             "Localized": "NULL"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_5_13",
+            "Localized": "Cyan Floral Flip-Flops"
         },
         "14": {
             "GXT": "NO_LABEL",
@@ -397,20 +397,20 @@
     },
     "6": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_6_0",
+            "Localized": "Black Patent Heels"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_6_1",
+            "Localized": "Kitty Patent Heels"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_6_2",
+            "Localized": "Beige Patent Heels"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_6_3",
+            "Localized": "Cobra Patent Heels"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -463,152 +463,152 @@
     },
     "7": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_0",
+            "Localized": "Deluxe Midnight Combat"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_1",
+            "Localized": "Gray Two-Tone Combat Boots"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_2",
+            "Localized": "Deluxe Vixen Combat"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_3",
+            "Localized": "White Combat Boots"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_4",
+            "Localized": "Coffee Combat Boots"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_5",
+            "Localized": "Wheat Combat Boots"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_6",
+            "Localized": "Chocolate Combat Boots"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_7",
+            "Localized": "Battle Combat Boots"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_8",
+            "Localized": "Purple Combat Boots"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_9",
+            "Localized": "Olive Combat Boots"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_10",
+            "Localized": "Brown Two-Tone Combat Boots"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_11",
+            "Localized": "Copper Combat Boots"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_12",
+            "Localized": "Teal Blue Combat Boots"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_13",
+            "Localized": "Tan Combat Boots"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_14",
+            "Localized": "Sand Combat Boots"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_7_15",
+            "Localized": "Ochre Combat Boots"
         }
     },
     "8": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_0",
+            "Localized": "Black Ankle Boots"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_1",
+            "Localized": "Gray Ankle Boots"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_2",
+            "Localized": "Brown Ankle Boots"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_3",
+            "Localized": "Two-Tone Ankle Boots"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_4",
+            "Localized": "Charcoal Ankle Boots"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_5",
+            "Localized": "Cream Ankle Boots"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_6",
+            "Localized": "Explorer Ankle Boots"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_7",
+            "Localized": "Cobra Ankle Boots"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_8",
+            "Localized": "Jungle Ankle Boots"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_9",
+            "Localized": "Cheetah Ankle Boots"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_10",
+            "Localized": "Rouge Ankle Boots"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_11",
+            "Localized": "Purple Ankle Boots"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_12",
+            "Localized": "Zigzag Ankle Boots"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_13",
+            "Localized": "Pop Ankle Boots"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_14",
+            "Localized": "Pollen Ankle Boots"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_8_15",
+            "Localized": "Electric Ankle Boots"
         }
     },
     "9": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_9_0",
+            "Localized": "Licorice Knee High"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_9_1",
+            "Localized": "Tan Knee High"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_9_2",
+            "Localized": "Copper Knee High"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_9_3",
+            "Localized": "Gray Knee High"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -639,12 +639,12 @@
             "Localized": "NULL"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_9_11",
+            "Localized": "White Knee High"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_9_12",
+            "Localized": "Woodland Camo Knee High"
         },
         "13": {
             "GXT": "NO_LABEL",
@@ -661,20 +661,20 @@
     },
     "10": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_10_0",
+            "Localized": "Purple Accent Runners"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_10_1",
+            "Localized": "Gray Runners"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_10_2",
+            "Localized": "Baby Blue Accent Runners"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_10_3",
+            "Localized": "Two-Tone Runners"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -727,20 +727,20 @@
     },
     "11": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_11_0",
+            "Localized": "Purple High Tops"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_11_1",
+            "Localized": "Elite Shock High Tops"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_11_2",
+            "Localized": "Two-Tone High Tops"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_11_3",
+            "Localized": "Red Accent High Tops"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -859,200 +859,200 @@
     },
     "13": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_0",
+            "Localized": "Charcoal Round Toed"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_1",
+            "Localized": "Gold Accent Round Toed"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_2",
+            "Localized": "Blush Round Toed"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_3",
+            "Localized": "Gooseberry Round Toed"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_4",
+            "Localized": "Lemon Spotted Round Toed"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_5",
+            "Localized": "Two-Tone Round Toed"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_6",
+            "Localized": "Wheat Round Toed"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_7",
+            "Localized": "Pink Two-Tone Round Toed"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_8",
+            "Localized": "Red Round Toed"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_9",
+            "Localized": "Leopard Round Toed"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_10",
+            "Localized": "Green Round Toed"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_11",
+            "Localized": "Blue Round Toed"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_12",
+            "Localized": "Two-Tone Striped Round Toed"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_13",
+            "Localized": "Purple Round Toed"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_14",
+            "Localized": "Gray Two-Tone Round Toed"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_13_15",
+            "Localized": "Yellow Round Toed"
         }
     },
     "14": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_0",
+            "Localized": "Black Strappy"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_1",
+            "Localized": "Tan Strappy"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_2",
+            "Localized": "Brown Strappy"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_3",
+            "Localized": "White Strappy"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_4",
+            "Localized": "Yellow Strappy"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_5",
+            "Localized": "Two-Tone Blue Strappy"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_6",
+            "Localized": "Purple Strappy"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_7",
+            "Localized": "Navy Strappy"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_8",
+            "Localized": "Cobra Strappy"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_9",
+            "Localized": "Zebra Strappy"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_10",
+            "Localized": "Sky Blue Strappy"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_11",
+            "Localized": "Baby Blue Strappy"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_12",
+            "Localized": "Pink Strappy"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_13",
+            "Localized": "Olive Strappy"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_14",
+            "Localized": "Two-Tone Pink Strappy"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_14_15",
+            "Localized": "Red Strappy"
         }
     },
     "15": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_0",
+            "Localized": "Khol Sandals"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_1",
+            "Localized": "Beige Sandals"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_2",
+            "Localized": "Turquoise Sandals"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_3",
+            "Localized": "Hornet Sandals"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_4",
+            "Localized": "Gray Sandals"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_5",
+            "Localized": "Pink Sandals"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_6",
+            "Localized": "Red Sandals"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_7",
+            "Localized": "Tan Sandals"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_8",
+            "Localized": "Blue Sandals"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_9",
+            "Localized": "Ochre Sandals"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_10",
+            "Localized": "Desert Sandals"
         },
         "11": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_11",
+            "Localized": "Indigo Sandals"
         },
         "12": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_12",
+            "Localized": "Sparkle Sandals"
         },
         "13": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_13",
+            "Localized": "Striped Sandals"
         },
         "14": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_14",
+            "Localized": "White Sandals"
         },
         "15": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "F_FMF_15_15",
+            "Localized": "Cream Sandals"
         }
     },
     "16": {

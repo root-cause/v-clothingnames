@@ -1,86 +1,86 @@
 {
     "0": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_0_0",
+            "Localized": "None"
         }
     },
     "1": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_1_0",
+            "Localized": "Gold Deco Earrings"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_1_1",
+            "Localized": "Silver Deco Earrings"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_1_2",
+            "Localized": "Pearl Deco Earrings"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_1_3",
+            "Localized": "Copper Deco Earrings"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_1_4",
+            "Localized": "B&W Deco Earrings"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_1_5",
+            "Localized": "Blue Striped Deco Earrings"
         }
     },
     "2": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_2_0",
+            "Localized": "Gold Hoop Earrings"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_2_1",
+            "Localized": "Silver Hoop Earrings"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_2_2",
+            "Localized": "Pink Hoop Earrings"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_2_3",
+            "Localized": "Copper Hoop Earrings"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_2_4",
+            "Localized": "Purple Hoop Earrings"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_2_5",
+            "Localized": "White Hoop Earrings"
         }
     },
     "3": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_3_0",
+            "Localized": "Harsh Souls Sweatband"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_3_1",
+            "Localized": "Prolaps Sweatband"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_3_2",
+            "Localized": "LC Sweatband"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_3_3",
+            "Localized": "Aqua Striped Sweatband"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_3_4",
+            "Localized": "Pink Check Sweatband"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_3_5",
+            "Localized": "Squeezers Sweatband"
         }
     },
     "4": {
@@ -93,12 +93,12 @@
             "Localized": "NULL"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_4_2",
+            "Localized": "Zebra Bangles"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_4_3",
+            "Localized": "Gold Bangles"
         },
         "4": {
             "GXT": "NO_LABEL",
@@ -127,48 +127,48 @@
             "Localized": "NULL"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_5_4",
+            "Localized": "White Leather Straps"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_5_5",
+            "Localized": "Rainbow Leather Straps"
         }
     },
     "6": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_6_0",
+            "Localized": "Onyx Pendant"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_6_1",
+            "Localized": "Pearl Pendant"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_6_2",
+            "Localized": "Jade Pendant"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_6_3",
+            "Localized": "Carnelian Pendant"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_6_4",
+            "Localized": "Aquamarine Pendant"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_6_5",
+            "Localized": "Amethyst Pendant"
         }
     },
     "7": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_7_0",
+            "Localized": "Gold Necklace"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_7_1",
+            "Localized": "Silver Necklace"
         },
         "2": {
             "GXT": "NO_LABEL",
@@ -215,8 +215,8 @@
     },
     "9": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "T_FMF_9_0",
+            "Localized": "Black Tassel Scarf"
         },
         "1": {
             "GXT": "NO_LABEL",
