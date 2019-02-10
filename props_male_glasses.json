@@ -51,8 +51,8 @@
             "Localized": "NULL"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_1_1",
+            "Localized": "Black Wraparounds"
         },
         "2": {
             "GXT": "NO_LABEL",
@@ -81,186 +81,186 @@
     },
     "2": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_0",
+            "Localized": "Black Winter Shades"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_1",
+            "Localized": "White Silver Shades"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_2",
+            "Localized": "Crimson Polarized Shades"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_3",
+            "Localized": "Black Summer Shades"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_4",
+            "Localized": "Black Autumn Shades"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_5",
+            "Localized": "White Rust Shades"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_6",
+            "Localized": "White Steel Shades"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_2_7",
+            "Localized": "Green Polarized Shades"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_2_8",
+            "Localized": "Shell Stank Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_2_9",
+            "Localized": "Black Stank Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_2_10",
+            "Localized": "White Stank Glasses"
         }
     },
     "3": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_0",
+            "Localized": "Slate Janitor Frames"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_1",
+            "Localized": "Black Janitor Frames"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_2",
+            "Localized": "Gray Janitor Frames"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_3",
+            "Localized": "Ash Janitor Frames"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_4",
+            "Localized": "Tan Janitor Frames"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_5",
+            "Localized": "Smoke Janitor Frames"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_6",
+            "Localized": "Charcoal Janitor Frames"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_3_7",
+            "Localized": "White Janitor Frames"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_3_8",
+            "Localized": "Shell Janitor Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_3_9",
+            "Localized": "Black Janitor Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_3_10",
+            "Localized": "White Janitor Glasses"
         }
     },
     "4": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_0",
+            "Localized": "Enema Brown Glasses"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_1",
+            "Localized": "Enema Gray Glasses"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_2",
+            "Localized": "Enema Black Glasses"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_3",
+            "Localized": "Enema Tortoiseshell Glasses"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_4",
+            "Localized": "Enema Walnut Glasses"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_5",
+            "Localized": "Enema Marble Glasses"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_6",
+            "Localized": "Enema Smoke Glasses"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_4_7",
+            "Localized": "Enema Smoke Shades"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_4_8",
+            "Localized": "Shell Enema Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_4_9",
+            "Localized": "Black Enema Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_4_10",
+            "Localized": "White Enema Glasses"
         }
     },
     "5": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_0",
+            "Localized": "Gold Aviators"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_1",
+            "Localized": "Steel Aviators"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_2",
+            "Localized": "Silver Aviators, Brown Tint"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_3",
+            "Localized": "Gray Aviators, Green Tint"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_4",
+            "Localized": "Silver Aviators, Blue Tint"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_5",
+            "Localized": "Tan Aviators, Dark Tint"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_6",
+            "Localized": "Steel Aviators, Blue Tint"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_5_7",
+            "Localized": "Silver Aviators, Copper Tint"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_5_8",
+            "Localized": "Shell Aviator Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_5_9",
+            "Localized": "Black Aviator Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_5_10",
+            "Localized": "White Aviator Glasses"
         }
     },
     "6": {
@@ -299,186 +299,186 @@
     },
     "7": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_0",
+            "Localized": "Black Casuals"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_1",
+            "Localized": "Zap Casuals"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_2",
+            "Localized": "Tortoiseshell Casuals"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_3",
+            "Localized": "Red Casuals"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_4",
+            "Localized": "White Casuals"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_5",
+            "Localized": "Camo Collection Casuals"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_6",
+            "Localized": "Lemon Casuals"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_7_7",
+            "Localized": "Blood Casuals"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_7_8",
+            "Localized": "Shell Casual Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_7_9",
+            "Localized": "Black Casual Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_7_10",
+            "Localized": "White Casual Glasses"
         }
     },
     "8": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_0",
+            "Localized": "Brown Eyewear"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_1",
+            "Localized": "Silver Eyewear"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_2",
+            "Localized": "Gray Eyewear"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_3",
+            "Localized": "Smoke Cop Frames"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_4",
+            "Localized": "Coffee Cop Frames"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_5",
+            "Localized": "Black Cop Frames"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_6",
+            "Localized": "Slate Cop Frames"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_8_7",
+            "Localized": "Charcoal Cop Frames"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_8_8",
+            "Localized": "Shell Cop Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_8_9",
+            "Localized": "Black Cop Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_8_10",
+            "Localized": "White Cop Glasses"
         }
     },
     "9": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_0",
+            "Localized": "Hawaiian Snow Black"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_1",
+            "Localized": "Hawaiian Snow Gray"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_2",
+            "Localized": "Hawaiian Snow White"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_3",
+            "Localized": "Hawaiian Snow Ash"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_4",
+            "Localized": "Hawaiian Snow Copper"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_5",
+            "Localized": "Hawaiian Snow Tortoiseshell"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_6",
+            "Localized": "Hawaiian Snow Marble"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_9_7",
+            "Localized": "Hawaiian Snow Walnut"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_9_8",
+            "Localized": "Shell HS Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_9_9",
+            "Localized": "Black HS Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_9_10",
+            "Localized": "White HS Glasses"
         }
     },
     "10": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_0",
+            "Localized": "Gold Bull Emic"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_1",
+            "Localized": "Gray Bull Emic"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_2",
+            "Localized": "Silver Bull Emic"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_3",
+            "Localized": "Black Bull Emic"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_4",
+            "Localized": "Brown Bull Emic"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_5",
+            "Localized": "Slate Bull Emic"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_6",
+            "Localized": "White Bull Emic"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_10_7",
+            "Localized": "Purple Tint Bull Emic"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_10_8",
+            "Localized": "Shell Bull Emic Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_10_9",
+            "Localized": "Black Bull Emic Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_10_10",
+            "Localized": "White Bull Emic Glasses"
         }
     },
     "11": {
@@ -517,94 +517,94 @@
     },
     "12": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_0",
+            "Localized": "Orange Elvis"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_1",
+            "Localized": "Gray Elvis"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_2",
+            "Localized": "Slate Elvis"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_3",
+            "Localized": "Black Elvis"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_4",
+            "Localized": "White Elvis"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_5",
+            "Localized": "Blue Tint Elvis"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_6",
+            "Localized": "Pink Tint Elvis"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_12_7",
+            "Localized": "Copper Elvis"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_12_8",
+            "Localized": "Shell Elvis Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_12_9",
+            "Localized": "Black Elvis Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_12_10",
+            "Localized": "White Elvis Glasses"
         }
     },
     "13": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_0",
+            "Localized": "Broker Black Hipsters"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_1",
+            "Localized": "White Polarized Hipsters"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_2",
+            "Localized": "Choco Polarized Hipsters"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_3",
+            "Localized": "Slate Hipsters"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_4",
+            "Localized": "Charcoal Hipsters"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_5",
+            "Localized": "Olive Polarized Hipsters"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_6",
+            "Localized": "Gold Polarized Hipsters"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_13_7",
+            "Localized": "Candy Polarized Hipsters"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_13_8",
+            "Localized": "Shell Hipster Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_13_9",
+            "Localized": "Black Hipster Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_13_10",
+            "Localized": "White Hipster Glasses"
         }
     },
     "14": {
@@ -643,48 +643,48 @@
     },
     "15": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_0",
+            "Localized": "Yellow Guns"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_1",
+            "Localized": "White Guns"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_2",
+            "Localized": "Gray Guns"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_3",
+            "Localized": "Red Guns"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_4",
+            "Localized": "Blue Guns"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_5",
+            "Localized": "Hornet Guns"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_6",
+            "Localized": "Orange Guns"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "G_FMM_15_7",
+            "Localized": "Pink Guns"
         },
         "8": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_15_8",
+            "Localized": "Shell Gun Glasses"
         },
         "9": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_15_9",
+            "Localized": "Black Gun Glasses"
         },
         "10": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_EXM_G_15_10",
+            "Localized": "White Gun Glasses"
         }
     },
     "16": {

@@ -1,36 +1,36 @@
 {
     "0": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_0",
+            "Localized": "Red Ear Defenders"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_1",
+            "Localized": "Magenta Ear Defenders"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_2",
+            "Localized": "Green Ear Defenders"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_3",
+            "Localized": "Yellow Ear Defenders"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_4",
+            "Localized": "Desert Camo Ear Defenders"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_5",
+            "Localized": "Blue Ear Defenders"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_6",
+            "Localized": "Pale Blue Ear Defenders"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_0_7",
+            "Localized": "Orange Ear Defenders"
         }
     },
     "1": {
@@ -45,8 +45,8 @@
             "Localized": "NULL"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_2_1",
+            "Localized": "Pink Accent Cowgirl Hat"
         },
         "2": {
             "GXT": "NO_LABEL",
@@ -103,144 +103,144 @@
             "Localized": "NULL"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_3_7",
+            "Localized": "Gray Plaid Canvas Hat"
         }
     },
     "4": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_0",
+            "Localized": "Black LS Fitted Cap"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_1",
+            "Localized": "Fruntalot Fitted Cap"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_2",
+            "Localized": "Broker Fitted Cap"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_3",
+            "Localized": "SA Fitted Cap"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_4",
+            "Localized": "SA Boars Fitted Cap"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_5",
+            "Localized": "Stank Fitted Cap"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_6",
+            "Localized": "Red Mist XI Fitted Cap"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_4_7",
+            "Localized": "LS Corkers Fitted Cap"
         }
     },
     "5": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_0",
+            "Localized": "Rearwall Black Beanie"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_1",
+            "Localized": "Crevis Ash Beanie"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_2",
+            "Localized": "Crevis Pink Beanie"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_3",
+            "Localized": "LS Panic Beanie"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_4",
+            "Localized": "SA Beanie"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_5",
+            "Localized": "Hawaiian Snow Blue Beanie"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_6",
+            "Localized": "Rearwall Lime Beanie"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_5_7",
+            "Localized": "Hawaiian Snow Plaid Beanie"
         }
     },
     "6": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_0",
+            "Localized": "Black Military Cap"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_1",
+            "Localized": "Green Military Cap"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_2",
+            "Localized": "Leopard Military Cap"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_3",
+            "Localized": "Tan Military Cap"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_4",
+            "Localized": "Denim Military Cap"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_5",
+            "Localized": "Field Camo Military Cap"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_6",
+            "Localized": "Desert Camo Military Cap"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_6_7",
+            "Localized": "Woodland Camo Military Cap"
         }
     },
     "7": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_0",
+            "Localized": "Navy Flat Cap"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_1",
+            "Localized": "White Flat Cap"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_2",
+            "Localized": "Gray Plaid Flat Cap"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_3",
+            "Localized": "Brown Plaid Flat Cap"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_4",
+            "Localized": "Red Flat Cap"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_5",
+            "Localized": "Pink Flat Cap"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_6",
+            "Localized": "Green Plaid Flat Cap"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_7_7",
+            "Localized": "Fruity Plaid Flat Cap"
         }
     },
     "8": {
@@ -279,36 +279,36 @@
     },
     "9": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_0",
+            "Localized": "Fruit Cap"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_1",
+            "Localized": "247 Cap"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_2",
+            "Localized": "Fred's Cap"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_3",
+            "Localized": "US Post LS Cap"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_4",
+            "Localized": "Swallow Cap"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_5",
+            "Localized": "CNT Cap"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_6",
+            "Localized": "Peachy Chics Snakeskin Cap"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_9_7",
+            "Localized": "Peachy Chics Leopard Cap"
         }
     },
     "10": {
@@ -341,8 +341,8 @@
             "Localized": "NULL"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_10_7",
+            "Localized": "Tan Patterned Cap"
         }
     },
     "11": {
@@ -351,8 +351,8 @@
             "Localized": "NULL"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_11_1",
+            "Localized": "Black Sun Hat"
         },
         "2": {
             "GXT": "NO_LABEL",
@@ -381,8 +381,8 @@
     },
     "12": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_12_0",
+            "Localized": "Black Saggy Beanie"
         },
         "1": {
             "GXT": "NO_LABEL",
@@ -405,216 +405,216 @@
             "Localized": "NULL"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_12_6",
+            "Localized": "Hawaiian Snow Saggy Beanie"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_12_7",
+            "Localized": "Yeti Saggy Beanie"
         }
     },
     "13": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_0",
+            "Localized": "Tan Straw Hat"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_1",
+            "Localized": "Two-Tone Straw Hat"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_2",
+            "Localized": "Brown Straw Hat"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_3",
+            "Localized": "Safari Straw Hat"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_4",
+            "Localized": "Gray Patterned Straw Hat"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_5",
+            "Localized": "Brown Striped Straw Hat"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_6",
+            "Localized": "Gray Straw Hat"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_13_7",
+            "Localized": "Navy Straw Hat"
         }
     },
     "14": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_0",
+            "Localized": "Black Beret"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_1",
+            "Localized": "Cherry Beret"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_2",
+            "Localized": "Purple Beret"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_3",
+            "Localized": "White Beret"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_4",
+            "Localized": "Gray Beret"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_5",
+            "Localized": "Navy Beret"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_6",
+            "Localized": "Tan Beret"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_14_7",
+            "Localized": "Magenta Beret"
         }
     },
     "15": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_0",
+            "Localized": "Beat Off White Headphones"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_1",
+            "Localized": "Beat Off Black Headphones"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_2",
+            "Localized": "Beat Off Red Headphones"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_3",
+            "Localized": "Beat Off Gray Headphones"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_4",
+            "Localized": "Beat Off Navy Headphones"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_5",
+            "Localized": "Beat Off Purple Headphones"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_6",
+            "Localized": "Beat Off Pink Headphones"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HT_FMF_15_7",
+            "Localized": "Beat Off Orange Headphones"
         }
     },
     "16": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_0",
+            "Localized": "Western MC Yellow Helmet"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_1",
+            "Localized": "Steel Horse Blue Helmet"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_2",
+            "Localized": "Steel Horse Orange Helmet"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_3",
+            "Localized": "Western MC Green Helmet"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_4",
+            "Localized": "Western MC Red Helmet"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_5",
+            "Localized": "Steel Horse Black Helmet"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_6",
+            "Localized": "Black Helmet"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_16_7",
+            "Localized": "Western MC Lilac Helmet"
         }
     },
     "17": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_0",
+            "Localized": "Blue Open-Face Helmet"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_1",
+            "Localized": "Orange Open-Face Helmet"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_2",
+            "Localized": "Pale Blue Open-Face Helmet"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_3",
+            "Localized": "Red Open-Face Helmet"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_4",
+            "Localized": "Gray Open-Face Helmet"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_5",
+            "Localized": "Black Open-Face Helmet"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_6",
+            "Localized": "Pink Open-Face Helmet"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_17_7",
+            "Localized": "White Open-Face Helmet"
         }
     },
     "18": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_0",
+            "Localized": "Shatter Pattern Helmet"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_1",
+            "Localized": "Stars Helmet"
         },
         "2": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_2",
+            "Localized": "Squared Helmet"
         },
         "3": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_3",
+            "Localized": "Crimson Helmet"
         },
         "4": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_4",
+            "Localized": "Skull Helmet"
         },
         "5": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_5",
+            "Localized": "Ace of Spades Helmet"
         },
         "6": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_6",
+            "Localized": "Flamejob Helmet"
         },
         "7": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "HE_FMF_18_7",
+            "Localized": "White Helmet"
         }
     },
     "19": {
@@ -2489,11 +2489,11 @@
             "Localized": "Deadline Blue"
         },
         "7": {
-            "GXT": "CLO_BIF_HT_8_7",
+            "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "8": {
-            "GXT": "CLO_BIF_HT_8_8",
+            "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "9": {
@@ -2501,7 +2501,7 @@
             "Localized": "Deadline White"
         },
         "10": {
-            "GXT": "CLO_BIF_HT_8_10",
+            "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
     },
@@ -2535,11 +2535,11 @@
             "Localized": "Deadline Blue"
         },
         "7": {
-            "GXT": "CLO_BIF_HT_8_7",
+            "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "8": {
-            "GXT": "CLO_BIF_HT_8_8",
+            "GXT": "NO_LABEL",
             "Localized": "NULL"
         },
         "9": {
@@ -2547,7 +2547,7 @@
             "Localized": "Deadline White"
         },
         "10": {
-            "GXT": "CLO_BIF_HT_8_10",
+            "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
     },
