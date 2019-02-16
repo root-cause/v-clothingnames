@@ -1,0 +1,1280 @@
+{
+    "0": {
+        "0": {
+            "GXT": "H_FMF_0_0",
+            "Localized": "Close Shave",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "1": {
+        "0": {
+            "GXT": "H_FMF_1_0",
+            "Localized": "Short Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_1_1",
+            "Localized": "Short Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_1_2",
+            "Localized": "Short Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_1_3",
+            "Localized": "Short Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_1_4",
+            "Localized": "Short Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_1_5",
+            "Localized": "Short Purple",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "2": {
+        "0": {
+            "GXT": "H_FMF_2_0",
+            "Localized": "Layered Bob Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_2_1",
+            "Localized": "Layered Bob Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_2_2",
+            "Localized": "Layered Bob Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_2_3",
+            "Localized": "Layered Bob Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_2_4",
+            "Localized": "Layered Bob Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_2_5",
+            "Localized": "Layered Bob Green",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "3": {
+        "0": {
+            "GXT": "H_FMF_3_0",
+            "Localized": "Pigtails Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_3_1",
+            "Localized": "Pigtails Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_3_2",
+            "Localized": "Pigtails Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_3_3",
+            "Localized": "Pigtails Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_3_4",
+            "Localized": "Pigtails Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "4": {
+        "0": {
+            "GXT": "H_FMF_4_0",
+            "Localized": "Ponytail Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_4_1",
+            "Localized": "Ponytail Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_4_2",
+            "Localized": "Ponytail Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_4_3",
+            "Localized": "Ponytail Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_4_4",
+            "Localized": "Ponytail Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_4_5",
+            "Localized": "Ponytail Blue",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "5": {
+        "0": {
+            "GXT": "H_FMF_5_0",
+            "Localized": "Braided Mohawk Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_5_1",
+            "Localized": "Braided Mohawk Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_5_2",
+            "Localized": "Braided Mohawk Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_5_3",
+            "Localized": "Braided Mohawk Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_5_4",
+            "Localized": "Braided Mohawk Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_5_5",
+            "Localized": "Braided Mohawk Pink",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "6": {
+        "0": {
+            "GXT": "H_FMF_6_0",
+            "Localized": "Braids Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_6_1",
+            "Localized": "Braids Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_6_2",
+            "Localized": "Braids Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_6_3",
+            "Localized": "Braids Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_6_4",
+            "Localized": "Braids Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "7": {
+        "0": {
+            "GXT": "H_FMF_7_0",
+            "Localized": "Bob Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_7_1",
+            "Localized": "Bob Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_7_2",
+            "Localized": "Bob Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_7_3",
+            "Localized": "Bob Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_7_4",
+            "Localized": "Bob Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_7_5",
+            "Localized": "Bob Purple Fade",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "8": {
+        "0": {
+            "GXT": "H_FMF_8_0",
+            "Localized": "Faux Hawk Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_8_1",
+            "Localized": "Faux Hawk Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_8_2",
+            "Localized": "Faux Hawk Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_8_3",
+            "Localized": "Faux Hawk Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_8_4",
+            "Localized": "Faux Hawk Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_8_5",
+            "Localized": "Faux Hawk Pink",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "9": {
+        "0": {
+            "GXT": "H_FMF_9_0",
+            "Localized": "French Twist Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_9_1",
+            "Localized": "French Twist Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_9_2",
+            "Localized": "French Twist Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_9_3",
+            "Localized": "French Twist Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_9_4",
+            "Localized": "French Twist Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "10": {
+        "0": {
+            "GXT": "H_FMF_10_0",
+            "Localized": "Long Bob Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_10_1",
+            "Localized": "Long Bob Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_10_2",
+            "Localized": "Long Bob Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_10_3",
+            "Localized": "Long Bob Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_10_4",
+            "Localized": "Long Bob Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "6": {
+            "GXT": "H_FMF_10_6",
+            "Localized": "Long Bob Purple Fade",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "11": {
+        "0": {
+            "GXT": "H_FMF_11_0",
+            "Localized": "Loose Tied Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_11_1",
+            "Localized": "Loose Tied Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_11_2",
+            "Localized": "Loose Tied Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_11_3",
+            "Localized": "Loose Tied Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_11_4",
+            "Localized": "Loose Tied Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "6": {
+            "GXT": "H_FMF_11_6",
+            "Localized": "Loose Tied Green",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "12": {
+        "0": {
+            "GXT": "H_FMF_12_0",
+            "Localized": "Pixie Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_12_1",
+            "Localized": "Pixie Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_12_2",
+            "Localized": "Pixie Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_12_3",
+            "Localized": "Pixie Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_12_4",
+            "Localized": "Pixie Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_12_5",
+            "Localized": "Pixie Blue",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "13": {
+        "0": {
+            "GXT": "H_FMF_13_0",
+            "Localized": "Shaved Bangs Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_13_1",
+            "Localized": "Shaved Bangs Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_13_2",
+            "Localized": "Shaved Bangs Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_13_3",
+            "Localized": "Shaved Bangs Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_13_4",
+            "Localized": "Shaved Bangs Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "H_FMF_13_5",
+            "Localized": "Shaved Bangs Blue Fade",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "14": {
+        "0": {
+            "GXT": "H_FMF_14_0",
+            "Localized": "Top Knot Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_14_1",
+            "Localized": "Top Knot Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_14_2",
+            "Localized": "Top Knot Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_14_3",
+            "Localized": "Top Knot Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_14_4",
+            "Localized": "Top Knot Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "15": {
+        "0": {
+            "GXT": "H_FMF_15_0",
+            "Localized": "Wavy Bob Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "H_FMF_15_1",
+            "Localized": "Wavy Bob Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "H_FMF_15_2",
+            "Localized": "Wavy Bob Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "H_FMF_15_3",
+            "Localized": "Wavy Bob Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "H_FMF_15_4",
+            "Localized": "Wavy Bob Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "6": {
+            "GXT": "H_FMF_15_6",
+            "Localized": "Wavy Bob Red Fade",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "16": {
+        "0": {
+            "GXT": "CLO_BBF_H_00",
+            "Localized": "Pin Up Girl Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "CLO_BBF_H_01",
+            "Localized": "Pin Up Girl Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "CLO_BBF_H_02",
+            "Localized": "Pin Up Girl Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "CLO_BBF_H_03",
+            "Localized": "Pin Up Girl Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "CLO_BBF_H_04",
+            "Localized": "Pin Up Girl Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "17": {
+        "0": {
+            "GXT": "CLO_BBF_H_05",
+            "Localized": "Messy Bun Chestnut",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -811206225
+        },
+        "1": {
+            "GXT": "CLO_BBF_H_06",
+            "Localized": "Messy Bun Blonde",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1586815686
+        },
+        "2": {
+            "GXT": "CLO_BBF_H_07",
+            "Localized": "Messy Bun Auburn",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1423429452
+        },
+        "3": {
+            "GXT": "CLO_BBF_H_08",
+            "Localized": "Messy Bun Black",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1697869815
+        },
+        "4": {
+            "GXT": "CLO_BBF_H_09",
+            "Localized": "Messy Bun Brown",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1470846183
+        }
+    },
+    "18": {
+        "0": {
+            "GXT": "CLO_VALF_H_0_0",
+            "Localized": "Flapper Bob Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "CLO_VALF_H_0_1",
+            "Localized": "Flapper Bob Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "CLO_VALF_H_0_2",
+            "Localized": "Flapper Bob Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "CLO_VALF_H_0_3",
+            "Localized": "Flapper Bob Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "CLO_VALF_H_0_4",
+            "Localized": "Flapper Bob Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "5": {
+            "GXT": "CLO_VALF_H_0_5",
+            "Localized": "Flapper Bob Blue",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "19": {
+        "0": {
+            "GXT": "CLO_BUS_F_H_0_0",
+            "Localized": "Tight Bun Black",
+            "HairTattooCollection": -2086773,
+            "HairTattooOverlay": -1816086813
+        },
+        "1": {
+            "GXT": "CLO_BUS_F_H_0_1",
+            "Localized": "Tight Bun Brown",
+            "HairTattooCollection": -2086773,
+            "HairTattooOverlay": -2113006722
+        },
+        "2": {
+            "GXT": "CLO_BUS_F_H_0_2",
+            "Localized": "Tight Bun Auburn",
+            "HairTattooCollection": -2086773,
+            "HairTattooOverlay": -1398740829
+        },
+        "3": {
+            "GXT": "CLO_BUS_F_H_0_3",
+            "Localized": "Tight Bun Chestnut",
+            "HairTattooCollection": -2086773,
+            "HairTattooOverlay": -131530830
+        },
+        "4": {
+            "GXT": "CLO_BUS_F_H_0_4",
+            "Localized": "Tight Bun Blonde",
+            "HairTattooCollection": -2086773,
+            "HairTattooOverlay": -1101886458
+        }
+    },
+    "20": {
+        "0": {
+            "GXT": "CLO_BUS_F_H_1_0",
+            "Localized": "Twisted Bob Chestnut",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 558694786
+        },
+        "1": {
+            "GXT": "CLO_BUS_F_H_1_1",
+            "Localized": "Twisted Bob Black",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 569279177
+        },
+        "2": {
+            "GXT": "CLO_BUS_F_H_1_2",
+            "Localized": "Twisted Bob Auburn",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 544309199
+        },
+        "3": {
+            "GXT": "CLO_BUS_F_H_1_3",
+            "Localized": "Twisted Bob Brown",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 1190448341
+        },
+        "4": {
+            "GXT": "CLO_BUS_F_H_1_4",
+            "Localized": "Twisted Bob Blonde",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 885139568
+        }
+    },
+    "21": {
+        "0": {
+            "GXT": "CLO_HP_F_HR_0_0",
+            "Localized": "Big Bangs Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "CLO_HP_F_HR_0_1",
+            "Localized": "Big Bangs Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "CLO_HP_F_HR_0_2",
+            "Localized": "Big Bangs Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "CLO_HP_F_HR_0_3",
+            "Localized": "Big Bangs Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "CLO_HP_F_HR_0_4",
+            "Localized": "Big Bangs Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "22": {
+        "0": {
+            "GXT": "CLO_HP_F_HR_1_0",
+            "Localized": "Braided Top Knot Chestnut",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1845683606
+        },
+        "1": {
+            "GXT": "CLO_HP_F_HR_1_1",
+            "Localized": "Braided Top Knot Blonde",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1555317497
+        },
+        "2": {
+            "GXT": "CLO_HP_F_HR_1_2",
+            "Localized": "Braided Top Knot Auburn",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 1704673699
+        },
+        "3": {
+            "GXT": "CLO_HP_F_HR_1_3",
+            "Localized": "Braided Top Knot Black",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 1993401358
+        },
+        "4": {
+            "GXT": "CLO_HP_F_HR_1_4",
+            "Localized": "Braided Top Knot Brown",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 1227065524
+        }
+    },
+    "23": {
+        "0": {
+            "GXT": "CLO_INDF_H_0_0",
+            "Localized": "Mullet Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "1": {
+            "GXT": "CLO_INDF_H_0_1",
+            "Localized": "Mullet Blonde",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "2": {
+            "GXT": "CLO_INDF_H_0_2",
+            "Localized": "Mullet Auburn",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "3": {
+            "GXT": "CLO_INDF_H_0_3",
+            "Localized": "Mullet Black",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        },
+        "4": {
+            "GXT": "CLO_INDF_H_0_4",
+            "Localized": "Mullet Brown",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "24": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "25": {
+        "0": {
+            "GXT": "CLO_S1F_H_0_0",
+            "Localized": "Pinched Cornrows",
+            "HairTattooCollection": 62137527,
+            "HairTattooOverlay": -1325458477
+        }
+    },
+    "26": {
+        "0": {
+            "GXT": "CLO_S1F_H_1_0",
+            "Localized": "Leaf Cornrows",
+            "HairTattooCollection": 62137527,
+            "HairTattooOverlay": -566725051
+        }
+    },
+    "27": {
+        "0": {
+            "GXT": "CLO_S1F_H_2_0",
+            "Localized": "Zig Zag Cornrows",
+            "HairTattooCollection": 62137527,
+            "HairTattooOverlay": -787850263
+        }
+    },
+    "28": {
+        "0": {
+            "GXT": "CLO_S1F_H_3_0",
+            "Localized": "Pigtail Bangs",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": 2039295216
+        }
+    },
+    "29": {
+        "0": {
+            "GXT": "CLO_S2F_H_0_0",
+            "Localized": "Wave Braids",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": 2039295216
+        }
+    },
+    "30": {
+        "0": {
+            "GXT": "CLO_S2F_H_1_0",
+            "Localized": "Coil Braids",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": 1800147054
+        }
+    },
+    "31": {
+        "0": {
+            "GXT": "CLO_S2F_H_2_0",
+            "Localized": "Rolled Quiff",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": -2019505897
+        }
+    },
+    "32": {
+        "0": {
+            "GXT": "CLO_BIF_H_0_0",
+            "Localized": "Loose Swept Back",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": -328340062
+        }
+    },
+    "33": {
+        "0": {
+            "GXT": "CLO_BIF_H_1_0",
+            "Localized": "Undercut Swept Back",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1657725123
+        }
+    },
+    "34": {
+        "0": {
+            "GXT": "CLO_BIF_H_2_0",
+            "Localized": "Undercut Swept Side",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": -1517964336
+        }
+    },
+    "35": {
+        "0": {
+            "GXT": "CLO_BIF_H_3_0",
+            "Localized": "Spiked Mohawk",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1677522529
+        }
+    },
+    "36": {
+        "0": {
+            "GXT": "CLO_BIF_H_4_0",
+            "Localized": "Bandana and Braid",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -1362677538
+        }
+    },
+    "37": {
+        "0": {
+            "GXT": "CLO_BIF_H_6_0",
+            "Localized": "Skinbyrd",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1841934566
+        }
+    },
+    "38": {
+        "0": {
+            "GXT": "CLO_BIF_H_5_0",
+            "Localized": "Layered Mod",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1742494019
+        }
+    },
+    "39": {
+        "0": {
+            "GXT": "CC_F_HS_1",
+            "Localized": "Short",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": 104062694
+        }
+    },
+    "40": {
+        "0": {
+            "GXT": "CC_F_HS_2",
+            "Localized": "Layered Bob",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": 869579299
+        }
+    },
+    "41": {
+        "0": {
+            "GXT": "CC_F_HS_3",
+            "Localized": "Pigtails",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": 1201332655
+        }
+    },
+    "42": {
+        "0": {
+            "GXT": "CC_F_HS_4",
+            "Localized": "Ponytail",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": 1028967715
+        }
+    },
+    "43": {
+        "0": {
+            "GXT": "CC_F_HS_5",
+            "Localized": "Braided Mohawk",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -1651634800
+        }
+    },
+    "44": {
+        "0": {
+            "GXT": "CC_F_HS_6",
+            "Localized": "Braids",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -892278763
+        }
+    },
+    "45": {
+        "0": {
+            "GXT": "CC_F_HS_7",
+            "Localized": "Bob",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -1032005779
+        }
+    },
+    "46": {
+        "0": {
+            "GXT": "CC_F_HS_8",
+            "Localized": "Faux Hawk",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -255675400
+        }
+    },
+    "47": {
+        "0": {
+            "GXT": "CC_F_HS_9",
+            "Localized": "French Twist",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": 1890137027
+        }
+    },
+    "48": {
+        "0": {
+            "GXT": "CC_F_HS_10",
+            "Localized": "Long Bob",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -406805808
+        }
+    },
+    "49": {
+        "0": {
+            "GXT": "CC_F_HS_11",
+            "Localized": "Loose Tied",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -592540500
+        }
+    },
+    "50": {
+        "0": {
+            "GXT": "CC_F_HS_12",
+            "Localized": "Pixie",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": 205417419
+        }
+    },
+    "51": {
+        "0": {
+            "GXT": "CC_F_HS_13",
+            "Localized": "Shaved Bangs",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -2127276619
+        }
+    },
+    "52": {
+        "0": {
+            "GXT": "CC_F_HS_14",
+            "Localized": "Top Knot",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -1362677538
+        }
+    },
+    "53": {
+        "0": {
+            "GXT": "CC_F_HS_15",
+            "Localized": "Wavy Bob",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -1549722990
+        }
+    },
+    "54": {
+        "0": {
+            "GXT": "CLO_BBF_H_05",
+            "Localized": "Messy Bun Chestnut",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -811206225
+        }
+    },
+    "55": {
+        "0": {
+            "GXT": "CLO_BBF_H_00",
+            "Localized": "Pin Up Girl Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "56": {
+        "0": {
+            "GXT": "CLO_BUS_F_H_0_0",
+            "Localized": "Tight Bun Black",
+            "HairTattooCollection": -2086773,
+            "HairTattooOverlay": -1816086813
+        }
+    },
+    "57": {
+        "0": {
+            "GXT": "CLO_BUS_F_H_1_0",
+            "Localized": "Twisted Bob Chestnut",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": 558694786
+        }
+    },
+    "58": {
+        "0": {
+            "GXT": "CLO_VALF_H_0_0",
+            "Localized": "Flapper Bob Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "59": {
+        "0": {
+            "GXT": "CLO_HP_F_HR_0_0",
+            "Localized": "Big Bangs Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "60": {
+        "0": {
+            "GXT": "CLO_HP_F_HR_1_0",
+            "Localized": "Braided Top Knot Chestnut",
+            "HairTattooCollection": -1398869298,
+            "HairTattooOverlay": -1845683606
+        }
+    },
+    "61": {
+        "0": {
+            "GXT": "CLO_INDF_H_0_0",
+            "Localized": "Mullet Chestnut",
+            "HairTattooCollection": -1,
+            "HairTattooOverlay": -1
+        }
+    },
+    "62": {
+        "0": {
+            "GXT": "CLO_S1F_H_0_0",
+            "Localized": "Pinched Cornrows",
+            "HairTattooCollection": 62137527,
+            "HairTattooOverlay": -1325458477
+        }
+    },
+    "63": {
+        "0": {
+            "GXT": "CLO_S1F_H_1_0",
+            "Localized": "Leaf Cornrows",
+            "HairTattooCollection": 62137527,
+            "HairTattooOverlay": -566725051
+        }
+    },
+    "64": {
+        "0": {
+            "GXT": "CLO_S1F_H_2_0",
+            "Localized": "Zig Zag Cornrows",
+            "HairTattooCollection": 62137527,
+            "HairTattooOverlay": -787850263
+        }
+    },
+    "65": {
+        "0": {
+            "GXT": "CLO_S1F_H_3_0",
+            "Localized": "Pigtail Bangs",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": 2039295216
+        }
+    },
+    "66": {
+        "0": {
+            "GXT": "CLO_S2F_H_0_0",
+            "Localized": "Wave Braids",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": 2039295216
+        }
+    },
+    "67": {
+        "0": {
+            "GXT": "CLO_S2F_H_1_0",
+            "Localized": "Coil Braids",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": 1800147054
+        }
+    },
+    "68": {
+        "0": {
+            "GXT": "CLO_S2F_H_2_0",
+            "Localized": "Rolled Quiff",
+            "HairTattooCollection": 1529191571,
+            "HairTattooOverlay": -2019505897
+        }
+    },
+    "69": {
+        "0": {
+            "GXT": "CLO_BIF_H_0_0",
+            "Localized": "Loose Swept Back",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": -328340062
+        }
+    },
+    "70": {
+        "0": {
+            "GXT": "CLO_BIF_H_1_0",
+            "Localized": "Undercut Swept Back",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1657725123
+        }
+    },
+    "71": {
+        "0": {
+            "GXT": "CLO_BIF_H_2_0",
+            "Localized": "Undercut Swept Side",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": -1517964336
+        }
+    },
+    "72": {
+        "0": {
+            "GXT": "CLO_BIF_H_3_0",
+            "Localized": "Spiked Mohawk",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1677522529
+        }
+    },
+    "73": {
+        "0": {
+            "GXT": "CLO_BIF_H_4_0",
+            "Localized": "Bandana and Braid",
+            "HairTattooCollection": 598190139,
+            "HairTattooOverlay": -1362677538
+        }
+    },
+    "74": {
+        "0": {
+            "GXT": "CLO_BIF_H_5_0",
+            "Localized": "Layered Mod",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1742494019
+        }
+    },
+    "75": {
+        "0": {
+            "GXT": "CLO_BIF_H_6_0",
+            "Localized": "Skinbyrd",
+            "HairTattooCollection": -240234547,
+            "HairTattooOverlay": 1841934566
+        }
+    },
+    "76": {
+        "0": {
+            "GXT": "CLO_GRF_H_0_0",
+            "Localized": "Neat Bun",
+            "HairTattooCollection": 1616273011,
+            "HairTattooOverlay": 687338866
+        }
+    },
+    "77": {
+        "0": {
+            "GXT": "CLO_GRF_H_1_0",
+            "Localized": "Short Bob",
+            "HairTattooCollection": 1616273011,
+            "HairTattooOverlay": 1827923343
+        }
+    }
+}
