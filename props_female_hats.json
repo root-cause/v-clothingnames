@@ -5222,5 +5222,201 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "134": {
+        "0": {
+            "GXT": "CLO_VWF_PH_0_0",
+            "Localized": "White The Diamond Cap"
+        },
+        "1": {
+            "GXT": "CLO_VWF_PH_0_1",
+            "Localized": "Black The Diamond Cap"
+        },
+        "2": {
+            "GXT": "CLO_VWF_PH_0_2",
+            "Localized": "White LS Diamond Cap"
+        },
+        "3": {
+            "GXT": "CLO_VWF_PH_0_3",
+            "Localized": "Black LS Diamond Cap"
+        },
+        "4": {
+            "GXT": "CLO_VWF_PH_0_4",
+            "Localized": "Red The Diamond Cap"
+        },
+        "5": {
+            "GXT": "CLO_VWF_PH_0_5",
+            "Localized": "Orange The Diamond Cap"
+        },
+        "6": {
+            "GXT": "CLO_VWF_PH_0_6",
+            "Localized": "Blue LS Diamond Cap"
+        },
+        "7": {
+            "GXT": "CLO_VWF_PH_0_7",
+            "Localized": "Green The Diamond Cap"
+        },
+        "8": {
+            "GXT": "CLO_VWF_PH_0_8",
+            "Localized": "Orange LS Diamond Cap"
+        },
+        "9": {
+            "GXT": "CLO_VWF_PH_0_9",
+            "Localized": "Purple The Diamond Cap"
+        },
+        "10": {
+            "GXT": "CLO_VWF_PH_0_10",
+            "Localized": "Pink LS Diamond Cap"
+        },
+        "11": {
+            "GXT": "CLO_VWF_PH_0_11",
+            "Localized": "White Broker Cap"
+        },
+        "12": {
+            "GXT": "CLO_VWF_PH_0_12",
+            "Localized": "Black Broker Cap"
+        },
+        "13": {
+            "GXT": "CLO_VWF_PH_0_13",
+            "Localized": "Teal Broker Cap"
+        },
+        "14": {
+            "GXT": "CLO_VWF_PH_0_14",
+            "Localized": "Red Flying Bravo Cap"
+        },
+        "15": {
+            "GXT": "CLO_VWF_PH_0_15",
+            "Localized": "Green Flying Bravo Cap"
+        },
+        "16": {
+            "GXT": "CLO_VWF_PH_0_16",
+            "Localized": "Black SC Broker Cap"
+        },
+        "17": {
+            "GXT": "CLO_VWF_PH_0_17",
+            "Localized": "Teal SC Broker Cap"
+        },
+        "18": {
+            "GXT": "CLO_VWF_PH_0_18",
+            "Localized": "Purple SC Broker Cap"
+        },
+        "19": {
+            "GXT": "CLO_VWF_PH_0_19",
+            "Localized": "Red SC Broker Cap"
+        },
+        "20": {
+            "GXT": "CLO_VWF_PH_0_20",
+            "Localized": "White SC Broker Cap"
+        },
+        "21": {
+            "GXT": "CLO_VWF_PH_0_21",
+            "Localized": "Gray Yeti Cap"
+        },
+        "22": {
+            "GXT": "CLO_VWF_PH_0_22",
+            "Localized": "Colors Yeti Cap"
+        },
+        "23": {
+            "GXT": "CLO_VWF_PH_0_23",
+            "Localized": "Woodland Yeti Cap"
+        }
+    },
+    "135": {
+        "0": {
+            "GXT": "CLO_VWF_PH_1_0",
+            "Localized": "White The Diamond Cap"
+        },
+        "1": {
+            "GXT": "CLO_VWF_PH_1_1",
+            "Localized": "Black The Diamond Cap"
+        },
+        "2": {
+            "GXT": "CLO_VWF_PH_1_2",
+            "Localized": "White LS Diamond Cap"
+        },
+        "3": {
+            "GXT": "CLO_VWF_PH_1_3",
+            "Localized": "Black LS Diamond Cap"
+        },
+        "4": {
+            "GXT": "CLO_VWF_PH_1_4",
+            "Localized": "Red The Diamond Cap"
+        },
+        "5": {
+            "GXT": "CLO_VWF_PH_1_5",
+            "Localized": "Orange The Diamond Cap"
+        },
+        "6": {
+            "GXT": "CLO_VWF_PH_1_6",
+            "Localized": "Blue LS Diamond Cap"
+        },
+        "7": {
+            "GXT": "CLO_VWF_PH_1_7",
+            "Localized": "Green The Diamond Cap"
+        },
+        "8": {
+            "GXT": "CLO_VWF_PH_1_8",
+            "Localized": "Orange LS Diamond Cap"
+        },
+        "9": {
+            "GXT": "CLO_VWF_PH_1_9",
+            "Localized": "Purple The Diamond Cap"
+        },
+        "10": {
+            "GXT": "CLO_VWF_PH_1_10",
+            "Localized": "Pink LS Diamond Cap"
+        },
+        "11": {
+            "GXT": "CLO_VWF_PH_1_11",
+            "Localized": "White Broker Cap"
+        },
+        "12": {
+            "GXT": "CLO_VWF_PH_1_12",
+            "Localized": "Black Broker Cap"
+        },
+        "13": {
+            "GXT": "CLO_VWF_PH_1_13",
+            "Localized": "Teal Broker Cap"
+        },
+        "14": {
+            "GXT": "CLO_VWF_PH_1_14",
+            "Localized": "Red Flying Bravo Cap"
+        },
+        "15": {
+            "GXT": "CLO_VWF_PH_1_15",
+            "Localized": "Green Flying Bravo Cap"
+        },
+        "16": {
+            "GXT": "CLO_VWF_PH_1_16",
+            "Localized": "Black SC Broker Cap"
+        },
+        "17": {
+            "GXT": "CLO_VWF_PH_1_17",
+            "Localized": "Teal SC Broker Cap"
+        },
+        "18": {
+            "GXT": "CLO_VWF_PH_1_18",
+            "Localized": "Purple SC Broker Cap"
+        },
+        "19": {
+            "GXT": "CLO_VWF_PH_1_19",
+            "Localized": "Red SC Broker Cap"
+        },
+        "20": {
+            "GXT": "CLO_VWF_PH_1_20",
+            "Localized": "White SC Broker Cap"
+        },
+        "21": {
+            "GXT": "CLO_VWF_PH_1_21",
+            "Localized": "Gray Yeti Cap"
+        },
+        "22": {
+            "GXT": "CLO_VWF_PH_1_22",
+            "Localized": "Colors Yeti Cap"
+        },
+        "23": {
+            "GXT": "CLO_VWF_PH_1_23",
+            "Localized": "Woodland Yeti Cap"
+        }
     }
 }

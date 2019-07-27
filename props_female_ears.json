@@ -162,5 +162,69 @@
             "GXT": "CLO_S2F_E_1_0",
             "Localized": "Screw You Hoops"
         }
+    },
+    "18": {
+        "0": {
+            "GXT": "CLO_VWF_PE_0_0",
+            "Localized": "Gold Fame or Shame Mics"
+        },
+        "1": {
+            "GXT": "CLO_VWF_PE_0_1",
+            "Localized": "Silver Fame or Shame Mics"
+        }
+    },
+    "19": {
+        "0": {
+            "GXT": "CLO_VWF_PE_1_0",
+            "Localized": "Clubs Earrings"
+        },
+        "1": {
+            "GXT": "CLO_VWF_PE_1_1",
+            "Localized": "Diamonds Earrings"
+        },
+        "2": {
+            "GXT": "CLO_VWF_PE_1_2",
+            "Localized": "Hearts Earrings"
+        },
+        "3": {
+            "GXT": "CLO_VWF_PE_1_3",
+            "Localized": "Spades Earrings"
+        }
+    },
+    "20": {
+        "0": {
+            "GXT": "CLO_VWF_PE_2_0",
+            "Localized": "White Dice Earrings"
+        },
+        "1": {
+            "GXT": "CLO_VWF_PE_2_1",
+            "Localized": "Red Dice Earrings"
+        },
+        "2": {
+            "GXT": "CLO_VWF_PE_2_2",
+            "Localized": "Tan Dice Earrings"
+        },
+        "3": {
+            "GXT": "CLO_VWF_PE_2_3",
+            "Localized": "Gray Dice Earrings"
+        }
+    },
+    "21": {
+        "0": {
+            "GXT": "CLO_VWF_PE_3_0",
+            "Localized": "Black Chips Earrings"
+        },
+        "1": {
+            "GXT": "CLO_VWF_PE_3_1",
+            "Localized": "Yellow Chips Earrings"
+        },
+        "2": {
+            "GXT": "CLO_VWF_PE_3_2",
+            "Localized": "Red Chips Earrings"
+        },
+        "3": {
+            "GXT": "CLO_VWF_PE_3_3",
+            "Localized": "Pink Chips Earrings"
+        }
     }
 }

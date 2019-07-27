@@ -1138,5 +1138,137 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "28": {
+        "0": {
+            "GXT": "CLO_VWM_PEY_0_0",
+            "Localized": "Dot Fade Aviators"
+        },
+        "1": {
+            "GXT": "CLO_VWM_PEY_0_1",
+            "Localized": "Orange Fade Tint Aviators"
+        },
+        "2": {
+            "GXT": "CLO_VWM_PEY_0_2",
+            "Localized": "Walnut Aviators"
+        },
+        "3": {
+            "GXT": "CLO_VWM_PEY_0_3",
+            "Localized": "Horizon Aviators"
+        },
+        "4": {
+            "GXT": "CLO_VWM_PEY_0_4",
+            "Localized": "Purple Vine Aviators"
+        },
+        "5": {
+            "GXT": "CLO_VWM_PEY_0_5",
+            "Localized": "Herringbone Aviators"
+        },
+        "6": {
+            "GXT": "CLO_VWM_PEY_0_6",
+            "Localized": "Gold Tint Aviators"
+        },
+        "7": {
+            "GXT": "CLO_VWM_PEY_0_7",
+            "Localized": "Magenta Tint Aviators"
+        },
+        "8": {
+            "GXT": "CLO_VWM_PEY_0_8",
+            "Localized": "Electric Blue Tint Aviators"
+        },
+        "9": {
+            "GXT": "CLO_VWM_PEY_0_9",
+            "Localized": "Blue Argyle Aviators"
+        },
+        "10": {
+            "GXT": "CLO_VWM_PEY_010",
+            "Localized": "Black Rim Tint Aviators"
+        },
+        "11": {
+            "GXT": "CLO_VWM_PEY_011",
+            "Localized": "White Rim Tint Aviators"
+        }
+    },
+    "29": {
+        "0": {
+            "GXT": "CLO_VWM_PEY_1_0",
+            "Localized": "Black Deep Shades"
+        },
+        "1": {
+            "GXT": "CLO_VWM_PEY_1_1",
+            "Localized": "Two Tone Deep Shades"
+        },
+        "2": {
+            "GXT": "CLO_VWM_PEY_1_2",
+            "Localized": "White Deep Shades"
+        },
+        "3": {
+            "GXT": "CLO_VWM_PEY_1_3",
+            "Localized": "Red Deep Shades"
+        },
+        "4": {
+            "GXT": "CLO_VWM_PEY_1_4",
+            "Localized": "Aqua Deep Shades"
+        },
+        "5": {
+            "GXT": "CLO_VWM_PEY_1_5",
+            "Localized": "Green Deep Shades"
+        },
+        "6": {
+            "GXT": "CLO_VWM_PEY_1_6",
+            "Localized": "Green Urban Deep Shades"
+        },
+        "7": {
+            "GXT": "CLO_VWM_PEY_1_7",
+            "Localized": "Pink Urban Deep Shades"
+        },
+        "8": {
+            "GXT": "CLO_VWM_PEY_1_8",
+            "Localized": "Digital Deep Shades"
+        },
+        "9": {
+            "GXT": "CLO_VWM_PEY_1_9",
+            "Localized": "Splinter Deep Shades"
+        },
+        "10": {
+            "GXT": "CLO_VWM_PEY_110",
+            "Localized": "Zebra Deep Shades"
+        },
+        "11": {
+            "GXT": "CLO_VWM_PEY_111",
+            "Localized": "Houndstooth Deep Shades"
+        },
+        "12": {
+            "GXT": "CLO_VWM_PEY_112",
+            "Localized": "Mute Deep Shades"
+        },
+        "13": {
+            "GXT": "CLO_VWM_PEY_113",
+            "Localized": "Sunrise Deep Shades"
+        },
+        "14": {
+            "GXT": "CLO_VWM_PEY_114",
+            "Localized": "Striped Deep Shades"
+        },
+        "15": {
+            "GXT": "CLO_VWM_PEY_115",
+            "Localized": "Mono Deep Shades"
+        },
+        "16": {
+            "GXT": "CLO_VWM_PEY_116",
+            "Localized": "Black Fame or Shame Shades"
+        },
+        "17": {
+            "GXT": "CLO_VWM_PEY_117",
+            "Localized": "Red Fame or Shame Shades"
+        },
+        "18": {
+            "GXT": "CLO_VWM_PEY_118",
+            "Localized": "Blue Fame or Shame Shades"
+        },
+        "19": {
+            "GXT": "CLO_VWM_PEY_119",
+            "Localized": "White Fame or Shame Shades"
+        }
     }
 }
