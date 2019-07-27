@@ -4688,5 +4688,251 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "115": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "116": {
+        "0": {
+            "GXT": "CLO_VWM_L_1_0",
+            "Localized": "Brown SN High Roller Pants"
+        },
+        "1": {
+            "GXT": "CLO_VWM_L_1_1",
+            "Localized": "Tartan High Roller Pants"
+        },
+        "2": {
+            "GXT": "CLO_VWM_L_1_2",
+            "Localized": "Knit High Roller Pants"
+        },
+        "3": {
+            "GXT": "CLO_VWM_L_1_3",
+            "Localized": "Green High Roller Pants"
+        },
+        "4": {
+            "GXT": "CLO_VWM_L_1_4",
+            "Localized": "Sand High Roller Pants"
+        },
+        "5": {
+            "GXT": "CLO_VWM_L_1_5",
+            "Localized": "Swirl High Roller Pants"
+        },
+        "6": {
+            "GXT": "CLO_VWM_L_1_6",
+            "Localized": "Camo High Roller Pants"
+        },
+        "7": {
+            "GXT": "CLO_VWM_L_1_7",
+            "Localized": "Weave High Roller Pants"
+        },
+        "8": {
+            "GXT": "CLO_VWM_L_1_8",
+            "Localized": "Black Floral High Roller Pants"
+        },
+        "9": {
+            "GXT": "CLO_VWM_L_1_9",
+            "Localized": "Blue Floral High Roller Pants"
+        }
+    },
+    "117": {
+        "0": {
+            "GXT": "CLO_VWM_L_2_0",
+            "Localized": "Red Baroque Knee Shorts"
+        },
+        "1": {
+            "GXT": "CLO_VWM_L_2_1",
+            "Localized": "Blue Baroque Knee Shorts"
+        },
+        "2": {
+            "GXT": "CLO_VWM_L_2_2",
+            "Localized": "White Baroque Knee Shorts"
+        },
+        "3": {
+            "GXT": "CLO_VWM_L_2_3",
+            "Localized": "Black Baroque Knee Shorts"
+        },
+        "4": {
+            "GXT": "CLO_VWM_L_2_4",
+            "Localized": "Adorned Knee Shorts"
+        },
+        "5": {
+            "GXT": "CLO_VWM_L_2_5",
+            "Localized": "Snake Knee Shorts"
+        },
+        "6": {
+            "GXT": "CLO_VWM_L_2_6",
+            "Localized": "White SC Broker Knee Shorts"
+        },
+        "7": {
+            "GXT": "CLO_VWM_L_2_7",
+            "Localized": "Black SC Broker Knee Shorts"
+        },
+        "8": {
+            "GXT": "CLO_VWM_L_2_8",
+            "Localized": "Broker Knee Shorts"
+        },
+        "9": {
+            "GXT": "CLO_VWM_L_2_9",
+            "Localized": "Purple Painted Knee Shorts"
+        },
+        "10": {
+            "GXT": "CLO_VWM_L_2_10",
+            "Localized": "Black Painted Knee Shorts"
+        }
+    },
+    "118": {
+        "0": {
+            "GXT": "CLO_VWM_L_3_0",
+            "Localized": "Black Perseus Wide Pants"
+        },
+        "1": {
+            "GXT": "CLO_VWM_L_3_1",
+            "Localized": "Teal Perseus Wide Pants"
+        },
+        "2": {
+            "GXT": "CLO_VWM_L_3_2",
+            "Localized": "Blue Perseus Wide Pants"
+        },
+        "3": {
+            "GXT": "CLO_VWM_L_3_3",
+            "Localized": "Blue P Wide Pants"
+        },
+        "4": {
+            "GXT": "CLO_VWM_L_3_4",
+            "Localized": "White P Wide Pants"
+        },
+        "5": {
+            "GXT": "CLO_VWM_L_3_5",
+            "Localized": "Black P Wide Pants"
+        },
+        "6": {
+            "GXT": "CLO_VWM_L_3_6",
+            "Localized": "Black E Wide Pants"
+        },
+        "7": {
+            "GXT": "CLO_VWM_L_3_7",
+            "Localized": "White Broker Wide Pants"
+        },
+        "8": {
+            "GXT": "CLO_VWM_L_3_8",
+            "Localized": "Purple Lazerforce Wide Pants"
+        },
+        "9": {
+            "GXT": "CLO_VWM_L_3_9",
+            "Localized": "Red Broker Wide Pants"
+        },
+        "10": {
+            "GXT": "CLO_VWM_L_3_10",
+            "Localized": "Teal SC Broker Wide Pants"
+        },
+        "11": {
+            "GXT": "CLO_VWM_L_3_11",
+            "Localized": "Blue Lazerforce Wide Pants"
+        },
+        "12": {
+            "GXT": "CLO_VWM_L_3_12",
+            "Localized": "Black Broker Wide Pants"
+        },
+        "13": {
+            "GXT": "CLO_VWM_L_3_13",
+            "Localized": "White SC Broker Wide Pants"
+        },
+        "14": {
+            "GXT": "CLO_VWM_L_3_14",
+            "Localized": "Black Vinewood Wide Pants"
+        },
+        "15": {
+            "GXT": "CLO_VWM_L_3_15",
+            "Localized": "Pink Vinewood Wide Pants"
+        },
+        "16": {
+            "GXT": "CLO_VWM_L_3_16",
+            "Localized": "Gray Lazerforce Wide Pants"
+        },
+        "17": {
+            "GXT": "CLO_VWM_L_3_17",
+            "Localized": "Green Sci-Fi Wide Pants"
+        },
+        "18": {
+            "GXT": "CLO_VWM_L_3_18",
+            "Localized": "Blue Sci-Fi Wide Pants"
+        },
+        "19": {
+            "GXT": "CLO_VWM_L_3_19",
+            "Localized": "Yellow Sci-Fi Wide Pants"
+        },
+        "20": {
+            "GXT": "CLO_VWM_L_3_20",
+            "Localized": "Gray Blagueurs Wide Pants"
+        },
+        "21": {
+            "GXT": "CLO_VWM_L_3_21",
+            "Localized": "Gray Patterned Wide Pants"
+        },
+        "22": {
+            "GXT": "CLO_VWM_L_3_22",
+            "Localized": "Blue Patterned Wide Pants"
+        },
+        "23": {
+            "GXT": "CLO_VWM_L_3_23",
+            "Localized": "Orange Patterned Wide Pants"
+        },
+        "24": {
+            "GXT": "CLO_VWM_L_3_24",
+            "Localized": "Pink Patterned Wide Pants"
+        },
+        "25": {
+            "GXT": "CLO_VWM_L_3_25",
+            "Localized": "Black SC Broker Wide Pants"
+        }
+    },
+    "119": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

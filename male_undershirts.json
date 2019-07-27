@@ -6394,5 +6394,307 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "144": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "145": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "146": {
+        "0": {
+            "GXT": "CLO_VWM_S_2_0",
+            "Localized": "Sharp High Roller Waistcoat"
+        },
+        "1": {
+            "GXT": "CLO_VWM_S_2_1",
+            "Localized": "Brown SN High Roller Waistcoat"
+        },
+        "2": {
+            "GXT": "CLO_VWM_S_2_2",
+            "Localized": "Tartan High Roller Waistcoat"
+        },
+        "3": {
+            "GXT": "CLO_VWM_S_2_3",
+            "Localized": "Knit High Roller Waistcoat"
+        },
+        "4": {
+            "GXT": "CLO_VWM_S_2_4",
+            "Localized": "Green High Roller Waistcoat"
+        },
+        "5": {
+            "GXT": "CLO_VWM_S_2_5",
+            "Localized": "Black High Roller Waistcoat"
+        },
+        "6": {
+            "GXT": "CLO_VWM_S_2_6",
+            "Localized": "Sand High Roller Waistcoat"
+        },
+        "7": {
+            "GXT": "CLO_VWM_S_2_7",
+            "Localized": "Red High Roller Waistcoat"
+        },
+        "8": {
+            "GXT": "CLO_VWM_S_2_8",
+            "Localized": "White High Roller Waistcoat"
+        },
+        "9": {
+            "GXT": "CLO_VWM_S_2_9",
+            "Localized": "Camo High Roller Waistcoat"
+        },
+        "10": {
+            "GXT": "CLO_VWM_S_2_10",
+            "Localized": "Mono High Roller Waistcoat"
+        },
+        "11": {
+            "GXT": "CLO_VWM_S_2_11",
+            "Localized": "Blue High Roller Waistcoat"
+        },
+        "12": {
+            "GXT": "CLO_VWM_S_2_12",
+            "Localized": "Opulent High Roller Waistcoat"
+        },
+        "13": {
+            "GXT": "CLO_VWM_S_2_13",
+            "Localized": "Smooth High Roller Waistcoat"
+        }
+    },
+    "147": {
+        "0": {
+            "GXT": "CLO_VWM_S_2_0",
+            "Localized": "Sharp High Roller Waistcoat"
+        },
+        "1": {
+            "GXT": "CLO_VWM_S_2_1",
+            "Localized": "Brown SN High Roller Waistcoat"
+        },
+        "2": {
+            "GXT": "CLO_VWM_S_2_2",
+            "Localized": "Tartan High Roller Waistcoat"
+        },
+        "3": {
+            "GXT": "CLO_VWM_S_2_3",
+            "Localized": "Knit High Roller Waistcoat"
+        },
+        "4": {
+            "GXT": "CLO_VWM_S_2_4",
+            "Localized": "Green High Roller Waistcoat"
+        },
+        "5": {
+            "GXT": "CLO_VWM_S_2_5",
+            "Localized": "Black High Roller Waistcoat"
+        },
+        "6": {
+            "GXT": "CLO_VWM_S_2_6",
+            "Localized": "Sand High Roller Waistcoat"
+        },
+        "7": {
+            "GXT": "CLO_VWM_S_2_7",
+            "Localized": "Red High Roller Waistcoat"
+        },
+        "8": {
+            "GXT": "CLO_VWM_S_2_8",
+            "Localized": "White High Roller Waistcoat"
+        },
+        "9": {
+            "GXT": "CLO_VWM_S_2_9",
+            "Localized": "Camo High Roller Waistcoat"
+        },
+        "10": {
+            "GXT": "CLO_VWM_S_2_10",
+            "Localized": "Mono High Roller Waistcoat"
+        },
+        "11": {
+            "GXT": "CLO_VWM_S_2_11",
+            "Localized": "Blue High Roller Waistcoat"
+        },
+        "12": {
+            "GXT": "CLO_VWM_S_2_12",
+            "Localized": "Opulent High Roller Waistcoat"
+        },
+        "13": {
+            "GXT": "CLO_VWM_S_2_13",
+            "Localized": "Smooth High Roller Waistcoat"
+        }
+    },
+    "148": {
+        "0": {
+            "GXT": "CLO_VWM_S_2_0",
+            "Localized": "Sharp High Roller Waistcoat"
+        },
+        "1": {
+            "GXT": "CLO_VWM_S_2_1",
+            "Localized": "Brown SN High Roller Waistcoat"
+        },
+        "2": {
+            "GXT": "CLO_VWM_S_2_2",
+            "Localized": "Tartan High Roller Waistcoat"
+        },
+        "3": {
+            "GXT": "CLO_VWM_S_2_3",
+            "Localized": "Knit High Roller Waistcoat"
+        },
+        "4": {
+            "GXT": "CLO_VWM_S_2_4",
+            "Localized": "Green High Roller Waistcoat"
+        },
+        "5": {
+            "GXT": "CLO_VWM_S_2_5",
+            "Localized": "Black High Roller Waistcoat"
+        },
+        "6": {
+            "GXT": "CLO_VWM_S_2_6",
+            "Localized": "Sand High Roller Waistcoat"
+        },
+        "7": {
+            "GXT": "CLO_VWM_S_2_7",
+            "Localized": "Red High Roller Waistcoat"
+        },
+        "8": {
+            "GXT": "CLO_VWM_S_2_8",
+            "Localized": "White High Roller Waistcoat"
+        },
+        "9": {
+            "GXT": "CLO_VWM_S_2_9",
+            "Localized": "Camo High Roller Waistcoat"
+        },
+        "10": {
+            "GXT": "CLO_VWM_S_2_10",
+            "Localized": "Mono High Roller Waistcoat"
+        },
+        "11": {
+            "GXT": "CLO_VWM_S_2_11",
+            "Localized": "Blue High Roller Waistcoat"
+        },
+        "12": {
+            "GXT": "CLO_VWM_S_2_12",
+            "Localized": "Opulent High Roller Waistcoat"
+        },
+        "13": {
+            "GXT": "CLO_VWM_S_2_13",
+            "Localized": "Smooth High Roller Waistcoat"
+        }
+    },
+    "149": {
+        "0": {
+            "GXT": "CLO_VWM_S_2_0",
+            "Localized": "Sharp High Roller Waistcoat"
+        },
+        "1": {
+            "GXT": "CLO_VWM_S_2_1",
+            "Localized": "Brown SN High Roller Waistcoat"
+        },
+        "2": {
+            "GXT": "CLO_VWM_S_2_2",
+            "Localized": "Tartan High Roller Waistcoat"
+        },
+        "3": {
+            "GXT": "CLO_VWM_S_2_3",
+            "Localized": "Knit High Roller Waistcoat"
+        },
+        "4": {
+            "GXT": "CLO_VWM_S_2_4",
+            "Localized": "Green High Roller Waistcoat"
+        },
+        "5": {
+            "GXT": "CLO_VWM_S_2_5",
+            "Localized": "Black High Roller Waistcoat"
+        },
+        "6": {
+            "GXT": "CLO_VWM_S_2_6",
+            "Localized": "Sand High Roller Waistcoat"
+        },
+        "7": {
+            "GXT": "CLO_VWM_S_2_7",
+            "Localized": "Red High Roller Waistcoat"
+        },
+        "8": {
+            "GXT": "CLO_VWM_S_2_8",
+            "Localized": "White High Roller Waistcoat"
+        },
+        "9": {
+            "GXT": "CLO_VWM_S_2_9",
+            "Localized": "Camo High Roller Waistcoat"
+        },
+        "10": {
+            "GXT": "CLO_VWM_S_2_10",
+            "Localized": "Mono High Roller Waistcoat"
+        },
+        "11": {
+            "GXT": "CLO_VWM_S_2_11",
+            "Localized": "Blue High Roller Waistcoat"
+        },
+        "12": {
+            "GXT": "CLO_VWM_S_2_12",
+            "Localized": "Opulent High Roller Waistcoat"
+        },
+        "13": {
+            "GXT": "CLO_VWM_S_2_13",
+            "Localized": "Smooth High Roller Waistcoat"
+        }
+    },
+    "150": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "CLO_VWM_S_6_1",
+            "Localized": "Blue High Roller Shirt"
+        },
+        "2": {
+            "GXT": "CLO_VWM_S_6_2",
+            "Localized": "Highland High Roller Shirt"
+        },
+        "3": {
+            "GXT": "CLO_VWM_S_6_3",
+            "Localized": "Pink High Roller Shirt"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "CLO_VWM_S_6_5",
+            "Localized": "Crisp High Roller Shirt"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "CLO_VWM_S_6_10",
+            "Localized": "Black High Roller Shirt"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "CLO_VWM_S_6_13",
+            "Localized": "Mustard High Roller Shirt"
+        }
     }
 }

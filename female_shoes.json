@@ -4084,5 +4084,169 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "95": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "96": {
+        "0": {
+            "GXT": "CLO_VWF_F_1_0",
+            "Localized": "Blue Retro Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_VWF_F_1_1",
+            "Localized": "Brown Retro Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_VWF_F_1_2",
+            "Localized": "Green Retro Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_VWF_F_1_3",
+            "Localized": "Violet Retro Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_VWF_F_1_4",
+            "Localized": "Red Retro Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_VWF_F_1_5",
+            "Localized": "Two Tone Retro Sneakers"
+        },
+        "6": {
+            "GXT": "CLO_VWF_F_1_6",
+            "Localized": "Mono Retro Sneakers"
+        },
+        "7": {
+            "GXT": "CLO_VWF_F_1_7",
+            "Localized": "Blue Fade Retro Sneakers"
+        },
+        "8": {
+            "GXT": "CLO_VWF_F_1_8",
+            "Localized": "Mauve Fade Retro Sneakers"
+        },
+        "9": {
+            "GXT": "CLO_VWF_F_1_9",
+            "Localized": "Purple Fade Retro Sneakers"
+        },
+        "10": {
+            "GXT": "CLO_VWF_F_1_10",
+            "Localized": "Orange Fade Retro Sneakers"
+        },
+        "11": {
+            "GXT": "CLO_VWF_F_1_11",
+            "Localized": "Grayscale Retro Sneakers"
+        },
+        "12": {
+            "GXT": "CLO_VWF_F_1_12",
+            "Localized": "Ash Retro Sneakers"
+        },
+        "13": {
+            "GXT": "CLO_VWF_F_1_13",
+            "Localized": "Gray Pattern Retro Sneakers"
+        },
+        "14": {
+            "GXT": "CLO_VWF_F_1_14",
+            "Localized": "White Pattern Retro Sneakers"
+        }
+    },
+    "97": {
+        "0": {
+            "GXT": "CLO_VWF_F_1_0",
+            "Localized": "Blue Retro Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_VWF_F_1_1",
+            "Localized": "Brown Retro Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_VWF_F_1_2",
+            "Localized": "Green Retro Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_VWF_F_1_3",
+            "Localized": "Violet Retro Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_VWF_F_1_4",
+            "Localized": "Red Retro Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_VWF_F_1_5",
+            "Localized": "Two Tone Retro Sneakers"
+        },
+        "6": {
+            "GXT": "CLO_VWF_F_1_6",
+            "Localized": "Mono Retro Sneakers"
+        },
+        "7": {
+            "GXT": "CLO_VWF_F_1_7",
+            "Localized": "Blue Fade Retro Sneakers"
+        },
+        "8": {
+            "GXT": "CLO_VWF_F_1_8",
+            "Localized": "Mauve Fade Retro Sneakers"
+        },
+        "9": {
+            "GXT": "CLO_VWF_F_1_9",
+            "Localized": "Purple Fade Retro Sneakers"
+        },
+        "10": {
+            "GXT": "CLO_VWF_F_1_10",
+            "Localized": "Orange Fade Retro Sneakers"
+        },
+        "11": {
+            "GXT": "CLO_VWF_F_1_11",
+            "Localized": "Grayscale Retro Sneakers"
+        },
+        "12": {
+            "GXT": "CLO_VWF_F_1_12",
+            "Localized": "Ash Retro Sneakers"
+        },
+        "13": {
+            "GXT": "CLO_VWF_F_1_13",
+            "Localized": "Gray Pattern Retro Sneakers"
+        },
+        "14": {
+            "GXT": "CLO_VWF_F_1_14",
+            "Localized": "White Pattern Retro Sneakers"
+        }
+    },
+    "98": {
+        "0": {
+            "GXT": "CLO_VWF_F_3_0",
+            "Localized": "Green FB Slipper Loafers"
+        },
+        "1": {
+            "GXT": "CLO_VWF_F_3_1",
+            "Localized": "Blue FB Manor Slipper Loafers"
+        },
+        "2": {
+            "GXT": "CLO_VWF_F_3_2",
+            "Localized": "Green FB Manor Slipper Loafers"
+        },
+        "3": {
+            "GXT": "CLO_VWF_F_3_3",
+            "Localized": "Red FB Manor Slipper Loafers"
+        },
+        "4": {
+            "GXT": "CLO_VWF_F_3_4",
+            "Localized": "Yellow FB Manor Slipper Loafers"
+        },
+        "5": {
+            "GXT": "CLO_VWF_F_3_5",
+            "Localized": "Blue FB Slipper Loafers"
+        },
+        "6": {
+            "GXT": "CLO_VWF_F_3_6",
+            "Localized": "Red FB Slipper Loafers"
+        },
+        "7": {
+            "GXT": "CLO_VWF_F_3_7",
+            "Localized": "Yellow FB Slipper Loafers"
+        }
     }
 }

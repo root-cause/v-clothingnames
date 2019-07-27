@@ -4966,5 +4966,137 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "148": {
+        "0": {
+            "GXT": "CLO_VWM_B_0_0",
+            "Localized": "Impotent Rage Eye Mask"
+        }
+    },
+    "149": {
+        "0": {
+            "GXT": "CLO_VWM_B_1_0",
+            "Localized": "Strawberry Mask"
+        }
+    },
+    "150": {
+        "0": {
+            "GXT": "CLO_VWM_B_2_0",
+            "Localized": "Lemon Mask"
+        }
+    },
+    "151": {
+        "0": {
+            "GXT": "CLO_VWM_B_3_0",
+            "Localized": "Grapes Mask"
+        }
+    },
+    "152": {
+        "0": {
+            "GXT": "CLO_VWM_B_4_0",
+            "Localized": "Pineapple Mask"
+        }
+    },
+    "153": {
+        "0": {
+            "GXT": "CLO_VWM_B_5_0",
+            "Localized": "Cherries Mask"
+        }
+    },
+    "154": {
+        "0": {
+            "GXT": "CLO_VWM_B_6_0",
+            "Localized": "Lucky Seven Mask"
+        }
+    },
+    "155": {
+        "0": {
+            "GXT": "CLO_VWM_B_7_0",
+            "Localized": "Blue Joker"
+        },
+        "1": {
+            "GXT": "CLO_VWM_B_7_1",
+            "Localized": "Red Joker"
+        },
+        "2": {
+            "GXT": "CLO_VWM_B_7_2",
+            "Localized": "Green Joker"
+        },
+        "3": {
+            "GXT": "CLO_VWM_B_7_3",
+            "Localized": "Purple Joker"
+        }
+    },
+    "156": {
+        "0": {
+            "GXT": "CLO_VWM_B_8_0",
+            "Localized": "King of Hearts"
+        },
+        "1": {
+            "GXT": "CLO_VWM_B_8_1",
+            "Localized": "King of Clubs"
+        },
+        "2": {
+            "GXT": "CLO_VWM_B_8_2",
+            "Localized": "King of Diamonds"
+        },
+        "3": {
+            "GXT": "CLO_VWM_B_8_3",
+            "Localized": "King of Spades"
+        }
+    },
+    "157": {
+        "0": {
+            "GXT": "CLO_VWM_B_9_0",
+            "Localized": "Queen of Spades"
+        },
+        "1": {
+            "GXT": "CLO_VWM_B_9_1",
+            "Localized": "Queen of Hearts"
+        },
+        "2": {
+            "GXT": "CLO_VWM_B_9_2",
+            "Localized": "Queen of Diamonds"
+        },
+        "3": {
+            "GXT": "CLO_VWM_B_9_3",
+            "Localized": "Queen of Clubs"
+        }
+    },
+    "158": {
+        "0": {
+            "GXT": "CLO_VWM_B_10_0",
+            "Localized": "Jack of Spades"
+        },
+        "1": {
+            "GXT": "CLO_VWM_B_10_1",
+            "Localized": "Jack of Hearts"
+        },
+        "2": {
+            "GXT": "CLO_VWM_B_10_2",
+            "Localized": "Jack of Clubs"
+        },
+        "3": {
+            "GXT": "CLO_VWM_B_10_3",
+            "Localized": "Jack of Diamonds"
+        }
+    },
+    "159": {
+        "0": {
+            "GXT": "CLO_VWM_B_11_0",
+            "Localized": "Ace of Spades"
+        },
+        "1": {
+            "GXT": "CLO_VWM_B_11_1",
+            "Localized": "Ace of Hearts"
+        },
+        "2": {
+            "GXT": "CLO_VWM_B_11_2",
+            "Localized": "Ace of Clubs"
+        },
+        "3": {
+            "GXT": "CLO_VWM_B_11_3",
+            "Localized": "Ace of Diamonds"
+        }
     }
 }
