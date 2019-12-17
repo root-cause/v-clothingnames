@@ -5074,5 +5074,197 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "126": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "127": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "128": {
+        "0": {
+            "GXT": "CLO_H3F_L_2_0",
+            "Localized": "Correctional Cargo"
+        }
+    },
+    "129": {
+        "0": {
+            "GXT": "CLO_H3F_L_2_0",
+            "Localized": "Correctional Cargo"
+        }
+    },
+    "130": {
+        "0": {
+            "GXT": "CLO_H3F_L_4_0",
+            "Localized": "Blue Knee Pad Cargos"
+        },
+        "1": {
+            "GXT": "CLO_H3F_L_4_1",
+            "Localized": "Black Knee Pad Cargos"
+        },
+        "2": {
+            "GXT": "CLO_H3F_L_4_2",
+            "Localized": "Dark Gray Knee Pad Cargos"
+        },
+        "3": {
+            "GXT": "CLO_H3F_L_4_3",
+            "Localized": "Beige Knee Pad Cargos"
+        },
+        "4": {
+            "GXT": "CLO_H3F_L_4_4",
+            "Localized": "Cream Knee Pad Cargos"
+        },
+        "5": {
+            "GXT": "CLO_H3F_L_4_5",
+            "Localized": "Forest Green Knee Pad Cargos"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "CLO_H3F_L_4_10",
+            "Localized": "Blue Camo Knee Pad Cargos"
+        },
+        "11": {
+            "GXT": "CLO_H3F_L_4_11",
+            "Localized": "Splinter Knee Pad Cargos"
+        },
+        "12": {
+            "GXT": "CLO_H3F_L_4_12",
+            "Localized": "Contrast Camo Knee Pad Cargos"
+        },
+        "13": {
+            "GXT": "CLO_H3F_L_4_13",
+            "Localized": "Green Digital Knee Pad Cargos"
+        },
+        "14": {
+            "GXT": "CLO_H3F_L_4_14",
+            "Localized": "Desert Camo Knee Pad Cargos"
+        },
+        "15": {
+            "GXT": "CLO_H3F_L_4_15",
+            "Localized": "Woodland Knee Pad Cargos"
+        },
+        "16": {
+            "GXT": "CLO_H3F_L_4_16",
+            "Localized": "Forest Camo Knee Pad Cargos"
+        },
+        "17": {
+            "GXT": "CLO_H3F_L_4_17",
+            "Localized": "Blue Digital Knee Pad Cargos"
+        },
+        "18": {
+            "GXT": "CLO_H3F_L_4_18",
+            "Localized": "Cobble Knee Pad Cargos"
+        },
+        "19": {
+            "GXT": "CLO_H3F_L_4_19",
+            "Localized": "Beige Camo Knee Pad Cargos"
+        }
+    },
+    "131": {
+        "0": {
+            "GXT": "CLO_H3F_L_5_0",
+            "Localized": "Dark Gray Guarded Cargos"
+        },
+        "1": {
+            "GXT": "CLO_H3F_L_5_1",
+            "Localized": "Black Guarded Cargos"
+        },
+        "2": {
+            "GXT": "CLO_H3F_L_5_2",
+            "Localized": "Charcoal Guarded Cargos"
+        },
+        "3": {
+            "GXT": "CLO_H3F_L_5_3",
+            "Localized": "Beige Guarded Cargos"
+        },
+        "4": {
+            "GXT": "CLO_H3F_L_5_4",
+            "Localized": "White Guarded Cargos"
+        },
+        "5": {
+            "GXT": "CLO_H3F_L_5_5",
+            "Localized": "Forest Green Guarded Cargos"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "CLO_H3F_L_5_10",
+            "Localized": "Blue Camo Guarded Cargos"
+        },
+        "11": {
+            "GXT": "CLO_H3F_L_5_11",
+            "Localized": "Splinter Guarded Cargos"
+        },
+        "12": {
+            "GXT": "CLO_H3F_L_5_12",
+            "Localized": "Contrast Camo Guarded Cargos"
+        },
+        "13": {
+            "GXT": "CLO_H3F_L_5_13",
+            "Localized": "Green Digital Guarded Cargos"
+        },
+        "14": {
+            "GXT": "CLO_H3F_L_5_14",
+            "Localized": "Desert Camo Guarded Cargos"
+        },
+        "15": {
+            "GXT": "CLO_H3F_L_5_15",
+            "Localized": "Woodland Guarded Cargos"
+        },
+        "16": {
+            "GXT": "CLO_H3F_L_5_16",
+            "Localized": "Forest Camo Guarded Cargos"
+        },
+        "17": {
+            "GXT": "CLO_H3F_L_5_17",
+            "Localized": "Blue Digital Guarded Cargos"
+        },
+        "18": {
+            "GXT": "CLO_H3F_L_5_18",
+            "Localized": "Cobble Guarded Cargos"
+        },
+        "19": {
+            "GXT": "CLO_H3F_L_5_19",
+            "Localized": "Beige Camo Guarded Cargos"
+        }
     }
 }

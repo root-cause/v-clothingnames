@@ -13602,5 +13602,517 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "314": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "315": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "316": {
+        "0": {
+            "GXT": "CLO_H3M_U_2_0",
+            "Localized": "Black Uniform Closed"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_2_1",
+            "Localized": "Green Uniform Closed"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_2_2",
+            "Localized": "Cream Uniform Closed"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_2_3",
+            "Localized": "Beige Uniform Closed"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_2_4",
+            "Localized": "Sage Uniform Closed"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_2_5",
+            "Localized": "White Uniform Closed"
+        },
+        "6": {
+            "GXT": "CLO_H3M_U_2_6",
+            "Localized": "Light Gray Uniform Closed"
+        },
+        "7": {
+            "GXT": "CLO_H3M_U_2_7",
+            "Localized": "Gray Uniform Closed"
+        },
+        "8": {
+            "GXT": "CLO_H3M_U_2_8",
+            "Localized": "Dark Green Uniform Closed"
+        }
+    },
+    "317": {
+        "0": {
+            "GXT": "CLO_H3M_U_3_0",
+            "Localized": "Black Uniform Open"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_3_1",
+            "Localized": "Green Uniform Open"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_3_2",
+            "Localized": "Cream Uniform Open"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_3_3",
+            "Localized": "Beige Uniform Open"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_3_4",
+            "Localized": "Sage Uniform Open"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_3_5",
+            "Localized": "White Uniform Open"
+        },
+        "6": {
+            "GXT": "CLO_H3M_U_3_6",
+            "Localized": "Light Gray Uniform Open"
+        },
+        "7": {
+            "GXT": "CLO_H3M_U_3_7",
+            "Localized": "Gray Uniform Open"
+        },
+        "8": {
+            "GXT": "CLO_H3M_U_3_8",
+            "Localized": "Dark Green Uniform Open"
+        }
+    },
+    "318": {
+        "0": {
+            "GXT": "CLO_H3M_U_4_0",
+            "Localized": "Black Short Uniform Closed"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_4_1",
+            "Localized": "Green Short Uniform Closed"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_4_2",
+            "Localized": "Cream Short Uniform Closed"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_4_3",
+            "Localized": "Beige Short Uniform Closed"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_4_4",
+            "Localized": "Sage Short Uniform Closed"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_4_5",
+            "Localized": "White Short Uniform Closed"
+        },
+        "6": {
+            "GXT": "CLO_H3M_U_4_6",
+            "Localized": "Light Gray Short Uniform Closed"
+        },
+        "7": {
+            "GXT": "CLO_H3M_U_4_7",
+            "Localized": "Gray Short Uniform Closed"
+        },
+        "8": {
+            "GXT": "CLO_H3M_U_4_8",
+            "Localized": "Dark Green Short Uniform Closed"
+        }
+    },
+    "319": {
+        "0": {
+            "GXT": "CLO_H3M_U_5_0",
+            "Localized": "Black Short Uniform Open"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_5_1",
+            "Localized": "Green Short Uniform Open"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_5_2",
+            "Localized": "Cream Short Uniform Open"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_5_3",
+            "Localized": "Beige Short Uniform Open"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_5_4",
+            "Localized": "Sage Short Uniform Open"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_5_5",
+            "Localized": "White Short Uniform Open"
+        },
+        "6": {
+            "GXT": "CLO_H3M_U_5_6",
+            "Localized": "Light Gray Short Uniform Open"
+        },
+        "7": {
+            "GXT": "CLO_H3M_U_5_7",
+            "Localized": "Gray Short Uniform Open"
+        },
+        "8": {
+            "GXT": "CLO_H3M_U_5_8",
+            "Localized": "Dark Green Short Uniform Open"
+        }
+    },
+    "320": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "321": {
+        "0": {
+            "GXT": "CLO_H3M_U_7_0",
+            "Localized": "White Dress Shirt"
+        }
+    },
+    "322": {
+        "0": {
+            "GXT": "CLO_H3M_U_7_0",
+            "Localized": "White Dress Shirt"
+        }
+    },
+    "323": {
+        "0": {
+            "GXT": "CLO_H3M_U_9_0",
+            "Localized": "White Dog With Cone Tee"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_9_1",
+            "Localized": "Yellow Dog With Cone Tee"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_9_2",
+            "Localized": "Space Monkey 3 Tee"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_9_3",
+            "Localized": "Space Monkey Pixel Tee"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_9_4",
+            "Localized": "Space Monkey Boss Fights Tee"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_9_5",
+            "Localized": "Space Monkey Space Crafts Tee"
+        },
+        "6": {
+            "GXT": "CLO_H3M_U_9_6",
+            "Localized": "Radioactive Space Monkey Tee"
+        },
+        "7": {
+            "GXT": "CLO_H3M_U_9_7",
+            "Localized": "Wizard's Ruin Loot Tee"
+        },
+        "8": {
+            "GXT": "CLO_H3M_U_9_8",
+            "Localized": "Thog Mighty Sword Tee"
+        },
+        "9": {
+            "GXT": "CLO_H3M_U_9_9",
+            "Localized": "Thog Tee"
+        },
+        "10": {
+            "GXT": "CLO_H3M_U_9_10",
+            "Localized": "Thog Bod Tee"
+        },
+        "11": {
+            "GXT": "CLO_H3M_U_9_11",
+            "Localized": "Monkey's Paradise Tee"
+        },
+        "12": {
+            "GXT": "CLO_H3M_U_9_12",
+            "Localized": "Retro Defender of the Faith Tee"
+        },
+        "13": {
+            "GXT": "CLO_H3M_U_9_13",
+            "Localized": "Defender of the Faith Tee"
+        },
+        "14": {
+            "GXT": "CLO_H3M_U_9_14",
+            "Localized": "Penetrator Tee"
+        },
+        "15": {
+            "GXT": "CLO_H3M_U_9_15",
+            "Localized": "Badlands Revenge II Eagle Tee"
+        },
+        "16": {
+            "GXT": "CLO_H3M_U_9_16",
+            "Localized": "Badlands Revenge II Romance Tee"
+        },
+        "17": {
+            "GXT": "CLO_H3M_U_9_17",
+            "Localized": "Badlands Revenge II Bear Tee"
+        },
+        "18": {
+            "GXT": "CLO_H3M_U_9_18",
+            "Localized": "Badlands Revenge II Gunshot Tee"
+        },
+        "19": {
+            "GXT": "CLO_H3M_U_9_19",
+            "Localized": "Badlands Revenge II Help Me Tee"
+        },
+        "20": {
+            "GXT": "CLO_H3M_U_9_20",
+            "Localized": "Race And Chase Finish Tee"
+        },
+        "21": {
+            "GXT": "CLO_H3M_U_9_21",
+            "Localized": "Race And Chase Vehicles Tee"
+        },
+        "22": {
+            "GXT": "CLO_H3M_U_9_22",
+            "Localized": "Race And Chase Signs Tee"
+        },
+        "23": {
+            "GXT": "CLO_H3M_U_9_23",
+            "Localized": "Race And Chase Decor Tee"
+        },
+        "24": {
+            "GXT": "CLO_H3M_U_9_24",
+            "Localized": "Race And Chase Start Tee"
+        },
+        "25": {
+            "GXT": "CLO_H3M_U_9_25",
+            "Localized": "T-Shirt"
+        }
+    },
+    "324": {
+        "0": {
+            "GXT": "CLO_H3M_U_10_0",
+            "Localized": "Blue Armored Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_10_1",
+            "Localized": "Black Armored Shirt"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_10_2",
+            "Localized": "Dark Gray Armored Shirt"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_10_3",
+            "Localized": "Beige Armored Shirt"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_10_4",
+            "Localized": "Cream Armored Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_10_5",
+            "Localized": "Forest Green Armored Shirt"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "CLO_H3M_U_10_10",
+            "Localized": "Blue Camo Armored Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3M_U_10_11",
+            "Localized": "Green Camo Armored Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3M_U_10_12",
+            "Localized": "Contrast Camo Armored Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3M_U_10_13",
+            "Localized": "Green Digital Armored Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3M_U_10_14",
+            "Localized": "Desert Camo Armored Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3M_U_10_15",
+            "Localized": "Woodland Armored Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3M_U_10_16",
+            "Localized": "Forest Camo Armored Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3M_U_10_17",
+            "Localized": "Blue Digital Armored Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3M_U_10_18",
+            "Localized": "Cobble Armored Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3M_U_10_19",
+            "Localized": "Beige Camo Armored Shirt"
+        }
+    },
+    "325": {
+        "0": {
+            "GXT": "CLO_H3M_U_11_0",
+            "Localized": "Pixtro Tee"
+        },
+        "1": {
+            "GXT": "CLO_H3M_U_11_1",
+            "Localized": "Akedo Tee"
+        },
+        "2": {
+            "GXT": "CLO_H3M_U_11_2",
+            "Localized": "Pixel Pete's Tee"
+        },
+        "3": {
+            "GXT": "CLO_H3M_U_11_3",
+            "Localized": "Eight Bit Tee"
+        },
+        "4": {
+            "GXT": "CLO_H3M_U_11_4",
+            "Localized": "Wonderama Tee"
+        },
+        "5": {
+            "GXT": "CLO_H3M_U_11_5",
+            "Localized": "Warehouse Tee"
+        },
+        "6": {
+            "GXT": "CLO_H3M_U_11_6",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3M_U_11_7",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3M_U_11_8",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3M_U_11_9",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3M_U_11_10",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3M_U_11_11",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3M_U_11_12",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3M_U_11_13",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3M_U_11_14",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3M_U_11_15",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3M_U_11_16",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3M_U_11_17",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3M_U_11_18",
+            "Localized": "Love Professor Score Tee"
+        },
+        "19": {
+            "GXT": "CLO_H3M_U_11_19",
+            "Localized": "Love Professor His Tee"
+        },
+        "20": {
+            "GXT": "CLO_H3M_U_11_20",
+            "Localized": "Love Professor Hers Tee"
+        },
+        "21": {
+            "GXT": "CLO_H3M_U_11_21",
+            "Localized": "Love Professor Friendzoned Tee"
+        },
+        "22": {
+            "GXT": "CLO_H3M_U_11_22",
+            "Localized": "Love Professor Nemesis Tee"
+        },
+        "23": {
+            "GXT": "CLO_H3M_U_11_23",
+            "Localized": "Love Professor Secrets Tee"
+        }
+    },
+    "326": {
+        "0": {
+            "GXT": "CLO_H3M_U_12_0",
+            "Localized": "Ho-Ho-Ho Sweater"
+        }
+    },
+    "327": {
+        "0": {
+            "GXT": "CLO_H3M_U_13_0",
+            "Localized": "Black Low Level Armor"
+        }
+    },
+    "328": {
+        "0": {
+            "GXT": "CLO_H3M_U_14_0",
+            "Localized": "Black Stealth Shirt"
+        }
+    },
+    "329": {
+        "0": {
+            "GXT": "CLO_H3M_U_15_0",
+            "Localized": "Yung Ancestor Tour Jacket"
+        }
+    },
+    "330": {
+        "0": {
+            "GXT": "CLO_H3M_U_16_0",
+            "Localized": "Yung Ancestor Hoodie"
+        }
+    },
+    "331": {
+        "0": {
+            "GXT": "CLO_H3M_U_16_0",
+            "Localized": "Yung Ancestor Hoodie"
+        }
     }
 }

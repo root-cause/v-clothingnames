@@ -5098,5 +5098,489 @@
             "GXT": "CLO_VWM_B_11_3",
             "Localized": "Ace of Diamonds"
         }
+    },
+    "160": {
+        "0": {
+            "GXT": "CLO_H3M_B_0_0",
+            "Localized": "Baby Smile"
+        }
+    },
+    "161": {
+        "0": {
+            "GXT": "CLO_H3M_B_1_0",
+            "Localized": "Fig"
+        }
+    },
+    "162": {
+        "0": {
+            "GXT": "CLO_H3M_B_2_0",
+            "Localized": "Piggly"
+        }
+    },
+    "163": {
+        "0": {
+            "GXT": "CLO_H3M_B_3_0",
+            "Localized": "Ape"
+        }
+    },
+    "164": {
+        "0": {
+            "GXT": "CLO_H3M_B_4_0",
+            "Localized": "Grinner"
+        }
+    },
+    "165": {
+        "0": {
+            "GXT": "CLO_H3M_B_5_0",
+            "Localized": "Fluffy Rabbit"
+        }
+    },
+    "166": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "167": {
+        "0": {
+            "GXT": "CLO_H3M_B_7_0",
+            "Localized": "Sniper"
+        }
+    },
+    "168": {
+        "0": {
+            "GXT": "CLO_H3M_B_8_0",
+            "Localized": "Fleshless"
+        }
+    },
+    "169": {
+        "0": {
+            "GXT": "CLO_H3M_B_9_0",
+            "Localized": "Black Neck Gaiter"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_9_1",
+            "Localized": "Gray Neck Gaiter"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_9_2",
+            "Localized": "Light Gray Neck Gaiter"
+        },
+        "3": {
+            "GXT": "CLO_H3M_B_9_3",
+            "Localized": "Red Neck Gaiter"
+        },
+        "4": {
+            "GXT": "CLO_H3M_B_9_4",
+            "Localized": "Teal Neck Gaiter"
+        },
+        "5": {
+            "GXT": "CLO_H3M_B_9_5",
+            "Localized": "Smiley Neck Gaiter"
+        },
+        "6": {
+            "GXT": "CLO_H3M_B_9_6",
+            "Localized": "Gray Digital Neck Gaiter"
+        },
+        "7": {
+            "GXT": "CLO_H3M_B_9_7",
+            "Localized": "Blue Digital Neck Gaiter"
+        },
+        "8": {
+            "GXT": "CLO_H3M_B_9_8",
+            "Localized": "Blue Wave Neck Gaiter"
+        },
+        "9": {
+            "GXT": "CLO_H3M_B_9_9",
+            "Localized": "Stars & Stripes Neck Gaiter"
+        },
+        "10": {
+            "GXT": "CLO_H3M_B_9_10",
+            "Localized": "Toothy Grin Neck Gaiter"
+        },
+        "11": {
+            "GXT": "CLO_H3M_B_9_11",
+            "Localized": "Wolf Neck Gaiter"
+        },
+        "12": {
+            "GXT": "CLO_H3M_B_9_12",
+            "Localized": "Gray Camo Neck Gaiter"
+        },
+        "13": {
+            "GXT": "CLO_H3M_B_9_13",
+            "Localized": "Black Skull Neck Gaiter"
+        },
+        "14": {
+            "GXT": "CLO_H3M_B_9_14",
+            "Localized": "Blood Cross Neck Gaiter"
+        },
+        "15": {
+            "GXT": "CLO_H3M_B_9_15",
+            "Localized": "Brown Skull Neck Gaiter"
+        },
+        "16": {
+            "GXT": "CLO_H3M_B_9_16",
+            "Localized": "Green Camo Neck Gaiter"
+        },
+        "17": {
+            "GXT": "CLO_H3M_B_9_17",
+            "Localized": "Green Neon Camo Neck Gaiter"
+        },
+        "18": {
+            "GXT": "CLO_H3M_B_9_18",
+            "Localized": "Purple Neon Camo Neck Gaiter"
+        },
+        "19": {
+            "GXT": "CLO_H3M_B_9_19",
+            "Localized": "Cobble Neck Gaiter"
+        },
+        "20": {
+            "GXT": "CLO_H3M_B_9_20",
+            "Localized": "Green Snakeskin Neck Gaiter"
+        },
+        "21": {
+            "GXT": "CLO_H3M_B_9_21",
+            "Localized": "Purple Snakeskin Neck Gaiter"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "170": {
+        "0": {
+            "GXT": "CLO_H3M_B_10_0",
+            "Localized": "Voyeur"
+        }
+    },
+    "171": {
+        "0": {
+            "GXT": "CLO_H3M_B_11_0",
+            "Localized": "Geo Fox"
+        }
+    },
+    "172": {
+        "0": {
+            "GXT": "CLO_H3M_B_12_0",
+            "Localized": "Geo Ginger & White Cat"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_12_1",
+            "Localized": "Geo Gray & White Cat"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_12_2",
+            "Localized": "Geo Black & White Cat"
+        }
+    },
+    "173": {
+        "0": {
+            "GXT": "CLO_H3M_B_13_0",
+            "Localized": "Geo Pig"
+        }
+    },
+    "174": {
+        "0": {
+            "GXT": "CLO_H3M_B_14_0",
+            "Localized": "Gray & Red Leather Half Face"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_14_1",
+            "Localized": "Ash & White Leather Half Face"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_14_2",
+            "Localized": "Gray & White Leather Half Face"
+        },
+        "3": {
+            "GXT": "CLO_H3M_B_14_3",
+            "Localized": "Worn Red Leather Half Face"
+        },
+        "4": {
+            "GXT": "CLO_H3M_B_14_4",
+            "Localized": "Worn Yellow Leather Half Face"
+        },
+        "5": {
+            "GXT": "CLO_H3M_B_14_5",
+            "Localized": "Worn Green Leather Half Face"
+        },
+        "6": {
+            "GXT": "CLO_H3M_B_14_6",
+            "Localized": "Black Swirl Leather Half Face"
+        },
+        "7": {
+            "GXT": "CLO_H3M_B_14_7",
+            "Localized": "Red Swirl Leather Half Face"
+        },
+        "8": {
+            "GXT": "CLO_H3M_B_14_8",
+            "Localized": "Yellow Swirl Leather Half Face"
+        },
+        "9": {
+            "GXT": "CLO_H3M_B_14_9",
+            "Localized": "Pale Leather Half Face"
+        },
+        "10": {
+            "GXT": "CLO_H3M_B_14_10",
+            "Localized": "Red Lip Leather Half Face"
+        },
+        "11": {
+            "GXT": "CLO_H3M_B_14_11",
+            "Localized": "Smoke Leather Half Face"
+        },
+        "12": {
+            "GXT": "CLO_H3M_B_14_12",
+            "Localized": "Red Leather Half Face"
+        },
+        "13": {
+            "GXT": "CLO_H3M_B_14_13",
+            "Localized": "Cyan Leather Half Face"
+        },
+        "14": {
+            "GXT": "CLO_H3M_B_14_14",
+            "Localized": "Dark Pink Leather Half Face"
+        },
+        "15": {
+            "GXT": "CLO_H3M_B_14_15",
+            "Localized": "Green Leather Half Face"
+        },
+        "16": {
+            "GXT": "CLO_H3M_B_14_16",
+            "Localized": "Peach Leather Half Face"
+        },
+        "17": {
+            "GXT": "CLO_H3M_B_14_17",
+            "Localized": "Purple Leather Half Face"
+        },
+        "18": {
+            "GXT": "CLO_H3M_B_14_18",
+            "Localized": "Light Pink Leather Half Face"
+        },
+        "19": {
+            "GXT": "CLO_H3M_B_14_19",
+            "Localized": "Terracotta Leather Half Face"
+        },
+        "20": {
+            "GXT": "CLO_H3M_B_14_20",
+            "Localized": "Dusty Blue Leather Half Face"
+        },
+        "21": {
+            "GXT": "CLO_H3M_B_14_21",
+            "Localized": "Gray Leather Half Face"
+        },
+        "22": {
+            "GXT": "CLO_H3M_B_14_22",
+            "Localized": "Putty Leather Half Face"
+        },
+        "23": {
+            "GXT": "CLO_H3M_B_14_23",
+            "Localized": "White Leather Half Face"
+        },
+        "24": {
+            "GXT": "CLO_H3M_B_14_24",
+            "Localized": "Stone Leather Half Face"
+        }
+    },
+    "175": {
+        "0": {
+            "GXT": "CLO_H3M_B_15_0",
+            "Localized": "Yellow Visor Respirator"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_15_1",
+            "Localized": "Green Visor Respirator"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_15_2",
+            "Localized": "Orange Mask Respirator"
+        },
+        "3": {
+            "GXT": "CLO_H3M_B_15_3",
+            "Localized": "Gold Mask Respirator"
+        }
+    },
+    "176": {
+        "0": {
+            "GXT": "CLO_H3M_B_16_0",
+            "Localized": "Geo Gold Dog"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_16_1",
+            "Localized": "Geo White Dog"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_16_2",
+            "Localized": "Geo Brown Dog"
+        },
+        "3": {
+            "GXT": "CLO_H3M_B_16_3",
+            "Localized": "Geo Gray Dog"
+        }
+    },
+    "177": {
+        "0": {
+            "GXT": "CLO_H3M_B_17_0",
+            "Localized": "Cerberus"
+        }
+    },
+    "178": {
+        "0": {
+            "GXT": "CLO_H3M_B_18_0",
+            "Localized": "Gray & Red Leather with NVG"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_18_1",
+            "Localized": "Ash & White Leather with NVG"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_18_2",
+            "Localized": "Gray & White Leather with NVG"
+        },
+        "3": {
+            "GXT": "CLO_H3M_B_18_3",
+            "Localized": "Worn Red Leather with NVG"
+        },
+        "4": {
+            "GXT": "CLO_H3M_B_18_4",
+            "Localized": "Worn Yellow Leather with NVG"
+        },
+        "5": {
+            "GXT": "CLO_H3M_B_18_5",
+            "Localized": "Worn Green Leather with NVG"
+        },
+        "6": {
+            "GXT": "CLO_H3M_B_18_6",
+            "Localized": "Black Swirl Leather with NVG"
+        },
+        "7": {
+            "GXT": "CLO_H3M_B_18_7",
+            "Localized": "Red Swirl Leather with NVG"
+        },
+        "8": {
+            "GXT": "CLO_H3M_B_18_8",
+            "Localized": "Yellow Swirl Leather with NVG"
+        },
+        "9": {
+            "GXT": "CLO_H3M_B_18_9",
+            "Localized": "Pale Leather with NVG"
+        },
+        "10": {
+            "GXT": "CLO_H3M_B_18_10",
+            "Localized": "Red Lip Leather with NVG"
+        },
+        "11": {
+            "GXT": "CLO_H3M_B_18_11",
+            "Localized": "Smoke Leather with NVG"
+        },
+        "12": {
+            "GXT": "CLO_H3M_B_18_12",
+            "Localized": "Red Leather with NVG"
+        },
+        "13": {
+            "GXT": "CLO_H3M_B_18_13",
+            "Localized": "Cyan Leather with NVG"
+        },
+        "14": {
+            "GXT": "CLO_H3M_B_18_14",
+            "Localized": "Dark Pink Leather with NVG"
+        },
+        "15": {
+            "GXT": "CLO_H3M_B_18_15",
+            "Localized": "Green Leather with NVG"
+        },
+        "16": {
+            "GXT": "CLO_H3M_B_18_16",
+            "Localized": "Peach Leather with NVG"
+        },
+        "17": {
+            "GXT": "CLO_H3M_B_18_17",
+            "Localized": "Purple Leather with NVG"
+        },
+        "18": {
+            "GXT": "CLO_H3M_B_18_18",
+            "Localized": "Light Pink Leather with NVG"
+        },
+        "19": {
+            "GXT": "CLO_H3M_B_18_19",
+            "Localized": "Terracotta Leather with NVG"
+        },
+        "20": {
+            "GXT": "CLO_H3M_B_18_20",
+            "Localized": "Dusty Blue Leather with NVG"
+        },
+        "21": {
+            "GXT": "CLO_H3M_B_18_21",
+            "Localized": "Gray Leather with NVG"
+        },
+        "22": {
+            "GXT": "CLO_H3M_B_18_22",
+            "Localized": "Putty Leather with NVG"
+        },
+        "23": {
+            "GXT": "CLO_H3M_B_18_23",
+            "Localized": "White Leather with NVG"
+        },
+        "24": {
+            "GXT": "CLO_H3M_B_18_24",
+            "Localized": "Stone Leather with NVG"
+        }
+    },
+    "179": {
+        "0": {
+            "GXT": "CLO_H3M_B_19_0",
+            "Localized": "Grin"
+        },
+        "1": {
+            "GXT": "CLO_H3M_B_19_1",
+            "Localized": "Cry"
+        },
+        "2": {
+            "GXT": "CLO_H3M_B_19_2",
+            "Localized": "Laugh"
+        },
+        "3": {
+            "GXT": "CLO_H3M_B_19_3",
+            "Localized": "Grimace"
+        },
+        "4": {
+            "GXT": "CLO_H3M_B_19_4",
+            "Localized": "In Love"
+        },
+        "5": {
+            "GXT": "CLO_H3M_B_19_5",
+            "Localized": "Blow Kiss"
+        },
+        "6": {
+            "GXT": "CLO_H3M_B_19_6",
+            "Localized": "Gasp"
+        },
+        "7": {
+            "GXT": "CLO_H3M_B_19_7",
+            "Localized": "Wink"
+        }
     }
 }
