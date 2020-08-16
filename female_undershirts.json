@@ -9328,5 +9328,617 @@
             "GXT": "CLO_H3F_S_13_0",
             "Localized": "Black Reinforced Armor"
         }
+    },
+    "201": {
+        "0": {
+            "GXT": "CLO_H3F_U_13_2",
+            "Localized": "T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3F_U_13_1",
+            "Localized": "T-Shirt"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_H3F_U_13_0",
+            "Localized": "T-Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3F_U_13_3",
+            "Localized": "T-Shirt"
+        },
+        "6": {
+            "GXT": "CLO_H3F_U_13_4",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3F_U_13_5",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3F_U_13_6",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3F_U_13_7",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3F_U_13_8",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3F_U_13_9",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3F_U_10_25",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3F_U_12_6",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3F_U_12_7",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3F_U_12_8",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3F_U_12_9",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3F_U_12_10",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3F_U_12_11",
+            "Localized": "T-Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3F_U_12_12",
+            "Localized": "T-Shirt"
+        },
+        "20": {
+            "GXT": "CLO_H3F_U_12_13",
+            "Localized": "T-Shirt"
+        },
+        "21": {
+            "GXT": "CLO_H3F_U_12_14",
+            "Localized": "T-Shirt"
+        },
+        "22": {
+            "GXT": "CLO_H3F_U_12_15",
+            "Localized": "T-Shirt"
+        },
+        "23": {
+            "GXT": "CLO_H3F_U_12_16",
+            "Localized": "T-Shirt"
+        },
+        "24": {
+            "GXT": "CLO_H3F_U_12_17",
+            "Localized": "T-Shirt"
+        }
+    },
+    "202": {
+        "0": {
+            "GXT": "CLO_H3F_U_13_2",
+            "Localized": "T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3F_U_13_1",
+            "Localized": "T-Shirt"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_H3F_U_13_0",
+            "Localized": "T-Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3F_U_13_3",
+            "Localized": "T-Shirt"
+        },
+        "6": {
+            "GXT": "CLO_H3F_U_13_4",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3F_U_13_5",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3F_U_13_6",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3F_U_13_7",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3F_U_13_8",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3F_U_13_9",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3F_U_10_25",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3F_U_12_6",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3F_U_12_7",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3F_U_12_8",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3F_U_12_9",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3F_U_12_10",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3F_U_12_11",
+            "Localized": "T-Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3F_U_12_12",
+            "Localized": "T-Shirt"
+        },
+        "20": {
+            "GXT": "CLO_H3F_U_12_13",
+            "Localized": "T-Shirt"
+        },
+        "21": {
+            "GXT": "CLO_H3F_U_12_14",
+            "Localized": "T-Shirt"
+        },
+        "22": {
+            "GXT": "CLO_H3F_U_12_15",
+            "Localized": "T-Shirt"
+        },
+        "23": {
+            "GXT": "CLO_H3F_U_12_16",
+            "Localized": "T-Shirt"
+        },
+        "24": {
+            "GXT": "CLO_H3F_U_12_17",
+            "Localized": "T-Shirt"
+        }
+    },
+    "203": {
+        "0": {
+            "GXT": "CLO_H3F_U_13_2",
+            "Localized": "T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3F_U_13_1",
+            "Localized": "T-Shirt"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_H3F_U_13_0",
+            "Localized": "T-Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3F_U_13_3",
+            "Localized": "T-Shirt"
+        },
+        "6": {
+            "GXT": "CLO_H3F_U_13_4",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3F_U_13_5",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3F_U_13_6",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3F_U_13_7",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3F_U_13_8",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3F_U_13_9",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3F_U_10_25",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3F_U_12_6",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3F_U_12_7",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3F_U_12_8",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3F_U_12_9",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3F_U_12_10",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3F_U_12_11",
+            "Localized": "T-Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3F_U_12_12",
+            "Localized": "T-Shirt"
+        },
+        "20": {
+            "GXT": "CLO_H3F_U_12_13",
+            "Localized": "T-Shirt"
+        },
+        "21": {
+            "GXT": "CLO_H3F_U_12_14",
+            "Localized": "T-Shirt"
+        },
+        "22": {
+            "GXT": "CLO_H3F_U_12_15",
+            "Localized": "T-Shirt"
+        },
+        "23": {
+            "GXT": "CLO_H3F_U_12_16",
+            "Localized": "T-Shirt"
+        },
+        "24": {
+            "GXT": "CLO_H3F_U_12_17",
+            "Localized": "T-Shirt"
+        }
+    },
+    "204": {
+        "0": {
+            "GXT": "CLO_H3F_U_13_2",
+            "Localized": "T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3F_U_13_1",
+            "Localized": "T-Shirt"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_H3F_U_13_0",
+            "Localized": "T-Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3F_U_13_3",
+            "Localized": "T-Shirt"
+        },
+        "6": {
+            "GXT": "CLO_H3F_U_13_4",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3F_U_13_5",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3F_U_13_6",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3F_U_13_7",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3F_U_13_8",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3F_U_13_9",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3F_U_10_25",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3F_U_12_6",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3F_U_12_7",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3F_U_12_8",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3F_U_12_9",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3F_U_12_10",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3F_U_12_11",
+            "Localized": "T-Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3F_U_12_12",
+            "Localized": "T-Shirt"
+        },
+        "20": {
+            "GXT": "CLO_H3F_U_12_13",
+            "Localized": "T-Shirt"
+        },
+        "21": {
+            "GXT": "CLO_H3F_U_12_14",
+            "Localized": "T-Shirt"
+        },
+        "22": {
+            "GXT": "CLO_H3F_U_12_15",
+            "Localized": "T-Shirt"
+        },
+        "23": {
+            "GXT": "CLO_H3F_U_12_16",
+            "Localized": "T-Shirt"
+        },
+        "24": {
+            "GXT": "CLO_H3F_U_12_17",
+            "Localized": "T-Shirt"
+        }
+    },
+    "205": {
+        "0": {
+            "GXT": "CLO_H3F_U_13_2",
+            "Localized": "T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3F_U_13_1",
+            "Localized": "T-Shirt"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_H3F_U_13_0",
+            "Localized": "T-Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3F_U_13_3",
+            "Localized": "T-Shirt"
+        },
+        "6": {
+            "GXT": "CLO_H3F_U_13_4",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3F_U_13_5",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3F_U_13_6",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3F_U_13_7",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3F_U_13_8",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3F_U_13_9",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3F_U_10_25",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3F_U_12_6",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3F_U_12_7",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3F_U_12_8",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3F_U_12_9",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3F_U_12_10",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3F_U_12_11",
+            "Localized": "T-Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3F_U_12_12",
+            "Localized": "T-Shirt"
+        },
+        "20": {
+            "GXT": "CLO_H3F_U_12_13",
+            "Localized": "T-Shirt"
+        },
+        "21": {
+            "GXT": "CLO_H3F_U_12_14",
+            "Localized": "T-Shirt"
+        },
+        "22": {
+            "GXT": "CLO_H3F_U_12_15",
+            "Localized": "T-Shirt"
+        },
+        "23": {
+            "GXT": "CLO_H3F_U_12_16",
+            "Localized": "T-Shirt"
+        },
+        "24": {
+            "GXT": "CLO_H3F_U_12_17",
+            "Localized": "T-Shirt"
+        }
+    },
+    "206": {
+        "0": {
+            "GXT": "CLO_H3F_U_13_2",
+            "Localized": "T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_H3F_U_13_1",
+            "Localized": "T-Shirt"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_H3F_U_13_0",
+            "Localized": "T-Shirt"
+        },
+        "5": {
+            "GXT": "CLO_H3F_U_13_3",
+            "Localized": "T-Shirt"
+        },
+        "6": {
+            "GXT": "CLO_H3F_U_13_4",
+            "Localized": "T-Shirt"
+        },
+        "7": {
+            "GXT": "CLO_H3F_U_13_5",
+            "Localized": "T-Shirt"
+        },
+        "8": {
+            "GXT": "CLO_H3F_U_13_6",
+            "Localized": "T-Shirt"
+        },
+        "9": {
+            "GXT": "CLO_H3F_U_13_7",
+            "Localized": "T-Shirt"
+        },
+        "10": {
+            "GXT": "CLO_H3F_U_13_8",
+            "Localized": "T-Shirt"
+        },
+        "11": {
+            "GXT": "CLO_H3F_U_13_9",
+            "Localized": "T-Shirt"
+        },
+        "12": {
+            "GXT": "CLO_H3F_U_10_25",
+            "Localized": "T-Shirt"
+        },
+        "13": {
+            "GXT": "CLO_H3F_U_12_6",
+            "Localized": "T-Shirt"
+        },
+        "14": {
+            "GXT": "CLO_H3F_U_12_7",
+            "Localized": "T-Shirt"
+        },
+        "15": {
+            "GXT": "CLO_H3F_U_12_8",
+            "Localized": "T-Shirt"
+        },
+        "16": {
+            "GXT": "CLO_H3F_U_12_9",
+            "Localized": "T-Shirt"
+        },
+        "17": {
+            "GXT": "CLO_H3F_U_12_10",
+            "Localized": "T-Shirt"
+        },
+        "18": {
+            "GXT": "CLO_H3F_U_12_11",
+            "Localized": "T-Shirt"
+        },
+        "19": {
+            "GXT": "CLO_H3F_U_12_12",
+            "Localized": "T-Shirt"
+        },
+        "20": {
+            "GXT": "CLO_H3F_U_12_13",
+            "Localized": "T-Shirt"
+        },
+        "21": {
+            "GXT": "CLO_H3F_U_12_14",
+            "Localized": "T-Shirt"
+        },
+        "22": {
+            "GXT": "CLO_H3F_U_12_15",
+            "Localized": "T-Shirt"
+        },
+        "23": {
+            "GXT": "CLO_H3F_U_12_16",
+            "Localized": "T-Shirt"
+        },
+        "24": {
+            "GXT": "CLO_H3F_U_12_17",
+            "Localized": "T-Shirt"
+        }
     }
 }

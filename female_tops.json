@@ -15220,5 +15220,1127 @@
             "GXT": "CLO_H3F_U_20_0",
             "Localized": "Yung Ancestor Hoodie"
         }
+    },
+    "347": {
+        "0": {
+            "GXT": "CLO_SUF_U_0_0",
+            "Localized": "Cream Sports Track Top"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_0_1",
+            "Localized": "Gray Heat Sports Track Top"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_0_2",
+            "Localized": "Mustard Heat Sports Track Top"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_0_3",
+            "Localized": "Purple Heat Sports Track Top"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_0_4",
+            "Localized": "Orange Heat Sports Track Top"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_0_5",
+            "Localized": "Pink Heat Sports Track Top"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_0_6",
+            "Localized": "White Heat Sports Track Top"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_0_7",
+            "Localized": "Cyan Heat Sports Track Top"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_0_8",
+            "Localized": "Orange Prolaps Sports Track Top"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_0_9",
+            "Localized": "Yellow Prolaps Sports Track Top"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_0_10",
+            "Localized": "Cyan Prolaps Sports Track Top"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_0_11",
+            "Localized": "Ash Prolaps Sports Track Top"
+        },
+        "12": {
+            "GXT": "CLO_SUF_U_0_12",
+            "Localized": "Crimson Prolaps Sports Track Top"
+        },
+        "13": {
+            "GXT": "CLO_SUF_U_0_13",
+            "Localized": "Intense Prolaps Sports Track Top"
+        },
+        "14": {
+            "GXT": "CLO_SUF_U_0_14",
+            "Localized": "Tricolor Prolaps Sports Track Top"
+        },
+        "15": {
+            "GXT": "CLO_SUF_U_0_15",
+            "Localized": "Blue DS Sports Track Top"
+        },
+        "16": {
+            "GXT": "CLO_SUF_U_0_16",
+            "Localized": "Red DS Sports Track Top"
+        },
+        "17": {
+            "GXT": "CLO_SUF_U_0_17",
+            "Localized": "Yellow DS Sports Track Top"
+        },
+        "18": {
+            "GXT": "CLO_SUF_U_0_18",
+            "Localized": "Dark Stone Sports Track Top"
+        },
+        "19": {
+            "GXT": "CLO_SUF_U_0_19",
+            "Localized": "Snow Sports Track Top"
+        },
+        "20": {
+            "GXT": "CLO_SUF_U_0_20",
+            "Localized": "Smoke Sports Track Top"
+        },
+        "21": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "CLO_SUF_U_0_25",
+            "Localized": "Lemon Sports Track Top"
+        }
+    },
+    "348": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "349": {
+        "0": {
+            "GXT": "CLO_SUF_U_2_0",
+            "Localized": "Purple Bigness Sports Tee"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_2_1",
+            "Localized": "Purple Baseball Sports Tee"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_2_2",
+            "Localized": "Purple Broker Sports Tee"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_2_3",
+            "Localized": "Purple Basketball Sports Tee"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_2_4",
+            "Localized": "Purple Champs Sports Tee"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_2_5",
+            "Localized": "Camo Bigness Sports Tee"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_2_6",
+            "Localized": "White Bigness Sports Tee"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_2_7",
+            "Localized": "White Baseball Sports Tee"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_2_8",
+            "Localized": "White Broker Sports Tee"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_2_9",
+            "Localized": "White Basketball Sports Tee"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_2_10",
+            "Localized": "White Champs Sports Tee"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_2_11",
+            "Localized": "White Camo Sports Tee"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "350": {
+        "0": {
+            "GXT": "CLO_SUF_U_3_0",
+            "Localized": "Yellow Sports Long Sleeve"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_3_1",
+            "Localized": "Purple Sports Long Sleeve"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_3_2",
+            "Localized": "Gray Sports Long Sleeve"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_3_3",
+            "Localized": "Panic Sports Long Sleeve"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_3_4",
+            "Localized": "White Purple Sports Long Sleeve"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_3_5",
+            "Localized": "Purple White Sports Long Sleeve"
+        }
+    },
+    "351": {
+        "0": {
+            "GXT": "CLO_SUF_U_4_0",
+            "Localized": "Khaki Service Shirt Tucked"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_4_1",
+            "Localized": "Green Service Shirt Tucked"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_4_2",
+            "Localized": "Beige Service Shirt Tucked"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_4_3",
+            "Localized": "Black Service Shirt Tucked"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_4_4",
+            "Localized": "Gray Service Shirt Tucked"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_4_5",
+            "Localized": "White Service Shirt Tucked"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_4_6",
+            "Localized": "Brown Service Shirt Tucked"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_4_7",
+            "Localized": "Moss Service Shirt Tucked"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_4_8",
+            "Localized": "Blue Service Shirt Tucked"
+        }
+    },
+    "352": {
+        "0": {
+            "GXT": "CLO_SUF_U_5_0",
+            "Localized": "Khaki Short Service Shirt Tucked"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_5_1",
+            "Localized": "Green Short Service Shirt Tucked"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_5_2",
+            "Localized": "Beige Short Service Shirt Tucked"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_5_3",
+            "Localized": "Black Short Service Shirt Tucked"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_5_4",
+            "Localized": "Gray Short Service Shirt Tucked"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_5_5",
+            "Localized": "White Short Service Shirt Tucked"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_5_6",
+            "Localized": "Brown Short Service Shirt Tucked"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_5_7",
+            "Localized": "Moss Short Service Shirt Tucked"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_5_8",
+            "Localized": "Blue Short Service Shirt Tucked"
+        }
+    },
+    "353": {
+        "0": {
+            "GXT": "CLO_SUF_U_6_0",
+            "Localized": "Brown Popped Leather Jacket"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_6_1",
+            "Localized": "Red Popped Leather Jacket"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_6_2",
+            "Localized": "Black Popped Leather Jacket"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_6_3",
+            "Localized": "Tan Popped Leather Jacket"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_6_4",
+            "Localized": "Gray Popped Leather Jacket"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_6_5",
+            "Localized": "White Popped Leather Jacket"
+        }
+    },
+    "354": {
+        "0": {
+            "GXT": "CLO_SUF_U_7_0",
+            "Localized": "Blue Cross Check Relaxed"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_7_1",
+            "Localized": "Brown Cross Check Relaxed"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_7_2",
+            "Localized": "Green Cross Check Relaxed"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_7_3",
+            "Localized": "Purple Cross Check Relaxed"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_7_4",
+            "Localized": "Tan Cross Check Relaxed"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_7_5",
+            "Localized": "Brown Stripe Check Relaxed"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_7_6",
+            "Localized": "Blue Stripe Check Relaxed"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_7_7",
+            "Localized": "Purple Stripe Check Relaxed"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_7_8",
+            "Localized": "Gray Stripe Check Relaxed"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_7_9",
+            "Localized": "Pale Blue Stripe Check Relaxed"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_7_10",
+            "Localized": "Mustard Stripe Check Relaxed"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_7_11",
+            "Localized": "White Bold Check Relaxed"
+        },
+        "12": {
+            "GXT": "CLO_SUF_U_7_12",
+            "Localized": "Red Bold Check Relaxed"
+        },
+        "13": {
+            "GXT": "CLO_SUF_U_7_13",
+            "Localized": "Green Bold Check Relaxed"
+        },
+        "14": {
+            "GXT": "CLO_SUF_U_7_14",
+            "Localized": "Black Bold Check Relaxed"
+        },
+        "15": {
+            "GXT": "CLO_SUF_U_7_15",
+            "Localized": "Mustard Bold Check Relaxed"
+        },
+        "16": {
+            "GXT": "CLO_SUF_U_7_16",
+            "Localized": "Purple Bold Check Relaxed"
+        },
+        "17": {
+            "GXT": "CLO_SUF_U_7_17",
+            "Localized": "Black Double Shirt Relaxed"
+        },
+        "18": {
+            "GXT": "CLO_SUF_U_7_18",
+            "Localized": "Gray Double Shirt Relaxed"
+        },
+        "19": {
+            "GXT": "CLO_SUF_U_7_19",
+            "Localized": "White Double Shirt Relaxed"
+        },
+        "20": {
+            "GXT": "CLO_SUF_U_7_20",
+            "Localized": "Navy Double Shirt Relaxed"
+        },
+        "21": {
+            "GXT": "CLO_SUF_U_7_21",
+            "Localized": "Orange Double Shirt Relaxed"
+        },
+        "22": {
+            "GXT": "CLO_SUF_U_7_22",
+            "Localized": "Pink Double Shirt Relaxed"
+        },
+        "23": {
+            "GXT": "CLO_SUF_U_7_23",
+            "Localized": "Green Double Shirt Relaxed"
+        },
+        "24": {
+            "GXT": "CLO_SUF_U_7_24",
+            "Localized": "Red Double Shirt Relaxed"
+        }
+    },
+    "355": {
+        "0": {
+            "GXT": "CLO_SUF_U_8_0",
+            "Localized": "Black Double Shirt Open"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_8_1",
+            "Localized": "Gray Double Shirt Open"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_8_2",
+            "Localized": "White Double Shirt Open"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_8_3",
+            "Localized": "Navy Double Shirt Open"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_8_4",
+            "Localized": "Orange Double Shirt Open"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_8_5",
+            "Localized": "Pink Double Shirt Open"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_8_6",
+            "Localized": "Green Double Shirt Open"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_8_7",
+            "Localized": "Red Double Shirt Open"
+        }
+    },
+    "356": {
+        "0": {
+            "GXT": "CLO_SUF_U_9_0",
+            "Localized": "Black Double Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_9_1",
+            "Localized": "Gray Double Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_9_2",
+            "Localized": "White Double Shirt"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_9_3",
+            "Localized": "Navy Double Shirt"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_9_4",
+            "Localized": "Orange Double Shirt"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_9_5",
+            "Localized": "Pink Double Shirt"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_9_6",
+            "Localized": "Green Double Shirt"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_9_7",
+            "Localized": "Red Double Shirt"
+        }
+    },
+    "357": {
+        "0": {
+            "GXT": "CLO_SUF_U_10_0",
+            "Localized": "Pink Tucked Rolled Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_10_1",
+            "Localized": "Beige Tucked Rolled Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_10_2",
+            "Localized": "Gray Tucked Rolled Shirt"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_10_3",
+            "Localized": "Salmon Tucked Rolled Shirt"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_10_4",
+            "Localized": "Dark Pink Tucked Rolled Shirt"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_10_5",
+            "Localized": "Yellow Tucked Rolled Shirt"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_10_6",
+            "Localized": "Cyan Tucked Rolled Shirt"
+        }
+    },
+    "358": {
+        "0": {
+            "GXT": "CLO_SUF_U_11_0",
+            "Localized": "Pink Tucked Short Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_11_1",
+            "Localized": "Beige Tucked Short Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_11_2",
+            "Localized": "Gray Tucked Short Shirt"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_11_3",
+            "Localized": "Salmon Tucked Short Shirt"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_11_4",
+            "Localized": "Dark Pink Tucked Short Shirt"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_11_5",
+            "Localized": "Yellow Tucked Short Shirt"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_11_6",
+            "Localized": "Cyan Tucked Short Shirt"
+        }
+    },
+    "359": {
+        "0": {
+            "GXT": "CLO_SUF_U_12_0",
+            "Localized": "Pink Untucked Rolled Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_12_1",
+            "Localized": "Beige Untucked Rolled Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_12_2",
+            "Localized": "Gray Untucked Rolled Shirt"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_12_3",
+            "Localized": "Salmon Untucked Rolled Shirt"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_12_4",
+            "Localized": "Dark Pink Untucked Rolled Shirt"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_12_5",
+            "Localized": "Yellow Untucked Rolled Shirt"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_12_6",
+            "Localized": "Cyan Untucked Rolled Shirt"
+        }
+    },
+    "360": {
+        "0": {
+            "GXT": "CLO_SUF_U_13_0",
+            "Localized": "Pink Untucked Short Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_13_1",
+            "Localized": "Beige Untucked Short Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_13_2",
+            "Localized": "Gray Untucked Short Shirt"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_13_3",
+            "Localized": "Salmon Untucked Short Shirt"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_13_4",
+            "Localized": "Dark Pink Untucked Short Shirt"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_13_5",
+            "Localized": "Yellow Untucked Short Shirt"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_13_6",
+            "Localized": "Cyan Untucked Short Shirt"
+        }
+    },
+    "361": {
+        "0": {
+            "GXT": "CLO_SUF_U_14_0",
+            "Localized": "Black Bigness Bomber"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_14_1",
+            "Localized": "Yellow Bigness Bomber"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_14_2",
+            "Localized": "Black 22 Bomber"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_14_3",
+            "Localized": "Black Detail Bomber"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_14_4",
+            "Localized": "Yellow Detail Bomber"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_14_5",
+            "Localized": "Black Trickster Bomber"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_14_6",
+            "Localized": "Yellow Trickster Bomber"
+        }
+    },
+    "362": {
+        "0": {
+            "GXT": "CLO_SUF_U_15_0",
+            "Localized": "Black Bigness Bomber Zipped"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_15_1",
+            "Localized": "Yellow Bigness Bomber Zipped"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_15_2",
+            "Localized": "Black 22 Bomber Zipped"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_15_3",
+            "Localized": "Black Detail Bomber Zipped"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_15_4",
+            "Localized": "Yellow Detail Bomber Zipped"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_15_5",
+            "Localized": "Black Trickster Bomber Zipped"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_15_6",
+            "Localized": "Yellow Trickster Bomber Zipped"
+        }
+    },
+    "363": {
+        "0": {
+            "GXT": "CLO_SUF_U_16_0",
+            "Localized": "Black Bigness Bomber Open"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_16_1",
+            "Localized": "Yellow Bigness Bomber Open"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_16_2",
+            "Localized": "Black 22 Bomber Open"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_16_3",
+            "Localized": "Black Detail Bomber Open"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_16_4",
+            "Localized": "Yellow Detail Bomber Open"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_16_5",
+            "Localized": "Black Trickster Bomber Open"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_16_6",
+            "Localized": "Yellow Trickster Bomber Open"
+        }
+    },
+    "364": {
+        "0": {
+            "GXT": "CLO_SUF_U_17_0",
+            "Localized": "Black Open"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_17_1",
+            "Localized": "Charcoal Open"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_17_2",
+            "Localized": "Gray Open"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_17_3",
+            "Localized": "Ash Open"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_17_4",
+            "Localized": "White Open"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_17_5",
+            "Localized": "Skate Güffy Open"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_17_6",
+            "Localized": "Red Güffy Open"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_17_7",
+            "Localized": "Multicolor Leaves Open"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_17_8",
+            "Localized": "Green Leaves Open"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_17_9",
+            "Localized": "Moss Leopard Open"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_17_10",
+            "Localized": "Cyan Leopard Open"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_17_11",
+            "Localized": "Black and Neon Güffy Open"
+        },
+        "12": {
+            "GXT": "CLO_SUF_U_17_12",
+            "Localized": "White Painted Güffy Open"
+        },
+        "13": {
+            "GXT": "CLO_SUF_U_17_13",
+            "Localized": "Blue Geometric Open"
+        },
+        "14": {
+            "GXT": "CLO_SUF_U_17_14",
+            "Localized": "Pink Geometric Open"
+        },
+        "15": {
+            "GXT": "CLO_SUF_U_17_15",
+            "Localized": "OJ Open"
+        },
+        "16": {
+            "GXT": "CLO_SUF_U_17_16",
+            "Localized": "Splat Open"
+        },
+        "17": {
+            "GXT": "CLO_SUF_U_17_17",
+            "Localized": "Blue Plaid Open"
+        },
+        "18": {
+            "GXT": "CLO_SUF_U_17_18",
+            "Localized": "Blue Gingham Open"
+        },
+        "19": {
+            "GXT": "CLO_SUF_U_17_19",
+            "Localized": "Red Patterned Open"
+        },
+        "20": {
+            "GXT": "CLO_SUF_U_17_20",
+            "Localized": "Brown Patterned Open"
+        },
+        "21": {
+            "GXT": "CLO_SUF_U_17_21",
+            "Localized": "Grayscale Patterned Open"
+        },
+        "22": {
+            "GXT": "CLO_SUF_U_17_22",
+            "Localized": "Blue Dotted Open"
+        },
+        "23": {
+            "GXT": "CLO_SUF_U_17_23",
+            "Localized": "Black Dotted Open"
+        },
+        "24": {
+            "GXT": "CLO_SUF_U_17_24",
+            "Localized": "Baby Blue Dotted Open"
+        },
+        "25": {
+            "GXT": "CLO_SUF_U_17_25",
+            "Localized": "White Dotted Open"
+        }
+    },
+    "365": {
+        "0": {
+            "GXT": "CLO_SUF_U_18_0",
+            "Localized": "Burgundy Garland Open"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_18_1",
+            "Localized": "Black Garland Open"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_18_2",
+            "Localized": "Yellow Savanna Open"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_18_3",
+            "Localized": "Blue Savanna Open"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_18_4",
+            "Localized": "Pink Savanna Open"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_18_5",
+            "Localized": "Black Savanna Open"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_18_6",
+            "Localized": "Peach Botanical Open"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_18_7",
+            "Localized": "Pink Botanical Open"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_18_8",
+            "Localized": "Green Botanical Open"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_18_9",
+            "Localized": "Turquoise Botanical Open"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_18_10",
+            "Localized": "Blue Leaves Open"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_18_11",
+            "Localized": "Gray Leaves Open"
+        },
+        "12": {
+            "GXT": "CLO_SUF_U_18_12",
+            "Localized": "Red Leaves Open"
+        },
+        "13": {
+            "GXT": "CLO_SUF_U_18_13",
+            "Localized": "Teal Leaves Open"
+        },
+        "14": {
+            "GXT": "CLO_SUF_U_18_14",
+            "Localized": "Navy Posies Open"
+        },
+        "15": {
+            "GXT": "CLO_SUF_U_18_15",
+            "Localized": "Blue Posies Open"
+        },
+        "16": {
+            "GXT": "CLO_SUF_U_18_16",
+            "Localized": "Lilac Floral Open"
+        },
+        "17": {
+            "GXT": "CLO_SUF_U_18_17",
+            "Localized": "Floral Open"
+        },
+        "18": {
+            "GXT": "CLO_SUF_U_18_18",
+            "Localized": "Vibrant Gradient Open"
+        },
+        "19": {
+            "GXT": "CLO_SUF_U_18_19",
+            "Localized": "Vivid Gradient Open"
+        },
+        "20": {
+            "GXT": "CLO_SUF_U_18_20",
+            "Localized": "Urban Gradient Open"
+        },
+        "21": {
+            "GXT": "CLO_SUF_U_18_21",
+            "Localized": "Cool Gradient Open"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "366": {
+        "0": {
+            "GXT": "CLO_SUF_U_19_0",
+            "Localized": "White Office Unbuttoned"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_19_1",
+            "Localized": "Cream Office Unbuttoned"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_19_2",
+            "Localized": "Navy Office Unbuttoned"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_19_3",
+            "Localized": "Black Office Unbuttoned"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_19_4",
+            "Localized": "Beige Office Unbuttoned"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_19_5",
+            "Localized": "Ivory Office Unbuttoned"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_19_6",
+            "Localized": "Stone Office Unbuttoned"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_19_7",
+            "Localized": "Berry Office Unbuttoned"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_19_8",
+            "Localized": "Ash Office Unbuttoned"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_19_9",
+            "Localized": "Gray Office Unbuttoned"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_19_10",
+            "Localized": "Light Blue Office Unbuttoned"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_19_11",
+            "Localized": "Pale Pink Office Unbuttoned"
+        },
+        "12": {
+            "GXT": "CLO_SUF_U_19_12",
+            "Localized": "Shell Office Unbuttoned"
+        },
+        "13": {
+            "GXT": "CLO_SUF_U_19_13",
+            "Localized": "Dotty Office Unbuttoned"
+        },
+        "14": {
+            "GXT": "CLO_SUF_U_19_14",
+            "Localized": "Pattern Office Unbuttoned"
+        },
+        "15": {
+            "GXT": "CLO_SUF_U_19_15",
+            "Localized": "Blue Stripes Office Unbuttoned"
+        },
+        "16": {
+            "GXT": "CLO_SUF_U_19_16",
+            "Localized": "White Stripes Office Unbuttoned"
+        },
+        "17": {
+            "GXT": "CLO_SUF_U_19_17",
+            "Localized": "Rust Check Office Unbuttoned"
+        },
+        "18": {
+            "GXT": "CLO_SUF_U_19_18",
+            "Localized": "Blue Check Office Unbuttoned"
+        },
+        "19": {
+            "GXT": "CLO_SUF_U_19_19",
+            "Localized": "Big Blue Check Office Unbuttoned"
+        }
+    },
+    "367": {
+        "0": {
+            "GXT": "CLO_SUF_U_20_0",
+            "Localized": "White Office"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_20_1",
+            "Localized": "Cream Office"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_20_2",
+            "Localized": "Navy Office"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_20_3",
+            "Localized": "Black Office"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_20_4",
+            "Localized": "Beige Office"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_20_5",
+            "Localized": "Ivory Office"
+        },
+        "6": {
+            "GXT": "CLO_SUF_U_20_6",
+            "Localized": "Stone Office"
+        },
+        "7": {
+            "GXT": "CLO_SUF_U_20_7",
+            "Localized": "Berry Office"
+        },
+        "8": {
+            "GXT": "CLO_SUF_U_20_8",
+            "Localized": "Ash Office"
+        },
+        "9": {
+            "GXT": "CLO_SUF_U_20_9",
+            "Localized": "Gray Office"
+        },
+        "10": {
+            "GXT": "CLO_SUF_U_20_10",
+            "Localized": "Light Blue Office"
+        },
+        "11": {
+            "GXT": "CLO_SUF_U_20_11",
+            "Localized": "Pale Pink Office"
+        },
+        "12": {
+            "GXT": "CLO_SUF_U_20_12",
+            "Localized": "Shell Office"
+        },
+        "13": {
+            "GXT": "CLO_SUF_U_20_13",
+            "Localized": "Dotty Office"
+        },
+        "14": {
+            "GXT": "CLO_SUF_U_20_14",
+            "Localized": "Pattern Office"
+        },
+        "15": {
+            "GXT": "CLO_SUF_U_20_15",
+            "Localized": "Blue Stripes Office"
+        },
+        "16": {
+            "GXT": "CLO_SUF_U_20_16",
+            "Localized": "White Stripes Office"
+        },
+        "17": {
+            "GXT": "CLO_SUF_U_20_17",
+            "Localized": "Rust Check Office"
+        },
+        "18": {
+            "GXT": "CLO_SUF_U_20_18",
+            "Localized": "Blue Check Office"
+        },
+        "19": {
+            "GXT": "CLO_SUF_U_20_19",
+            "Localized": "Big Blue Check Office"
+        }
+    },
+    "368": {
+        "0": {
+            "GXT": "CLO_SUF_U_21_0",
+            "Localized": "Purple B Polo Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_21_1",
+            "Localized": "White B Polo Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_21_2",
+            "Localized": "Purple FB Polo Shirt"
+        },
+        "3": {
+            "GXT": "CLO_SUF_U_21_3",
+            "Localized": "White FB Polo Shirt"
+        },
+        "4": {
+            "GXT": "CLO_SUF_U_21_4",
+            "Localized": "Purple Bigness Polo Shirt"
+        },
+        "5": {
+            "GXT": "CLO_SUF_U_21_5",
+            "Localized": "White Bigness Polo Shirt"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "369": {
+        "0": {
+            "GXT": "CLO_SUF_U_22_0",
+            "Localized": "Axe of Fury Tee"
+        },
+        "1": {
+            "GXT": "CLO_SUF_U_22_1",
+            "Localized": "Qub3d Qub3s Tee"
+        },
+        "2": {
+            "GXT": "CLO_SUF_U_22_2",
+            "Localized": "Get Metal Tee"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

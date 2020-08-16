@@ -5582,5 +5582,179 @@
             "GXT": "CLO_H3M_B_19_7",
             "Localized": "Wink"
         }
+    },
+    "180": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "181": {
+        "0": {
+            "GXT": "CLO_SUM_B_1_0",
+            "Localized": "Green Turtle Mask"
+        },
+        "1": {
+            "GXT": "CLO_SUM_B_1_1",
+            "Localized": "Brown Turtle Mask"
+        },
+        "2": {
+            "GXT": "CLO_SUM_B_1_2",
+            "Localized": "Moss Turtle Mask"
+        },
+        "3": {
+            "GXT": "CLO_SUM_B_1_3",
+            "Localized": "Swamp Turtle Mask"
+        }
+    },
+    "182": {
+        "0": {
+            "GXT": "CLO_SUM_B_2_0",
+            "Localized": "White Mouse Mask"
+        },
+        "1": {
+            "GXT": "CLO_SUM_B_2_1",
+            "Localized": "Brown Mouse Mask"
+        },
+        "2": {
+            "GXT": "CLO_SUM_B_2_2",
+            "Localized": "Tan Mouse Mask"
+        },
+        "3": {
+            "GXT": "CLO_SUM_B_2_3",
+            "Localized": "Gray Mouse Mask"
+        }
+    },
+    "183": {
+        "0": {
+            "GXT": "CLO_SUM_B_3_0",
+            "Localized": "Black & Green Tech Mask"
+        },
+        "1": {
+            "GXT": "CLO_SUM_B_3_1",
+            "Localized": "Black & Orange Tech Mask"
+        },
+        "2": {
+            "GXT": "CLO_SUM_B_3_2",
+            "Localized": "Black & Blue Tech Mask"
+        },
+        "3": {
+            "GXT": "CLO_SUM_B_3_3",
+            "Localized": "Black & Pink Tech Mask"
+        },
+        "4": {
+            "GXT": "CLO_SUM_B_3_4",
+            "Localized": "Green Dot Tech Mask"
+        },
+        "5": {
+            "GXT": "CLO_SUM_B_3_5",
+            "Localized": "Orange Dot Tech Mask"
+        },
+        "6": {
+            "GXT": "CLO_SUM_B_3_6",
+            "Localized": "Blue Dot Tech Mask"
+        },
+        "7": {
+            "GXT": "CLO_SUM_B_3_7",
+            "Localized": "Pink Dot Tech Mask"
+        },
+        "8": {
+            "GXT": "CLO_SUM_B_3_8",
+            "Localized": "Green T Tech Mask"
+        },
+        "9": {
+            "GXT": "CLO_SUM_B_3_9",
+            "Localized": "Orange T Tech Mask"
+        },
+        "10": {
+            "GXT": "CLO_SUM_B_3_10",
+            "Localized": "Blue T Tech Mask"
+        },
+        "11": {
+            "GXT": "CLO_SUM_B_3_11",
+            "Localized": "Pink T Tech Mask"
+        },
+        "12": {
+            "GXT": "CLO_SUM_B_3_12",
+            "Localized": "Green Grin Tech Mask"
+        },
+        "13": {
+            "GXT": "CLO_SUM_B_3_13",
+            "Localized": "Orange Grin Tech Mask"
+        },
+        "14": {
+            "GXT": "CLO_SUM_B_3_14",
+            "Localized": "Blue Grin Tech Mask"
+        },
+        "15": {
+            "GXT": "CLO_SUM_B_3_15",
+            "Localized": "Pink Grin Tech Mask"
+        }
+    },
+    "184": {
+        "0": {
+            "GXT": "CLO_SUM_B_4_0",
+            "Localized": "Brown Hyena Mask"
+        },
+        "1": {
+            "GXT": "CLO_SUM_B_4_1",
+            "Localized": "Gray Hyena Mask"
+        },
+        "2": {
+            "GXT": "CLO_SUM_B_4_2",
+            "Localized": "Stone Hyena Mask"
+        },
+        "3": {
+            "GXT": "CLO_SUM_B_4_3",
+            "Localized": "Smoke Hyena Mask"
+        }
     }
 }

@@ -5142,5 +5142,623 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "210": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "211": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "212": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "213": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "214": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "215": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "216": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "217": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "218": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "219": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "220": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "221": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "222": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "225": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "226": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "227": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
+    },
+    "228": {
+        "0": {
+            "GXT": "CLO_SUF_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUF_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUF_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUF_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUF_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUF_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUF_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUF_G_1_7",
+            "Localized": "White & Green Armored"
+        }
     }
 }

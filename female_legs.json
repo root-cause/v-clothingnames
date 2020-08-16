@@ -5266,5 +5266,353 @@
             "GXT": "CLO_H3F_L_5_19",
             "Localized": "Beige Camo Guarded Cargos"
         }
+    },
+    "132": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "133": {
+        "0": {
+            "GXT": "CLO_SUF_L_1_0",
+            "Localized": "Dark Slacks"
+        },
+        "1": {
+            "GXT": "CLO_SUF_L_1_1",
+            "Localized": "Gray Slacks"
+        },
+        "2": {
+            "GXT": "CLO_SUF_L_1_2",
+            "Localized": "Navy Slacks"
+        },
+        "3": {
+            "GXT": "CLO_SUF_L_1_3",
+            "Localized": "White Slacks"
+        },
+        "4": {
+            "GXT": "CLO_SUF_L_1_4",
+            "Localized": "Blue Slacks"
+        },
+        "5": {
+            "GXT": "CLO_SUF_L_1_5",
+            "Localized": "Purple Slacks"
+        },
+        "6": {
+            "GXT": "CLO_SUF_L_1_6",
+            "Localized": "Cyan Slacks"
+        },
+        "7": {
+            "GXT": "CLO_SUF_L_1_7",
+            "Localized": "Patterned Slacks"
+        },
+        "8": {
+            "GXT": "CLO_SUF_L_1_8",
+            "Localized": "Olive Slacks"
+        },
+        "9": {
+            "GXT": "CLO_SUF_L_1_9",
+            "Localized": "Yellow Slacks"
+        },
+        "10": {
+            "GXT": "CLO_SUF_L_1_10",
+            "Localized": "Red Slacks"
+        },
+        "11": {
+            "GXT": "CLO_SUF_L_1_11",
+            "Localized": "Pink Slacks"
+        },
+        "12": {
+            "GXT": "CLO_SUF_L_1_12",
+            "Localized": "Magenta Slacks"
+        },
+        "13": {
+            "GXT": "CLO_SUF_L_1_13",
+            "Localized": "Black & Cream Stripe Slacks"
+        },
+        "14": {
+            "GXT": "CLO_SUF_L_1_14",
+            "Localized": "Dark Red Slacks"
+        },
+        "15": {
+            "GXT": "CLO_SUF_L_1_15",
+            "Localized": "Black & White Stripe Slacks"
+        },
+        "16": {
+            "GXT": "CLO_SUF_L_1_16",
+            "Localized": "Cream Slacks"
+        },
+        "17": {
+            "GXT": "CLO_SUF_L_1_17",
+            "Localized": "Slate Slacks"
+        },
+        "18": {
+            "GXT": "CLO_SUF_L_1_18",
+            "Localized": "Powder Blue Slacks"
+        },
+        "19": {
+            "GXT": "CLO_SUF_L_1_19",
+            "Localized": "Ash Slacks"
+        },
+        "20": {
+            "GXT": "CLO_SUF_L_1_20",
+            "Localized": "Tan Slacks"
+        },
+        "21": {
+            "GXT": "CLO_SUF_L_1_21",
+            "Localized": "Wine Slacks"
+        },
+        "22": {
+            "GXT": "CLO_SUF_L_1_22",
+            "Localized": "Dark Blue Slacks"
+        },
+        "23": {
+            "GXT": "CLO_SUF_L_1_23",
+            "Localized": "Midnight Slacks"
+        },
+        "24": {
+            "GXT": "CLO_SUF_L_1_24",
+            "Localized": "Green Slacks"
+        }
+    },
+    "134": {
+        "0": {
+            "GXT": "CLO_SUF_L_2_0",
+            "Localized": "Cream Sports Track Pants"
+        },
+        "1": {
+            "GXT": "CLO_SUF_L_2_1",
+            "Localized": "Gray Heat Sports Track Pants"
+        },
+        "2": {
+            "GXT": "CLO_SUF_L_2_2",
+            "Localized": "Mustard Heat Sports Track Pants"
+        },
+        "3": {
+            "GXT": "CLO_SUF_L_2_3",
+            "Localized": "Purple Heat Sports Track Pants"
+        },
+        "4": {
+            "GXT": "CLO_SUF_L_2_4",
+            "Localized": "Orange Heat Sports Track Pants"
+        },
+        "5": {
+            "GXT": "CLO_SUF_L_2_5",
+            "Localized": "Pink Heat Sports Track Pants"
+        },
+        "6": {
+            "GXT": "CLO_SUF_L_2_6",
+            "Localized": "White Heat Sports Track Pants"
+        },
+        "7": {
+            "GXT": "CLO_SUF_L_2_7",
+            "Localized": "Cyan Heat Sports Track Pants"
+        },
+        "8": {
+            "GXT": "CLO_SUF_L_2_8",
+            "Localized": "Stone Sports Track Pants"
+        },
+        "9": {
+            "GXT": "CLO_SUF_L_2_9",
+            "Localized": "Blue Sports Track Pants"
+        },
+        "10": {
+            "GXT": "CLO_SUF_L_2_10",
+            "Localized": "Ash Sports Track Pants"
+        },
+        "11": {
+            "GXT": "CLO_SUF_L_2_11",
+            "Localized": "Cyan Sports Track Pants"
+        },
+        "12": {
+            "GXT": "CLO_SUF_L_2_12",
+            "Localized": "Black Sports Track Pants"
+        },
+        "13": {
+            "GXT": "CLO_SUF_L_2_13",
+            "Localized": "Crimson Sports Track Pants"
+        },
+        "14": {
+            "GXT": "CLO_SUF_L_2_14",
+            "Localized": "Navy Sports Track Pants"
+        },
+        "15": {
+            "GXT": "CLO_SUF_L_2_15",
+            "Localized": "Blue DS Sports Track Pants"
+        },
+        "16": {
+            "GXT": "CLO_SUF_L_2_16",
+            "Localized": "Red DS Sports Track Pants"
+        },
+        "17": {
+            "GXT": "CLO_SUF_L_2_17",
+            "Localized": "Yellow DS Sports Track Pants"
+        },
+        "18": {
+            "GXT": "CLO_SUF_L_2_18",
+            "Localized": "Dark Stone Sports Track Pants"
+        },
+        "19": {
+            "GXT": "CLO_SUF_L_2_19",
+            "Localized": "Snow Sports Track Pants"
+        },
+        "20": {
+            "GXT": "CLO_SUF_L_2_20",
+            "Localized": "Smoke Sports Track Pants"
+        },
+        "21": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "CLO_SUF_L_2_25",
+            "Localized": "Lemon Sports Track Pants"
+        }
+    },
+    "135": {
+        "0": {
+            "GXT": "CLO_SUF_L_3_0",
+            "Localized": "Navy Large Cargos"
+        },
+        "1": {
+            "GXT": "CLO_SUF_L_3_1",
+            "Localized": "Black Large Cargos"
+        },
+        "2": {
+            "GXT": "CLO_SUF_L_3_2",
+            "Localized": "Khaki Large Cargos"
+        },
+        "3": {
+            "GXT": "CLO_SUF_L_3_3",
+            "Localized": "Dark Gray Large Cargos"
+        },
+        "4": {
+            "GXT": "CLO_SUF_L_3_4",
+            "Localized": "Light Gray Large Cargos"
+        },
+        "5": {
+            "GXT": "CLO_SUF_L_3_5",
+            "Localized": "Stone Large Cargos"
+        },
+        "6": {
+            "GXT": "CLO_SUF_L_3_6",
+            "Localized": "Ash Large Cargos"
+        },
+        "7": {
+            "GXT": "CLO_SUF_L_3_7",
+            "Localized": "Blue Large Cargos"
+        }
+    },
+    "136": {
+        "0": {
+            "GXT": "CLO_SUF_L_3_0",
+            "Localized": "Navy Large Cargos"
+        },
+        "1": {
+            "GXT": "CLO_SUF_L_3_1",
+            "Localized": "Black Large Cargos"
+        },
+        "2": {
+            "GXT": "CLO_SUF_L_3_2",
+            "Localized": "Khaki Large Cargos"
+        },
+        "3": {
+            "GXT": "CLO_SUF_L_3_3",
+            "Localized": "Dark Gray Large Cargos"
+        },
+        "4": {
+            "GXT": "CLO_SUF_L_3_4",
+            "Localized": "Light Gray Large Cargos"
+        },
+        "5": {
+            "GXT": "CLO_SUF_L_3_5",
+            "Localized": "Stone Large Cargos"
+        },
+        "6": {
+            "GXT": "CLO_SUF_L_3_6",
+            "Localized": "Ash Large Cargos"
+        },
+        "7": {
+            "GXT": "CLO_SUF_L_3_7",
+            "Localized": "Blue Large Cargos"
+        }
+    },
+    "137": {
+        "0": {
+            "GXT": "CLO_SUF_L_5_0",
+            "Localized": "Black Chino Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SUF_L_5_1",
+            "Localized": "Gray Plaid Chino Shorts"
+        },
+        "2": {
+            "GXT": "CLO_SUF_L_5_2",
+            "Localized": "Dark Gray Chino Shorts"
+        },
+        "3": {
+            "GXT": "CLO_SUF_L_5_3",
+            "Localized": "Tan Chino Shorts"
+        },
+        "4": {
+            "GXT": "CLO_SUF_L_5_4",
+            "Localized": "Navy Chino Shorts"
+        },
+        "5": {
+            "GXT": "CLO_SUF_L_5_5",
+            "Localized": "Brown Chino Shorts"
+        },
+        "6": {
+            "GXT": "CLO_SUF_L_5_6",
+            "Localized": "Charcoal Plaid Chino Shorts"
+        },
+        "7": {
+            "GXT": "CLO_SUF_L_5_7",
+            "Localized": "Yellow Chino Shorts"
+        },
+        "8": {
+            "GXT": "CLO_SUF_L_5_8",
+            "Localized": "Silver Plaid Chino Shorts"
+        },
+        "9": {
+            "GXT": "CLO_SUF_L_5_9",
+            "Localized": "Baby Blue Chino Shorts"
+        },
+        "10": {
+            "GXT": "CLO_SUF_L_5_10",
+            "Localized": "White Plaid Chino Shorts"
+        },
+        "11": {
+            "GXT": "CLO_SUF_L_5_11",
+            "Localized": "Light Gray Chino Shorts"
+        },
+        "12": {
+            "GXT": "CLO_SUF_L_5_12",
+            "Localized": "Green Plaid Chino Shorts"
+        },
+        "13": {
+            "GXT": "CLO_SUF_L_5_13",
+            "Localized": "Brown Plaid Chino Shorts"
+        },
+        "14": {
+            "GXT": "CLO_SUF_L_5_14",
+            "Localized": "Red Chino Shorts"
+        },
+        "15": {
+            "GXT": "CLO_SUF_L_5_15",
+            "Localized": "Olive Chino Shorts"
+        }
     }
 }
