@@ -658,5 +658,55 @@
             "GXT": "CLO_VWM_PW_9_2",
             "Localized": "Black SASS Bracelet"
         }
+    },
+    "40": {
+        "0": {
+            "GXT": "CLO_H4M_PLW_0_0",
+            "Localized": "Blue Bangles (L)"
+        },
+        "1": {
+            "GXT": "CLO_H4M_PLW_0_1",
+            "Localized": "Red Bangles (L)"
+        },
+        "2": {
+            "GXT": "CLO_H4M_PLW_0_2",
+            "Localized": "Pink Bangles (L)"
+        },
+        "3": {
+            "GXT": "CLO_H4M_PLW_0_3",
+            "Localized": "Yellow Bangles (L)"
+        },
+        "4": {
+            "GXT": "CLO_H4M_PLW_0_4",
+            "Localized": "Orange Bangles (L)"
+        },
+        "5": {
+            "GXT": "CLO_H4M_PLW_0_5",
+            "Localized": "Green Bangles (L)"
+        },
+        "6": {
+            "GXT": "CLO_H4M_PLW_0_6",
+            "Localized": "Red & Blue Bangles (L)"
+        },
+        "7": {
+            "GXT": "CLO_H4M_PLW_0_7",
+            "Localized": "Yellow & Orange Bangles (L)"
+        },
+        "8": {
+            "GXT": "CLO_H4M_PLW_0_8",
+            "Localized": "Green & Pink Bangles (L)"
+        },
+        "9": {
+            "GXT": "CLO_H4M_PLW_0_9",
+            "Localized": "Rainbow Bangles (L)"
+        },
+        "10": {
+            "GXT": "CLO_H4M_PLW_010",
+            "Localized": "Sunset Bangles (L)"
+        },
+        "11": {
+            "GXT": "CLO_H4M_PLW_011",
+            "Localized": "Tropical Bangles (L)"
+        }
     }
 }

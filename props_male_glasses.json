@@ -1270,5 +1270,205 @@
             "GXT": "CLO_VWM_PEY_119",
             "Localized": "White Fame or Shame Shades"
         }
+    },
+    "30": {
+        "0": {
+            "GXT": "CLO_H4M_PEY_0_0",
+            "Localized": "Blue & Pink Glow Shades"
+        },
+        "1": {
+            "GXT": "CLO_H4M_PEY_0_1",
+            "Localized": "Red Glow Shades"
+        },
+        "2": {
+            "GXT": "CLO_H4M_PEY_0_2",
+            "Localized": "Orange Glow Shades"
+        },
+        "3": {
+            "GXT": "CLO_H4M_PEY_0_3",
+            "Localized": "Yellow Glow Shades"
+        },
+        "4": {
+            "GXT": "CLO_H4M_PEY_0_4",
+            "Localized": "Green Glow Shades"
+        },
+        "5": {
+            "GXT": "CLO_H4M_PEY_0_5",
+            "Localized": "Blue Glow Shades"
+        },
+        "6": {
+            "GXT": "CLO_H4M_PEY_0_6",
+            "Localized": "Pink Glow Shades"
+        },
+        "7": {
+            "GXT": "CLO_H4M_PEY_0_7",
+            "Localized": "Blue & Magenta Glow Shades"
+        },
+        "8": {
+            "GXT": "CLO_H4M_PEY_0_8",
+            "Localized": "Purple & Yellow Glow Shades"
+        },
+        "9": {
+            "GXT": "CLO_H4M_PEY_0_9",
+            "Localized": "Blue & Yellow Glow Shades"
+        },
+        "10": {
+            "GXT": "CLO_H4M_PEY_010",
+            "Localized": "Pink & Yellow Glow Shades"
+        },
+        "11": {
+            "GXT": "CLO_H4M_PEY_011",
+            "Localized": "Red & Yellow Glow Shades"
+        }
+    },
+    "31": {
+        "0": {
+            "GXT": "CLO_H4M_PEY_1_0",
+            "Localized": "Midnight Tint Oversize Shades"
+        },
+        "1": {
+            "GXT": "CLO_H4M_PEY_1_1",
+            "Localized": "Sunset Tint Oversize Shades"
+        },
+        "2": {
+            "GXT": "CLO_H4M_PEY_1_2",
+            "Localized": "Black Tint Oversize Shades"
+        },
+        "3": {
+            "GXT": "CLO_H4M_PEY_1_3",
+            "Localized": "Blue Tint Oversize Shades"
+        },
+        "4": {
+            "GXT": "CLO_H4M_PEY_1_4",
+            "Localized": "Gold Tint Oversize Shades"
+        },
+        "5": {
+            "GXT": "CLO_H4M_PEY_1_5",
+            "Localized": "Green Tint Oversize Shades"
+        },
+        "6": {
+            "GXT": "CLO_H4M_PEY_1_6",
+            "Localized": "Orange Tint Oversize Shades"
+        },
+        "7": {
+            "GXT": "CLO_H4M_PEY_1_7",
+            "Localized": "Red Tint Oversize Shades"
+        },
+        "8": {
+            "GXT": "CLO_H4M_PEY_1_8",
+            "Localized": "Pink Tint Oversize Shades"
+        },
+        "9": {
+            "GXT": "CLO_H4M_PEY_1_9",
+            "Localized": "Yellow Tint Oversize Shades"
+        },
+        "10": {
+            "GXT": "CLO_H4M_PEY_110",
+            "Localized": "Lemon Tint Oversize Shades"
+        },
+        "11": {
+            "GXT": "CLO_H4M_PEY_111",
+            "Localized": "Gold Rimmed Oversize Shades"
+        }
+    },
+    "32": {
+        "0": {
+            "GXT": "CLO_H4M_PEY_2_0",
+            "Localized": "White Checked Round Shades"
+        },
+        "1": {
+            "GXT": "CLO_H4M_PEY_2_1",
+            "Localized": "Pink Checked Round Shades"
+        },
+        "2": {
+            "GXT": "CLO_H4M_PEY_2_2",
+            "Localized": "Yellow Checked Round Shades"
+        },
+        "3": {
+            "GXT": "CLO_H4M_PEY_2_3",
+            "Localized": "Red Checked Round Shades"
+        },
+        "4": {
+            "GXT": "CLO_H4M_PEY_2_4",
+            "Localized": "White Round Shades"
+        },
+        "5": {
+            "GXT": "CLO_H4M_PEY_2_5",
+            "Localized": "Black Round Shades"
+        },
+        "6": {
+            "GXT": "CLO_H4M_PEY_2_6",
+            "Localized": "Pink Tinted Round Shades"
+        },
+        "7": {
+            "GXT": "CLO_H4M_PEY_2_7",
+            "Localized": "Blue Tinted Round Shades"
+        },
+        "8": {
+            "GXT": "CLO_H4M_PEY_2_8",
+            "Localized": "Green Checked Round Shades"
+        },
+        "9": {
+            "GXT": "CLO_H4M_PEY_2_9",
+            "Localized": "Blue Checked Round Shades"
+        },
+        "10": {
+            "GXT": "CLO_H4M_PEY_210",
+            "Localized": "Orange Checked Round Shades"
+        },
+        "11": {
+            "GXT": "CLO_H4M_PEY_211",
+            "Localized": "Green Tinted Round Shades"
+        }
+    },
+    "33": {
+        "0": {
+            "GXT": "CLO_H4M_PEY_3_0",
+            "Localized": "Brown Square Shades"
+        },
+        "1": {
+            "GXT": "CLO_H4M_PEY_3_1",
+            "Localized": "Yellow Square Shades"
+        },
+        "2": {
+            "GXT": "CLO_H4M_PEY_3_2",
+            "Localized": "Black Square Shades"
+        },
+        "3": {
+            "GXT": "CLO_H4M_PEY_3_3",
+            "Localized": "Tortoiseshell Square Shades"
+        },
+        "4": {
+            "GXT": "CLO_H4M_PEY_3_4",
+            "Localized": "Green Square Shades"
+        },
+        "5": {
+            "GXT": "CLO_H4M_PEY_3_5",
+            "Localized": "Red Square Shades"
+        },
+        "6": {
+            "GXT": "CLO_H4M_PEY_3_6",
+            "Localized": "Pink Tinted Square Shades"
+        },
+        "7": {
+            "GXT": "CLO_H4M_PEY_3_7",
+            "Localized": "Blue Tinted Square Shades"
+        },
+        "8": {
+            "GXT": "CLO_H4M_PEY_3_8",
+            "Localized": "White Square Shades"
+        },
+        "9": {
+            "GXT": "CLO_H4M_PEY_3_9",
+            "Localized": "Pink Square Shades"
+        },
+        "10": {
+            "GXT": "CLO_H4M_PEY_310",
+            "Localized": "All White Square Shades"
+        },
+        "11": {
+            "GXT": "CLO_H4M_PEY_311",
+            "Localized": "Mono Square Shades"
+        }
     }
 }

@@ -5848,5 +5848,179 @@
             "GXT": "CLO_SUF_PH_0_0",
             "Localized": "Captain Peaked Cap"
         }
+    },
+    "149": {
+        "0": {
+            "GXT": "CLO_H4F_PH_0_0",
+            "Localized": "Black Advanced"
+        },
+        "1": {
+            "GXT": "CLO_H4F_PH_0_1",
+            "Localized": "Moss Advanced"
+        },
+        "2": {
+            "GXT": "CLO_H4F_PH_0_2",
+            "Localized": "Brown Advanced"
+        },
+        "3": {
+            "GXT": "CLO_H4F_PH_0_3",
+            "Localized": "White Advanced"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "CLO_H4F_PH_0_8",
+            "Localized": "Leopard Advanced"
+        },
+        "9": {
+            "GXT": "CLO_H4F_PH_0_9",
+            "Localized": "Brown Digital Advanced"
+        },
+        "10": {
+            "GXT": "CLO_H4F_PH_0_10",
+            "Localized": "Tiger Advanced"
+        },
+        "11": {
+            "GXT": "CLO_H4F_PH_0_11",
+            "Localized": "Pink Pattern Advanced"
+        },
+        "12": {
+            "GXT": "CLO_H4F_PH_0_12",
+            "Localized": "Peach Digital Advanced"
+        },
+        "13": {
+            "GXT": "CLO_H4F_PH_0_13",
+            "Localized": "Fall Advanced"
+        },
+        "14": {
+            "GXT": "CLO_H4F_PH_0_14",
+            "Localized": "Dark Woodland Advanced"
+        },
+        "15": {
+            "GXT": "CLO_H4F_PH_0_15",
+            "Localized": "Crosshatch Advanced"
+        },
+        "16": {
+            "GXT": "CLO_H4F_PH_0_16",
+            "Localized": "Green Pattern Advanced"
+        },
+        "17": {
+            "GXT": "CLO_H4F_PH_0_17",
+            "Localized": "Gray Woodland Advanced"
+        },
+        "18": {
+            "GXT": "CLO_H4F_PH_0_18",
+            "Localized": "Aqua Camo Advanced"
+        },
+        "19": {
+            "GXT": "CLO_H4F_PH_0_19",
+            "Localized": "Splinter Advanced"
+        },
+        "20": {
+            "GXT": "CLO_H4F_PH_0_20",
+            "Localized": "Contrast Camo Advanced"
+        },
+        "21": {
+            "GXT": "CLO_H4F_PH_0_21",
+            "Localized": "Cobble Advanced"
+        },
+        "22": {
+            "GXT": "CLO_H4F_PH_0_22",
+            "Localized": "Brushstroke Advanced"
+        },
+        "23": {
+            "GXT": "CLO_H4F_PH_0_23",
+            "Localized": "Flecktarn Advanced"
+        },
+        "24": {
+            "GXT": "CLO_H4F_PH_0_24",
+            "Localized": "Black & Red Advanced"
+        },
+        "25": {
+            "GXT": "CLO_H4F_PH_0_25",
+            "Localized": "Zebra Advanced"
+        }
+    },
+    "150": {
+        "0": {
+            "GXT": "CLO_H4F_PH_1_0",
+            "Localized": "Enus Yeti Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_H4F_PH_1_1",
+            "Localized": "720 Forwards Cap"
+        },
+        "2": {
+            "GXT": "CLO_H4F_PH_1_2",
+            "Localized": "Exsorbeo 720 Forwards Cap"
+        },
+        "3": {
+            "GXT": "CLO_H4F_PH_1_3",
+            "Localized": "Güffy Double Logo Forwards Cap"
+        },
+        "4": {
+            "GXT": "CLO_H4F_PH_1_4",
+            "Localized": "Rockstar Forwards Cap"
+        },
+        "5": {
+            "GXT": "CLO_H4F_PH_1_5",
+            "Localized": "Civilist White Forwards Cap"
+        },
+        "6": {
+            "GXT": "CLO_H4F_PH_1_6",
+            "Localized": "Civilist Black Forwards Cap"
+        },
+        "7": {
+            "GXT": "CLO_H4F_PH_1_7",
+            "Localized": "Civilist Orange Forwards Cap"
+        }
+    },
+    "151": {
+        "0": {
+            "GXT": "CLO_H4F_PH_2_0",
+            "Localized": "Enus Yeti Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_H4F_PH_2_1",
+            "Localized": "720 Backwards Cap"
+        },
+        "2": {
+            "GXT": "CLO_H4F_PH_2_2",
+            "Localized": "Exsorbeo 720 Backwards Cap"
+        },
+        "3": {
+            "GXT": "CLO_H4F_PH_2_3",
+            "Localized": "Güffy Double Logo Backwards Cap"
+        },
+        "4": {
+            "GXT": "CLO_H4F_PH_2_4",
+            "Localized": "Rockstar Backwards Cap"
+        },
+        "5": {
+            "GXT": "CLO_H4F_PH_2_5",
+            "Localized": "Civilist White Backwards Cap"
+        },
+        "6": {
+            "GXT": "CLO_H4F_PH_2_6",
+            "Localized": "Civilist Black Backwards Cap"
+        },
+        "7": {
+            "GXT": "CLO_H4F_PH_2_7",
+            "Localized": "Civilist Orange Backwards Cap"
+        }
     }
 }
