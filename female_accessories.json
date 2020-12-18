@@ -1512,5 +1512,487 @@
             "GXT": "CLO_H3F_T_1_0",
             "Localized": "Dog With Cone Chain"
         }
+    },
+    "105": {
+        "0": {
+            "GXT": "CLO_H4F_T_0_0",
+            "Localized": "Gold LS Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_0_1",
+            "Localized": "Silver LS Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_0_2",
+            "Localized": "Copper LS Pendant"
+        }
+    },
+    "106": {
+        "0": {
+            "GXT": "CLO_H4F_T_0_0",
+            "Localized": "Gold LS Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_0_1",
+            "Localized": "Silver LS Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_0_2",
+            "Localized": "Copper LS Pendant"
+        }
+    },
+    "107": {
+        "0": {
+            "GXT": "CLO_H4F_T_2_0",
+            "Localized": "White Enamel LS Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_2_1",
+            "Localized": "Silver Plate LS Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_2_2",
+            "Localized": "Two-Tone LS Pendant"
+        }
+    },
+    "108": {
+        "0": {
+            "GXT": "CLO_H4F_T_2_0",
+            "Localized": "White Enamel LS Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_2_1",
+            "Localized": "Silver Plate LS Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_2_2",
+            "Localized": "Two-Tone LS Pendant"
+        }
+    },
+    "109": {
+        "0": {
+            "GXT": "CLO_H4F_T_4_0",
+            "Localized": "Gold Tags"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_4_1",
+            "Localized": "Silver Tags"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_4_2",
+            "Localized": "Bronze Tags"
+        }
+    },
+    "110": {
+        "0": {
+            "GXT": "CLO_H4F_T_4_0",
+            "Localized": "Gold Tags"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_4_1",
+            "Localized": "Silver Tags"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_4_2",
+            "Localized": "Bronze Tags"
+        }
+    },
+    "111": {
+        "0": {
+            "GXT": "CLO_H4F_T_6_0",
+            "Localized": "Gold L$ Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_6_1",
+            "Localized": "Silver L$ Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_6_2",
+            "Localized": "Two-Tone L$ Pendant"
+        }
+    },
+    "112": {
+        "0": {
+            "GXT": "CLO_H4F_T_6_0",
+            "Localized": "Gold L$ Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_6_1",
+            "Localized": "Silver L$ Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_6_2",
+            "Localized": "Two-Tone L$ Pendant"
+        }
+    },
+    "113": {
+        "0": {
+            "GXT": "CLO_H4F_T_8_0",
+            "Localized": "Gold Coin Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_8_1",
+            "Localized": "Silver Coin Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_8_2",
+            "Localized": "Bronze Coin Pendant"
+        }
+    },
+    "114": {
+        "0": {
+            "GXT": "CLO_H4F_T_8_0",
+            "Localized": "Gold Coin Pendant"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_8_1",
+            "Localized": "Silver Coin Pendant"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_8_2",
+            "Localized": "Bronze Coin Pendant"
+        }
+    },
+    "115": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "116": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "117": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "118": {
+        "0": {
+            "GXT": "CLO_H4F_T_13_0",
+            "Localized": "Blue Glow Necklace"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_13_1",
+            "Localized": "Red Glow Necklace"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_13_2",
+            "Localized": "Pink Glow Necklace"
+        },
+        "3": {
+            "GXT": "CLO_H4F_T_13_3",
+            "Localized": "Yellow Glow Necklace"
+        },
+        "4": {
+            "GXT": "CLO_H4F_T_13_4",
+            "Localized": "Orange Glow Necklace"
+        },
+        "5": {
+            "GXT": "CLO_H4F_T_13_5",
+            "Localized": "Green Glow Necklace"
+        },
+        "6": {
+            "GXT": "CLO_H4F_T_13_6",
+            "Localized": "Festival Glow Necklace"
+        },
+        "7": {
+            "GXT": "CLO_H4F_T_13_7",
+            "Localized": "Carnival Glow Necklace"
+        },
+        "8": {
+            "GXT": "CLO_H4F_T_13_8",
+            "Localized": "Tropical Glow Necklace"
+        },
+        "9": {
+            "GXT": "CLO_H4F_T_13_9",
+            "Localized": "Hot Glow Necklace"
+        },
+        "10": {
+            "GXT": "CLO_H4F_T_13_10",
+            "Localized": "Neon Glow Necklace"
+        },
+        "11": {
+            "GXT": "CLO_H4F_T_13_11",
+            "Localized": "Party Glow Necklace"
+        },
+        "12": {
+            "GXT": "CLO_H4F_T_13_12",
+            "Localized": "Sunset Glow Necklace"
+        },
+        "13": {
+            "GXT": "CLO_H4F_T_13_13",
+            "Localized": "Radiant Glow Necklace"
+        },
+        "14": {
+            "GXT": "CLO_H4F_T_13_14",
+            "Localized": "Sunrise Glow Necklace"
+        },
+        "15": {
+            "GXT": "CLO_H4F_T_13_15",
+            "Localized": "Session Glow Necklace"
+        }
+    },
+    "119": {
+        "0": {
+            "GXT": "CLO_H4F_T_13_0",
+            "Localized": "Blue Glow Necklace"
+        },
+        "1": {
+            "GXT": "CLO_H4F_T_13_1",
+            "Localized": "Red Glow Necklace"
+        },
+        "2": {
+            "GXT": "CLO_H4F_T_13_2",
+            "Localized": "Pink Glow Necklace"
+        },
+        "3": {
+            "GXT": "CLO_H4F_T_13_3",
+            "Localized": "Yellow Glow Necklace"
+        },
+        "4": {
+            "GXT": "CLO_H4F_T_13_4",
+            "Localized": "Orange Glow Necklace"
+        },
+        "5": {
+            "GXT": "CLO_H4F_T_13_5",
+            "Localized": "Green Glow Necklace"
+        },
+        "6": {
+            "GXT": "CLO_H4F_T_13_6",
+            "Localized": "Festival Glow Necklace"
+        },
+        "7": {
+            "GXT": "CLO_H4F_T_13_7",
+            "Localized": "Carnival Glow Necklace"
+        },
+        "8": {
+            "GXT": "CLO_H4F_T_13_8",
+            "Localized": "Tropical Glow Necklace"
+        },
+        "9": {
+            "GXT": "CLO_H4F_T_13_9",
+            "Localized": "Hot Glow Necklace"
+        },
+        "10": {
+            "GXT": "CLO_H4F_T_13_10",
+            "Localized": "Neon Glow Necklace"
+        },
+        "11": {
+            "GXT": "CLO_H4F_T_13_11",
+            "Localized": "Party Glow Necklace"
+        },
+        "12": {
+            "GXT": "CLO_H4F_T_13_12",
+            "Localized": "Sunset Glow Necklace"
+        },
+        "13": {
+            "GXT": "CLO_H4F_T_13_13",
+            "Localized": "Radiant Glow Necklace"
+        },
+        "14": {
+            "GXT": "CLO_H4F_T_13_14",
+            "Localized": "Sunrise Glow Necklace"
+        },
+        "15": {
+            "GXT": "CLO_H4F_T_13_15",
+            "Localized": "Session Glow Necklace"
+        }
     }
 }

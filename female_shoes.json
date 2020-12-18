@@ -4254,5 +4254,17 @@
             "GXT": "CLO_H3F_F_0_0",
             "Localized": "Dog With Cone Slip-Ons"
         }
+    },
+    "100": {
+        "0": {
+            "GXT": "CLO_H4F_F_0_0",
+            "Localized": "Heavy Uniform Boots"
+        }
+    },
+    "101": {
+        "0": {
+            "GXT": "CLO_H4F_F_0_0",
+            "Localized": "Heavy Uniform Boots"
+        }
     }
 }

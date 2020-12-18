@@ -4598,5 +4598,271 @@
             "GXT": "CLO_SUM_G_1_7",
             "Localized": "White & Green Armored"
         }
+    },
+    "184": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "185": {
+        "0": {
+            "GXT": "CLO_HSTM_G_0_0",
+            "Localized": "Black Driving Gloves"
+        },
+        "1": {
+            "GXT": "CLO_HSTM_G_0_1",
+            "Localized": "Brown Driving Gloves"
+        }
+    },
+    "186": {
+        "0": {
+            "GXT": "CLO_HSTM_G_1_0",
+            "Localized": "Black Leather Gloves"
+        },
+        "1": {
+            "GXT": "CLO_HSTM_G_1_1",
+            "Localized": "Brown Leather Gloves"
+        }
+    },
+    "187": {
+        "0": {
+            "GXT": "CLO_HSTM_G_2_0",
+            "Localized": "Black Woolen Gloves"
+        },
+        "1": {
+            "GXT": "CLO_HSTM_G_2_1",
+            "Localized": "Gray Woolen Gloves"
+        }
+    },
+    "188": {
+        "0": {
+            "GXT": "CLO_HSTM_G_3_0",
+            "Localized": "Black Fingerless Gloves"
+        },
+        "1": {
+            "GXT": "CLO_HSTM_G_3_1",
+            "Localized": "Gray Fingerless Gloves"
+        }
+    },
+    "189": {
+        "0": {
+            "GXT": "CLO_HSTM_G_6_0",
+            "Localized": "Refuse Collector Gloves"
+        }
+    },
+    "190": {
+        "0": {
+            "GXT": "CLO_HSTM_G_4_0",
+            "Localized": "White Cotton Gloves"
+        }
+    },
+    "191": {
+        "0": {
+            "GXT": "CLO_HSTM_G_5_0",
+            "Localized": "Blue Surgical Gloves"
+        },
+        "1": {
+            "GXT": "CLO_HSTM_G_5_1",
+            "Localized": "White Surgical Gloves"
+        }
+    },
+    "192": {
+        "0": {
+            "GXT": "CLO_GRM_G_0_0",
+            "Localized": "Blue Digital Armored"
+        },
+        "1": {
+            "GXT": "CLO_GRM_G_0_1",
+            "Localized": "Brown Digital Armored"
+        },
+        "2": {
+            "GXT": "CLO_GRM_G_0_2",
+            "Localized": "Green Digital Armored"
+        },
+        "3": {
+            "GXT": "CLO_GRM_G_0_3",
+            "Localized": "Gray Digital Armored"
+        },
+        "4": {
+            "GXT": "CLO_GRM_G_0_4",
+            "Localized": "Peach Digital Armored"
+        },
+        "5": {
+            "GXT": "CLO_GRM_G_0_5",
+            "Localized": "Fall Armored"
+        },
+        "6": {
+            "GXT": "CLO_GRM_G_0_6",
+            "Localized": "Dark Woodland Armored"
+        },
+        "7": {
+            "GXT": "CLO_GRM_G_0_7",
+            "Localized": "Crosshatch Armored"
+        },
+        "8": {
+            "GXT": "CLO_GRM_G_0_8",
+            "Localized": "Moss Digital Armored"
+        },
+        "9": {
+            "GXT": "CLO_GRM_G_0_9",
+            "Localized": "Gray Woodland Armored"
+        },
+        "10": {
+            "GXT": "CLO_GRM_G_0_10",
+            "Localized": "Aqua Camo Armored"
+        },
+        "11": {
+            "GXT": "CLO_GRM_G_0_11",
+            "Localized": "Splinter Armored"
+        },
+        "12": {
+            "GXT": "CLO_GRM_G_0_12",
+            "Localized": "Contrast Camo Armored"
+        },
+        "13": {
+            "GXT": "CLO_GRM_G_0_13",
+            "Localized": "Cobble Armored"
+        },
+        "14": {
+            "GXT": "CLO_GRM_G_0_14",
+            "Localized": "Peach Camo Armored"
+        },
+        "15": {
+            "GXT": "CLO_GRM_G_0_15",
+            "Localized": "Brushstroke Armored"
+        },
+        "16": {
+            "GXT": "CLO_GRM_G_0_16",
+            "Localized": "Flecktarn Armored"
+        },
+        "17": {
+            "GXT": "CLO_GRM_G_0_17",
+            "Localized": "Light Woodland Armored"
+        },
+        "18": {
+            "GXT": "CLO_GRM_G_0_18",
+            "Localized": "Moss Armored"
+        },
+        "19": {
+            "GXT": "CLO_GRM_G_0_19",
+            "Localized": "Sand Armored"
+        }
+    },
+    "193": {
+        "0": {
+            "GXT": "CLO_GRM_G_1_0",
+            "Localized": "Blue Digital Tactical"
+        },
+        "1": {
+            "GXT": "CLO_GRM_G_1_1",
+            "Localized": "Brown Digital Tactical"
+        },
+        "2": {
+            "GXT": "CLO_GRM_G_1_2",
+            "Localized": "Green Digital Tactical"
+        },
+        "3": {
+            "GXT": "CLO_GRM_G_1_3",
+            "Localized": "Gray Digital Tactical"
+        },
+        "4": {
+            "GXT": "CLO_GRM_G_1_4",
+            "Localized": "Peach Digital Tactical"
+        },
+        "5": {
+            "GXT": "CLO_GRM_G_1_5",
+            "Localized": "Fall Tactical"
+        },
+        "6": {
+            "GXT": "CLO_GRM_G_1_6",
+            "Localized": "Dark Woodland Tactical"
+        },
+        "7": {
+            "GXT": "CLO_GRM_G_1_7",
+            "Localized": "Crosshatch Tactical"
+        },
+        "8": {
+            "GXT": "CLO_GRM_G_1_8",
+            "Localized": "Moss Digital Tactical"
+        },
+        "9": {
+            "GXT": "CLO_GRM_G_1_9",
+            "Localized": "Gray Woodland Tactical"
+        },
+        "10": {
+            "GXT": "CLO_GRM_G_1_10",
+            "Localized": "Aqua Camo Tactical"
+        },
+        "11": {
+            "GXT": "CLO_GRM_G_1_11",
+            "Localized": "Splinter Tactical"
+        },
+        "12": {
+            "GXT": "CLO_GRM_G_1_12",
+            "Localized": "Contrast Camo Tactical"
+        },
+        "13": {
+            "GXT": "CLO_GRM_G_1_13",
+            "Localized": "Cobble Tactical"
+        },
+        "14": {
+            "GXT": "CLO_GRM_G_1_14",
+            "Localized": "Peach Camo Tactical"
+        },
+        "15": {
+            "GXT": "CLO_GRM_G_1_15",
+            "Localized": "Brushstroke Tactical"
+        },
+        "16": {
+            "GXT": "CLO_GRM_G_1_16",
+            "Localized": "Flecktarn Tactical"
+        },
+        "17": {
+            "GXT": "CLO_GRM_G_1_17",
+            "Localized": "Light Woodland Tactical"
+        },
+        "18": {
+            "GXT": "CLO_GRM_G_1_18",
+            "Localized": "Moss Tactical"
+        },
+        "19": {
+            "GXT": "CLO_GRM_G_1_19",
+            "Localized": "Sand Tactical"
+        }
+    },
+    "194": {
+        "0": {
+            "GXT": "CLO_SUM_G_1_0",
+            "Localized": "Black Armored"
+        },
+        "1": {
+            "GXT": "CLO_SUM_G_1_1",
+            "Localized": "Gray Armored"
+        },
+        "2": {
+            "GXT": "CLO_SUM_G_1_2",
+            "Localized": "Ash Armored"
+        },
+        "3": {
+            "GXT": "CLO_SUM_G_1_3",
+            "Localized": "White Armored"
+        },
+        "4": {
+            "GXT": "CLO_SUM_G_1_4",
+            "Localized": "Red & Gray Armored"
+        },
+        "5": {
+            "GXT": "CLO_SUM_G_1_5",
+            "Localized": "Brown Armored"
+        },
+        "6": {
+            "GXT": "CLO_SUM_G_1_6",
+            "Localized": "Smoke Armored"
+        },
+        "7": {
+            "GXT": "CLO_SUM_G_1_7",
+            "Localized": "White & Green Armored"
+        }
     }
 }

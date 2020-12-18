@@ -5614,5 +5614,29 @@
             "GXT": "CLO_SUF_L_5_15",
             "Localized": "Olive Chino Shorts"
         }
+    },
+    "138": {
+        "0": {
+            "GXT": "CLO_H4F_L_0_0",
+            "Localized": "Bigness Tie-dye Sports Pants"
+        }
+    },
+    "139": {
+        "0": {
+            "GXT": "CLO_H4F_L_1_0",
+            "Localized": "Broker Prolaps Basketball Shorts"
+        },
+        "1": {
+            "GXT": "CLO_H4F_L_1_1",
+            "Localized": "Panic Prolaps Basketball Shorts"
+        },
+        "2": {
+            "GXT": "CLO_H4F_L_1_2",
+            "Localized": "Exsorbeo 720 Sports Shorts"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

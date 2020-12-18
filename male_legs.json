@@ -5312,5 +5312,25 @@
             "GXT": "CLO_SUM_L_2_7",
             "Localized": "Blue Large Cargos"
         }
+    },
+    "131": {
+        "0": {
+            "GXT": "CLO_H4M_L_0_0",
+            "Localized": "Bigness Tie-dye Sports Pants"
+        }
+    },
+    "132": {
+        "0": {
+            "GXT": "CLO_H4M_L_1_0",
+            "Localized": "Broker Prolaps Basketball Shorts"
+        },
+        "1": {
+            "GXT": "CLO_H4M_L_1_1",
+            "Localized": "Panic Prolaps Basketball Shorts"
+        },
+        "2": {
+            "GXT": "CLO_H4M_L_1_2",
+            "Localized": "Exsorbeo 720 Sports Shorts"
+        }
     }
 }
