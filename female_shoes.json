@@ -4266,5 +4266,153 @@
             "GXT": "CLO_H4F_F_0_0",
             "Localized": "Heavy Uniform Boots"
         }
+    },
+    "102": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "103": {
+        "0": {
+            "GXT": "CLO_TRF_F_1_0",
+            "Localized": "Ice Knit Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_TRF_F_1_1",
+            "Localized": "White Knit Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_TRF_F_1_2",
+            "Localized": "Aqua Sole Knit Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_TRF_F_1_3",
+            "Localized": "Black Knit Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_TRF_F_1_4",
+            "Localized": "Cream Knit Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_TRF_F_1_5",
+            "Localized": "Smoky Knit Sneakers"
+        },
+        "6": {
+            "GXT": "CLO_TRF_F_1_6",
+            "Localized": "Lime Highlight Knit Sneakers"
+        },
+        "7": {
+            "GXT": "CLO_TRF_F_1_7",
+            "Localized": "Pink Vibrant Knit Sneakers"
+        },
+        "8": {
+            "GXT": "CLO_TRF_F_1_8",
+            "Localized": "Lilac Knit Sneakers"
+        },
+        "9": {
+            "GXT": "CLO_TRF_F_1_9",
+            "Localized": "Red Highlight Knit Sneakers"
+        },
+        "10": {
+            "GXT": "CLO_TRF_F_1_10",
+            "Localized": "Cyan Fade Knit Sneakers"
+        },
+        "11": {
+            "GXT": "CLO_TRF_F_1_11",
+            "Localized": "Purple Fade Knit Sneakers"
+        },
+        "12": {
+            "GXT": "CLO_TRF_F_1_12",
+            "Localized": "Beige Knit Sneakers"
+        },
+        "13": {
+            "GXT": "CLO_TRF_F_1_13",
+            "Localized": "Grayscale Knit Sneakers"
+        },
+        "14": {
+            "GXT": "CLO_TRF_F_1_14",
+            "Localized": "Gray & Cyan Knit Sneakers"
+        },
+        "15": {
+            "GXT": "CLO_TRF_F_1_15",
+            "Localized": "Gray & Aqua Knit Sneakers"
+        },
+        "16": {
+            "GXT": "CLO_TRF_F_1_16",
+            "Localized": "Black & Lime Knit Sneakers"
+        },
+        "17": {
+            "GXT": "CLO_TRF_F_1_17",
+            "Localized": "Teal Knit Sneakers"
+        },
+        "18": {
+            "GXT": "CLO_TRF_F_1_18",
+            "Localized": "Gray & Purple Knit Sneakers"
+        },
+        "19": {
+            "GXT": "CLO_TRF_F_1_19",
+            "Localized": "Gray & Magenta Knit Sneakers"
+        },
+        "20": {
+            "GXT": "CLO_TRF_F_1_20",
+            "Localized": "Gray & Yellow Knit Sneakers"
+        },
+        "21": {
+            "GXT": "CLO_TRF_F_1_21",
+            "Localized": "Orange Knit Sneakers"
+        },
+        "22": {
+            "GXT": "CLO_TRF_F_1_22",
+            "Localized": "White & Gold Knit Sneakers"
+        },
+        "23": {
+            "GXT": "CLO_TRF_F_1_23",
+            "Localized": "White & Pink Knit Sneakers"
+        }
+    },
+    "104": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "105": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

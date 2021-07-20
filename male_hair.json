@@ -1216,5 +1216,13 @@
             "HairTattooCollection": 1347816957,
             "HairTattooOverlay": -599666460
         }
+    },
+    "75": {
+        "0": {
+            "GXT": "CLO_TRM_H_0_0",
+            "Localized": "Afro Faded",
+            "HairTattooCollection": -1970774728,
+            "HairTattooOverlay": -416636904
+        }
     }
 }

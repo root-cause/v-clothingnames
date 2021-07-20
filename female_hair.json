@@ -1284,5 +1284,13 @@
             "HairTattooCollection": 1347816957,
             "HairTattooOverlay": 987747946
         }
+    },
+    "79": {
+        "0": {
+            "GXT": "CLO_TRF_H_0_0",
+            "Localized": "Afro",
+            "HairTattooCollection": -1970774728,
+            "HairTattooOverlay": -2025496493
+        }
     }
 }

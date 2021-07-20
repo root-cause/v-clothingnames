@@ -4864,5 +4864,11 @@
             "GXT": "CLO_SUM_G_1_7",
             "Localized": "White & Green Armored"
         }
+    },
+    "195": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

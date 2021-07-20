@@ -3016,5 +3016,11 @@
             "GXT": "CLO_H4M_T_13_15",
             "Localized": "Session Glow Necklace"
         }
+    },
+    "151": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

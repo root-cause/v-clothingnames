@@ -15498,5 +15498,797 @@
             "GXT": "CLO_H4M_U_10_0",
             "Localized": "Panther Tour Jacket"
         }
+    },
+    "362": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "363": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "364": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "365": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_3_1",
+            "Localized": "Lost Print Darted Vest"
+        }
+    },
+    "366": {
+        "0": {
+            "GXT": "CLO_TRM_U_4_0",
+            "Localized": "Lost Print Flat Front Cut"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "367": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_5_4",
+            "Localized": "Worn Black LMC Print Cut"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "368": {
+        "0": {
+            "GXT": "CLO_TRM_U_6_0",
+            "Localized": "Worn Black LMC Patched Biker"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "369": {
+        "0": {
+            "GXT": "CLO_TRM_U_7_0",
+            "Localized": "Aqua Camo Sleeveless Puffer"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_7_1",
+            "Localized": "Orange Camo Sleeveless Puffer"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_7_2",
+            "Localized": "Red Check Sleeveless Puffer"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_7_3",
+            "Localized": "Cyan Check Sleeveless Puffer"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_7_4",
+            "Localized": "Cream Splinter Sleeveless Puffer"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_7_5",
+            "Localized": "Dark Splinter Sleeveless Puffer"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_7_6",
+            "Localized": "Gradient Sleeveless Puffer"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_7_7",
+            "Localized": "Pink Gradient Sleeveless Puffer"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_7_8",
+            "Localized": "Cream Bigness Sleeveless Puffer"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_7_9",
+            "Localized": "Purple Bigness Sleeveless Puffer"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_7_10",
+            "Localized": "Green Latin Sleeveless Puffer"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_7_11",
+            "Localized": "Black Latin Sleeveless Puffer"
+        },
+        "12": {
+            "GXT": "CLO_TRM_U_7_12",
+            "Localized": "Black Aztec Sleeveless Puffer"
+        },
+        "13": {
+            "GXT": "CLO_TRM_U_7_13",
+            "Localized": "Green Aztec Sleeveless Puffer"
+        },
+        "14": {
+            "GXT": "CLO_TRM_U_7_14",
+            "Localized": "Black Geo Sleeveless Puffer"
+        },
+        "15": {
+            "GXT": "CLO_TRM_U_7_15",
+            "Localized": "Green Geo Sleeveless Puffer"
+        }
+    },
+    "370": {
+        "0": {
+            "GXT": "CLO_TRM_U_8_0",
+            "Localized": "Aqua Camo Puffer"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_8_1",
+            "Localized": "Orange Camo Puffer"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_8_2",
+            "Localized": "Red Check Puffer"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_8_3",
+            "Localized": "Cyan Check Puffer"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_8_4",
+            "Localized": "Cream Splinter Puffer"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_8_5",
+            "Localized": "Dark Splinter Puffer"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_8_6",
+            "Localized": "Gradient Puffer"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_8_7",
+            "Localized": "Pink Gradient Puffer"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_8_8",
+            "Localized": "Cream Bigness Puffer"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_8_9",
+            "Localized": "Purple Bigness Puffer"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_8_10",
+            "Localized": "Green Latin Puffer"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_8_11",
+            "Localized": "Black Latin Puffer"
+        },
+        "12": {
+            "GXT": "CLO_TRM_U_8_12",
+            "Localized": "Black Aztec Puffer"
+        },
+        "13": {
+            "GXT": "CLO_TRM_U_8_13",
+            "Localized": "Green Aztec Puffer"
+        },
+        "14": {
+            "GXT": "CLO_TRM_U_8_14",
+            "Localized": "Black Geo Puffer"
+        },
+        "15": {
+            "GXT": "CLO_TRM_U_8_15",
+            "Localized": "Green Geo Puffer"
+        }
+    },
+    "371": {
+        "0": {
+            "GXT": "CLO_TRM_U_9_0",
+            "Localized": "Black Bravado Modern Racing"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_9_1",
+            "Localized": "Blue Bravado Modern Racing"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_9_2",
+            "Localized": "Fade Broker Modern Racing"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_9_3",
+            "Localized": "Yellow Vapid Modern Racing"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_9_4",
+            "Localized": "Dark Dinka Modern Racing"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_9_5",
+            "Localized": "Light Dinka Modern Racing"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_9_6",
+            "Localized": "Red Dinka Modern Racing"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_9_7",
+            "Localized": "Blue Dinka Modern Racing"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_9_8",
+            "Localized": "White Güffy Modern Racing"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_9_9",
+            "Localized": "Black Güffy Modern Racing"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_9_10",
+            "Localized": "Hayes Modern Racing"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_9_11",
+            "Localized": "Imponte Modern Racing"
+        },
+        "12": {
+            "GXT": "CLO_TRM_U_9_12",
+            "Localized": "LTD Modern Racing"
+        },
+        "13": {
+            "GXT": "CLO_TRM_U_9_13",
+            "Localized": "Ubermacht Modern Racing"
+        },
+        "14": {
+            "GXT": "CLO_TRM_U_9_14",
+            "Localized": "Xero Modern Racing"
+        },
+        "15": {
+            "GXT": "CLO_TRM_U_9_15",
+            "Localized": "LS Customs Tour Jacket"
+        }
+    },
+    "372": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "373": {
+        "0": {
+            "GXT": "CLO_TRM_U_11_0",
+            "Localized": "Banshee Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_11_1",
+            "Localized": "Blue Annis Noise Hoodie"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_11_2",
+            "Localized": "Gray Annis Noise Hoodie"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_11_3",
+            "Localized": "Light Dinka Hoodie"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_11_4",
+            "Localized": "Dark Dinka Hoodie"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_11_5",
+            "Localized": "Green Emperor Classic Hoodie"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_11_6",
+            "Localized": "Gray Emperor Classic Hoodie"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_11_7",
+            "Localized": "Green Emperor Modern Hoodie"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_11_8",
+            "Localized": "Dark Emperor Modern Hoodie"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_11_9",
+            "Localized": "Gray Karin Hoodie"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_11_10",
+            "Localized": "Navy Karin Hoodie"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_11_11",
+            "Localized": "Gold Lampadati Hoodie"
+        },
+        "12": {
+            "GXT": "CLO_TRM_U_11_12",
+            "Localized": "Tricolor Lampadati Hoodie"
+        },
+        "13": {
+            "GXT": "CLO_TRM_U_11_13",
+            "Localized": "Dark Obey Hoodie"
+        },
+        "14": {
+            "GXT": "CLO_TRM_U_11_14",
+            "Localized": "Light Obey Hoodie"
+        },
+        "15": {
+            "GXT": "CLO_TRM_U_11_15",
+            "Localized": "Gray Pfister Hoodie"
+        },
+        "16": {
+            "GXT": "CLO_TRM_U_11_16",
+            "Localized": "Yellow Pfister Hoodie"
+        },
+        "17": {
+            "GXT": "CLO_TRM_U_11_17",
+            "Localized": "Black Ubermacht Hoodie"
+        },
+        "18": {
+            "GXT": "CLO_TRM_U_11_18",
+            "Localized": "Red Ubermacht Hoodie"
+        },
+        "19": {
+            "GXT": "CLO_TRM_U_11_19",
+            "Localized": "Black Vapid Ellie Hoodie"
+        },
+        "20": {
+            "GXT": "CLO_TRM_U_11_20",
+            "Localized": "Navy Vapid Ellie Hoodie"
+        }
+    },
+    "374": {
+        "0": {
+            "GXT": "CLO_TRM_U_12_0",
+            "Localized": "Banshee Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_12_1",
+            "Localized": "Blue Annis Noise Hoodie"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_12_2",
+            "Localized": "Gray Annis Noise Hoodie"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_12_3",
+            "Localized": "Light Dinka Hoodie"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_12_4",
+            "Localized": "Dark Dinka Hoodie"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_12_5",
+            "Localized": "Green Emperor Classic Hoodie"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_12_6",
+            "Localized": "Gray Emperor Classic Hoodie"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_12_7",
+            "Localized": "Green Emperor Modern Hoodie"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_12_8",
+            "Localized": "Dark Emperor Modern Hoodie"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_12_9",
+            "Localized": "Gray Karin Hoodie"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_12_10",
+            "Localized": "Navy Karin Hoodie"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_12_11",
+            "Localized": "Gold Lampadati Hoodie"
+        },
+        "12": {
+            "GXT": "CLO_TRM_U_12_12",
+            "Localized": "Tricolor Lampadati Hoodie"
+        },
+        "13": {
+            "GXT": "CLO_TRM_U_12_13",
+            "Localized": "Dark Obey Hoodie"
+        },
+        "14": {
+            "GXT": "CLO_TRM_U_12_14",
+            "Localized": "Light Obey Hoodie"
+        },
+        "15": {
+            "GXT": "CLO_TRM_U_12_15",
+            "Localized": "Gray Pfister Hoodie"
+        },
+        "16": {
+            "GXT": "CLO_TRM_U_12_16",
+            "Localized": "Yellow Pfister Hoodie"
+        },
+        "17": {
+            "GXT": "CLO_TRM_U_12_17",
+            "Localized": "Black Ubermacht Hoodie"
+        },
+        "18": {
+            "GXT": "CLO_TRM_U_12_18",
+            "Localized": "Red Ubermacht Hoodie"
+        },
+        "19": {
+            "GXT": "CLO_TRM_U_12_19",
+            "Localized": "Black Vapid Ellie Hoodie"
+        },
+        "20": {
+            "GXT": "CLO_TRM_U_12_20",
+            "Localized": "Navy Vapid Ellie Hoodie"
+        }
+    },
+    "375": {
+        "0": {
+            "GXT": "CLO_TRM_U_13_0",
+            "Localized": "Sprunk Varsity"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_13_1",
+            "Localized": "eCola Varsity"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_13_2",
+            "Localized": "LS Customs Varsity"
+        }
+    },
+    "376": {
+        "0": {
+            "GXT": "CLO_TRM_U_14_0",
+            "Localized": "Sprunk Varsity"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_14_1",
+            "Localized": "eCola Varsity"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_14_2",
+            "Localized": "LS Customs Varsity"
+        }
+    },
+    "377": {
+        "0": {
+            "GXT": "CLO_TRM_U_15_0",
+            "Localized": "Yellow Annis Rally Tee"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_15_1",
+            "Localized": "Annis Hellion 4x4 Tee"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_15_2",
+            "Localized": "Black Annis Noise Tee"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_15_3",
+            "Localized": "Blue Annis Noise Tee"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_15_4",
+            "Localized": "Light Dinka Tee"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_15_5",
+            "Localized": "Dark Dinka Tee"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_15_6",
+            "Localized": "Black Vapid USA Tee"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_15_7",
+            "Localized": "Dark Vapid Ellie Tee"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_15_8",
+            "Localized": "Light Vapid Ellie Tee"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_15_9",
+            "Localized": "Gray Vapid Truck Tee"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_15_10",
+            "Localized": "Light Blue Vapid Truck Tee"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_15_11",
+            "Localized": "Karin 90s Tee"
+        },
+        "12": {
+            "GXT": "CLO_TRM_U_15_12",
+            "Localized": "White Obey Omnis Tee"
+        },
+        "13": {
+            "GXT": "CLO_TRM_U_15_13",
+            "Localized": "Red Obey Omnis Tee"
+        },
+        "14": {
+            "GXT": "CLO_TRM_U_15_14",
+            "Localized": "Pfister Pocket Tee"
+        },
+        "15": {
+            "GXT": "CLO_TRM_U_15_15",
+            "Localized": "White Logo Ruiner Tee"
+        },
+        "16": {
+            "GXT": "CLO_TRM_U_15_16",
+            "Localized": "Red Logo Ruiner Tee"
+        },
+        "17": {
+            "GXT": "CLO_TRM_U_15_17",
+            "Localized": "Blue Bravado Gauntlet Tee"
+        },
+        "18": {
+            "GXT": "CLO_TRM_U_15_18",
+            "Localized": "Black Bravado Gauntlet Tee"
+        },
+        "19": {
+            "GXT": "CLO_TRM_U_15_19",
+            "Localized": "Navy Emperor Motors Tee"
+        },
+        "20": {
+            "GXT": "CLO_TRM_U_15_20",
+            "Localized": "White Emperor Motors Tee"
+        }
+    },
+    "378": {
+        "0": {
+            "GXT": "CLO_TRM_U_16_0",
+            "Localized": "Red Globe Oil Retro Racing"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_16_1",
+            "Localized": "White Globe Oil Retro Racing"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_16_2",
+            "Localized": "Black Crowex Retro Racing"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_16_3",
+            "Localized": "Green Crowex Retro Racing"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_16_4",
+            "Localized": "Yellow Atomic Retro Racing"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_16_5",
+            "Localized": "Blue Atomic Retro Racing"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_16_6",
+            "Localized": "Blue Redwood Retro Racing"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_16_7",
+            "Localized": "Red Redwood Retro Racing"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_16_8",
+            "Localized": "Blue Hayes Retro Racing"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_16_9",
+            "Localized": "White Hayes Retro Racing"
+        }
+    },
+    "379": {
+        "0": {
+            "GXT": "CLO_TRM_U_17_0",
+            "Localized": "Mono Leather Bomber"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_17_1",
+            "Localized": "Ox Blood Leather Bomber"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_17_2",
+            "Localized": "Dark Tan Leather Bomber"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_17_3",
+            "Localized": "Dark Green Leather Bomber"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_17_4",
+            "Localized": "Dark Nut Leather Bomber"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_17_5",
+            "Localized": "Orange Tan Leather Bomber"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_17_6",
+            "Localized": "Navy Blue Leather Bomber"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_17_7",
+            "Localized": "Red Leather Bomber"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_17_8",
+            "Localized": "Mustard Tan Leather Bomber"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_17_9",
+            "Localized": "Chestnut Tan Leather Bomber"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_17_10",
+            "Localized": "White Leather Bomber"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_17_11",
+            "Localized": "Gray Leather Bomber"
+        }
+    },
+    "380": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "381": {
+        "0": {
+            "GXT": "CLO_TRM_U_19_0",
+            "Localized": "Mono Leather Bomber"
+        },
+        "1": {
+            "GXT": "CLO_TRM_U_19_1",
+            "Localized": "Ox Blood Leather Bomber"
+        },
+        "2": {
+            "GXT": "CLO_TRM_U_19_2",
+            "Localized": "Dark Tan Leather Bomber"
+        },
+        "3": {
+            "GXT": "CLO_TRM_U_19_3",
+            "Localized": "Dark Green Leather Bomber"
+        },
+        "4": {
+            "GXT": "CLO_TRM_U_19_4",
+            "Localized": "Dark Nut Leather Bomber"
+        },
+        "5": {
+            "GXT": "CLO_TRM_U_19_5",
+            "Localized": "Orange Tan Leather Bomber"
+        },
+        "6": {
+            "GXT": "CLO_TRM_U_19_6",
+            "Localized": "Navy Blue Leather Bomber"
+        },
+        "7": {
+            "GXT": "CLO_TRM_U_19_7",
+            "Localized": "Red Leather Bomber"
+        },
+        "8": {
+            "GXT": "CLO_TRM_U_19_8",
+            "Localized": "Mustard Tan Leather Bomber"
+        },
+        "9": {
+            "GXT": "CLO_TRM_U_19_9",
+            "Localized": "Chestnut Tan Leather Bomber"
+        },
+        "10": {
+            "GXT": "CLO_TRM_U_19_10",
+            "Localized": "White Leather Bomber"
+        },
+        "11": {
+            "GXT": "CLO_TRM_U_19_11",
+            "Localized": "Gray Leather Bomber"
+        }
     }
 }

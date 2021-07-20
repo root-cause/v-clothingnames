@@ -8018,5 +8018,229 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "178": {
+        "0": {
+            "GXT": "CLO_H3M_U_7_0",
+            "Localized": "White Dress Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUM_U_17_0",
+            "Localized": "White Office"
+        },
+        "2": {
+            "GXT": "CLO_SUM_U_17_1",
+            "Localized": "Cream Office"
+        },
+        "3": {
+            "GXT": "CLO_SUM_U_17_2",
+            "Localized": "Navy Office"
+        },
+        "4": {
+            "GXT": "CLO_SUM_U_17_3",
+            "Localized": "Black Office"
+        },
+        "5": {
+            "GXT": "CLO_SUM_U_17_4",
+            "Localized": "Beige Office"
+        },
+        "6": {
+            "GXT": "CLO_SUM_U_17_5",
+            "Localized": "Ivory Office"
+        },
+        "7": {
+            "GXT": "CLO_SUM_U_17_6",
+            "Localized": "Stone Office"
+        },
+        "8": {
+            "GXT": "CLO_SUM_U_17_7",
+            "Localized": "Berry Office"
+        },
+        "9": {
+            "GXT": "CLO_SUM_U_17_8",
+            "Localized": "Ash Office"
+        },
+        "10": {
+            "GXT": "CLO_SUM_U_17_9",
+            "Localized": "Gray Office"
+        },
+        "11": {
+            "GXT": "CLO_SUM_U_17_10",
+            "Localized": "Light Blue Office"
+        },
+        "12": {
+            "GXT": "CLO_SUM_U_17_11",
+            "Localized": "Pale Pink Office"
+        },
+        "13": {
+            "GXT": "CLO_SUM_U_17_12",
+            "Localized": "Shell Office"
+        },
+        "14": {
+            "GXT": "CLO_SUM_U_17_13",
+            "Localized": "Dotty Office"
+        },
+        "15": {
+            "GXT": "CLO_SUM_U_17_14",
+            "Localized": "Pattern Office"
+        },
+        "16": {
+            "GXT": "CLO_SUM_U_17_15",
+            "Localized": "Blue Stripes Office"
+        },
+        "17": {
+            "GXT": "CLO_SUM_U_17_16",
+            "Localized": "White Stripes Office"
+        },
+        "18": {
+            "GXT": "CLO_SUM_U_17_17",
+            "Localized": "Rust Check Office"
+        },
+        "19": {
+            "GXT": "CLO_SUM_U_17_18",
+            "Localized": "Blue Check Office"
+        },
+        "20": {
+            "GXT": "CLO_SUM_U_17_19",
+            "Localized": "Big Blue Check Office"
+        }
+    },
+    "179": {
+        "0": {
+            "GXT": "CLO_H3M_U_7_0",
+            "Localized": "White Dress Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SUM_U_16_0",
+            "Localized": "White Office Unbuttoned"
+        },
+        "2": {
+            "GXT": "CLO_SUM_U_16_1",
+            "Localized": "Cream Office Unbuttoned"
+        },
+        "3": {
+            "GXT": "CLO_SUM_U_16_2",
+            "Localized": "Navy Office Unbuttoned"
+        },
+        "4": {
+            "GXT": "CLO_SUM_U_16_3",
+            "Localized": "Black Office Unbuttoned"
+        },
+        "5": {
+            "GXT": "CLO_SUM_U_16_4",
+            "Localized": "Beige Office Unbuttoned"
+        },
+        "6": {
+            "GXT": "CLO_SUM_U_16_5",
+            "Localized": "Ivory Office Unbuttoned"
+        },
+        "7": {
+            "GXT": "CLO_SUM_U_16_6",
+            "Localized": "Stone Office Unbuttoned"
+        },
+        "8": {
+            "GXT": "CLO_SUM_U_16_7",
+            "Localized": "Berry Office Unbuttoned"
+        },
+        "9": {
+            "GXT": "CLO_SUM_U_16_8",
+            "Localized": "Ash Office Unbuttoned"
+        },
+        "10": {
+            "GXT": "CLO_SUM_U_16_9",
+            "Localized": "Gray Office Unbuttoned"
+        },
+        "11": {
+            "GXT": "CLO_SUM_U_16_10",
+            "Localized": "Light Blue Office Unbuttoned"
+        },
+        "12": {
+            "GXT": "CLO_SUM_U_16_11",
+            "Localized": "Pale Pink Office Unbuttoned"
+        },
+        "13": {
+            "GXT": "CLO_SUM_U_16_12",
+            "Localized": "Shell Office Unbuttoned"
+        },
+        "14": {
+            "GXT": "CLO_SUM_U_16_13",
+            "Localized": "Dotty Office Unbuttoned"
+        },
+        "15": {
+            "GXT": "CLO_SUM_U_16_14",
+            "Localized": "Pattern Office Unbuttoned"
+        },
+        "16": {
+            "GXT": "CLO_SUM_U_16_15",
+            "Localized": "Blue Stripes Office Unbuttoned"
+        },
+        "17": {
+            "GXT": "CLO_SUM_U_16_16",
+            "Localized": "White Stripes Office Unbuttoned"
+        },
+        "18": {
+            "GXT": "CLO_SUM_U_16_17",
+            "Localized": "Rust Check Office Unbuttoned"
+        },
+        "19": {
+            "GXT": "CLO_SUM_U_16_18",
+            "Localized": "Blue Check Office Unbuttoned"
+        },
+        "20": {
+            "GXT": "CLO_SUM_U_16_19",
+            "Localized": "Big Blue Check Office Unbuttoned"
+        }
+    },
+    "180": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "181": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "182": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "183": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

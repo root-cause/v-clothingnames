@@ -6026,5 +6026,11 @@
             "GXT": "CLO_SUF_G_1_7",
             "Localized": "White & Green Armored"
         }
+    },
+    "240": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
