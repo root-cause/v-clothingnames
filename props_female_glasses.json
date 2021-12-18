@@ -1534,5 +1534,305 @@
             "GXT": "CLO_H4F_PEY_311",
             "Localized": "Mono Square Shades"
         }
+    },
+    "36": {
+        "0": {
+            "GXT": "CLO_FXF_PE_0_0",
+            "Localized": "Black Round"
+        },
+        "1": {
+            "GXT": "CLO_FXF_PE_0_1",
+            "Localized": "Silver Round"
+        },
+        "2": {
+            "GXT": "CLO_FXF_PE_0_2",
+            "Localized": "Gold Round"
+        },
+        "3": {
+            "GXT": "CLO_FXF_PE_0_3",
+            "Localized": "Rose Round"
+        },
+        "4": {
+            "GXT": "CLO_FXF_PE_0_4",
+            "Localized": "Tortoiseshell Round"
+        },
+        "5": {
+            "GXT": "CLO_FXF_PE_0_5",
+            "Localized": "Gold Framed Round"
+        },
+        "6": {
+            "GXT": "CLO_FXF_PE_0_6",
+            "Localized": "Blue Framed Round"
+        },
+        "7": {
+            "GXT": "CLO_FXF_PE_0_7",
+            "Localized": "Tortoiseshell & Silver Round"
+        },
+        "8": {
+            "GXT": "CLO_FXF_PE_0_8",
+            "Localized": "Tortoiseshell & Gold Round"
+        },
+        "9": {
+            "GXT": "CLO_FXF_PE_0_9",
+            "Localized": "Gray Tortoiseshell Round"
+        },
+        "10": {
+            "GXT": "CLO_FXF_PE_0_10",
+            "Localized": "Gold Swirl Round"
+        },
+        "11": {
+            "GXT": "CLO_FXF_PE_0_11",
+            "Localized": "Gold Fade Round"
+        }
+    },
+    "37": {
+        "0": {
+            "GXT": "CLO_FXF_PE_1_0",
+            "Localized": "Black Square"
+        },
+        "1": {
+            "GXT": "CLO_FXF_PE_1_1",
+            "Localized": "Silver Square"
+        },
+        "2": {
+            "GXT": "CLO_FXF_PE_1_2",
+            "Localized": "Gold Square"
+        },
+        "3": {
+            "GXT": "CLO_FXF_PE_1_3",
+            "Localized": "Rose Square"
+        },
+        "4": {
+            "GXT": "CLO_FXF_PE_1_4",
+            "Localized": "Black & Red Square"
+        },
+        "5": {
+            "GXT": "CLO_FXF_PE_1_5",
+            "Localized": "Black & Brown Square"
+        },
+        "6": {
+            "GXT": "CLO_FXF_PE_1_6",
+            "Localized": "Black & Blue Square"
+        },
+        "7": {
+            "GXT": "CLO_FXF_PE_1_7",
+            "Localized": "Tortoiseshell & Brown Square"
+        },
+        "8": {
+            "GXT": "CLO_FXF_PE_1_8",
+            "Localized": "Gold & Tortoiseshell Square"
+        },
+        "9": {
+            "GXT": "CLO_FXF_PE_1_9",
+            "Localized": "Gray Tortoiseshell Square"
+        },
+        "10": {
+            "GXT": "CLO_FXF_PE_1_10",
+            "Localized": "Tortoiseshell Square"
+        },
+        "11": {
+            "GXT": "CLO_FXF_PE_1_11",
+            "Localized": "Pink & Black Square"
+        }
+    },
+    "38": {
+        "0": {
+            "GXT": "CLO_FXF_PE_2_0",
+            "Localized": "Black Cat Eye"
+        },
+        "1": {
+            "GXT": "CLO_FXF_PE_2_1",
+            "Localized": "Silver Cat Eye"
+        },
+        "2": {
+            "GXT": "CLO_FXF_PE_2_2",
+            "Localized": "Gold Cat Eye"
+        },
+        "3": {
+            "GXT": "CLO_FXF_PE_2_3",
+            "Localized": "Tortoiseshell Cat Eye"
+        },
+        "4": {
+            "GXT": "CLO_FXF_PE_2_4",
+            "Localized": "Black & Green Cat Eye"
+        },
+        "5": {
+            "GXT": "CLO_FXF_PE_2_5",
+            "Localized": "Dark Tortoiseshell Cat Eye"
+        },
+        "6": {
+            "GXT": "CLO_FXF_PE_2_6",
+            "Localized": "Black & Teal Cat Eye"
+        },
+        "7": {
+            "GXT": "CLO_FXF_PE_2_7",
+            "Localized": "Black & Red Cat Eye"
+        },
+        "8": {
+            "GXT": "CLO_FXF_PE_2_8",
+            "Localized": "Gold & Black Cat Eye"
+        },
+        "9": {
+            "GXT": "CLO_FXF_PE_2_9",
+            "Localized": "Navy Cat Eye"
+        },
+        "10": {
+            "GXT": "CLO_FXF_PE_2_10",
+            "Localized": "Pink & Black Cat Eye"
+        },
+        "11": {
+            "GXT": "CLO_FXF_PE_2_11",
+            "Localized": "Gold Tortoiseshell Cat Eye"
+        }
+    },
+    "39": {
+        "0": {
+            "GXT": "CLO_FXF_PE_3_0",
+            "Localized": "Black Rectangular"
+        },
+        "1": {
+            "GXT": "CLO_FXF_PE_3_1",
+            "Localized": "Silver Rectangular"
+        },
+        "2": {
+            "GXT": "CLO_FXF_PE_3_2",
+            "Localized": "Gold Rectangular"
+        },
+        "3": {
+            "GXT": "CLO_FXF_PE_3_3",
+            "Localized": "Light Tortoiseshell Rectangular"
+        },
+        "4": {
+            "GXT": "CLO_FXF_PE_3_4",
+            "Localized": "Claret Tortoiseshell Rectangular"
+        },
+        "5": {
+            "GXT": "CLO_FXF_PE_3_5",
+            "Localized": "Blue Rectangular"
+        },
+        "6": {
+            "GXT": "CLO_FXF_PE_3_6",
+            "Localized": "Gray & Red Rectangular"
+        },
+        "7": {
+            "GXT": "CLO_FXF_PE_3_7",
+            "Localized": "Teal Fade Rectangular"
+        },
+        "8": {
+            "GXT": "CLO_FXF_PE_3_8",
+            "Localized": "Yellow Rectangular"
+        },
+        "9": {
+            "GXT": "CLO_FXF_PE_3_9",
+            "Localized": "Green Rectangular"
+        },
+        "10": {
+            "GXT": "CLO_FXF_PE_3_10",
+            "Localized": "Red Fade Rectangular"
+        },
+        "11": {
+            "GXT": "CLO_FXF_PE_3_11",
+            "Localized": "Dark Tortoiseshell Rectangular"
+        }
+    },
+    "40": {
+        "0": {
+            "GXT": "CLO_FXF_PE_4_0",
+            "Localized": "Black Ergonomic"
+        },
+        "1": {
+            "GXT": "CLO_FXF_PE_4_1",
+            "Localized": "Silver Ergonomic"
+        },
+        "2": {
+            "GXT": "CLO_FXF_PE_4_2",
+            "Localized": "Gold Ergonomic"
+        },
+        "3": {
+            "GXT": "CLO_FXF_PE_4_3",
+            "Localized": "Tortoiseshell Ergonomic"
+        },
+        "4": {
+            "GXT": "CLO_FXF_PE_4_4",
+            "Localized": "Green Ergonomic"
+        },
+        "5": {
+            "GXT": "CLO_FXF_PE_4_5",
+            "Localized": "Dark Tortoiseshell Ergonomic"
+        },
+        "6": {
+            "GXT": "CLO_FXF_PE_4_6",
+            "Localized": "Teal Ergonomic"
+        },
+        "7": {
+            "GXT": "CLO_FXF_PE_4_7",
+            "Localized": "Red Ergonomic"
+        },
+        "8": {
+            "GXT": "CLO_FXF_PE_4_8",
+            "Localized": "Gold & Black Ergonomic"
+        },
+        "9": {
+            "GXT": "CLO_FXF_PE_4_9",
+            "Localized": "Blue Ergonomic"
+        },
+        "10": {
+            "GXT": "CLO_FXF_PE_4_10",
+            "Localized": "Pink Ergonomic"
+        },
+        "11": {
+            "GXT": "CLO_FXF_PE_4_11",
+            "Localized": "Tiger Ergonomic"
+        }
+    },
+    "41": {
+        "0": {
+            "GXT": "CLO_FXF_PE_5_0",
+            "Localized": "Black Retro Round"
+        },
+        "1": {
+            "GXT": "CLO_FXF_PE_5_1",
+            "Localized": "Silver Retro Round"
+        },
+        "2": {
+            "GXT": "CLO_FXF_PE_5_2",
+            "Localized": "Gold Retro Round"
+        },
+        "3": {
+            "GXT": "CLO_FXF_PE_5_3",
+            "Localized": "Rose Retro Round"
+        },
+        "4": {
+            "GXT": "CLO_FXF_PE_5_4",
+            "Localized": "Black & Pink Retro Round"
+        },
+        "5": {
+            "GXT": "CLO_FXF_PE_5_5",
+            "Localized": "Black & Brown Retro Round"
+        },
+        "6": {
+            "GXT": "CLO_FXF_PE_5_6",
+            "Localized": "Black & Navy Retro Round"
+        },
+        "7": {
+            "GXT": "CLO_FXF_PE_5_7",
+            "Localized": "Tortoiseshell Rim Retro Round"
+        },
+        "8": {
+            "GXT": "CLO_FXF_PE_5_8",
+            "Localized": "Gold & Tortoiseshell Retro Round"
+        },
+        "9": {
+            "GXT": "CLO_FXF_PE_5_9",
+            "Localized": "Black Tortoiseshell Retro Round"
+        },
+        "10": {
+            "GXT": "CLO_FXF_PE_5_10",
+            "Localized": "Tortoiseshell Retro Round"
+        },
+        "11": {
+            "GXT": "CLO_FXF_PE_5_11",
+            "Localized": "Gold & Black Retro Round"
+        }
     }
 }

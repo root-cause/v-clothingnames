@@ -10550,5 +10550,269 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "222": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "225": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "226": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "227": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "228": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
+    },
+    "229": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
+    },
+    "230": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
+    },
+    "231": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
+    },
+    "232": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
+    },
+    "233": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
     }
 }

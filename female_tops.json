@@ -17474,5 +17474,935 @@
             "GXT": "CLO_TRF_U_18_11",
             "Localized": "Gray Leather Bomber"
         }
+    },
+    "400": {
+        "0": {
+            "GXT": "CLO_FXF_U_0_0",
+            "Localized": "Blue Heat Golf Polo"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_0_1",
+            "Localized": "Pink Heat Golf Polo"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_0_2",
+            "Localized": "Yellow Heat Golf Polo"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_0_3",
+            "Localized": "White Prolaps Golf Polo"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_0_4",
+            "Localized": "Navy Prolaps Golf Polo"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_0_5",
+            "Localized": "Pink Prolaps Golf Polo"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_0_6",
+            "Localized": "Black Prolaps Golf Polo"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_0_7",
+            "Localized": "Green Prolaps Golf Polo"
+        }
+    },
+    "401": {
+        "0": {
+            "GXT": "CLO_FXF_U_1_0",
+            "Localized": "Blue Heat Golf Polo"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_1_1",
+            "Localized": "Pink Heat Golf Polo"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_1_2",
+            "Localized": "Yellow Heat Golf Polo"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_1_3",
+            "Localized": "White Prolaps Golf Polo"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_1_4",
+            "Localized": "Navy Prolaps Golf Polo"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_1_5",
+            "Localized": "Pink Prolaps Golf Polo"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_1_6",
+            "Localized": "Black Prolaps Golf Polo"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_1_7",
+            "Localized": "Green Prolaps Golf Polo"
+        }
+    },
+    "402": {
+        "0": {
+            "GXT": "CLO_FXF_U_2_0",
+            "Localized": "Tan Racer"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_2_1",
+            "Localized": "Yellow Racer"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_2_2",
+            "Localized": "Red Racer"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_2_3",
+            "Localized": "Navy Blue Racer"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_2_4",
+            "Localized": "Mustard Racer"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_2_5",
+            "Localized": "Slate Racer"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_2_6",
+            "Localized": "Dark Green Racer"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_2_7",
+            "Localized": "Dark Orange Racer"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_2_8",
+            "Localized": "Dark Nut Racer"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_2_9",
+            "Localized": "Mono Racer"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_2_10",
+            "Localized": "Light Blue Racer"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_2_11",
+            "Localized": "Orange Racer"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_2_12",
+            "Localized": "Gray Racer"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_2_13",
+            "Localized": "Ice Racer"
+        }
+    },
+    "403": {
+        "0": {
+            "GXT": "CLO_FXF_U_2_0",
+            "Localized": "Tan Racer"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_2_1",
+            "Localized": "Yellow Racer"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_2_2",
+            "Localized": "Red Racer"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_2_3",
+            "Localized": "Navy Blue Racer"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_2_4",
+            "Localized": "Mustard Racer"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_2_5",
+            "Localized": "Slate Racer"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_2_6",
+            "Localized": "Dark Green Racer"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_2_7",
+            "Localized": "Dark Orange Racer"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_2_8",
+            "Localized": "Dark Nut Racer"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_2_9",
+            "Localized": "Mono Racer"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_2_10",
+            "Localized": "Light Blue Racer"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_2_11",
+            "Localized": "Orange Racer"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_2_12",
+            "Localized": "Gray Racer"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_2_13",
+            "Localized": "Ice Racer"
+        }
+    },
+    "404": {
+        "0": {
+            "GXT": "CLO_FXF_U_4_0",
+            "Localized": "Blush Blouse"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_4_1",
+            "Localized": "Ash Blouse"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_4_2",
+            "Localized": "Gray Blouse"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_4_3",
+            "Localized": "Mono Blouse"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_4_4",
+            "Localized": "Light Blue Blouse"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_4_5",
+            "Localized": "Blue Blouse"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_4_6",
+            "Localized": "Rouge Blouse"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_4_7",
+            "Localized": "Mustard Blouse"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_4_8",
+            "Localized": "Blue Collar Le Chien Blouse"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_4_9",
+            "Localized": "Pink Collar Le Chien Blouse"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_4_10",
+            "Localized": "Beige Collar Le Chien Blouse"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_4_11",
+            "Localized": "Teal Blagueurs Blouse"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_4_12",
+            "Localized": "White Blagueurs Blouse"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_4_13",
+            "Localized": "Pink Blagueurs Blouse"
+        },
+        "14": {
+            "GXT": "CLO_FXF_U_4_14",
+            "Localized": "Yellow Blagueurs Blouse"
+        },
+        "15": {
+            "GXT": "CLO_FXF_U_4_15",
+            "Localized": "Yellow Santo Capra Blouse"
+        },
+        "16": {
+            "GXT": "CLO_FXF_U_4_16",
+            "Localized": "White Santo Capra Blouse"
+        },
+        "17": {
+            "GXT": "CLO_FXF_U_4_17",
+            "Localized": "Pink Santo Capra Blouse"
+        },
+        "18": {
+            "GXT": "CLO_FXF_U_4_18",
+            "Localized": "Pastel DS Blouse"
+        },
+        "19": {
+            "GXT": "CLO_FXF_U_4_19",
+            "Localized": "Pink DS Blouse"
+        },
+        "20": {
+            "GXT": "CLO_FXF_U_4_20",
+            "Localized": "Animal DS Blouse"
+        },
+        "21": {
+            "GXT": "CLO_FXF_U_4_21",
+            "Localized": "Blue DS Blouse"
+        },
+        "22": {
+            "GXT": "CLO_FXF_U_4_22",
+            "Localized": "Aqua Animal DS Blouse"
+        },
+        "23": {
+            "GXT": "CLO_FXF_U_4_23",
+            "Localized": "Aqua Tie-dye DS Blouse"
+        },
+        "24": {
+            "GXT": "CLO_FXF_U_4_24",
+            "Localized": "White Wild DS Blouse"
+        },
+        "25": {
+            "GXT": "CLO_FXF_U_4_25",
+            "Localized": "Black Wild DS Blouse"
+        }
+    },
+    "405": {
+        "0": {
+            "GXT": "CLO_FXF_U_5_0",
+            "Localized": "White Tie-dye DS Blouse"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_5_1",
+            "Localized": "Cream Tie-dye DS Blouse"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_5_2",
+            "Localized": "Peach Enema Tie-dye Blouse"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_5_3",
+            "Localized": "Purple Enema Tie-dye Blouse"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_5_4",
+            "Localized": "Teal Enema Tie-dye Blouse"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_5_5",
+            "Localized": "Black Enema Tie-dye Blouse"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_5_6",
+            "Localized": "Yellow VDG Blouse"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_5_7",
+            "Localized": "Blue VDG Blouse"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_5_8",
+            "Localized": "Pink VDG Blouse"
+        }
+    },
+    "406": {
+        "0": {
+            "GXT": "CLO_FXF_U_6_0",
+            "Localized": "Black V Neck"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_6_1",
+            "Localized": "Dark Gray V Neck"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_6_2",
+            "Localized": "Gray V Neck"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_6_3",
+            "Localized": "Ice V Neck"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_6_4",
+            "Localized": "Beige V Neck"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_6_5",
+            "Localized": "Chocolate V Neck"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_6_6",
+            "Localized": "Claret V Neck"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_6_7",
+            "Localized": "Hot Pink V Neck"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_6_8",
+            "Localized": "Red V Neck"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_6_9",
+            "Localized": "Tangerine V Neck"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_6_10",
+            "Localized": "Yellow V Neck"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_6_11",
+            "Localized": "Lemon V Neck"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_6_12",
+            "Localized": "Navy V Neck"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_6_13",
+            "Localized": "Blue V Neck"
+        },
+        "14": {
+            "GXT": "CLO_FXF_U_6_14",
+            "Localized": "Cerulean V Neck"
+        },
+        "15": {
+            "GXT": "CLO_FXF_U_6_15",
+            "Localized": "Cyan V Neck"
+        },
+        "16": {
+            "GXT": "CLO_FXF_U_6_16",
+            "Localized": "Powder Blue V Neck"
+        },
+        "17": {
+            "GXT": "CLO_FXF_U_6_17",
+            "Localized": "Lilac V Neck"
+        },
+        "18": {
+            "GXT": "CLO_FXF_U_6_18",
+            "Localized": "Dark Green V Neck"
+        },
+        "19": {
+            "GXT": "CLO_FXF_U_6_19",
+            "Localized": "Jade V Neck"
+        },
+        "20": {
+            "GXT": "CLO_FXF_U_6_20",
+            "Localized": "Olive V Neck"
+        },
+        "21": {
+            "GXT": "CLO_FXF_U_6_21",
+            "Localized": "Lime V Neck"
+        },
+        "22": {
+            "GXT": "CLO_FXF_U_6_22",
+            "Localized": "Peach V Neck"
+        },
+        "23": {
+            "GXT": "CLO_FXF_U_6_23",
+            "Localized": "Blush V Neck"
+        },
+        "24": {
+            "GXT": "CLO_FXF_U_6_24",
+            "Localized": "Grape V Neck"
+        },
+        "25": {
+            "GXT": "CLO_FXF_U_6_25",
+            "Localized": "Purple V Neck"
+        }
+    },
+    "407": {
+        "0": {
+            "GXT": "CLO_FXF_U_7_0",
+            "Localized": "Black Pullover Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_7_1",
+            "Localized": "Dark Gray Pullover Hoodie"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_7_2",
+            "Localized": "Light Gray Pullover Hoodie"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_7_3",
+            "Localized": "White Pullover Hoodie"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_7_4",
+            "Localized": "Beige Pullover Hoodie"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_7_5",
+            "Localized": "Brown Pullover Hoodie"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_7_6",
+            "Localized": "Maroon Pullover Hoodie"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_7_7",
+            "Localized": "Hot Pink Pullover Hoodie"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_7_8",
+            "Localized": "Red Pullover Hoodie"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_7_9",
+            "Localized": "Orange Pullover Hoodie"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_7_10",
+            "Localized": "Yellow Pullover Hoodie"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_7_11",
+            "Localized": "Lemon Pullover Hoodie"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_7_12",
+            "Localized": "Navy Pullover Hoodie"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_7_13",
+            "Localized": "Royal Blue Pullover Hoodie"
+        },
+        "14": {
+            "GXT": "CLO_FXF_U_7_14",
+            "Localized": "Teal Pullover Hoodie"
+        },
+        "15": {
+            "GXT": "CLO_FXF_U_7_15",
+            "Localized": "Cyan Pullover Hoodie"
+        },
+        "16": {
+            "GXT": "CLO_FXF_U_7_16",
+            "Localized": "Sky Blue Pullover Hoodie"
+        },
+        "17": {
+            "GXT": "CLO_FXF_U_7_17",
+            "Localized": "Mauve Pullover Hoodie"
+        },
+        "18": {
+            "GXT": "CLO_FXF_U_7_18",
+            "Localized": "Dark Green Pullover Hoodie"
+        },
+        "19": {
+            "GXT": "CLO_FXF_U_7_19",
+            "Localized": "Green Pullover Hoodie"
+        },
+        "20": {
+            "GXT": "CLO_FXF_U_7_20",
+            "Localized": "Olive Pullover Hoodie"
+        },
+        "21": {
+            "GXT": "CLO_FXF_U_7_21",
+            "Localized": "Lime Green Pullover Hoodie"
+        },
+        "22": {
+            "GXT": "CLO_FXF_U_7_22",
+            "Localized": "Salmon Pullover Hoodie"
+        },
+        "23": {
+            "GXT": "CLO_FXF_U_7_23",
+            "Localized": "Pink Pullover Hoodie"
+        },
+        "24": {
+            "GXT": "CLO_FXF_U_7_24",
+            "Localized": "Dark Purple Pullover Hoodie"
+        },
+        "25": {
+            "GXT": "CLO_FXF_U_7_25",
+            "Localized": "Purple Pullover Hoodie"
+        }
+    },
+    "408": {
+        "0": {
+            "GXT": "CLO_FXF_U_7_0",
+            "Localized": "Black Pullover Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_7_1",
+            "Localized": "Dark Gray Pullover Hoodie"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_7_2",
+            "Localized": "Light Gray Pullover Hoodie"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_7_3",
+            "Localized": "White Pullover Hoodie"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_7_4",
+            "Localized": "Beige Pullover Hoodie"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_7_5",
+            "Localized": "Brown Pullover Hoodie"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_7_6",
+            "Localized": "Maroon Pullover Hoodie"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_7_7",
+            "Localized": "Hot Pink Pullover Hoodie"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_7_8",
+            "Localized": "Red Pullover Hoodie"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_7_9",
+            "Localized": "Orange Pullover Hoodie"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_7_10",
+            "Localized": "Yellow Pullover Hoodie"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_7_11",
+            "Localized": "Lemon Pullover Hoodie"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_7_12",
+            "Localized": "Navy Pullover Hoodie"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_7_13",
+            "Localized": "Royal Blue Pullover Hoodie"
+        },
+        "14": {
+            "GXT": "CLO_FXF_U_7_14",
+            "Localized": "Teal Pullover Hoodie"
+        },
+        "15": {
+            "GXT": "CLO_FXF_U_7_15",
+            "Localized": "Cyan Pullover Hoodie"
+        },
+        "16": {
+            "GXT": "CLO_FXF_U_7_16",
+            "Localized": "Sky Blue Pullover Hoodie"
+        },
+        "17": {
+            "GXT": "CLO_FXF_U_7_17",
+            "Localized": "Mauve Pullover Hoodie"
+        },
+        "18": {
+            "GXT": "CLO_FXF_U_7_18",
+            "Localized": "Dark Green Pullover Hoodie"
+        },
+        "19": {
+            "GXT": "CLO_FXF_U_7_19",
+            "Localized": "Green Pullover Hoodie"
+        },
+        "20": {
+            "GXT": "CLO_FXF_U_7_20",
+            "Localized": "Olive Pullover Hoodie"
+        },
+        "21": {
+            "GXT": "CLO_FXF_U_7_21",
+            "Localized": "Lime Green Pullover Hoodie"
+        },
+        "22": {
+            "GXT": "CLO_FXF_U_7_22",
+            "Localized": "Salmon Pullover Hoodie"
+        },
+        "23": {
+            "GXT": "CLO_FXF_U_7_23",
+            "Localized": "Pink Pullover Hoodie"
+        },
+        "24": {
+            "GXT": "CLO_FXF_U_7_24",
+            "Localized": "Dark Purple Pullover Hoodie"
+        },
+        "25": {
+            "GXT": "CLO_FXF_U_7_25",
+            "Localized": "Purple Pullover Hoodie"
+        }
+    },
+    "409": {
+        "0": {
+            "GXT": "CLO_FXF_U_9_0",
+            "Localized": "Ice Chore"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_9_1",
+            "Localized": "Ash Chore"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_9_2",
+            "Localized": "Gray Chore"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_9_3",
+            "Localized": "Black Chore"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_9_4",
+            "Localized": "Beige Chore"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_9_5",
+            "Localized": "Navy Chore"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_9_6",
+            "Localized": "Olive Chore"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_9_7",
+            "Localized": "Pink Chore"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_9_8",
+            "Localized": "Gray Broker Chore"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_9_9",
+            "Localized": "Tan Broker Chore"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_9_10",
+            "Localized": "Green Crevis Chore"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_9_11",
+            "Localized": "Sunset Crevis Chore"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_9_12",
+            "Localized": "Dark Chianski Chore"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_9_13",
+            "Localized": "Light Chianski Chore"
+        },
+        "14": {
+            "GXT": "CLO_FXF_U_9_14",
+            "Localized": "Gold Leopard Güffy Chore"
+        },
+        "15": {
+            "GXT": "CLO_FXF_U_9_15",
+            "Localized": "Dark Leopard Güffy Chore"
+        },
+        "16": {
+            "GXT": "CLO_FXF_U_9_16",
+            "Localized": "Brown Hinterland Chore"
+        },
+        "17": {
+            "GXT": "CLO_FXF_U_9_17",
+            "Localized": "Tan Hinterland Chore"
+        },
+        "18": {
+            "GXT": "CLO_FXF_U_9_18",
+            "Localized": "Tan HVY Chore"
+        },
+        "19": {
+            "GXT": "CLO_FXF_U_9_19",
+            "Localized": "Gray HVY Chore"
+        },
+        "20": {
+            "GXT": "CLO_FXF_U_9_20",
+            "Localized": "Khaki Yogarishima Chore"
+        },
+        "21": {
+            "GXT": "CLO_FXF_U_9_21",
+            "Localized": "Black Yogarishima Chore"
+        },
+        "22": {
+            "GXT": "CLO_FXF_U_9_22",
+            "Localized": "Pink Bigness Chore"
+        },
+        "23": {
+            "GXT": "CLO_FXF_U_9_23",
+            "Localized": "Black Bigness Chore"
+        },
+        "24": {
+            "GXT": "CLO_FXF_U_9_24",
+            "Localized": "Blue Broker Chore"
+        },
+        "25": {
+            "GXT": "CLO_FXF_U_9_25",
+            "Localized": "Gold Broker Chore"
+        }
+    },
+    "410": {
+        "0": {
+            "GXT": "CLO_FXF_U_10_0",
+            "Localized": "Rainbow Sweatbox Chore"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_10_1",
+            "Localized": "Grayscale Sweatbox Chore"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_10_2",
+            "Localized": "Camo Sand Castle Chore"
+        }
+    },
+    "411": {
+        "0": {
+            "GXT": "CLO_FXF_U_9_0",
+            "Localized": "Ice Chore"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_9_1",
+            "Localized": "Ash Chore"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_9_2",
+            "Localized": "Gray Chore"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_9_3",
+            "Localized": "Black Chore"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_9_4",
+            "Localized": "Beige Chore"
+        },
+        "5": {
+            "GXT": "CLO_FXF_U_9_5",
+            "Localized": "Navy Chore"
+        },
+        "6": {
+            "GXT": "CLO_FXF_U_9_6",
+            "Localized": "Olive Chore"
+        },
+        "7": {
+            "GXT": "CLO_FXF_U_9_7",
+            "Localized": "Pink Chore"
+        },
+        "8": {
+            "GXT": "CLO_FXF_U_9_8",
+            "Localized": "Gray Broker Chore"
+        },
+        "9": {
+            "GXT": "CLO_FXF_U_9_9",
+            "Localized": "Tan Broker Chore"
+        },
+        "10": {
+            "GXT": "CLO_FXF_U_9_10",
+            "Localized": "Green Crevis Chore"
+        },
+        "11": {
+            "GXT": "CLO_FXF_U_9_11",
+            "Localized": "Sunset Crevis Chore"
+        },
+        "12": {
+            "GXT": "CLO_FXF_U_9_12",
+            "Localized": "Dark Chianski Chore"
+        },
+        "13": {
+            "GXT": "CLO_FXF_U_9_13",
+            "Localized": "Light Chianski Chore"
+        },
+        "14": {
+            "GXT": "CLO_FXF_U_9_14",
+            "Localized": "Gold Leopard Güffy Chore"
+        },
+        "15": {
+            "GXT": "CLO_FXF_U_9_15",
+            "Localized": "Dark Leopard Güffy Chore"
+        },
+        "16": {
+            "GXT": "CLO_FXF_U_9_16",
+            "Localized": "Brown Hinterland Chore"
+        },
+        "17": {
+            "GXT": "CLO_FXF_U_9_17",
+            "Localized": "Tan Hinterland Chore"
+        },
+        "18": {
+            "GXT": "CLO_FXF_U_9_18",
+            "Localized": "Tan HVY Chore"
+        },
+        "19": {
+            "GXT": "CLO_FXF_U_9_19",
+            "Localized": "Gray HVY Chore"
+        },
+        "20": {
+            "GXT": "CLO_FXF_U_9_20",
+            "Localized": "Khaki Yogarishima Chore"
+        },
+        "21": {
+            "GXT": "CLO_FXF_U_9_21",
+            "Localized": "Black Yogarishima Chore"
+        },
+        "22": {
+            "GXT": "CLO_FXF_U_9_22",
+            "Localized": "Pink Bigness Chore"
+        },
+        "23": {
+            "GXT": "CLO_FXF_U_9_23",
+            "Localized": "Black Bigness Chore"
+        },
+        "24": {
+            "GXT": "CLO_FXF_U_9_24",
+            "Localized": "Blue Broker Chore"
+        },
+        "25": {
+            "GXT": "CLO_FXF_U_9_25",
+            "Localized": "Gold Broker Chore"
+        }
+    },
+    "412": {
+        "0": {
+            "GXT": "CLO_FXF_U_10_0",
+            "Localized": "Rainbow Sweatbox Chore"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_10_1",
+            "Localized": "Grayscale Sweatbox Chore"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_10_2",
+            "Localized": "Camo Sand Castle Chore"
+        }
+    },
+    "413": {
+        "0": {
+            "GXT": "CLO_FXF_U_13_0",
+            "Localized": "Green Festive Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_13_1",
+            "Localized": "Red Festive Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_13_2",
+            "Localized": "Orange DJ Pooh Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_13_3",
+            "Localized": "White WCC DJ Pooh Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_13_4",
+            "Localized": "Blue WCC DJ Pooh Tee"
+        }
+    },
+    "414": {
+        "0": {
+            "GXT": "CLO_FXF_U_14_0",
+            "Localized": "Green Festive Tucked Tee"
+        },
+        "1": {
+            "GXT": "CLO_FXF_U_14_1",
+            "Localized": "Red Festive Tucked Tee"
+        },
+        "2": {
+            "GXT": "CLO_FXF_U_14_2",
+            "Localized": "Orange DJ Pooh Tucked Tee"
+        },
+        "3": {
+            "GXT": "CLO_FXF_U_14_3",
+            "Localized": "White WCC DJ Pooh Tucked Tee"
+        },
+        "4": {
+            "GXT": "CLO_FXF_U_14_4",
+            "Localized": "Blue WCC DJ Pooh Tucked Tee"
+        }
     }
 }

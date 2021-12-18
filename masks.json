@@ -6208,5 +6208,59 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "195": {
+        "0": {
+            "GXT": "CLO_FXM_B_0_0",
+            "Localized": "Orange Goldfish"
+        },
+        "1": {
+            "GXT": "CLO_FXM_B_0_1",
+            "Localized": "Purple Goldfish"
+        },
+        "2": {
+            "GXT": "CLO_FXM_B_0_2",
+            "Localized": "Bronze Goldfish"
+        },
+        "3": {
+            "GXT": "CLO_FXM_B_0_3",
+            "Localized": "Clownfish"
+        }
+    },
+    "196": {
+        "0": {
+            "GXT": "CLO_FXM_B_1_0",
+            "Localized": "Juvenile Gull"
+        },
+        "1": {
+            "GXT": "CLO_FXM_B_1_1",
+            "Localized": "Sooty Gull"
+        },
+        "2": {
+            "GXT": "CLO_FXM_B_1_2",
+            "Localized": "Black-headed Gull"
+        },
+        "3": {
+            "GXT": "CLO_FXM_B_1_3",
+            "Localized": "Herring Gull"
+        }
+    },
+    "197": {
+        "0": {
+            "GXT": "CLO_FXM_B_2_0",
+            "Localized": "Brown Sea Lion"
+        },
+        "1": {
+            "GXT": "CLO_FXM_B_2_1",
+            "Localized": "Dark Sea Lion"
+        },
+        "2": {
+            "GXT": "CLO_FXM_B_2_2",
+            "Localized": "Spotted Sea Lion"
+        },
+        "3": {
+            "GXT": "CLO_FXM_B_2_3",
+            "Localized": "Gray Sea Lion"
+        }
     }
 }

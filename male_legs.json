@@ -5410,5 +5410,533 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "138": {
+        "0": {
+            "GXT": "CLO_FXM_L_0_0",
+            "Localized": "Brown Cuffed Sweats"
+        },
+        "1": {
+            "GXT": "CLO_FXM_L_0_1",
+            "Localized": "Black Cuffed Sweats"
+        },
+        "2": {
+            "GXT": "CLO_FXM_L_0_2",
+            "Localized": "Gray Cuffed Sweats"
+        },
+        "3": {
+            "GXT": "CLO_FXM_L_0_3",
+            "Localized": "Beige Cuffed Sweats"
+        },
+        "4": {
+            "GXT": "CLO_FXM_L_0_4",
+            "Localized": "Navy Cuffed Sweats"
+        },
+        "5": {
+            "GXT": "CLO_FXM_L_0_5",
+            "Localized": "Dark Nut Cuffed Sweats"
+        },
+        "6": {
+            "GXT": "CLO_FXM_L_0_6",
+            "Localized": "Dark Green Cuffed Sweats"
+        },
+        "7": {
+            "GXT": "CLO_FXM_L_0_7",
+            "Localized": "Red FB Cuffed Sweats"
+        },
+        "8": {
+            "GXT": "CLO_FXM_L_0_8",
+            "Localized": "Green FB Cuffed Sweats"
+        },
+        "9": {
+            "GXT": "CLO_FXM_L_0_9",
+            "Localized": "Blue FB Cuffed Sweats"
+        },
+        "10": {
+            "GXT": "CLO_FXM_L_0_10",
+            "Localized": "Pink VDG Cuffed Sweats"
+        },
+        "11": {
+            "GXT": "CLO_FXM_L_0_11",
+            "Localized": "Yellow VDG Cuffed Sweats"
+        },
+        "12": {
+            "GXT": "CLO_FXM_L_0_12",
+            "Localized": "Blue VDG Cuffed Sweats"
+        },
+        "13": {
+            "GXT": "CLO_FXM_L_0_13",
+            "Localized": "Black Bigness Cuffed Sweats"
+        },
+        "14": {
+            "GXT": "CLO_FXM_L_0_14",
+            "Localized": "Cyan Bigness Cuffed Sweats"
+        },
+        "15": {
+            "GXT": "CLO_FXM_L_0_15",
+            "Localized": "Yellow Bigness Cuffed Sweats"
+        },
+        "16": {
+            "GXT": "CLO_FXM_L_0_16",
+            "Localized": "Pink Bigness Cuffed Sweats"
+        },
+        "17": {
+            "GXT": "CLO_FXM_L_0_17",
+            "Localized": "Purple Bigness Cuffed Sweats"
+        },
+        "18": {
+            "GXT": "CLO_FXM_L_0_18",
+            "Localized": "Pink Tie-dye Cuffed Sweats"
+        },
+        "19": {
+            "GXT": "CLO_FXM_L_0_19",
+            "Localized": "Patchwork Tie-dye Cuffed Sweats"
+        },
+        "20": {
+            "GXT": "CLO_FXM_L_0_20",
+            "Localized": "Blues Tie-dye Cuffed Sweats"
+        },
+        "21": {
+            "GXT": "CLO_FXM_L_0_21",
+            "Localized": "Squash Cuffed Sweats"
+        },
+        "22": {
+            "GXT": "CLO_FXM_L_0_22",
+            "Localized": "Hiding Print Cuffed Sweats"
+        },
+        "23": {
+            "GXT": "CLO_FXM_L_0_23",
+            "Localized": "Never Triangle Cuffed Sweats"
+        },
+        "24": {
+            "GXT": "CLO_FXM_L_0_24",
+            "Localized": "Life Static Cuffed Sweats"
+        },
+        "25": {
+            "GXT": "CLO_FXM_L_0_25",
+            "Localized": "Black Blagueurs Cuffed Sweats"
+        }
+    },
+    "139": {
+        "0": {
+            "GXT": "CLO_FXM_L_1_0",
+            "Localized": "Blue Blagueurs Cuffed Sweats"
+        },
+        "1": {
+            "GXT": "CLO_FXM_L_1_1",
+            "Localized": "Red Blagueurs Cuffed Sweats"
+        },
+        "2": {
+            "GXT": "CLO_FXM_L_1_2",
+            "Localized": "White Blagueurs Cuffed Sweats"
+        },
+        "3": {
+            "GXT": "CLO_FXM_L_1_3",
+            "Localized": "Smoke Yeti Cuffed Sweats"
+        },
+        "4": {
+            "GXT": "CLO_FXM_L_1_4",
+            "Localized": "Sunrise Yeti Cuffed Sweats"
+        },
+        "5": {
+            "GXT": "CLO_FXM_L_1_5",
+            "Localized": "Sunset Yeti Cuffed Sweats"
+        },
+        "6": {
+            "GXT": "CLO_FXM_L_1_6",
+            "Localized": "Pink Fade Yeti Cuffed Sweats"
+        },
+        "7": {
+            "GXT": "CLO_FXM_L_1_7",
+            "Localized": "Yellow Fade Yeti Cuffed Sweats"
+        },
+        "8": {
+            "GXT": "CLO_FXM_L_1_8",
+            "Localized": "Earth Yeti Cuffed Sweats"
+        },
+        "9": {
+            "GXT": "CLO_FXM_L_1_9",
+            "Localized": "Green Fade Yeti Cuffed Sweats"
+        },
+        "10": {
+            "GXT": "CLO_FXM_L_1_10",
+            "Localized": "Green Yeti Cuffed Sweats"
+        },
+        "11": {
+            "GXT": "CLO_FXM_L_1_11",
+            "Localized": "Pink Yeti Cuffed Sweats"
+        },
+        "12": {
+            "GXT": "CLO_FXM_L_1_12",
+            "Localized": "Blue Yeti Cuffed Sweats"
+        },
+        "13": {
+            "GXT": "CLO_FXM_L_1_13",
+            "Localized": "Black Heat Cuffed Sweats"
+        },
+        "14": {
+            "GXT": "CLO_FXM_L_1_14",
+            "Localized": "Sea Green Heat Cuffed Sweats"
+        },
+        "15": {
+            "GXT": "CLO_FXM_L_1_15",
+            "Localized": "Yellow Heat Cuffed Sweats"
+        },
+        "16": {
+            "GXT": "CLO_FXM_L_1_16",
+            "Localized": "Salmon Heat Cuffed Sweats"
+        },
+        "17": {
+            "GXT": "CLO_FXM_L_1_17",
+            "Localized": "Orange Heat Cuffed Sweats"
+        },
+        "18": {
+            "GXT": "CLO_FXM_L_1_18",
+            "Localized": "Blue Heat Cuffed Sweats"
+        },
+        "19": {
+            "GXT": "CLO_FXM_L_1_19",
+            "Localized": "Chocolate Heat Cuffed Sweats"
+        },
+        "20": {
+            "GXT": "CLO_FXM_L_1_20",
+            "Localized": "Purple Heat Cuffed Sweats"
+        },
+        "21": {
+            "GXT": "CLO_FXM_L_1_21",
+            "Localized": "Light Brown Heat Cuffed Sweats"
+        },
+        "22": {
+            "GXT": "CLO_FXM_L_1_22",
+            "Localized": "Lime Heat Cuffed Sweats"
+        },
+        "23": {
+            "GXT": "CLO_FXM_L_1_23",
+            "Localized": "Mustard Heat Cuffed Sweats"
+        },
+        "24": {
+            "GXT": "CLO_FXM_L_1_24",
+            "Localized": "Black Manor Cuffed Sweats"
+        },
+        "25": {
+            "GXT": "CLO_FXM_L_1_25",
+            "Localized": "White Manor Cuffed Sweats"
+        }
+    },
+    "140": {
+        "0": {
+            "GXT": "CLO_FXM_L_2_0",
+            "Localized": "Teal Manor Cuffed Sweats"
+        },
+        "1": {
+            "GXT": "CLO_FXM_L_2_1",
+            "Localized": "Red Manor Cuffed Sweats"
+        },
+        "2": {
+            "GXT": "CLO_FXM_L_2_2",
+            "Localized": "Yellow Manor Cuffed Sweats"
+        }
+    },
+    "141": {
+        "0": {
+            "GXT": "CLO_FXM_L_3_0",
+            "Localized": "Black Straight Chinos"
+        },
+        "1": {
+            "GXT": "CLO_FXM_L_3_1",
+            "Localized": "Gray Straight Chinos"
+        },
+        "2": {
+            "GXT": "CLO_FXM_L_3_2",
+            "Localized": "Ash Straight Chinos"
+        },
+        "3": {
+            "GXT": "CLO_FXM_L_3_3",
+            "Localized": "White Straight Chinos"
+        },
+        "4": {
+            "GXT": "CLO_FXM_L_3_4",
+            "Localized": "Beige Straight Chinos"
+        },
+        "5": {
+            "GXT": "CLO_FXM_L_3_5",
+            "Localized": "Navy Straight Chinos"
+        },
+        "6": {
+            "GXT": "CLO_FXM_L_3_6",
+            "Localized": "Dark Nut Straight Chinos"
+        },
+        "7": {
+            "GXT": "CLO_FXM_L_3_7",
+            "Localized": "Green SC Floral Straight Chinos"
+        },
+        "8": {
+            "GXT": "CLO_FXM_L_3_8",
+            "Localized": "Beige SC Floral Straight Chinos"
+        },
+        "9": {
+            "GXT": "CLO_FXM_L_3_9",
+            "Localized": "Navy SC Floral Straight Chinos"
+        },
+        "10": {
+            "GXT": "CLO_FXM_L_3_10",
+            "Localized": "Red SC Floral Straight Chinos"
+        },
+        "11": {
+            "GXT": "CLO_FXM_L_3_11",
+            "Localized": "Green SN Floral Straight Chinos"
+        },
+        "12": {
+            "GXT": "CLO_FXM_L_3_12",
+            "Localized": "Beige SN Floral Straight Chinos"
+        },
+        "13": {
+            "GXT": "CLO_FXM_L_3_13",
+            "Localized": "Navy SN Floral Straight Chinos"
+        },
+        "14": {
+            "GXT": "CLO_FXM_L_3_14",
+            "Localized": "Red SN Floral Straight Chinos"
+        },
+        "15": {
+            "GXT": "CLO_FXM_L_3_15",
+            "Localized": "Green FB Pulga Straight Chinos"
+        },
+        "16": {
+            "GXT": "CLO_FXM_L_3_16",
+            "Localized": "Beige FB Pulga Straight Chinos"
+        },
+        "17": {
+            "GXT": "CLO_FXM_L_3_17",
+            "Localized": "Blue FB Pulga Straight Chinos"
+        },
+        "18": {
+            "GXT": "CLO_FXM_L_3_18",
+            "Localized": "White Bigness Straight Chinos"
+        },
+        "19": {
+            "GXT": "CLO_FXM_L_3_19",
+            "Localized": "Black Bigness Straight Chinos"
+        },
+        "20": {
+            "GXT": "CLO_FXM_L_3_20",
+            "Localized": "Blue Bigness Straight Chinos"
+        },
+        "21": {
+            "GXT": "CLO_FXM_L_3_21",
+            "Localized": "Electric Bigness Straight Chinos"
+        },
+        "22": {
+            "GXT": "CLO_FXM_L_3_22",
+            "Localized": "Gray Camo Straight Chinos"
+        },
+        "23": {
+            "GXT": "CLO_FXM_L_3_23",
+            "Localized": "Aqua Camo Straight Chinos"
+        },
+        "24": {
+            "GXT": "CLO_FXM_L_3_24",
+            "Localized": "Orange Camo Straight Chinos"
+        },
+        "25": {
+            "GXT": "CLO_FXM_L_3_25",
+            "Localized": "Green Camo Straight Chinos"
+        }
+    },
+    "142": {
+        "0": {
+            "GXT": "CLO_FXM_L_4_0",
+            "Localized": "Peach Camo Straight Chinos"
+        },
+        "1": {
+            "GXT": "CLO_FXM_L_4_1",
+            "Localized": "Black Splinter Straight Chinos"
+        },
+        "2": {
+            "GXT": "CLO_FXM_L_4_2",
+            "Localized": "Peach Splinter Straight Chinos"
+        },
+        "3": {
+            "GXT": "CLO_FXM_L_4_3",
+            "Localized": "Green Splinter Straight Chinos"
+        },
+        "4": {
+            "GXT": "CLO_FXM_L_4_4",
+            "Localized": "Rose Splinter Straight Chinos"
+        },
+        "5": {
+            "GXT": "CLO_FXM_L_4_5",
+            "Localized": "Aqua Splinter Straight Chinos"
+        },
+        "6": {
+            "GXT": "CLO_FXM_L_4_6",
+            "Localized": "Black Check Straight Chinos"
+        },
+        "7": {
+            "GXT": "CLO_FXM_L_4_7",
+            "Localized": "Aqua Check Straight Chinos"
+        },
+        "8": {
+            "GXT": "CLO_FXM_L_4_8",
+            "Localized": "Red Check Straight Chinos"
+        },
+        "9": {
+            "GXT": "CLO_FXM_L_4_9",
+            "Localized": "Green Check Straight Chinos"
+        },
+        "10": {
+            "GXT": "CLO_FXM_L_4_10",
+            "Localized": "Peach Check Straight Chinos"
+        },
+        "11": {
+            "GXT": "CLO_FXM_L_4_11",
+            "Localized": "Black Tiger Straight Chinos"
+        },
+        "12": {
+            "GXT": "CLO_FXM_L_4_12",
+            "Localized": "Gray Tiger Straight Chinos"
+        },
+        "13": {
+            "GXT": "CLO_FXM_L_4_13",
+            "Localized": "Orange Tiger Straight Chinos"
+        },
+        "14": {
+            "GXT": "CLO_FXM_L_4_14",
+            "Localized": "Zest Tiger Straight Chinos"
+        },
+        "15": {
+            "GXT": "CLO_FXM_L_4_15",
+            "Localized": "Brown Tiger Straight Chinos"
+        },
+        "16": {
+            "GXT": "CLO_FXM_L_4_16",
+            "Localized": "Pastel Tiger Straight Chinos"
+        },
+        "17": {
+            "GXT": "CLO_FXM_L_4_17",
+            "Localized": "Charcoal Geo Straight Chinos"
+        },
+        "18": {
+            "GXT": "CLO_FXM_L_4_18",
+            "Localized": "Navy Geo Straight Chinos"
+        },
+        "19": {
+            "GXT": "CLO_FXM_L_4_19",
+            "Localized": "Brown Geo Straight Chinos"
+        },
+        "20": {
+            "GXT": "CLO_FXM_L_4_20",
+            "Localized": "Gray Geo Straight Chinos"
+        },
+        "21": {
+            "GXT": "CLO_FXM_L_4_21",
+            "Localized": "Russet Geo Straight Chinos"
+        }
+    },
+    "143": {
+        "0": {
+            "GXT": "CLO_FXM_L_5_0",
+            "Localized": "Black Beach"
+        },
+        "1": {
+            "GXT": "CLO_FXM_L_5_1",
+            "Localized": "Gray Beach"
+        },
+        "2": {
+            "GXT": "CLO_FXM_L_5_2",
+            "Localized": "Ash Beach"
+        },
+        "3": {
+            "GXT": "CLO_FXM_L_5_3",
+            "Localized": "Ice Beach"
+        },
+        "4": {
+            "GXT": "CLO_FXM_L_5_4",
+            "Localized": "Beige Beach"
+        },
+        "5": {
+            "GXT": "CLO_FXM_L_5_5",
+            "Localized": "Olive Beach"
+        },
+        "6": {
+            "GXT": "CLO_FXM_L_5_6",
+            "Localized": "Purple Swallow Tie-dye Beach"
+        },
+        "7": {
+            "GXT": "CLO_FXM_L_5_7",
+            "Localized": "Light VDG Beach"
+        },
+        "8": {
+            "GXT": "CLO_FXM_L_5_8",
+            "Localized": "Dark VDG Beach"
+        },
+        "9": {
+            "GXT": "CLO_FXM_L_5_9",
+            "Localized": "Black VDG Beach"
+        },
+        "10": {
+            "GXT": "CLO_FXM_L_5_10",
+            "Localized": "Gray Nature Beach"
+        },
+        "11": {
+            "GXT": "CLO_FXM_L_5_11",
+            "Localized": "Yellow Nature Beach"
+        },
+        "12": {
+            "GXT": "CLO_FXM_L_5_12",
+            "Localized": "Gray Broker Cash Beach"
+        },
+        "13": {
+            "GXT": "CLO_FXM_L_5_13",
+            "Localized": "Pink Broker Cash Beach"
+        },
+        "14": {
+            "GXT": "CLO_FXM_L_5_14",
+            "Localized": "Dark Paint G&B Beach"
+        },
+        "15": {
+            "GXT": "CLO_FXM_L_5_15",
+            "Localized": "Light Paint G&B Beach"
+        },
+        "16": {
+            "GXT": "CLO_FXM_L_5_16",
+            "Localized": "Gray Barfs Tie-dye Beach"
+        },
+        "17": {
+            "GXT": "CLO_FXM_L_5_17",
+            "Localized": "Purple Barfs Tie-dye Beach"
+        },
+        "18": {
+            "GXT": "CLO_FXM_L_5_18",
+            "Localized": "Smoke Broker Tie-dye Beach"
+        },
+        "19": {
+            "GXT": "CLO_FXM_L_5_19",
+            "Localized": "Green Broker Tie-dye Beach"
+        },
+        "20": {
+            "GXT": "CLO_FXM_L_5_20",
+            "Localized": "Red Crevis Woodland Beach"
+        },
+        "21": {
+            "GXT": "CLO_FXM_L_5_21",
+            "Localized": "Tan Crevis Woodland Beach"
+        },
+        "22": {
+            "GXT": "CLO_FXM_L_5_22",
+            "Localized": "Blue Güffy Beach"
+        },
+        "23": {
+            "GXT": "CLO_FXM_L_5_23",
+            "Localized": "Pink Güffy Beach"
+        },
+        "24": {
+            "GXT": "CLO_FXM_L_5_24",
+            "Localized": "Blue Swallow Tie-dye Beach"
+        },
+        "25": {
+            "GXT": "CLO_FXM_L_5_25",
+            "Localized": "Midnight Swallow Tie-dye Beach"
+        }
     }
 }
