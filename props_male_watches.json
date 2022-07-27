@@ -708,5 +708,67 @@
             "GXT": "CLO_H4M_PLW_011",
             "Localized": "Tropical Bangles (L)"
         }
+    },
+    "41": {
+        "0": {
+            "GXT": "CLO_SBM_LW_0_0",
+            "Localized": "Gold Encrusted Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBM_LW_0_1",
+            "Localized": "Silver Encrusted Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBM_LW_0_2",
+            "Localized": "Rose Encrusted Bracelet"
+        }
+    },
+    "42": {
+        "0": {
+            "GXT": "CLO_SBM_LW_1_0",
+            "Localized": "Gold Ursine Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBM_LW_1_1",
+            "Localized": "Silver Ursine Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBM_LW_1_2",
+            "Localized": "Rose Ursine Bracelet"
+        }
+    },
+    "43": {
+        "0": {
+            "GXT": "CLO_SBM_LW_2_0",
+            "Localized": "Gold Round Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBM_LW_2_1",
+            "Localized": "Silver Round Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBM_LW_2_2",
+            "Localized": "Rose Round Bracelet"
+        }
+    },
+    "44": {
+        "0": {
+            "GXT": "CLO_SBM_LW_3_0",
+            "Localized": "Gold Square Jewel Chain"
+        },
+        "1": {
+            "GXT": "CLO_SBM_LW_3_1",
+            "Localized": "Silver Square Jewel Chain"
+        },
+        "2": {
+            "GXT": "CLO_SBM_LW_3_2",
+            "Localized": "Rose Square Jewel Chain"
+        }
+    },
+    "45": {
+        "0": {
+            "GXT": "CLO_E1M_LW_0_0",
+            "Localized": "White Spiked Gauntlet (L)"
+        }
     }
 }

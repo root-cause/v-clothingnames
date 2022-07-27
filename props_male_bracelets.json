@@ -108,5 +108,25 @@
             "GXT": "CLO_H4M_PRW_011",
             "Localized": "Tropical Bangles (R)"
         }
+    },
+    "9": {
+        "0": {
+            "GXT": "CLO_SBM_RW_0_0",
+            "Localized": "Gold Meander Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBM_RW_0_1",
+            "Localized": "Silver Meander Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBM_RW_0_2",
+            "Localized": "Rose Meander Bracelet"
+        }
+    },
+    "10": {
+        "0": {
+            "GXT": "CLO_E1M_RW_0_0",
+            "Localized": "White Spiked Gauntlet (R)"
+        }
     }
 }

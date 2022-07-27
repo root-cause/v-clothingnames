@@ -150,5 +150,25 @@
             "GXT": "CLO_H4F_PRW_011",
             "Localized": "Tropical Bangles (R)"
         }
+    },
+    "16": {
+        "0": {
+            "GXT": "CLO_SBF_RW_0_0",
+            "Localized": "Gold Meander Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_SBF_RW_0_1",
+            "Localized": "Silver Meander Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_SBF_RW_0_2",
+            "Localized": "Rose Meander Bracelet"
+        }
+    },
+    "17": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

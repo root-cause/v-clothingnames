@@ -536,5 +536,61 @@
             "GXT": "CLO_VWM_PE_3_3",
             "Localized": "Pink Chips Earrings"
         }
+    },
+    "41": {
+        "0": {
+            "GXT": "CLO_SBM_E_0_0",
+            "Localized": "White Beat Off Earphones"
+        },
+        "1": {
+            "GXT": "CLO_SBM_E_0_1",
+            "Localized": "Yellow Beat Off Earphones"
+        },
+        "2": {
+            "GXT": "CLO_SBM_E_0_2",
+            "Localized": "Salmon Beat Off Earphones"
+        },
+        "3": {
+            "GXT": "CLO_SBM_E_0_3",
+            "Localized": "Orange Beat Off Earphones"
+        },
+        "4": {
+            "GXT": "CLO_SBM_E_0_4",
+            "Localized": "Purple Beat Off Earphones"
+        },
+        "5": {
+            "GXT": "CLO_SBM_E_0_5",
+            "Localized": "Pink Beat Off Earphones"
+        },
+        "6": {
+            "GXT": "CLO_SBM_E_0_6",
+            "Localized": "Turquoise Beat Off Earphones"
+        },
+        "7": {
+            "GXT": "CLO_SBM_E_0_7",
+            "Localized": "Blue Beat Off Earphones"
+        },
+        "8": {
+            "GXT": "CLO_SBM_E_0_8",
+            "Localized": "Black Beat Off Earphones"
+        },
+        "9": {
+            "GXT": "CLO_SBM_E_0_9",
+            "Localized": "Gray Beat Off Earphones"
+        },
+        "10": {
+            "GXT": "CLO_SBM_E_0_10",
+            "Localized": "Teal Beat Off Earphones"
+        },
+        "11": {
+            "GXT": "CLO_SBM_E_0_11",
+            "Localized": "Red Beat Off Earphones"
+        }
+    },
+    "42": {
+        "0": {
+            "GXT": "CLO_E1M_E_0_0",
+            "Localized": "Gold Beat Off Earphones"
+        }
     }
 }
