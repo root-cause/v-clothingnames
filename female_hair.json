@@ -1300,5 +1300,21 @@
             "HairTattooCollection": 601646824,
             "HairTattooOverlay": -974054285
         }
+    },
+    "81": {
+        "0": {
+            "GXT": "CLO_SBF_H_0_0",
+            "Localized": "Short Tucked Bob",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -606892013
+        }
+    },
+    "82": {
+        "0": {
+            "GXT": "CLO_SBF_H_1_0",
+            "Localized": "Shaggy Mullet",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -1514684318
+        }
     }
 }

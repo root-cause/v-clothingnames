@@ -16948,5 +16948,543 @@
             "GXT": "CLO_FXM_U_10_4",
             "Localized": "Blue WCC DJ Pooh Tee"
         }
+    },
+    "393": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "394": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "395": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "396": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "397": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "398": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "399": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "400": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "401": {
+        "0": {
+            "GXT": "CLO_SBM_U_7_0",
+            "Localized": "Cliffford Hoodie"
+        }
+    },
+    "402": {
+        "0": {
+            "GXT": "CLO_SBM_U_7_0",
+            "Localized": "Cliffford Hoodie"
+        }
+    },
+    "403": {
+        "0": {
+            "GXT": "CLO_SBM_U_9_0",
+            "Localized": "Black Light Biker"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_9_1",
+            "Localized": "Gray Light Biker"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_9_2",
+            "Localized": "Ash Light Biker"
+        },
+        "3": {
+            "GXT": "CLO_SBM_U_9_3",
+            "Localized": "Ice Light Biker"
+        },
+        "4": {
+            "GXT": "CLO_SBM_U_9_4",
+            "Localized": "Ox Blood Light Biker"
+        },
+        "5": {
+            "GXT": "CLO_SBM_U_9_5",
+            "Localized": "Scarlet Light Biker"
+        },
+        "6": {
+            "GXT": "CLO_SBM_U_9_6",
+            "Localized": "Dark Green Light Biker"
+        },
+        "7": {
+            "GXT": "CLO_SBM_U_9_7",
+            "Localized": "Red Light Biker"
+        },
+        "8": {
+            "GXT": "CLO_SBM_U_9_8",
+            "Localized": "Orange Light Biker"
+        },
+        "9": {
+            "GXT": "CLO_SBM_U_9_9",
+            "Localized": "Mustard Light Biker"
+        },
+        "10": {
+            "GXT": "CLO_SBM_U_9_10",
+            "Localized": "Chestnut Light Biker"
+        },
+        "11": {
+            "GXT": "CLO_SBM_U_9_11",
+            "Localized": "Dark Nut Light Biker"
+        },
+        "12": {
+            "GXT": "CLO_SBM_U_9_12",
+            "Localized": "Dark Blue Light Biker"
+        },
+        "13": {
+            "GXT": "CLO_SBM_U_9_13",
+            "Localized": "Light Blue Light Biker"
+        }
+    },
+    "404": {
+        "0": {
+            "GXT": "CLO_SBM_U_9_0",
+            "Localized": "Black Light Biker"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_9_1",
+            "Localized": "Gray Light Biker"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_9_2",
+            "Localized": "Ash Light Biker"
+        },
+        "3": {
+            "GXT": "CLO_SBM_U_9_3",
+            "Localized": "Ice Light Biker"
+        },
+        "4": {
+            "GXT": "CLO_SBM_U_9_4",
+            "Localized": "Ox Blood Light Biker"
+        },
+        "5": {
+            "GXT": "CLO_SBM_U_9_5",
+            "Localized": "Scarlet Light Biker"
+        },
+        "6": {
+            "GXT": "CLO_SBM_U_9_6",
+            "Localized": "Dark Green Light Biker"
+        },
+        "7": {
+            "GXT": "CLO_SBM_U_9_7",
+            "Localized": "Red Light Biker"
+        },
+        "8": {
+            "GXT": "CLO_SBM_U_9_8",
+            "Localized": "Orange Light Biker"
+        },
+        "9": {
+            "GXT": "CLO_SBM_U_9_9",
+            "Localized": "Mustard Light Biker"
+        },
+        "10": {
+            "GXT": "CLO_SBM_U_9_10",
+            "Localized": "Chestnut Light Biker"
+        },
+        "11": {
+            "GXT": "CLO_SBM_U_9_11",
+            "Localized": "Dark Nut Light Biker"
+        },
+        "12": {
+            "GXT": "CLO_SBM_U_9_12",
+            "Localized": "Dark Blue Light Biker"
+        },
+        "13": {
+            "GXT": "CLO_SBM_U_9_13",
+            "Localized": "Light Blue Light Biker"
+        }
+    },
+    "405": {
+        "0": {
+            "GXT": "CLO_SBM_U_11_0",
+            "Localized": "Black Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_11_1",
+            "Localized": "Dark Gray Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_11_2",
+            "Localized": "Gray Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_SBM_U_11_3",
+            "Localized": "Ice Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_SBM_U_11_4",
+            "Localized": "Beige Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_SBM_U_11_5",
+            "Localized": "Chocolate Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_SBM_U_11_6",
+            "Localized": "Burgundy Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_SBM_U_11_7",
+            "Localized": "Hot Pink Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_SBM_U_11_8",
+            "Localized": "Scarlet Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_SBM_U_11_9",
+            "Localized": "Orange Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_SBM_U_11_10",
+            "Localized": "Amber Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_SBM_U_11_11",
+            "Localized": "Lemon Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_SBM_U_11_12",
+            "Localized": "Royal Blue Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_SBM_U_11_13",
+            "Localized": "Blue Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_SBM_U_11_14",
+            "Localized": "Teal Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_SBM_U_11_15",
+            "Localized": "Cyan Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_SBM_U_11_16",
+            "Localized": "Light Blue Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_SBM_U_11_17",
+            "Localized": "Lilac Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_SBM_U_11_18",
+            "Localized": "Dark Green Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_SBM_U_11_19",
+            "Localized": "Emerald Revere Collar"
+        },
+        "20": {
+            "GXT": "CLO_SBM_U_11_20",
+            "Localized": "Moss Revere Collar"
+        },
+        "21": {
+            "GXT": "CLO_SBM_U_11_21",
+            "Localized": "Lime Revere Collar"
+        },
+        "22": {
+            "GXT": "CLO_SBM_U_11_22",
+            "Localized": "Peach Revere Collar"
+        },
+        "23": {
+            "GXT": "CLO_SBM_U_11_23",
+            "Localized": "Lavender Revere Collar"
+        },
+        "24": {
+            "GXT": "CLO_SBM_U_11_24",
+            "Localized": "Purple Revere Collar"
+        },
+        "25": {
+            "GXT": "CLO_SBM_U_11_25",
+            "Localized": "Magenta Revere Collar"
+        }
+    },
+    "406": {
+        "0": {
+            "GXT": "CLO_SBM_U_12_0",
+            "Localized": "Green Palms Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_12_1",
+            "Localized": "Blush Palms Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_12_2",
+            "Localized": "Charcoal Floral Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_SBM_U_12_3",
+            "Localized": "Red Floral Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_SBM_U_12_4",
+            "Localized": "Charcoal Palms Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_SBM_U_12_5",
+            "Localized": "Pink Palms Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_SBM_U_12_6",
+            "Localized": "Cool Sunset Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_SBM_U_12_7",
+            "Localized": "Warm Sunset Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_SBM_U_12_8",
+            "Localized": "Green Pineapple Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_SBM_U_12_9",
+            "Localized": "Scarlet Pineapple Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_SBM_U_12_10",
+            "Localized": "Black Bigness Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_SBM_U_12_11",
+            "Localized": "White Bigness Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_SBM_U_12_12",
+            "Localized": "Blue Petals Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_SBM_U_12_13",
+            "Localized": "Teal Petals Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_SBM_U_12_14",
+            "Localized": "Red Stripes Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_SBM_U_12_15",
+            "Localized": "Blue Stripes Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_SBM_U_12_16",
+            "Localized": "Blue Chalk Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_SBM_U_12_17",
+            "Localized": "Pink Chalk Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_SBM_U_12_18",
+            "Localized": "Blue Fruit Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_SBM_U_12_19",
+            "Localized": "White Fruit Revere Collar"
+        }
+    },
+    "407": {
+        "0": {
+            "GXT": "CLO_SBM_U_13_0",
+            "Localized": "Pumpkin Tee"
+        }
+    },
+    "408": {
+        "0": {
+            "GXT": "CLO_SBM_U_14_0",
+            "Localized": "Sinsimito Cuban Shirt"
+        }
+    },
+    "409": {
+        "0": {
+            "GXT": "CLO_SBM_U_15_0",
+            "Localized": "Cliffford Varsity"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_15_1",
+            "Localized": "Pacific Standard Varsity"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_15_2",
+            "Localized": "The Diamond Casino Varsity"
+        }
+    },
+    "410": {
+        "0": {
+            "GXT": "CLO_SBM_U_15_0",
+            "Localized": "Cliffford Varsity"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_15_1",
+            "Localized": "Pacific Standard Varsity"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_15_2",
+            "Localized": "The Diamond Casino Varsity"
+        }
+    },
+    "411": {
+        "0": {
+            "GXT": "CLO_SBM_U_17_0",
+            "Localized": "Pacific Standard Sweater"
+        }
+    },
+    "412": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "413": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "414": {
+        "0": {
+            "GXT": "CLO_E1M_U_0_0",
+            "Localized": "Pumpkin Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_E1M_U_0_1",
+            "Localized": "Manor Geo Hoodie"
+        }
+    },
+    "415": {
+        "0": {
+            "GXT": "CLO_E1M_U_0_0",
+            "Localized": "Pumpkin Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_E1M_U_0_1",
+            "Localized": "Manor Geo Hoodie"
+        }
+    },
+    "416": {
+        "0": {
+            "GXT": "CLO_E1M_U_2_0",
+            "Localized": "Hand-Drawn Biker Bomber"
+        }
+    },
+    "417": {
+        "0": {
+            "GXT": "CLO_E1M_U_2_0",
+            "Localized": "Hand-Drawn Biker Bomber"
+        }
+    },
+    "418": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "419": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "420": {
+        "0": {
+            "GXT": "CLO_E1M_U_6_0",
+            "Localized": "Still Slipping Tie-dye Tee"
+        }
+    },
+    "421": {
+        "0": {
+            "GXT": "CLO_E1M_U_7_0",
+            "Localized": "LS Smoking Jacket"
+        }
     }
 }

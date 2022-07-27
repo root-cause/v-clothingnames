@@ -4410,5 +4410,487 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "102": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "103": {
+        "0": {
+            "GXT": "CLO_SBM_F_0_0",
+            "Localized": "Black Road Boots"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_0_1",
+            "Localized": "Ox Blood Road Boots"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_0_2",
+            "Localized": "Red Road Boots"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_0_3",
+            "Localized": "Chestnut Road Boots"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_0_4",
+            "Localized": "Ash Road Boots"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_0_5",
+            "Localized": "Dark Gray Road Boots"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_0_6",
+            "Localized": "Tan Road Boots"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_0_7",
+            "Localized": "Dark Green Road Boots"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_0_8",
+            "Localized": "Gray Road Boots"
+        },
+        "9": {
+            "GXT": "CLO_SBM_F_0_9",
+            "Localized": "Dark Red Road Boots"
+        },
+        "10": {
+            "GXT": "CLO_SBM_F_0_10",
+            "Localized": "Orange Tan Road Boots"
+        },
+        "11": {
+            "GXT": "CLO_SBM_F_0_11",
+            "Localized": "Dark Nut Road Boots"
+        },
+        "12": {
+            "GXT": "CLO_SBM_F_0_12",
+            "Localized": "Navy Road Boots"
+        },
+        "13": {
+            "GXT": "CLO_SBM_F_0_13",
+            "Localized": "Blue Road Boots"
+        }
+    },
+    "104": {
+        "0": {
+            "GXT": "CLO_SBM_F_0_0",
+            "Localized": "Black Road Boots"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_0_1",
+            "Localized": "Ox Blood Road Boots"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_0_2",
+            "Localized": "Red Road Boots"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_0_3",
+            "Localized": "Chestnut Road Boots"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_0_4",
+            "Localized": "Ash Road Boots"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_0_5",
+            "Localized": "Dark Gray Road Boots"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_0_6",
+            "Localized": "Tan Road Boots"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_0_7",
+            "Localized": "Dark Green Road Boots"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_0_8",
+            "Localized": "Gray Road Boots"
+        },
+        "9": {
+            "GXT": "CLO_SBM_F_0_9",
+            "Localized": "Dark Red Road Boots"
+        },
+        "10": {
+            "GXT": "CLO_SBM_F_0_10",
+            "Localized": "Orange Tan Road Boots"
+        },
+        "11": {
+            "GXT": "CLO_SBM_F_0_11",
+            "Localized": "Dark Nut Road Boots"
+        },
+        "12": {
+            "GXT": "CLO_SBM_F_0_12",
+            "Localized": "Navy Road Boots"
+        },
+        "13": {
+            "GXT": "CLO_SBM_F_0_13",
+            "Localized": "Blue Road Boots"
+        }
+    },
+    "105": {
+        "0": {
+            "GXT": "CLO_SBM_F_2_0",
+            "Localized": "Walnut Smart Oxfords"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_2_1",
+            "Localized": "Black Smart Oxfords"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_2_2",
+            "Localized": "Gray Smart Oxfords"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_2_3",
+            "Localized": "Ice Smart Oxfords"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_2_4",
+            "Localized": "Dark Nut Smart Oxfords"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_2_5",
+            "Localized": "Chocolate Smart Oxfords"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_2_6",
+            "Localized": "Chestnut Smart Oxfords"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_2_7",
+            "Localized": "Beige Smart Oxfords"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_2_8",
+            "Localized": "Blue Smart Oxfords"
+        },
+        "9": {
+            "GXT": "CLO_SBM_F_2_9",
+            "Localized": "Green Smart Oxfords"
+        },
+        "10": {
+            "GXT": "CLO_SBM_F_2_10",
+            "Localized": "Pink Smart Oxfords"
+        },
+        "11": {
+            "GXT": "CLO_SBM_F_2_11",
+            "Localized": "Crimson Smart Oxfords"
+        }
+    },
+    "106": {
+        "0": {
+            "GXT": "CLO_SBM_F_3_0",
+            "Localized": "Blue Clover Flip-Flops"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_3_1",
+            "Localized": "Green Clover Flip-Flops"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_3_2",
+            "Localized": "Green Floral Flip-Flops"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_3_3",
+            "Localized": "Light Blue Floral Flip-Flops"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_3_4",
+            "Localized": "Red Botanical Flip-Flops"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_3_5",
+            "Localized": "Navy Botanical Flip-Flops"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_3_6",
+            "Localized": "Pink Lemon Flip-Flops"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_3_7",
+            "Localized": "Blue Lemon Flip-Flops"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_3_8",
+            "Localized": "Blue Floral Flip-Flops"
+        },
+        "9": {
+            "GXT": "CLO_SBM_F_3_9",
+            "Localized": "Red Floral Flip-Flops"
+        },
+        "10": {
+            "GXT": "CLO_SBM_F_3_10",
+            "Localized": "Vivid Stripes Flip-Flops"
+        },
+        "11": {
+            "GXT": "CLO_SBM_F_3_11",
+            "Localized": "Vibrant Stripes Flip-Flops"
+        },
+        "12": {
+            "GXT": "CLO_SBM_F_3_12",
+            "Localized": "Blue Striped Flip-Flops"
+        },
+        "13": {
+            "GXT": "CLO_SBM_F_3_13",
+            "Localized": "Red Striped Flip-Flops"
+        },
+        "14": {
+            "GXT": "CLO_SBM_F_3_14",
+            "Localized": "White Borrachas Flip-Flops"
+        },
+        "15": {
+            "GXT": "CLO_SBM_F_3_15",
+            "Localized": "Black Borrachas Flip-Flops"
+        },
+        "16": {
+            "GXT": "CLO_SBM_F_3_16",
+            "Localized": "Green Rectangles Flip-Flops"
+        },
+        "17": {
+            "GXT": "CLO_SBM_F_3_17",
+            "Localized": "Yellow Rectangles Flip-Flops"
+        },
+        "18": {
+            "GXT": "CLO_SBM_F_3_18",
+            "Localized": "Lilac Squares Flip-Flops"
+        },
+        "19": {
+            "GXT": "CLO_SBM_F_3_19",
+            "Localized": "Yellow Squares Flip-Flops"
+        },
+        "20": {
+            "GXT": "CLO_SBM_F_3_20",
+            "Localized": "Black Text Flip-Flops"
+        },
+        "21": {
+            "GXT": "CLO_SBM_F_3_21",
+            "Localized": "White Text Flip-Flops"
+        },
+        "22": {
+            "GXT": "CLO_SBM_F_3_22",
+            "Localized": "Red Zig Zag Flip-Flops"
+        },
+        "23": {
+            "GXT": "CLO_SBM_F_3_23",
+            "Localized": "Blue Zig Zag Flip-Flops"
+        }
+    },
+    "107": {
+        "0": {
+            "GXT": "CLO_SBM_F_4_0",
+            "Localized": "Black Buckled Loafers"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_4_1",
+            "Localized": "Gray Buckled Loafers"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_4_2",
+            "Localized": "Lilac Buckled Loafers"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_4_3",
+            "Localized": "Chocolate Buckled Loafers"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_4_4",
+            "Localized": "Ox Blood Buckled Loafers"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_4_5",
+            "Localized": "Dark Tan Buckled Loafers"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_4_6",
+            "Localized": "Beige Buckled Loafers"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_4_7",
+            "Localized": "Blue Buckled Loafers"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_4_8",
+            "Localized": "Green Buckled Loafers"
+        },
+        "9": {
+            "GXT": "CLO_SBM_F_4_9",
+            "Localized": "Pink Buckled Loafers"
+        },
+        "10": {
+            "GXT": "CLO_SBM_F_4_10",
+            "Localized": "Red Buckled Loafers"
+        }
+    },
+    "108": {
+        "0": {
+            "GXT": "CLO_SBM_F_5_0",
+            "Localized": "Wild Striped Pool Sliders"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_5_1",
+            "Localized": "Neon Striped Pool Sliders"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_5_2",
+            "Localized": "Black SC Coin Pool Sliders"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_5_3",
+            "Localized": "White SC Coin Pool Sliders"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_5_4",
+            "Localized": "Black SC Pattern Pool Sliders"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_5_5",
+            "Localized": "Pink SC Pattern Pool Sliders"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_5_6",
+            "Localized": "Blue SC Pattern Pool Sliders"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_5_7",
+            "Localized": "Camo Yeti Pool Sliders"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_5_8",
+            "Localized": "Gray Camo Yeti Pool Sliders"
+        }
+    },
+    "109": {
+        "0": {
+            "GXT": "CLO_SBM_F_6_0",
+            "Localized": "Black Bigness Pool Sliders"
+        },
+        "1": {
+            "GXT": "CLO_SBM_F_6_1",
+            "Localized": "Purple Bigness Pool Sliders"
+        },
+        "2": {
+            "GXT": "CLO_SBM_F_6_2",
+            "Localized": "Camo Bigness Pool Sliders"
+        },
+        "3": {
+            "GXT": "CLO_SBM_F_6_3",
+            "Localized": "Black Blagueurs Pool Sliders"
+        },
+        "4": {
+            "GXT": "CLO_SBM_F_6_4",
+            "Localized": "White Blagueurs Pool Sliders"
+        },
+        "5": {
+            "GXT": "CLO_SBM_F_6_5",
+            "Localized": "Pink Blagueurs Pool Sliders"
+        },
+        "6": {
+            "GXT": "CLO_SBM_F_6_6",
+            "Localized": "Gray Cimicino Pool Sliders"
+        },
+        "7": {
+            "GXT": "CLO_SBM_F_6_7",
+            "Localized": "Rouge Cimicino Pool Sliders"
+        },
+        "8": {
+            "GXT": "CLO_SBM_F_6_8",
+            "Localized": "Navy DS Pool Sliders"
+        },
+        "9": {
+            "GXT": "CLO_SBM_F_6_9",
+            "Localized": "Red DS Pool Sliders"
+        },
+        "10": {
+            "GXT": "CLO_SBM_F_6_10",
+            "Localized": "Floral Güffy Pool Sliders"
+        },
+        "11": {
+            "GXT": "CLO_SBM_F_6_11",
+            "Localized": "Green Güffy Pool Sliders"
+        },
+        "12": {
+            "GXT": "CLO_SBM_F_6_12",
+            "Localized": "White Güffy Pool Sliders"
+        },
+        "13": {
+            "GXT": "CLO_SBM_F_6_13",
+            "Localized": "Blue Heat Pool Sliders"
+        },
+        "14": {
+            "GXT": "CLO_SBM_F_6_14",
+            "Localized": "Red ProLaps Pool Sliders"
+        }
+    },
+    "110": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

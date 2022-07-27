@@ -18404,5 +18404,955 @@
             "GXT": "CLO_FXF_U_14_4",
             "Localized": "Blue WCC DJ Pooh Tucked Tee"
         }
+    },
+    "415": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "416": {
+        "0": {
+            "GXT": "CLO_SBF_U_0_0",
+            "Localized": "Black Mini Dress"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_0_1",
+            "Localized": "Dark Gray Mini Dress"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_0_2",
+            "Localized": "Gray Mini Dress"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_0_3",
+            "Localized": "Ice Mini Dress"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_0_4",
+            "Localized": "Beige Mini Dress"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_0_5",
+            "Localized": "Chocolate Mini Dress"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_0_6",
+            "Localized": "Burgundy Mini Dress"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_0_7",
+            "Localized": "Hot Pink Mini Dress"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_0_8",
+            "Localized": "Scarlet Mini Dress"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_0_9",
+            "Localized": "Orange Mini Dress"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_0_10",
+            "Localized": "Amber Mini Dress"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_0_11",
+            "Localized": "Lemon Mini Dress"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_0_12",
+            "Localized": "Royal Blue Mini Dress"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_0_13",
+            "Localized": "Blue Mini Dress"
+        },
+        "14": {
+            "GXT": "CLO_SBF_U_0_14",
+            "Localized": "Teal Mini Dress"
+        },
+        "15": {
+            "GXT": "CLO_SBF_U_0_15",
+            "Localized": "Cyan Mini Dress"
+        },
+        "16": {
+            "GXT": "CLO_SBF_U_0_16",
+            "Localized": "Light Blue Mini Dress"
+        },
+        "17": {
+            "GXT": "CLO_SBF_U_0_17",
+            "Localized": "Lilac Mini Dress"
+        },
+        "18": {
+            "GXT": "CLO_SBF_U_0_18",
+            "Localized": "Dark Green Mini Dress"
+        },
+        "19": {
+            "GXT": "CLO_SBF_U_0_19",
+            "Localized": "Emerald Mini Dress"
+        },
+        "20": {
+            "GXT": "CLO_SBF_U_0_20",
+            "Localized": "Moss Mini Dress"
+        },
+        "21": {
+            "GXT": "CLO_SBF_U_0_21",
+            "Localized": "Lime Mini Dress"
+        },
+        "22": {
+            "GXT": "CLO_SBF_U_0_22",
+            "Localized": "Peach Mini Dress"
+        },
+        "23": {
+            "GXT": "CLO_SBF_U_0_23",
+            "Localized": "Lavender Mini Dress"
+        },
+        "24": {
+            "GXT": "CLO_SBF_U_0_24",
+            "Localized": "Purple Mini Dress"
+        },
+        "25": {
+            "GXT": "CLO_SBF_U_0_25",
+            "Localized": "Magenta Mini Dress"
+        }
+    },
+    "417": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "418": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "419": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "420": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "421": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "422": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "423": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "424": {
+        "0": {
+            "GXT": "CLO_SBF_U_8_0",
+            "Localized": "Pacific Standard Sweater"
+        }
+    },
+    "425": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "426": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "427": {
+        "0": {
+            "GXT": "CLO_SBF_U_11_0",
+            "Localized": "Black Light Biker"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_11_1",
+            "Localized": "Gray Light Biker"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_11_2",
+            "Localized": "Ash Light Biker"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_11_3",
+            "Localized": "Ice Light Biker"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_11_4",
+            "Localized": "Ox Blood Light Biker"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_11_5",
+            "Localized": "Scarlet Light Biker"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_11_6",
+            "Localized": "Dark Green Light Biker"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_11_7",
+            "Localized": "Red Light Biker"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_11_8",
+            "Localized": "Orange Light Biker"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_11_9",
+            "Localized": "Mustard Light Biker"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_11_10",
+            "Localized": "Chestnut Light Biker"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_11_11",
+            "Localized": "Dark Nut Light Biker"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_11_12",
+            "Localized": "Dark Blue Light Biker"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_11_13",
+            "Localized": "Light Blue Light Biker"
+        }
+    },
+    "428": {
+        "0": {
+            "GXT": "CLO_SBF_U_11_0",
+            "Localized": "Black Light Biker"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_11_1",
+            "Localized": "Gray Light Biker"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_11_2",
+            "Localized": "Ash Light Biker"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_11_3",
+            "Localized": "Ice Light Biker"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_11_4",
+            "Localized": "Ox Blood Light Biker"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_11_5",
+            "Localized": "Scarlet Light Biker"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_11_6",
+            "Localized": "Dark Green Light Biker"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_11_7",
+            "Localized": "Red Light Biker"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_11_8",
+            "Localized": "Orange Light Biker"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_11_9",
+            "Localized": "Mustard Light Biker"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_11_10",
+            "Localized": "Chestnut Light Biker"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_11_11",
+            "Localized": "Dark Nut Light Biker"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_11_12",
+            "Localized": "Dark Blue Light Biker"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_11_13",
+            "Localized": "Light Blue Light Biker"
+        }
+    },
+    "429": {
+        "0": {
+            "GXT": "CLO_SBF_U_13_0",
+            "Localized": "Black Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_13_1",
+            "Localized": "Dark Gray Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_13_2",
+            "Localized": "Gray Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_13_3",
+            "Localized": "Ice Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_13_4",
+            "Localized": "Beige Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_13_5",
+            "Localized": "Chocolate Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_13_6",
+            "Localized": "Burgundy Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_13_7",
+            "Localized": "Hot Pink Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_13_8",
+            "Localized": "Scarlet Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_13_9",
+            "Localized": "Orange Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_13_10",
+            "Localized": "Amber Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_13_11",
+            "Localized": "Lemon Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_13_12",
+            "Localized": "Royal Blue Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_13_13",
+            "Localized": "Blue Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_SBF_U_13_14",
+            "Localized": "Teal Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_SBF_U_13_15",
+            "Localized": "Cyan Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_SBF_U_13_16",
+            "Localized": "Light Blue Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_SBF_U_13_17",
+            "Localized": "Lilac Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_SBF_U_13_18",
+            "Localized": "Dark Green Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_SBF_U_13_19",
+            "Localized": "Emerald Revere Collar"
+        },
+        "20": {
+            "GXT": "CLO_SBF_U_13_20",
+            "Localized": "Moss Revere Collar"
+        },
+        "21": {
+            "GXT": "CLO_SBF_U_13_21",
+            "Localized": "Lime Revere Collar"
+        },
+        "22": {
+            "GXT": "CLO_SBF_U_13_22",
+            "Localized": "Peach Revere Collar"
+        },
+        "23": {
+            "GXT": "CLO_SBF_U_13_23",
+            "Localized": "Lavender Revere Collar"
+        },
+        "24": {
+            "GXT": "CLO_SBF_U_13_24",
+            "Localized": "Purple Revere Collar"
+        },
+        "25": {
+            "GXT": "CLO_SBF_U_13_25",
+            "Localized": "Magenta Revere Collar"
+        }
+    },
+    "430": {
+        "0": {
+            "GXT": "CLO_SBF_U_14_0",
+            "Localized": "Green Palms Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_14_1",
+            "Localized": "Blush Palms Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_14_2",
+            "Localized": "Charcoal Floral Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_14_3",
+            "Localized": "Red Floral Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_14_4",
+            "Localized": "Charcoal Palms Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_14_5",
+            "Localized": "Pink Palms Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_14_6",
+            "Localized": "Cool Sunset Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_14_7",
+            "Localized": "Warm Sunset Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_14_8",
+            "Localized": "Green Pineapple Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_14_9",
+            "Localized": "Scarlet Pineapple Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_14_10",
+            "Localized": "Black Bigness Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_14_11",
+            "Localized": "White Bigness Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_14_12",
+            "Localized": "Blue Petals Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_14_13",
+            "Localized": "Teal Petals Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_SBF_U_14_14",
+            "Localized": "Red Stripes Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_SBF_U_14_15",
+            "Localized": "Blue Stripes Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_SBF_U_14_16",
+            "Localized": "Blue Chalk Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_SBF_U_14_17",
+            "Localized": "Pink Chalk Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_SBF_U_14_18",
+            "Localized": "Blue Fruit Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_SBF_U_14_19",
+            "Localized": "White Fruit Revere Collar"
+        }
+    },
+    "431": {
+        "0": {
+            "GXT": "CLO_SBF_U_15_0",
+            "Localized": "Pumpkin Tee"
+        }
+    },
+    "432": {
+        "0": {
+            "GXT": "CLO_SBF_U_16_0",
+            "Localized": "Pumpkin Tucked Tee"
+        }
+    },
+    "433": {
+        "0": {
+            "GXT": "CLO_SBF_U_17_0",
+            "Localized": "Black Sun Dress"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_17_1",
+            "Localized": "Dark Gray Sun Dress"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_17_2",
+            "Localized": "Gray Sun Dress"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_17_3",
+            "Localized": "Ice Sun Dress"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_17_4",
+            "Localized": "Beige Sun Dress"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_17_5",
+            "Localized": "Chocolate Sun Dress"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_17_6",
+            "Localized": "Burgundy Sun Dress"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_17_7",
+            "Localized": "Hot Pink Sun Dress"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_17_8",
+            "Localized": "Scarlet Sun Dress"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_17_9",
+            "Localized": "Orange Sun Dress"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_17_10",
+            "Localized": "Amber Sun Dress"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_17_11",
+            "Localized": "Lemon Sun Dress"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_17_12",
+            "Localized": "Royal Blue Sun Dress"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_17_13",
+            "Localized": "Blue Sun Dress"
+        },
+        "14": {
+            "GXT": "CLO_SBF_U_17_14",
+            "Localized": "Teal Sun Dress"
+        },
+        "15": {
+            "GXT": "CLO_SBF_U_17_15",
+            "Localized": "Cyan Sun Dress"
+        },
+        "16": {
+            "GXT": "CLO_SBF_U_17_16",
+            "Localized": "Light Blue Sun Dress"
+        },
+        "17": {
+            "GXT": "CLO_SBF_U_17_17",
+            "Localized": "Lilac Sun Dress"
+        },
+        "18": {
+            "GXT": "CLO_SBF_U_17_18",
+            "Localized": "Dark Green Sun Dress"
+        },
+        "19": {
+            "GXT": "CLO_SBF_U_17_19",
+            "Localized": "Emerald Sun Dress"
+        },
+        "20": {
+            "GXT": "CLO_SBF_U_17_20",
+            "Localized": "Moss Sun Dress"
+        },
+        "21": {
+            "GXT": "CLO_SBF_U_17_21",
+            "Localized": "Lime Sun Dress"
+        },
+        "22": {
+            "GXT": "CLO_SBF_U_17_22",
+            "Localized": "Peach Sun Dress"
+        },
+        "23": {
+            "GXT": "CLO_SBF_U_17_23",
+            "Localized": "Lavender Sun Dress"
+        },
+        "24": {
+            "GXT": "CLO_SBF_U_17_24",
+            "Localized": "Purple Sun Dress"
+        },
+        "25": {
+            "GXT": "CLO_SBF_U_17_25",
+            "Localized": "Magenta Sun Dress"
+        }
+    },
+    "434": {
+        "0": {
+            "GXT": "CLO_SBF_U_18_0",
+            "Localized": "White DS Striped Sun Dress"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_18_1",
+            "Localized": "Pink DS Striped Sun Dress"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_18_2",
+            "Localized": "Lime DS Striped Sun Dress"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_18_3",
+            "Localized": "Yellow DS Striped Sun Dress"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_18_4",
+            "Localized": "Black Blagueurs Sun Dress"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_18_5",
+            "Localized": "White Blagueurs Sun Dress"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_18_6",
+            "Localized": "Teal Floral Sun Dress"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_18_7",
+            "Localized": "Rose Floral Sun Dress"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_18_8",
+            "Localized": "Lime VDG Sun Dress"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_18_9",
+            "Localized": "Pink VDG Sun Dress"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_18_10",
+            "Localized": "Wine Red SD Sun Dress"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_18_11",
+            "Localized": "Yellow SD Sun Dress"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_18_12",
+            "Localized": "Blue Tris Perseus Sun Dress"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_18_13",
+            "Localized": "Orange Tris Perseus Sun Dress"
+        },
+        "14": {
+            "GXT": "CLO_SBF_U_18_14",
+            "Localized": "Red SN Sun Dress"
+        },
+        "15": {
+            "GXT": "CLO_SBF_U_18_15",
+            "Localized": "Lilac SN Sun Dress"
+        },
+        "16": {
+            "GXT": "CLO_SBF_U_18_16",
+            "Localized": "Dark Swirl Perseus Sun Dress"
+        },
+        "17": {
+            "GXT": "CLO_SBF_U_18_17",
+            "Localized": "Bright Swirl Perseus Sun Dress"
+        },
+        "18": {
+            "GXT": "CLO_SBF_U_18_18",
+            "Localized": "Positive Cimicino Sun Dress"
+        },
+        "19": {
+            "GXT": "CLO_SBF_U_18_19",
+            "Localized": "Negative Cimicino Sun Dress"
+        },
+        "20": {
+            "GXT": "CLO_SBF_U_18_20",
+            "Localized": "Cyan Cimicino Sun Dress"
+        },
+        "21": {
+            "GXT": "CLO_SBF_U_18_21",
+            "Localized": "Blush Cimicino Sun Dress"
+        }
+    },
+    "435": {
+        "0": {
+            "GXT": "CLO_SBF_U_19_0",
+            "Localized": "Sinsimito Cuban Shirt"
+        }
+    },
+    "436": {
+        "0": {
+            "GXT": "CLO_SBF_U_20_0",
+            "Localized": "Cliffford Varsity"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_20_1",
+            "Localized": "Pacific Standard Varsity"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_20_2",
+            "Localized": "The Diamond Casino Varsity"
+        }
+    },
+    "437": {
+        "0": {
+            "GXT": "CLO_SBF_U_21_0",
+            "Localized": "Cliffford Hoodie"
+        }
+    },
+    "438": {
+        "0": {
+            "GXT": "CLO_SBF_U_22_0",
+            "Localized": "Black SC Mini Dress"
+        },
+        "1": {
+            "GXT": "CLO_SBF_U_22_1",
+            "Localized": "White SC Mini Dress"
+        },
+        "2": {
+            "GXT": "CLO_SBF_U_22_2",
+            "Localized": "Black SC Coin Mini Dress"
+        },
+        "3": {
+            "GXT": "CLO_SBF_U_22_3",
+            "Localized": "Pink SC Coin Mini Dress"
+        },
+        "4": {
+            "GXT": "CLO_SBF_U_22_4",
+            "Localized": "Blue SC Coin Mini Dress"
+        },
+        "5": {
+            "GXT": "CLO_SBF_U_22_5",
+            "Localized": "White Le Chien Mini Dress"
+        },
+        "6": {
+            "GXT": "CLO_SBF_U_22_6",
+            "Localized": "Black Le Chien Mini Dress"
+        },
+        "7": {
+            "GXT": "CLO_SBF_U_22_7",
+            "Localized": "White SN Mini Dress"
+        },
+        "8": {
+            "GXT": "CLO_SBF_U_22_8",
+            "Localized": "Black SN Mini Dress"
+        },
+        "9": {
+            "GXT": "CLO_SBF_U_22_9",
+            "Localized": "Gradient SN Mini Dress"
+        },
+        "10": {
+            "GXT": "CLO_SBF_U_22_10",
+            "Localized": "White SD Pattern Mini Dress"
+        },
+        "11": {
+            "GXT": "CLO_SBF_U_22_11",
+            "Localized": "Purple SD Pattern Mini Dress"
+        },
+        "12": {
+            "GXT": "CLO_SBF_U_22_12",
+            "Localized": "Yellow SD Pattern Mini Dress"
+        },
+        "13": {
+            "GXT": "CLO_SBF_U_22_13",
+            "Localized": "Pink SD Pattern Mini Dress"
+        },
+        "14": {
+            "GXT": "CLO_SBF_U_22_14",
+            "Localized": "Blue DS Climbing Mini Dress"
+        },
+        "15": {
+            "GXT": "CLO_SBF_U_22_15",
+            "Localized": "Red DS Climbing Mini Dress"
+        },
+        "16": {
+            "GXT": "CLO_SBF_U_22_16",
+            "Localized": "Gray DS Climbing Mini Dress"
+        },
+        "17": {
+            "GXT": "CLO_SBF_U_22_17",
+            "Localized": "Pink DS Climbing Mini Dress"
+        },
+        "18": {
+            "GXT": "CLO_SBF_U_22_18",
+            "Localized": "Lilac DS Climbing Mini Dress"
+        },
+        "19": {
+            "GXT": "CLO_SBF_U_22_19",
+            "Localized": "Yellow DS Climbing Mini Dress"
+        },
+        "20": {
+            "GXT": "CLO_SBF_U_22_20",
+            "Localized": "Ash DS Climbing Mini Dress"
+        },
+        "21": {
+            "GXT": "CLO_SBF_U_22_21",
+            "Localized": "Black Enema Mini Dress"
+        },
+        "22": {
+            "GXT": "CLO_SBF_U_22_22",
+            "Localized": "Pink Enema Mini Dress"
+        },
+        "23": {
+            "GXT": "CLO_SBF_U_22_23",
+            "Localized": "Cyan Enema Mini Dress"
+        },
+        "24": {
+            "GXT": "CLO_SBF_U_22_24",
+            "Localized": "Black Floral Mini Dress"
+        },
+        "25": {
+            "GXT": "CLO_SBF_U_22_25",
+            "Localized": "Cream Floral Mini Dress"
+        }
+    },
+    "439": {
+        "0": {
+            "GXT": "CLO_SBF_U_23_0",
+            "Localized": "Cyan Floral Mini Dress"
+        }
+    },
+    "440": {
+        "0": {
+            "GXT": "CLO_SBF_U_21_0",
+            "Localized": "Cliffford Hoodie"
+        }
+    },
+    "441": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "442": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "443": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "444": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "445": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "446": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "447": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "448": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "449": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

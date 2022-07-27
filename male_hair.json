@@ -1232,5 +1232,21 @@
             "HairTattooCollection": 601646824,
             "HairTattooOverlay": 1334100948
         }
+    },
+    "77": {
+        "0": {
+            "GXT": "CLO_SBM_H_0_0",
+            "Localized": "Two Block",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -1927370417
+        }
+    },
+    "78": {
+        "0": {
+            "GXT": "CLO_SBM_H_1_0",
+            "Localized": "Shaggy Mullet",
+            "HairTattooCollection": 987639353,
+            "HairTattooOverlay": -1088161005
+        }
     }
 }

@@ -6244,5 +6244,401 @@
             "GXT": "CLO_FXF_L_5_25",
             "Localized": "Midnight Swallow Tie-dye Beach"
         }
+    },
+    "151": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "152": {
+        "0": {
+            "GXT": "CLO_SBF_L_0_0",
+            "Localized": "Green UFO Boxer Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_0_1",
+            "Localized": "White UFO Boxer Shorts"
+        }
+    },
+    "153": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "154": {
+        "0": {
+            "GXT": "CLO_SBF_L_2_0",
+            "Localized": "White Jean Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_2_1",
+            "Localized": "Gray Jean Shorts"
+        },
+        "2": {
+            "GXT": "CLO_SBF_L_2_2",
+            "Localized": "Charcoal Jean Shorts"
+        },
+        "3": {
+            "GXT": "CLO_SBF_L_2_3",
+            "Localized": "Black Jean Shorts"
+        },
+        "4": {
+            "GXT": "CLO_SBF_L_2_4",
+            "Localized": "Indigo Jean Shorts"
+        },
+        "5": {
+            "GXT": "CLO_SBF_L_2_5",
+            "Localized": "Light Jean Shorts"
+        },
+        "6": {
+            "GXT": "CLO_SBF_L_2_6",
+            "Localized": "Stonewash Jean Shorts"
+        },
+        "7": {
+            "GXT": "CLO_SBF_L_2_7",
+            "Localized": "Standard Jean Shorts"
+        },
+        "8": {
+            "GXT": "CLO_SBF_L_2_8",
+            "Localized": "Classic Jean Shorts"
+        },
+        "9": {
+            "GXT": "CLO_SBF_L_2_9",
+            "Localized": "Dark Jean Shorts"
+        },
+        "10": {
+            "GXT": "CLO_SBF_L_2_10",
+            "Localized": "Faded White Jean Shorts"
+        },
+        "11": {
+            "GXT": "CLO_SBF_L_2_11",
+            "Localized": "Faded Charcoal Jean Shorts"
+        },
+        "12": {
+            "GXT": "CLO_SBF_L_2_12",
+            "Localized": "Faded Classic Jean Shorts"
+        },
+        "13": {
+            "GXT": "CLO_SBF_L_2_13",
+            "Localized": "Faded Standard Jean Shorts"
+        },
+        "14": {
+            "GXT": "CLO_SBF_L_2_14",
+            "Localized": "Faded Dark Jean Shorts"
+        },
+        "15": {
+            "GXT": "CLO_SBF_L_2_15",
+            "Localized": "Faded Indigo Jean Shorts"
+        },
+        "16": {
+            "GXT": "CLO_SBF_L_2_16",
+            "Localized": "Faded Stonewash Jean Shorts"
+        },
+        "17": {
+            "GXT": "CLO_SBF_L_2_17",
+            "Localized": "Faded Light Jean Shorts"
+        },
+        "18": {
+            "GXT": "CLO_SBF_L_2_18",
+            "Localized": "Burgundy Jean Shorts"
+        },
+        "19": {
+            "GXT": "CLO_SBF_L_2_19",
+            "Localized": "Orange Jean Shorts"
+        },
+        "20": {
+            "GXT": "CLO_SBF_L_2_20",
+            "Localized": "Amber Jean Shorts"
+        },
+        "21": {
+            "GXT": "CLO_SBF_L_2_21",
+            "Localized": "Lemon Jean Shorts"
+        },
+        "22": {
+            "GXT": "CLO_SBF_L_2_22",
+            "Localized": "Lavender Jean Shorts"
+        },
+        "23": {
+            "GXT": "CLO_SBF_L_2_23",
+            "Localized": "Moss Jean Shorts"
+        },
+        "24": {
+            "GXT": "CLO_SBF_L_2_24",
+            "Localized": "Peach Jean Shorts"
+        },
+        "25": {
+            "GXT": "CLO_SBF_L_2_25",
+            "Localized": "Pink Jean Shorts"
+        }
+    },
+    "155": {
+        "0": {
+            "GXT": "CLO_SBF_L_3_0",
+            "Localized": "Ash Denim Skirt"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_3_1",
+            "Localized": "Gray Denim Skirt"
+        },
+        "2": {
+            "GXT": "CLO_SBF_L_3_2",
+            "Localized": "Dark Gray Denim Skirt"
+        },
+        "3": {
+            "GXT": "CLO_SBF_L_3_3",
+            "Localized": "Black Denim Skirt"
+        },
+        "4": {
+            "GXT": "CLO_SBF_L_3_4",
+            "Localized": "Standard Denim Skirt"
+        },
+        "5": {
+            "GXT": "CLO_SBF_L_3_5",
+            "Localized": "Classic Denim Skirt"
+        },
+        "6": {
+            "GXT": "CLO_SBF_L_3_6",
+            "Localized": "Light Denim Skirt"
+        },
+        "7": {
+            "GXT": "CLO_SBF_L_3_7",
+            "Localized": "Stonewash Denim Skirt"
+        },
+        "8": {
+            "GXT": "CLO_SBF_L_3_8",
+            "Localized": "Dark Denim Skirt"
+        },
+        "9": {
+            "GXT": "CLO_SBF_L_3_9",
+            "Localized": "Indigo Denim Skirt"
+        },
+        "10": {
+            "GXT": "CLO_SBF_L_3_10",
+            "Localized": "Faded Gray Denim Skirt"
+        },
+        "11": {
+            "GXT": "CLO_SBF_L_3_11",
+            "Localized": "Faded Dark Gray Denim Skirt"
+        },
+        "12": {
+            "GXT": "CLO_SBF_L_3_12",
+            "Localized": "Faded Dark Denim Skirt"
+        },
+        "13": {
+            "GXT": "CLO_SBF_L_3_13",
+            "Localized": "Faded Standard Denim Skirt"
+        },
+        "14": {
+            "GXT": "CLO_SBF_L_3_14",
+            "Localized": "Faded Classic Denim Skirt"
+        },
+        "15": {
+            "GXT": "CLO_SBF_L_3_15",
+            "Localized": "Faded Stonewash Denim Skirt"
+        },
+        "16": {
+            "GXT": "CLO_SBF_L_3_16",
+            "Localized": "Faded Indigo Denim Skirt"
+        },
+        "17": {
+            "GXT": "CLO_SBF_L_3_17",
+            "Localized": "Faded Black Denim Skirt"
+        },
+        "18": {
+            "GXT": "CLO_SBF_L_3_18",
+            "Localized": "Burgundy Denim Skirt"
+        },
+        "19": {
+            "GXT": "CLO_SBF_L_3_19",
+            "Localized": "Orange Denim Skirt"
+        },
+        "20": {
+            "GXT": "CLO_SBF_L_3_20",
+            "Localized": "Amber Denim Skirt"
+        },
+        "21": {
+            "GXT": "CLO_SBF_L_3_21",
+            "Localized": "Lemon Denim Skirt"
+        },
+        "22": {
+            "GXT": "CLO_SBF_L_3_22",
+            "Localized": "Lavender Denim Skirt"
+        },
+        "23": {
+            "GXT": "CLO_SBF_L_3_23",
+            "Localized": "Moss Denim Skirt"
+        },
+        "24": {
+            "GXT": "CLO_SBF_L_3_24",
+            "Localized": "Peach Denim Skirt"
+        },
+        "25": {
+            "GXT": "CLO_SBF_L_3_25",
+            "Localized": "Pink Denim Skirt"
+        }
+    },
+    "156": {
+        "0": {
+            "GXT": "CLO_SBF_L_4_0",
+            "Localized": "Black Laced Leather"
+        },
+        "1": {
+            "GXT": "CLO_SBF_L_4_1",
+            "Localized": "Dark Gray Laced Leather"
+        },
+        "2": {
+            "GXT": "CLO_SBF_L_4_2",
+            "Localized": "Light Gray Laced Leather"
+        },
+        "3": {
+            "GXT": "CLO_SBF_L_4_3",
+            "Localized": "White Laced Leather"
+        },
+        "4": {
+            "GXT": "CLO_SBF_L_4_4",
+            "Localized": "Ox Blood Laced Leather"
+        },
+        "5": {
+            "GXT": "CLO_SBF_L_4_5",
+            "Localized": "Scarlet Laced Leather"
+        },
+        "6": {
+            "GXT": "CLO_SBF_L_4_6",
+            "Localized": "Green Laced Leather"
+        },
+        "7": {
+            "GXT": "CLO_SBF_L_4_7",
+            "Localized": "Red Laced Leather"
+        },
+        "8": {
+            "GXT": "CLO_SBF_L_4_8",
+            "Localized": "Orange Laced Leather"
+        },
+        "9": {
+            "GXT": "CLO_SBF_L_4_9",
+            "Localized": "Amber Laced Leather"
+        },
+        "10": {
+            "GXT": "CLO_SBF_L_4_10",
+            "Localized": "Chestnut Laced Leather"
+        },
+        "11": {
+            "GXT": "CLO_SBF_L_4_11",
+            "Localized": "Pale Brown Laced Leather"
+        },
+        "12": {
+            "GXT": "CLO_SBF_L_4_12",
+            "Localized": "Blue Laced Leather"
+        },
+        "13": {
+            "GXT": "CLO_SBF_L_4_13",
+            "Localized": "Light Blue Laced Leather"
+        },
+        "14": {
+            "GXT": "CLO_SBF_L_4_14",
+            "Localized": "Black & Red Laced Leather"
+        },
+        "15": {
+            "GXT": "CLO_SBF_L_4_15",
+            "Localized": "Worn Dirty Laced Leather"
+        },
+        "16": {
+            "GXT": "CLO_SBF_L_4_16",
+            "Localized": "Worn Gray Laced Leather"
+        },
+        "17": {
+            "GXT": "CLO_SBF_L_4_17",
+            "Localized": "Worn Dark Laced Leather"
+        },
+        "18": {
+            "GXT": "CLO_SBF_L_4_18",
+            "Localized": "Worn Chestnut Laced Leather"
+        },
+        "19": {
+            "GXT": "CLO_SBF_L_4_19",
+            "Localized": "Worn Charcoal Laced Leather"
+        },
+        "20": {
+            "GXT": "CLO_SBF_L_4_20",
+            "Localized": "Worn Ox Blood Laced Leather"
+        }
+    },
+    "157": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "158": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
