@@ -1934,5 +1934,215 @@
             "GXT": "CLO_SBM_PE_1_19",
             "Localized": "Fall Tactical Goggles"
         }
+    },
+    "42": {
+        "0": {
+            "GXT": "CLO_X6M_EY_0_0",
+            "Localized": "Black Cat Eye Shades"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_0_1",
+            "Localized": "White Cat Eye Shades"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_0_2",
+            "Localized": "Magenta Cat Eye Shades"
+        },
+        "3": {
+            "GXT": "CLO_X6M_EY_0_3",
+            "Localized": "Red Cat Eye Shades"
+        },
+        "4": {
+            "GXT": "CLO_X6M_EY_0_4",
+            "Localized": "Orange Cat Eye Shades"
+        },
+        "5": {
+            "GXT": "CLO_X6M_EY_0_5",
+            "Localized": "Mustard Cat Eye Shades"
+        },
+        "6": {
+            "GXT": "CLO_X6M_EY_0_6",
+            "Localized": "Lemon Cat Eye Shades"
+        },
+        "7": {
+            "GXT": "CLO_X6M_EY_0_7",
+            "Localized": "Blue Cat Eye Shades"
+        },
+        "8": {
+            "GXT": "CLO_X6M_EY_0_8",
+            "Localized": "Cyan Cat Eye Shades"
+        },
+        "9": {
+            "GXT": "CLO_X6M_EY_0_9",
+            "Localized": "Green Cat Eye Shades"
+        },
+        "10": {
+            "GXT": "CLO_X6M_EY_010",
+            "Localized": "Lime Cat Eye Shades"
+        },
+        "11": {
+            "GXT": "CLO_X6M_EY_011",
+            "Localized": "Lavender Cat Eye Shades"
+        },
+        "12": {
+            "GXT": "CLO_X6M_EY_012",
+            "Localized": "Purple Cat Eye Shades"
+        },
+        "13": {
+            "GXT": "CLO_X6M_EY_013",
+            "Localized": "Tortoiseshell Cat Eye Shades"
+        },
+        "14": {
+            "GXT": "CLO_X6M_EY_014",
+            "Localized": "Orange Tint Cat Eye Shades"
+        },
+        "15": {
+            "GXT": "CLO_X6M_EY_015",
+            "Localized": "Blue Tint Cat Eye Shades"
+        }
+    },
+    "43": {
+        "0": {
+            "GXT": "CLO_X6M_EY_1_0",
+            "Localized": "Red Manor Round Brow Shades"
+        }
+    },
+    "44": {
+        "0": {
+            "GXT": "CLO_X6M_EY_2_0",
+            "Localized": "Gold New Year Glasses"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_2_1",
+            "Localized": "Silver New Year Glasses"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_2_2",
+            "Localized": "Rainbow New Year Glasses"
+        }
+    },
+    "45": {
+        "0": {
+            "GXT": "CLO_X6M_EY_3_0",
+            "Localized": "Black Bigness Wraps"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_3_1",
+            "Localized": "Purple Bigness Wraps"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_3_2",
+            "Localized": "White Bigness Wraps"
+        },
+        "3": {
+            "GXT": "CLO_X6M_EY_3_3",
+            "Localized": "Zebra Bigness Wraps"
+        },
+        "4": {
+            "GXT": "CLO_X6M_EY_3_4",
+            "Localized": "Pink Zebra Bigness Wraps"
+        },
+        "5": {
+            "GXT": "CLO_X6M_EY_3_5",
+            "Localized": "Blue DS Wraps"
+        },
+        "6": {
+            "GXT": "CLO_X6M_EY_3_6",
+            "Localized": "Green Flames Wraps"
+        },
+        "7": {
+            "GXT": "CLO_X6M_EY_3_7",
+            "Localized": "Orange Flames Wraps"
+        },
+        "8": {
+            "GXT": "CLO_X6M_EY_3_8",
+            "Localized": "Pink Flames Wraps"
+        },
+        "9": {
+            "GXT": "CLO_X6M_EY_3_9",
+            "Localized": "Purple Flames Wraps"
+        },
+        "10": {
+            "GXT": "CLO_X6M_EY_3_10",
+            "Localized": "Red Flames Wraps"
+        },
+        "11": {
+            "GXT": "CLO_X6M_EY_3_11",
+            "Localized": "Magenta Leopard Güffy Wraps"
+        },
+        "12": {
+            "GXT": "CLO_X6M_EY_3_12",
+            "Localized": "Cyan Leopard Güffy Wraps"
+        },
+        "13": {
+            "GXT": "CLO_X6M_EY_3_13",
+            "Localized": "Moss Leopard Güffy Wraps"
+        },
+        "14": {
+            "GXT": "CLO_X6M_EY_3_14",
+            "Localized": "Blue Lightning Wraps"
+        },
+        "15": {
+            "GXT": "CLO_X6M_EY_3_15",
+            "Localized": "White Lightning Wraps"
+        },
+        "16": {
+            "GXT": "CLO_X6M_EY_3_16",
+            "Localized": "Green Lightning Wraps"
+        },
+        "17": {
+            "GXT": "CLO_X6M_EY_3_17",
+            "Localized": "Orange Lightning Wraps"
+        },
+        "18": {
+            "GXT": "CLO_X6M_EY_3_18",
+            "Localized": "Purple Lightning Wraps"
+        },
+        "19": {
+            "GXT": "CLO_X6M_EY_3_19",
+            "Localized": "Pink Lightning Wraps"
+        },
+        "20": {
+            "GXT": "CLO_X6M_EY_3_20",
+            "Localized": "Gray Camo Sand Castle Wraps"
+        },
+        "21": {
+            "GXT": "CLO_X6M_EY_3_21",
+            "Localized": "Aqua Camo Sand Castle Wraps"
+        },
+        "22": {
+            "GXT": "CLO_X6M_EY_3_22",
+            "Localized": "Gray Dazzle Sand Castle Wraps"
+        },
+        "23": {
+            "GXT": "CLO_X6M_EY_3_23",
+            "Localized": "Aqua Dazzle Sand Castle Wraps"
+        },
+        "24": {
+            "GXT": "CLO_X6M_EY_3_24",
+            "Localized": "Black SC Coin Wraps"
+        },
+        "25": {
+            "GXT": "CLO_X6M_EY_3_25",
+            "Localized": "Blue SC Coin Wraps"
+        }
+    },
+    "46": {
+        "0": {
+            "GXT": "CLO_X6M_EY_4_0",
+            "Localized": "Lime SC Coin Wraps"
+        },
+        "1": {
+            "GXT": "CLO_X6M_EY_4_1",
+            "Localized": "Pink SC Coin Wraps"
+        },
+        "2": {
+            "GXT": "CLO_X6M_EY_4_2",
+            "Localized": "Red SC Coin Wraps"
+        },
+        "3": {
+            "GXT": "CLO_X6M_EY_4_3",
+            "Localized": "White SC Coin Wraps"
+        }
     }
 }

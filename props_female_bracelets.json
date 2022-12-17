@@ -170,5 +170,107 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "18": {
+        "0": {
+            "GXT": "CLO_X6F_RW_0_0",
+            "Localized": "Silver Chunky Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_X6F_RW_0_1",
+            "Localized": "Mono Chunky Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_X6F_RW_0_2",
+            "Localized": "Gold Chunky Bracelet"
+        },
+        "3": {
+            "GXT": "CLO_X6F_RW_0_3",
+            "Localized": "Rose Chunky Bracelet"
+        },
+        "4": {
+            "GXT": "CLO_X6F_RW_0_4",
+            "Localized": "Copper Chunky Bracelet"
+        }
+    },
+    "19": {
+        "0": {
+            "GXT": "CLO_X6F_RW_1_0",
+            "Localized": "Silver Chain Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_X6F_RW_1_1",
+            "Localized": "Mono Chain Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_X6F_RW_1_2",
+            "Localized": "Gold Chain Bracelet"
+        },
+        "3": {
+            "GXT": "CLO_X6F_RW_1_3",
+            "Localized": "Rose Chain Bracelet"
+        },
+        "4": {
+            "GXT": "CLO_X6F_RW_1_4",
+            "Localized": "Copper Chain Bracelet"
+        }
+    },
+    "20": {
+        "0": {
+            "GXT": "CLO_X6F_RW_2_0",
+            "Localized": "Black Woven Bracelet"
+        },
+        "1": {
+            "GXT": "CLO_X6F_RW_2_1",
+            "Localized": "Dark Gray Woven Bracelet"
+        },
+        "2": {
+            "GXT": "CLO_X6F_RW_2_2",
+            "Localized": "Light Gray Woven Bracelet"
+        },
+        "3": {
+            "GXT": "CLO_X6F_RW_2_3",
+            "Localized": "White Woven Bracelet"
+        },
+        "4": {
+            "GXT": "CLO_X6F_RW_2_4",
+            "Localized": "Ox Blood Woven Bracelet"
+        },
+        "5": {
+            "GXT": "CLO_X6F_RW_2_5",
+            "Localized": "Crimson Woven Bracelet"
+        },
+        "6": {
+            "GXT": "CLO_X6F_RW_2_6",
+            "Localized": "Green Woven Bracelet"
+        },
+        "7": {
+            "GXT": "CLO_X6F_RW_2_7",
+            "Localized": "Red Woven Bracelet"
+        },
+        "8": {
+            "GXT": "CLO_X6F_RW_2_8",
+            "Localized": "Orange Woven Bracelet"
+        },
+        "9": {
+            "GXT": "CLO_X6F_RW_2_9",
+            "Localized": "Mustard Woven Bracelet"
+        },
+        "10": {
+            "GXT": "CLO_X6F_RW_210",
+            "Localized": "Chestnut Woven Bracelet"
+        },
+        "11": {
+            "GXT": "CLO_X6F_RW_211",
+            "Localized": "Dark Nut Woven Bracelet"
+        },
+        "12": {
+            "GXT": "CLO_X6F_RW_212",
+            "Localized": "Blue Woven Bracelet"
+        },
+        "13": {
+            "GXT": "CLO_X6F_RW_213",
+            "Localized": "Light Blue Woven Bracelet"
+        }
     }
 }
