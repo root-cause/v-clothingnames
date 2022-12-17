@@ -17486,5 +17486,1163 @@
             "GXT": "CLO_E1M_U_7_0",
             "Localized": "LS Smoking Jacket"
         }
+    },
+    "422": {
+        "0": {
+            "GXT": "CLO_X6M_U_0_0",
+            "Localized": "Black V Neck"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_0_1",
+            "Localized": "Dark Gray V Neck"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_0_2",
+            "Localized": "Gray V Neck"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_0_3",
+            "Localized": "Ice V Neck"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_0_4",
+            "Localized": "Beige V Neck"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_0_5",
+            "Localized": "Chocolate V Neck"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_0_6",
+            "Localized": "Claret V Neck"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_0_7",
+            "Localized": "Hot Pink V Neck"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_0_8",
+            "Localized": "Red V Neck"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_0_9",
+            "Localized": "Tangerine V Neck"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_0_10",
+            "Localized": "Yellow V Neck"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_0_11",
+            "Localized": "Lemon V Neck"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_0_12",
+            "Localized": "Navy V Neck"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_0_13",
+            "Localized": "Blue V Neck"
+        },
+        "14": {
+            "GXT": "CLO_X6M_U_0_14",
+            "Localized": "Cerulean V Neck"
+        },
+        "15": {
+            "GXT": "CLO_X6M_U_0_15",
+            "Localized": "Cyan V Neck"
+        },
+        "16": {
+            "GXT": "CLO_X6M_U_0_16",
+            "Localized": "Powder Blue V Neck"
+        },
+        "17": {
+            "GXT": "CLO_X6M_U_0_17",
+            "Localized": "Lilac V Neck"
+        },
+        "18": {
+            "GXT": "CLO_X6M_U_0_18",
+            "Localized": "Dark Green V Neck"
+        },
+        "19": {
+            "GXT": "CLO_X6M_U_0_19",
+            "Localized": "Jade V Neck"
+        },
+        "20": {
+            "GXT": "CLO_X6M_U_0_20",
+            "Localized": "Olive V Neck"
+        },
+        "21": {
+            "GXT": "CLO_X6M_U_0_21",
+            "Localized": "Lime V Neck"
+        },
+        "22": {
+            "GXT": "CLO_X6M_U_0_22",
+            "Localized": "Peach V Neck"
+        },
+        "23": {
+            "GXT": "CLO_X6M_U_0_23",
+            "Localized": "Blush V Neck"
+        },
+        "24": {
+            "GXT": "CLO_X6M_U_0_24",
+            "Localized": "Grape V Neck"
+        },
+        "25": {
+            "GXT": "CLO_X6M_U_0_25",
+            "Localized": "Purple V Neck"
+        }
+    },
+    "423": {
+        "0": {
+            "GXT": "CLO_X6M_U_1_0",
+            "Localized": "Black Cardigan"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_1_1",
+            "Localized": "Dark Gray Cardigan"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_1_2",
+            "Localized": "Gray Cardigan"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_1_3",
+            "Localized": "Ice Cardigan"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_1_4",
+            "Localized": "Beige Cardigan"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_1_5",
+            "Localized": "Chocolate Cardigan"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_1_6",
+            "Localized": "Burgundy Cardigan"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_1_7",
+            "Localized": "Hot Pink Cardigan"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_1_8",
+            "Localized": "Scarlet Cardigan"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_1_9",
+            "Localized": "Tangerine Cardigan"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_1_10",
+            "Localized": "Amber Cardigan"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_1_11",
+            "Localized": "Lemon Cardigan"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_1_12",
+            "Localized": "Royal Blue Cardigan"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_1_13",
+            "Localized": "Azure Cardigan"
+        },
+        "14": {
+            "GXT": "CLO_X6M_U_1_14",
+            "Localized": "Teal Cardigan"
+        },
+        "15": {
+            "GXT": "CLO_X6M_U_1_15",
+            "Localized": "Cyan Cardigan"
+        },
+        "16": {
+            "GXT": "CLO_X6M_U_1_16",
+            "Localized": "Light Blue Cardigan"
+        },
+        "17": {
+            "GXT": "CLO_X6M_U_1_17",
+            "Localized": "Lilac Cardigan"
+        },
+        "18": {
+            "GXT": "CLO_X6M_U_1_18",
+            "Localized": "Dark Green Cardigan"
+        },
+        "19": {
+            "GXT": "CLO_X6M_U_1_19",
+            "Localized": "Emerald Cardigan"
+        },
+        "20": {
+            "GXT": "CLO_X6M_U_1_20",
+            "Localized": "Moss Cardigan"
+        },
+        "21": {
+            "GXT": "CLO_X6M_U_1_21",
+            "Localized": "Lime Cardigan"
+        },
+        "22": {
+            "GXT": "CLO_X6M_U_1_22",
+            "Localized": "Peach Cardigan"
+        },
+        "23": {
+            "GXT": "CLO_X6M_U_1_23",
+            "Localized": "Lavender Cardigan"
+        },
+        "24": {
+            "GXT": "CLO_X6M_U_1_24",
+            "Localized": "Purple Cardigan"
+        },
+        "25": {
+            "GXT": "CLO_X6M_U_1_25",
+            "Localized": "Magenta Cardigan"
+        }
+    },
+    "424": {
+        "0": {
+            "GXT": "CLO_X6M_U_2_0",
+            "Localized": "Black Vinyl Cut"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_2_1",
+            "Localized": "Gray Vinyl Cut"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_2_2",
+            "Localized": "Ash Vinyl Cut"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_2_3",
+            "Localized": "Ice Vinyl Cut"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_2_4",
+            "Localized": "Ox Blood Vinyl Cut"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_2_5",
+            "Localized": "Scarlet Vinyl Cut"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_2_6",
+            "Localized": "Dark Green Vinyl Cut"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_2_7",
+            "Localized": "Red Vinyl Cut"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_2_8",
+            "Localized": "Orange Vinyl Cut"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_2_9",
+            "Localized": "Mustard Vinyl Cut"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_2_10",
+            "Localized": "Chestnut Vinyl Cut"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_2_11",
+            "Localized": "Dark Nut Vinyl Cut"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_2_12",
+            "Localized": "Dark Blue Vinyl Cut"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_2_13",
+            "Localized": "Light Blue Vinyl Cut"
+        }
+    },
+    "425": {
+        "0": {
+            "GXT": "CLO_X6M_U_3_0",
+            "Localized": "Black Vinyl"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_3_1",
+            "Localized": "Gray Vinyl"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_3_2",
+            "Localized": "Ash Vinyl"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_3_3",
+            "Localized": "Ice Vinyl"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_3_4",
+            "Localized": "Ox Blood Vinyl"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_3_5",
+            "Localized": "Scarlet Vinyl"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_3_6",
+            "Localized": "Dark Green Vinyl"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_3_7",
+            "Localized": "Red Vinyl"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_3_8",
+            "Localized": "Orange Vinyl"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_3_9",
+            "Localized": "Mustard Vinyl"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_3_10",
+            "Localized": "Chestnut Vinyl"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_3_11",
+            "Localized": "Dark Nut Vinyl"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_3_12",
+            "Localized": "Dark Blue Vinyl"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_3_13",
+            "Localized": "Light Blue Vinyl"
+        }
+    },
+    "426": {
+        "0": {
+            "GXT": "CLO_X6M_U_4_0",
+            "Localized": "Nemesis Rolled Tee"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_4_1",
+            "Localized": "Nemesis Stained Rolled Tee"
+        }
+    },
+    "427": {
+        "0": {
+            "GXT": "CLO_X6M_U_5_0",
+            "Localized": "Nemesis Tee"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_5_1",
+            "Localized": "Nemesis Stained Tee"
+        }
+    },
+    "428": {
+        "0": {
+            "GXT": "CLO_SBM_U_11_0",
+            "Localized": "Black Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_11_1",
+            "Localized": "Dark Gray Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_11_2",
+            "Localized": "Gray Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_SBM_U_11_3",
+            "Localized": "Ice Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_SBM_U_11_4",
+            "Localized": "Beige Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_SBM_U_11_5",
+            "Localized": "Chocolate Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_SBM_U_11_6",
+            "Localized": "Burgundy Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_SBM_U_11_7",
+            "Localized": "Hot Pink Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_SBM_U_11_8",
+            "Localized": "Scarlet Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_SBM_U_11_9",
+            "Localized": "Orange Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_SBM_U_11_10",
+            "Localized": "Amber Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_SBM_U_11_11",
+            "Localized": "Lemon Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_SBM_U_11_12",
+            "Localized": "Royal Blue Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_SBM_U_11_13",
+            "Localized": "Blue Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_SBM_U_11_14",
+            "Localized": "Teal Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_SBM_U_11_15",
+            "Localized": "Cyan Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_SBM_U_11_16",
+            "Localized": "Light Blue Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_SBM_U_11_17",
+            "Localized": "Lilac Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_SBM_U_11_18",
+            "Localized": "Dark Green Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_SBM_U_11_19",
+            "Localized": "Emerald Revere Collar"
+        },
+        "20": {
+            "GXT": "CLO_SBM_U_11_20",
+            "Localized": "Moss Revere Collar"
+        },
+        "21": {
+            "GXT": "CLO_SBM_U_11_21",
+            "Localized": "Lime Revere Collar"
+        },
+        "22": {
+            "GXT": "CLO_SBM_U_11_22",
+            "Localized": "Peach Revere Collar"
+        },
+        "23": {
+            "GXT": "CLO_SBM_U_11_23",
+            "Localized": "Lavender Revere Collar"
+        },
+        "24": {
+            "GXT": "CLO_SBM_U_11_24",
+            "Localized": "Purple Revere Collar"
+        },
+        "25": {
+            "GXT": "CLO_SBM_U_11_25",
+            "Localized": "Magenta Revere Collar"
+        }
+    },
+    "429": {
+        "0": {
+            "GXT": "CLO_SBM_U_12_0",
+            "Localized": "Green Palms Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SBM_U_12_1",
+            "Localized": "Blush Palms Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_SBM_U_12_2",
+            "Localized": "Charcoal Floral Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_SBM_U_12_3",
+            "Localized": "Red Floral Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_SBM_U_12_4",
+            "Localized": "Charcoal Palms Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_SBM_U_12_5",
+            "Localized": "Pink Palms Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_SBM_U_12_6",
+            "Localized": "Cool Sunset Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_SBM_U_12_7",
+            "Localized": "Warm Sunset Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_SBM_U_12_8",
+            "Localized": "Green Pineapple Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_SBM_U_12_9",
+            "Localized": "Scarlet Pineapple Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_SBM_U_12_10",
+            "Localized": "Black Bigness Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_SBM_U_12_11",
+            "Localized": "White Bigness Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_SBM_U_12_12",
+            "Localized": "Blue Petals Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_SBM_U_12_13",
+            "Localized": "Teal Petals Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_SBM_U_12_14",
+            "Localized": "Red Stripes Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_SBM_U_12_15",
+            "Localized": "Blue Stripes Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_SBM_U_12_16",
+            "Localized": "Blue Chalk Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_SBM_U_12_17",
+            "Localized": "Pink Chalk Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_SBM_U_12_18",
+            "Localized": "Blue Fruit Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_SBM_U_12_19",
+            "Localized": "White Fruit Revere Collar"
+        }
+    },
+    "430": {
+        "0": {
+            "GXT": "CLO_X6M_U_8_0",
+            "Localized": "Valentines Blazer"
+        }
+    },
+    "431": {
+        "0": {
+            "GXT": "CLO_X6M_U_8_0",
+            "Localized": "Valentines Blazer"
+        }
+    },
+    "432": {
+        "0": {
+            "GXT": "CLO_X6M_U_10_0",
+            "Localized": "Dark Logger Festive"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_10_1",
+            "Localized": "White Logger Festive"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_10_2",
+            "Localized": "Green Logger Festive"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_10_3",
+            "Localized": "Red Logger Festive"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_10_4",
+            "Localized": "Blue Patriot Logo Festive"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_10_5",
+            "Localized": "Black Patriot Logo Festive"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_10_6",
+            "Localized": "Blue Patriot Festive"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_10_7",
+            "Localized": "Red Patriot Festive"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_10_8",
+            "Localized": "Red Pisswasser Festive"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_10_9",
+            "Localized": "Gold Pisswasser Festive"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_10_10",
+            "Localized": "Red Pisswasser Logo Festive"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_10_11",
+            "Localized": "Gold Pisswasser Logo Festive"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_10_12",
+            "Localized": "Green Pride Brew Festive"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_10_13",
+            "Localized": "Yellow Pride Brew Festive"
+        },
+        "14": {
+            "GXT": "CLO_X6M_U_10_14",
+            "Localized": "Yellow Holly Pride Festive"
+        },
+        "15": {
+            "GXT": "CLO_X6M_U_10_15",
+            "Localized": "White Holly Pride Festive"
+        },
+        "16": {
+            "GXT": "CLO_X6M_U_10_16",
+            "Localized": "Black Sprunk Festive"
+        },
+        "17": {
+            "GXT": "CLO_X6M_U_10_17",
+            "Localized": "Sprunk Snowflakes Festive"
+        }
+    },
+    "433": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "434": {
+        "0": {
+            "GXT": "CLO_X6M_U_12_0",
+            "Localized": "Yeti Ape Tee"
+        }
+    },
+    "435": {
+        "0": {
+            "GXT": "CLO_X6M_U_13_0",
+            "Localized": "Manor Surano Jacket"
+        }
+    },
+    "436": {
+        "0": {
+            "GXT": "CLO_X6M_U_13_0",
+            "Localized": "Manor Surano Jacket"
+        }
+    },
+    "437": {
+        "0": {
+            "GXT": "CLO_X6M_U_15_0",
+            "Localized": "Gray Yeti Combat Shirt"
+        }
+    },
+    "438": {
+        "0": {
+            "GXT": "CLO_X6M_U_16_0",
+            "Localized": "Broker Checkerboard Tee"
+        }
+    },
+    "439": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "440": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "17": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "18": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "19": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "20": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "21": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "441": {
+        "0": {
+            "GXT": "CLO_X6M_U_19_0",
+            "Localized": "420 Smoking Jacket"
+        }
+    },
+    "442": {
+        "0": {
+            "GXT": "CLO_X6M_U_20_0",
+            "Localized": "Black Blagueurs Cardigan"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_20_1",
+            "Localized": "Blue Blagueurs Cardigan"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_20_2",
+            "Localized": "Red Blagueurs Cardigan"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_20_3",
+            "Localized": "White Blagueurs Cardigan"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_20_4",
+            "Localized": "Blue DS Panthers Cardigan"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_20_5",
+            "Localized": "Red DS Panthers Cardigan"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_20_6",
+            "Localized": "Blue DS Tiger Cardigan"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_20_7",
+            "Localized": "Red DS Tiger Cardigan"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_20_8",
+            "Localized": "Green Flames Cardigan"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_20_9",
+            "Localized": "Orange Flames Cardigan"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_20_10",
+            "Localized": "Pink Flames Cardigan"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_20_11",
+            "Localized": "Purple Flames Cardigan"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_20_12",
+            "Localized": "Red Flames Cardigan"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_20_13",
+            "Localized": "Blue Lightning Cardigan"
+        },
+        "14": {
+            "GXT": "CLO_X6M_U_20_14",
+            "Localized": "White Lightning Cardigan"
+        },
+        "15": {
+            "GXT": "CLO_X6M_U_20_15",
+            "Localized": "Green Lightning Cardigan"
+        },
+        "16": {
+            "GXT": "CLO_X6M_U_20_16",
+            "Localized": "Orange Lightning Cardigan"
+        },
+        "17": {
+            "GXT": "CLO_X6M_U_20_17",
+            "Localized": "Purple Lightning Cardigan"
+        },
+        "18": {
+            "GXT": "CLO_X6M_U_20_18",
+            "Localized": "Pink Lightning Cardigan"
+        },
+        "19": {
+            "GXT": "CLO_X6M_U_20_19",
+            "Localized": "Black SC Baroque Cardigan"
+        },
+        "20": {
+            "GXT": "CLO_X6M_U_20_20",
+            "Localized": "Magenta SC Baroque Cardigan"
+        },
+        "21": {
+            "GXT": "CLO_X6M_U_20_21",
+            "Localized": "Pink SC Baroque Cardigan"
+        },
+        "22": {
+            "GXT": "CLO_X6M_U_20_22",
+            "Localized": "Black VDG Cardigan"
+        },
+        "23": {
+            "GXT": "CLO_X6M_U_20_23",
+            "Localized": "White VDG Cardigan"
+        },
+        "24": {
+            "GXT": "CLO_X6M_U_20_24",
+            "Localized": "Blue Fade VDG Cardigan"
+        },
+        "25": {
+            "GXT": "CLO_X6M_U_20_25",
+            "Localized": "Pink Fade VDG Cardigan"
+        }
+    },
+    "443": {
+        "0": {
+            "GXT": "CLO_X6M_U_21_0",
+            "Localized": "Camo Yeti Cardigan"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_21_1",
+            "Localized": "Gray Camo Yeti Cardigan"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_21_2",
+            "Localized": "Pink Camo Yeti Cardigan"
+        }
+    },
+    "444": {
+        "0": {
+            "GXT": "CLO_X6M_U_22_0",
+            "Localized": "Downtown Cab Co. Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_22_1",
+            "Localized": "Black Blagueurs Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_22_2",
+            "Localized": "Blue Blagueurs Revere Collar"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_22_3",
+            "Localized": "Red Blagueurs Revere Collar"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_22_4",
+            "Localized": "White Blagueurs Revere Collar"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_22_5",
+            "Localized": "Green Flames Revere Collar"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_22_6",
+            "Localized": "Orange Flames Revere Collar"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_22_7",
+            "Localized": "Pink Flames Revere Collar"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_22_8",
+            "Localized": "Purple Flames Revere Collar"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_22_9",
+            "Localized": "Red Flames Revere Collar"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_22_10",
+            "Localized": "Black LC Dragon Revere Collar"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_22_11",
+            "Localized": "Teal LC Dragon Revere Collar"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_22_12",
+            "Localized": "Red LC Dragon Revere Collar"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_22_13",
+            "Localized": "Blue Lightning Revere Collar"
+        },
+        "14": {
+            "GXT": "CLO_X6M_U_22_14",
+            "Localized": "White Lightning Revere Collar"
+        },
+        "15": {
+            "GXT": "CLO_X6M_U_22_15",
+            "Localized": "Green Lightning Revere Collar"
+        },
+        "16": {
+            "GXT": "CLO_X6M_U_22_16",
+            "Localized": "Orange Lightning Revere Collar"
+        },
+        "17": {
+            "GXT": "CLO_X6M_U_22_17",
+            "Localized": "Purple Lightning Revere Collar"
+        },
+        "18": {
+            "GXT": "CLO_X6M_U_22_18",
+            "Localized": "Pink Lightning Revere Collar"
+        },
+        "19": {
+            "GXT": "CLO_X6M_U_22_19",
+            "Localized": "Blue Marble Revere Collar"
+        },
+        "20": {
+            "GXT": "CLO_X6M_U_22_20",
+            "Localized": "White Marble Revere Collar"
+        },
+        "21": {
+            "GXT": "CLO_X6M_U_22_21",
+            "Localized": "Pink Marble Revere Collar"
+        },
+        "22": {
+            "GXT": "CLO_X6M_U_22_22",
+            "Localized": "Blue SC Dragon Revere Collar"
+        },
+        "23": {
+            "GXT": "CLO_X6M_U_22_23",
+            "Localized": "Red SC Dragon Revere Collar"
+        },
+        "24": {
+            "GXT": "CLO_X6M_U_22_24",
+            "Localized": "Purple SN Rooster Revere Collar"
+        },
+        "25": {
+            "GXT": "CLO_X6M_U_22_25",
+            "Localized": "Yellow SN Rooster Revere Collar"
+        }
+    },
+    "445": {
+        "0": {
+            "GXT": "CLO_X6M_U_23_0",
+            "Localized": "Camo Yeti Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_23_1",
+            "Localized": "Gray Camo Yeti Revere Collar"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_23_2",
+            "Localized": "Pink Camo Yeti Revere Collar"
+        }
+    },
+    "446": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "447": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "448": {
+        "0": {
+            "GXT": "CLO_X6M_U_26_0",
+            "Localized": "Zebra Bigness Denim"
+        },
+        "1": {
+            "GXT": "CLO_X6M_U_26_1",
+            "Localized": "Pink Zebra Bigness Denim"
+        },
+        "2": {
+            "GXT": "CLO_X6M_U_26_2",
+            "Localized": "Black Blagueurs Denim"
+        },
+        "3": {
+            "GXT": "CLO_X6M_U_26_3",
+            "Localized": "Blue Blagueurs Denim"
+        },
+        "4": {
+            "GXT": "CLO_X6M_U_26_4",
+            "Localized": "Red Blagueurs Denim"
+        },
+        "5": {
+            "GXT": "CLO_X6M_U_26_5",
+            "Localized": "White Blagueurs Denim"
+        },
+        "6": {
+            "GXT": "CLO_X6M_U_26_6",
+            "Localized": "Green Flames Denim"
+        },
+        "7": {
+            "GXT": "CLO_X6M_U_26_7",
+            "Localized": "Orange Flames Denim"
+        },
+        "8": {
+            "GXT": "CLO_X6M_U_26_8",
+            "Localized": "Pink Flames Denim"
+        },
+        "9": {
+            "GXT": "CLO_X6M_U_26_9",
+            "Localized": "Purple Flames Denim"
+        },
+        "10": {
+            "GXT": "CLO_X6M_U_26_10",
+            "Localized": "Red Flames Denim"
+        },
+        "11": {
+            "GXT": "CLO_X6M_U_26_11",
+            "Localized": "Blue Lightning Denim"
+        },
+        "12": {
+            "GXT": "CLO_X6M_U_26_12",
+            "Localized": "White Lightning Denim"
+        },
+        "13": {
+            "GXT": "CLO_X6M_U_26_13",
+            "Localized": "Green Lightning Denim"
+        },
+        "14": {
+            "GXT": "CLO_X6M_U_26_14",
+            "Localized": "Orange Lightning Denim"
+        },
+        "15": {
+            "GXT": "CLO_X6M_U_26_15",
+            "Localized": "Purple Lightning Denim"
+        },
+        "16": {
+            "GXT": "CLO_X6M_U_26_16",
+            "Localized": "Pink Lightning Denim"
+        },
+        "17": {
+            "GXT": "CLO_X6M_U_26_17",
+            "Localized": "Blue Marble Denim"
+        },
+        "18": {
+            "GXT": "CLO_X6M_U_26_18",
+            "Localized": "White Marble Denim"
+        },
+        "19": {
+            "GXT": "CLO_X6M_U_26_19",
+            "Localized": "Pink Marble Denim"
+        },
+        "20": {
+            "GXT": "CLO_X6M_U_26_20",
+            "Localized": "Black Camo Roses Slab Denim"
+        },
+        "21": {
+            "GXT": "CLO_X6M_U_26_21",
+            "Localized": "Camo Roses Slab Denim"
+        },
+        "22": {
+            "GXT": "CLO_X6M_U_26_22",
+            "Localized": "Black Trickster Type Denim"
+        },
+        "23": {
+            "GXT": "CLO_X6M_U_26_23",
+            "Localized": "Orange Trickster Type Denim"
+        },
+        "24": {
+            "GXT": "CLO_X6M_U_26_24",
+            "Localized": "Camo Yeti Denim"
+        },
+        "25": {
+            "GXT": "CLO_X6M_U_26_25",
+            "Localized": "Gray Camo Yeti Denim"
+        }
+    },
+    "449": {
+        "0": {
+            "GXT": "CLO_X6M_U_27_0",
+            "Localized": "Pink Camo Yeti Denim"
+        }
+    },
+    "450": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

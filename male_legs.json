@@ -6228,5 +6228,473 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "151": {
+        "0": {
+            "GXT": "CLO_X6M_L_0_0",
+            "Localized": "White Turnups"
+        },
+        "1": {
+            "GXT": "CLO_X6M_L_0_1",
+            "Localized": "Gray Turnups"
+        },
+        "2": {
+            "GXT": "CLO_X6M_L_0_2",
+            "Localized": "Charcoal Turnups"
+        },
+        "3": {
+            "GXT": "CLO_X6M_L_0_3",
+            "Localized": "Black Turnups"
+        },
+        "4": {
+            "GXT": "CLO_X6M_L_0_4",
+            "Localized": "Indigo Turnups"
+        },
+        "5": {
+            "GXT": "CLO_X6M_L_0_5",
+            "Localized": "Light Turnups"
+        },
+        "6": {
+            "GXT": "CLO_X6M_L_0_6",
+            "Localized": "Stonewash Turnups"
+        },
+        "7": {
+            "GXT": "CLO_X6M_L_0_7",
+            "Localized": "Standard Turnups"
+        },
+        "8": {
+            "GXT": "CLO_X6M_L_0_8",
+            "Localized": "Classic Turnups"
+        },
+        "9": {
+            "GXT": "CLO_X6M_L_0_9",
+            "Localized": "Dark Turnups"
+        },
+        "10": {
+            "GXT": "CLO_X6M_L_0_10",
+            "Localized": "Faded Gray Turnups"
+        },
+        "11": {
+            "GXT": "CLO_X6M_L_0_11",
+            "Localized": "Faded Charcoal Turnups"
+        },
+        "12": {
+            "GXT": "CLO_X6M_L_0_12",
+            "Localized": "Faded Black Turnups"
+        },
+        "13": {
+            "GXT": "CLO_X6M_L_0_13",
+            "Localized": "Faded Indigo Turnups"
+        },
+        "14": {
+            "GXT": "CLO_X6M_L_0_14",
+            "Localized": "Faded Stonewash Turnups"
+        },
+        "15": {
+            "GXT": "CLO_X6M_L_0_15",
+            "Localized": "Faded Standard Turnups"
+        },
+        "16": {
+            "GXT": "CLO_X6M_L_0_16",
+            "Localized": "Faded Classic Turnups"
+        },
+        "17": {
+            "GXT": "CLO_X6M_L_0_17",
+            "Localized": "Faded Dark Turnups"
+        },
+        "18": {
+            "GXT": "CLO_X6M_L_0_18",
+            "Localized": "Burgundy Turnups"
+        },
+        "19": {
+            "GXT": "CLO_X6M_L_0_19",
+            "Localized": "Orange Turnups"
+        },
+        "20": {
+            "GXT": "CLO_X6M_L_0_20",
+            "Localized": "Amber Turnups"
+        },
+        "21": {
+            "GXT": "CLO_X6M_L_0_21",
+            "Localized": "Lemon Turnups"
+        },
+        "22": {
+            "GXT": "CLO_X6M_L_0_22",
+            "Localized": "Lavender Turnups"
+        },
+        "23": {
+            "GXT": "CLO_X6M_L_0_23",
+            "Localized": "Moss Turnups"
+        },
+        "24": {
+            "GXT": "CLO_X6M_L_0_24",
+            "Localized": "Peach Turnups"
+        },
+        "25": {
+            "GXT": "CLO_X6M_L_0_25",
+            "Localized": "Pink Turnups"
+        }
+    },
+    "152": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "CLO_X6M_L_1_1",
+            "Localized": "420 Smoking Pants"
+        }
+    },
+    "153": {
+        "0": {
+            "GXT": "CLO_X6M_L_2_0",
+            "Localized": "Gray Yeti Battle Pants"
+        }
+    },
+    "154": {
+        "0": {
+            "GXT": "CLO_X6M_L_3_0",
+            "Localized": "Broker Checkerboard Cargos"
+        }
+    },
+    "155": {
+        "0": {
+            "GXT": "CLO_X6M_L_3_0",
+            "Localized": "Broker Checkerboard Cargos"
+        }
+    },
+    "156": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "15": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "16": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "17": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "18": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "19": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "20": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "21": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "22": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "23": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "24": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "25": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "157": {
+        "0": {
+            "GXT": "CLO_X6M_L_6_0",
+            "Localized": "Black Cimicino Embroidered"
+        },
+        "1": {
+            "GXT": "CLO_X6M_L_6_1",
+            "Localized": "Light Cimicino Embroidered"
+        },
+        "2": {
+            "GXT": "CLO_X6M_L_6_2",
+            "Localized": "Black DS Panther Embroidered"
+        },
+        "3": {
+            "GXT": "CLO_X6M_L_6_3",
+            "Localized": "Light DS Panther Embroidered"
+        },
+        "4": {
+            "GXT": "CLO_X6M_L_6_4",
+            "Localized": "Classic DS Tiger Embroidered"
+        },
+        "5": {
+            "GXT": "CLO_X6M_L_6_5",
+            "Localized": "Gray DS Tiger Embroidered"
+        },
+        "6": {
+            "GXT": "CLO_X6M_L_6_6",
+            "Localized": "Black Big Flames Embroidered"
+        },
+        "7": {
+            "GXT": "CLO_X6M_L_6_7",
+            "Localized": "Light Big Flames Embroidered"
+        },
+        "8": {
+            "GXT": "CLO_X6M_L_6_8",
+            "Localized": "Dark Small Flames Embroidered"
+        },
+        "9": {
+            "GXT": "CLO_X6M_L_6_9",
+            "Localized": "Light Small Flames Embroidered"
+        },
+        "10": {
+            "GXT": "CLO_X6M_L_6_10",
+            "Localized": "Classic FB Embroidered"
+        },
+        "11": {
+            "GXT": "CLO_X6M_L_6_11",
+            "Localized": "Gray FB Embroidered"
+        },
+        "12": {
+            "GXT": "CLO_X6M_L_6_12",
+            "Localized": "Black SC Coins Embroidered"
+        },
+        "13": {
+            "GXT": "CLO_X6M_L_6_13",
+            "Localized": "Light SC Coins Embroidered"
+        },
+        "14": {
+            "GXT": "CLO_X6M_L_6_14",
+            "Localized": "Light SC Dragon Embroidered"
+        },
+        "15": {
+            "GXT": "CLO_X6M_L_6_15",
+            "Localized": "Red SC Dragon Embroidered"
+        },
+        "16": {
+            "GXT": "CLO_X6M_L_6_16",
+            "Localized": "Light Stars Embroidered"
+        },
+        "17": {
+            "GXT": "CLO_X6M_L_6_17",
+            "Localized": "Gray Stars Embroidered"
+        },
+        "18": {
+            "GXT": "CLO_X6M_L_6_18",
+            "Localized": "Red Stars Embroidered"
+        }
+    },
+    "158": {
+        "0": {
+            "GXT": "CLO_X6M_L_7_0",
+            "Localized": "Zebra Bigness Wide"
+        },
+        "1": {
+            "GXT": "CLO_X6M_L_7_1",
+            "Localized": "Pink Zebra Bigness Wide"
+        },
+        "2": {
+            "GXT": "CLO_X6M_L_7_2",
+            "Localized": "Black Blagueurs Wide"
+        },
+        "3": {
+            "GXT": "CLO_X6M_L_7_3",
+            "Localized": "Blue Blagueurs Wide"
+        },
+        "4": {
+            "GXT": "CLO_X6M_L_7_4",
+            "Localized": "Red Blagueurs Wide"
+        },
+        "5": {
+            "GXT": "CLO_X6M_L_7_5",
+            "Localized": "White Blagueurs Wide"
+        },
+        "6": {
+            "GXT": "CLO_X6M_L_7_6",
+            "Localized": "Green Flames Wide"
+        },
+        "7": {
+            "GXT": "CLO_X6M_L_7_7",
+            "Localized": "Orange Flames Wide"
+        },
+        "8": {
+            "GXT": "CLO_X6M_L_7_8",
+            "Localized": "Pink Flames Wide"
+        },
+        "9": {
+            "GXT": "CLO_X6M_L_7_9",
+            "Localized": "Purple Flames Wide"
+        },
+        "10": {
+            "GXT": "CLO_X6M_L_7_10",
+            "Localized": "Red Flames Wide"
+        },
+        "11": {
+            "GXT": "CLO_X6M_L_7_11",
+            "Localized": "Blue Lightning Wide"
+        },
+        "12": {
+            "GXT": "CLO_X6M_L_7_12",
+            "Localized": "White Lightning Wide"
+        },
+        "13": {
+            "GXT": "CLO_X6M_L_7_13",
+            "Localized": "Green Lightning Wide"
+        },
+        "14": {
+            "GXT": "CLO_X6M_L_7_14",
+            "Localized": "Orange Lightning Wide"
+        },
+        "15": {
+            "GXT": "CLO_X6M_L_7_15",
+            "Localized": "Purple Lightning Wide"
+        },
+        "16": {
+            "GXT": "CLO_X6M_L_7_16",
+            "Localized": "Pink Lightning Wide"
+        },
+        "17": {
+            "GXT": "CLO_X6M_L_7_17",
+            "Localized": "Blue Marble Wide"
+        },
+        "18": {
+            "GXT": "CLO_X6M_L_7_18",
+            "Localized": "White Marble Wide"
+        },
+        "19": {
+            "GXT": "CLO_X6M_L_7_19",
+            "Localized": "Pink Marble Wide"
+        },
+        "20": {
+            "GXT": "CLO_X6M_L_7_20",
+            "Localized": "Blue Bones Wide"
+        },
+        "21": {
+            "GXT": "CLO_X6M_L_7_21",
+            "Localized": "Black Bones Wide"
+        },
+        "22": {
+            "GXT": "CLO_X6M_L_7_22",
+            "Localized": "Red Bones Wide"
+        },
+        "23": {
+            "GXT": "CLO_X6M_L_7_23",
+            "Localized": "Taupe Bones Wide"
+        },
+        "24": {
+            "GXT": "CLO_X6M_L_7_24",
+            "Localized": "Black Trickster Type Wide"
+        },
+        "25": {
+            "GXT": "CLO_X6M_L_7_25",
+            "Localized": "Orange Trickster Type Wide"
+        }
+    },
+    "159": {
+        "0": {
+            "GXT": "CLO_X6M_L_8_0",
+            "Localized": "Black VDG Bandana Wide"
+        },
+        "1": {
+            "GXT": "CLO_X6M_L_8_1",
+            "Localized": "White VDG Bandana Wide"
+        },
+        "2": {
+            "GXT": "CLO_X6M_L_8_2",
+            "Localized": "Blue Fade VDG Bandana Wide"
+        },
+        "3": {
+            "GXT": "CLO_X6M_L_8_3",
+            "Localized": "Pink Fade VDG Bandana Wide"
+        }
+    },
+    "160": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "161": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "162": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

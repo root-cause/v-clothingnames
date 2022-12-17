@@ -2012,5 +2012,255 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "123": {
+        "0": {
+            "GXT": "CLO_X6F_T_0_0",
+            "Localized": "Le Chien Whistle Necklace"
+        }
+    },
+    "124": {
+        "0": {
+            "GXT": "CLO_X6F_T_0_0",
+            "Localized": "Le Chien Whistle Necklace"
+        }
+    },
+    "125": {
+        "0": {
+            "GXT": "CLO_X6F_T_2_0",
+            "Localized": "White Pearl Necklace"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_2_1",
+            "Localized": "Black Pearl Necklace"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_2_2",
+            "Localized": "Gold Pearl Necklace"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_2_3",
+            "Localized": "Rose Pearl Necklace"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_2_4",
+            "Localized": "Lilac Pearl Necklace"
+        },
+        "5": {
+            "GXT": "CLO_X6F_T_2_5",
+            "Localized": "Silver Pearl Necklace"
+        },
+        "6": {
+            "GXT": "CLO_X6F_T_2_6",
+            "Localized": "Brown Agate Pearl Necklace"
+        },
+        "7": {
+            "GXT": "CLO_X6F_T_2_7",
+            "Localized": "White & Turquoise Pearl Necklace"
+        },
+        "8": {
+            "GXT": "CLO_X6F_T_2_8",
+            "Localized": "White & Dark Blue Pearl Necklace"
+        },
+        "9": {
+            "GXT": "CLO_X6F_T_2_9",
+            "Localized": "White & Purple Pearl Necklace"
+        }
+    },
+    "126": {
+        "0": {
+            "GXT": "CLO_X6F_T_2_0",
+            "Localized": "White Pearl Necklace"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_2_1",
+            "Localized": "Black Pearl Necklace"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_2_2",
+            "Localized": "Gold Pearl Necklace"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_2_3",
+            "Localized": "Rose Pearl Necklace"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_2_4",
+            "Localized": "Lilac Pearl Necklace"
+        },
+        "5": {
+            "GXT": "CLO_X6F_T_2_5",
+            "Localized": "Silver Pearl Necklace"
+        },
+        "6": {
+            "GXT": "CLO_X6F_T_2_6",
+            "Localized": "Brown Agate Pearl Necklace"
+        },
+        "7": {
+            "GXT": "CLO_X6F_T_2_7",
+            "Localized": "White & Turquoise Pearl Necklace"
+        },
+        "8": {
+            "GXT": "CLO_X6F_T_2_8",
+            "Localized": "White & Dark Blue Pearl Necklace"
+        },
+        "9": {
+            "GXT": "CLO_X6F_T_2_9",
+            "Localized": "White & Purple Pearl Necklace"
+        }
+    },
+    "127": {
+        "0": {
+            "GXT": "CLO_X6F_T_4_0",
+            "Localized": "Heartbreak Pendant"
+        }
+    },
+    "128": {
+        "0": {
+            "GXT": "CLO_X6F_T_4_0",
+            "Localized": "Heartbreak Pendant"
+        }
+    },
+    "129": {
+        "0": {
+            "GXT": "CLO_X6F_T_6_0",
+            "Localized": "Silver Mesh Link"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_6_1",
+            "Localized": "Black Mesh Link"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_6_2",
+            "Localized": "Gold Mesh Link"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_6_3",
+            "Localized": "Rose Mesh Link"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_6_4",
+            "Localized": "Copper Mesh Link"
+        }
+    },
+    "130": {
+        "0": {
+            "GXT": "CLO_X6F_T_6_0",
+            "Localized": "Silver Mesh Link"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_6_1",
+            "Localized": "Black Mesh Link"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_6_2",
+            "Localized": "Gold Mesh Link"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_6_3",
+            "Localized": "Rose Mesh Link"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_6_4",
+            "Localized": "Copper Mesh Link"
+        }
+    },
+    "131": {
+        "0": {
+            "GXT": "CLO_X6F_T_8_0",
+            "Localized": "Silver Thick Curb Chain"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_8_1",
+            "Localized": "Black Thick Curb Chain"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_8_2",
+            "Localized": "Gold Thick Curb Chain"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_8_3",
+            "Localized": "Rose Thick Curb Chain"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_8_4",
+            "Localized": "Copper Thick Curb Chain"
+        }
+    },
+    "132": {
+        "0": {
+            "GXT": "CLO_X6F_T_8_0",
+            "Localized": "Silver Thick Curb Chain"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_8_1",
+            "Localized": "Black Thick Curb Chain"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_8_2",
+            "Localized": "Gold Thick Curb Chain"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_8_3",
+            "Localized": "Rose Thick Curb Chain"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_8_4",
+            "Localized": "Copper Thick Curb Chain"
+        }
+    },
+    "133": {
+        "0": {
+            "GXT": "CLO_X6F_T_10_0",
+            "Localized": "Silver Bar Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_10_1",
+            "Localized": "Black Bar Pendant"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_10_2",
+            "Localized": "Gold Bar Pendant"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_10_3",
+            "Localized": "Rose Bar Pendant"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_10_4",
+            "Localized": "Copper Bar Pendant"
+        }
+    },
+    "134": {
+        "0": {
+            "GXT": "CLO_X6F_T_10_0",
+            "Localized": "Silver Bar Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X6F_T_10_1",
+            "Localized": "Black Bar Pendant"
+        },
+        "2": {
+            "GXT": "CLO_X6F_T_10_2",
+            "Localized": "Gold Bar Pendant"
+        },
+        "3": {
+            "GXT": "CLO_X6F_T_10_3",
+            "Localized": "Rose Bar Pendant"
+        },
+        "4": {
+            "GXT": "CLO_X6F_T_10_4",
+            "Localized": "Copper Bar Pendant"
+        }
+    },
+    "135": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

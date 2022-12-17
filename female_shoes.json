@@ -4896,5 +4896,931 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "115": {
+        "0": {
+            "GXT": "CLO_X6F_F_0_0",
+            "Localized": "Walnut Smart Oxfords Ankle"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_0_1",
+            "Localized": "Black Smart Oxfords Ankle"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_0_2",
+            "Localized": "Gray Smart Oxfords Ankle"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_0_3",
+            "Localized": "Ice Smart Oxfords Ankle"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_0_4",
+            "Localized": "Dark Nut Smart Oxfords Ankle"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_0_5",
+            "Localized": "Chocolate Smart Oxfords Ankle"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_0_6",
+            "Localized": "Chestnut Smart Oxfords Ankle"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_0_7",
+            "Localized": "Beige Smart Oxfords Ankle"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_0_8",
+            "Localized": "Blue Smart Oxfords Ankle"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_0_9",
+            "Localized": "Green Smart Oxfords Ankle"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_0_10",
+            "Localized": "Pink Smart Oxfords Ankle"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_0_11",
+            "Localized": "Crimson Smart Oxfords Ankle"
+        }
+    },
+    "116": {
+        "0": {
+            "GXT": "CLO_X6F_F_1_0",
+            "Localized": "Black Loggers"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_1_1",
+            "Localized": "Gray Loggers"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_1_2",
+            "Localized": "Light Gray Loggers"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_1_3",
+            "Localized": "Ice Loggers"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_1_4",
+            "Localized": "Chocolate Loggers"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_1_5",
+            "Localized": "Russet Loggers"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_1_6",
+            "Localized": "Green Loggers"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_1_7",
+            "Localized": "Red Loggers"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_1_8",
+            "Localized": "Orange Tan Loggers"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_1_9",
+            "Localized": "Tan Loggers"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_1_10",
+            "Localized": "Chestnut Loggers"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_1_11",
+            "Localized": "Dark Nut Loggers"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_1_12",
+            "Localized": "Navy Loggers"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_1_13",
+            "Localized": "Blue Loggers"
+        }
+    },
+    "117": {
+        "0": {
+            "GXT": "CLO_X6F_F_1_0",
+            "Localized": "Black Loggers"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_1_1",
+            "Localized": "Gray Loggers"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_1_2",
+            "Localized": "Light Gray Loggers"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_1_3",
+            "Localized": "Ice Loggers"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_1_4",
+            "Localized": "Chocolate Loggers"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_1_5",
+            "Localized": "Russet Loggers"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_1_6",
+            "Localized": "Green Loggers"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_1_7",
+            "Localized": "Red Loggers"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_1_8",
+            "Localized": "Orange Tan Loggers"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_1_9",
+            "Localized": "Tan Loggers"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_1_10",
+            "Localized": "Chestnut Loggers"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_1_11",
+            "Localized": "Dark Nut Loggers"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_1_12",
+            "Localized": "Navy Loggers"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_1_13",
+            "Localized": "Blue Loggers"
+        }
+    },
+    "118": {
+        "0": {
+            "GXT": "CLO_X6F_F_3_0",
+            "Localized": "Black Ugglies & Socks"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_3_1",
+            "Localized": "Dark Gray Ugglies & Socks"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_3_2",
+            "Localized": "Gray Ugglies & Socks"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_3_3",
+            "Localized": "Ice Ugglies & Socks"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_3_4",
+            "Localized": "Beige Ugglies & Socks"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_3_5",
+            "Localized": "Chocolate Ugglies & Socks"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_3_6",
+            "Localized": "Burgundy Ugglies & Socks"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_3_7",
+            "Localized": "Hot Pink Ugglies & Socks"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_3_8",
+            "Localized": "Scarlet Ugglies & Socks"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_3_9",
+            "Localized": "Orange Ugglies & Socks"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_3_10",
+            "Localized": "Amber Ugglies & Socks"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_3_11",
+            "Localized": "Lemon Ugglies & Socks"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_3_12",
+            "Localized": "Royal Blue Ugglies & Socks"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_3_13",
+            "Localized": "Blue Ugglies & Socks"
+        },
+        "14": {
+            "GXT": "CLO_X6F_F_3_14",
+            "Localized": "Teal Ugglies & Socks"
+        },
+        "15": {
+            "GXT": "CLO_X6F_F_3_15",
+            "Localized": "Cyan Ugglies & Socks"
+        },
+        "16": {
+            "GXT": "CLO_X6F_F_3_16",
+            "Localized": "Light Blue Ugglies & Socks"
+        },
+        "17": {
+            "GXT": "CLO_X6F_F_3_17",
+            "Localized": "Lilac Ugglies & Socks"
+        },
+        "18": {
+            "GXT": "CLO_X6F_F_3_18",
+            "Localized": "Dark Green Ugglies & Socks"
+        },
+        "19": {
+            "GXT": "CLO_X6F_F_3_19",
+            "Localized": "Emerald Ugglies & Socks"
+        },
+        "20": {
+            "GXT": "CLO_X6F_F_3_20",
+            "Localized": "Moss Ugglies & Socks"
+        },
+        "21": {
+            "GXT": "CLO_X6F_F_3_21",
+            "Localized": "Lime Ugglies & Socks"
+        },
+        "22": {
+            "GXT": "CLO_X6F_F_3_22",
+            "Localized": "Peach Ugglies & Socks"
+        },
+        "23": {
+            "GXT": "CLO_X6F_F_3_23",
+            "Localized": "Lavender Ugglies & Socks"
+        },
+        "24": {
+            "GXT": "CLO_X6F_F_3_24",
+            "Localized": "Purple Ugglies & Socks"
+        },
+        "25": {
+            "GXT": "CLO_X6F_F_3_25",
+            "Localized": "Magenta Ugglies & Socks"
+        }
+    },
+    "119": {
+        "0": {
+            "GXT": "CLO_X6F_F_4_0",
+            "Localized": "Black Ugglies"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_4_1",
+            "Localized": "Dark Gray Ugglies"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_4_2",
+            "Localized": "Gray Ugglies"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_4_3",
+            "Localized": "Ice Ugglies"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_4_4",
+            "Localized": "Beige Ugglies"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_4_5",
+            "Localized": "Chocolate Ugglies"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_4_6",
+            "Localized": "Burgundy Ugglies"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_4_7",
+            "Localized": "Hot Pink Ugglies"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_4_8",
+            "Localized": "Scarlet Ugglies"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_4_9",
+            "Localized": "Orange Ugglies"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_4_10",
+            "Localized": "Amber Ugglies"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_4_11",
+            "Localized": "Lemon Ugglies"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_4_12",
+            "Localized": "Royal Blue Ugglies"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_4_13",
+            "Localized": "Blue Ugglies"
+        },
+        "14": {
+            "GXT": "CLO_X6F_F_4_14",
+            "Localized": "Teal Ugglies"
+        },
+        "15": {
+            "GXT": "CLO_X6F_F_4_15",
+            "Localized": "Cyan Ugglies"
+        },
+        "16": {
+            "GXT": "CLO_X6F_F_4_16",
+            "Localized": "Light Blue Ugglies"
+        },
+        "17": {
+            "GXT": "CLO_X6F_F_4_17",
+            "Localized": "Lilac Ugglies"
+        },
+        "18": {
+            "GXT": "CLO_X6F_F_4_18",
+            "Localized": "Dark Green Ugglies"
+        },
+        "19": {
+            "GXT": "CLO_X6F_F_4_19",
+            "Localized": "Emerald Ugglies"
+        },
+        "20": {
+            "GXT": "CLO_X6F_F_4_20",
+            "Localized": "Moss Ugglies"
+        },
+        "21": {
+            "GXT": "CLO_X6F_F_4_21",
+            "Localized": "Lime Ugglies"
+        },
+        "22": {
+            "GXT": "CLO_X6F_F_4_22",
+            "Localized": "Peach Ugglies"
+        },
+        "23": {
+            "GXT": "CLO_X6F_F_4_23",
+            "Localized": "Lavender Ugglies"
+        },
+        "24": {
+            "GXT": "CLO_X6F_F_4_24",
+            "Localized": "Purple Ugglies"
+        },
+        "25": {
+            "GXT": "CLO_X6F_F_4_25",
+            "Localized": "Magenta Ugglies"
+        }
+    },
+    "120": {
+        "0": {
+            "GXT": "CLO_X6F_F_5_0",
+            "Localized": "Black Low Canvas"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_5_1",
+            "Localized": "Dark Gray Low Canvas"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_5_2",
+            "Localized": "Gray Low Canvas"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_5_3",
+            "Localized": "Ice Low Canvas"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_5_4",
+            "Localized": "Beige Low Canvas"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_5_5",
+            "Localized": "Chocolate Low Canvas"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_5_6",
+            "Localized": "Burgundy Low Canvas"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_5_7",
+            "Localized": "Hot Pink Low Canvas"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_5_8",
+            "Localized": "Scarlet Low Canvas"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_5_9",
+            "Localized": "Orange Low Canvas"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_5_10",
+            "Localized": "Amber Low Canvas"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_5_11",
+            "Localized": "Lemon Low Canvas"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_5_12",
+            "Localized": "Royal Blue Low Canvas"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_5_13",
+            "Localized": "Blue Low Canvas"
+        },
+        "14": {
+            "GXT": "CLO_X6F_F_5_14",
+            "Localized": "Teal Low Canvas"
+        },
+        "15": {
+            "GXT": "CLO_X6F_F_5_15",
+            "Localized": "Cyan Low Canvas"
+        },
+        "16": {
+            "GXT": "CLO_X6F_F_5_16",
+            "Localized": "Light Blue Low Canvas"
+        },
+        "17": {
+            "GXT": "CLO_X6F_F_5_17",
+            "Localized": "Lilac Low Canvas"
+        },
+        "18": {
+            "GXT": "CLO_X6F_F_5_18",
+            "Localized": "Dark Green Low Canvas"
+        },
+        "19": {
+            "GXT": "CLO_X6F_F_5_19",
+            "Localized": "Emerald Low Canvas"
+        },
+        "20": {
+            "GXT": "CLO_X6F_F_5_20",
+            "Localized": "Moss Low Canvas"
+        },
+        "21": {
+            "GXT": "CLO_X6F_F_5_21",
+            "Localized": "Lime Low Canvas"
+        },
+        "22": {
+            "GXT": "CLO_X6F_F_5_22",
+            "Localized": "Peach Low Canvas"
+        },
+        "23": {
+            "GXT": "CLO_X6F_F_5_23",
+            "Localized": "Lavender Low Canvas"
+        },
+        "24": {
+            "GXT": "CLO_X6F_F_5_24",
+            "Localized": "Purple Low Canvas"
+        },
+        "25": {
+            "GXT": "CLO_X6F_F_5_25",
+            "Localized": "Magenta Low Canvas"
+        }
+    },
+    "121": {
+        "0": {
+            "GXT": "CLO_X6F_F_6_0",
+            "Localized": "Zebra Bigness Canvas"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_6_1",
+            "Localized": "Pink Zebra Bigness Canvas"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_6_2",
+            "Localized": "Magenta Leopard Güffy Canvas"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_6_3",
+            "Localized": "Cyan Leopard Güffy Canvas"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_6_4",
+            "Localized": "Moss Leopard Güffy Canvas"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_6_5",
+            "Localized": "Pink Script Slab Canvas"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_6_6",
+            "Localized": "Cyan Script Slab Canvas"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_6_7",
+            "Localized": "Brown Script Slab Canvas"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_6_8",
+            "Localized": "Neon Script Slab Canvas"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_6_9",
+            "Localized": "Camo Roses Slab Canvas"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_6_10",
+            "Localized": "Black Camo Roses Slab Canvas"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_6_11",
+            "Localized": "White Leopard Slab Canvas"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_6_12",
+            "Localized": "Blue Leopard Slab Canvas"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_6_13",
+            "Localized": "Lime Leopard Slab Canvas"
+        },
+        "14": {
+            "GXT": "CLO_X6F_F_6_14",
+            "Localized": "Black S Slab Canvas"
+        },
+        "15": {
+            "GXT": "CLO_X6F_F_6_15",
+            "Localized": "Blue S Slab Canvas"
+        },
+        "16": {
+            "GXT": "CLO_X6F_F_6_16",
+            "Localized": "Green S Slab Canvas"
+        },
+        "17": {
+            "GXT": "CLO_X6F_F_6_17",
+            "Localized": "Light Blue S Slab Canvas"
+        },
+        "18": {
+            "GXT": "CLO_X6F_F_6_18",
+            "Localized": "Pink S Slab Canvas"
+        },
+        "19": {
+            "GXT": "CLO_X6F_F_6_19",
+            "Localized": "Red S Slab Canvas"
+        },
+        "20": {
+            "GXT": "CLO_X6F_F_6_20",
+            "Localized": "White S Slab Canvas"
+        },
+        "21": {
+            "GXT": "CLO_X6F_F_6_21",
+            "Localized": "Black Bones Slab Canvas"
+        },
+        "22": {
+            "GXT": "CLO_X6F_F_6_22",
+            "Localized": "Blue Bones Slab Canvas"
+        },
+        "23": {
+            "GXT": "CLO_X6F_F_6_23",
+            "Localized": "Red Bones Slab Canvas"
+        },
+        "24": {
+            "GXT": "CLO_X6F_F_6_24",
+            "Localized": "Taupe Bones Slab Canvas"
+        },
+        "25": {
+            "GXT": "CLO_X6F_F_6_25",
+            "Localized": "White Sloped Slab Canvas"
+        }
+    },
+    "122": {
+        "0": {
+            "GXT": "CLO_X6F_F_7_0",
+            "Localized": "Green Sloped Slab Canvas"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_7_1",
+            "Localized": "Neon Sloped Slab Canvas"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_7_2",
+            "Localized": "Blue Signs Squash Canvas"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_7_3",
+            "Localized": "White Signs Squash Canvas"
+        }
+    },
+    "123": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "124": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "125": {
+        "0": {
+            "GXT": "CLO_X6F_F_10_0",
+            "Localized": "Black Enema Ugglies & Socks"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_10_1",
+            "Localized": "Cyan Enema Ugglies & Socks"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_10_2",
+            "Localized": "Magenta Enema Ugglies & Socks"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_10_3",
+            "Localized": "Green Flames Ugglies & Socks"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_10_4",
+            "Localized": "Orange Flames Ugglies & Socks"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_10_5",
+            "Localized": "Pink Flames Ugglies & Socks"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_10_6",
+            "Localized": "Purple Flames Ugglies & Socks"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_10_7",
+            "Localized": "Red Flames Ugglies & Socks"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_10_8",
+            "Localized": "Green Big Flames Ugglies & Socks"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_10_9",
+            "Localized": "Orange Big Flames Ugglies & Socks"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_10_10",
+            "Localized": "Purple Big Flames Ugglies & Socks"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_10_11",
+            "Localized": "Red Big Flames Ugglies & Socks"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_10_12",
+            "Localized": "Blue Lightning Ugglies & Socks"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_10_13",
+            "Localized": "Green Lightning Ugglies & Socks"
+        },
+        "14": {
+            "GXT": "CLO_X6F_F_10_14",
+            "Localized": "Orange Lightning Ugglies & Socks"
+        },
+        "15": {
+            "GXT": "CLO_X6F_F_10_15",
+            "Localized": "Purple Lightning Ugglies & Socks"
+        },
+        "16": {
+            "GXT": "CLO_X6F_F_10_16",
+            "Localized": "Pink Lightning Ugglies & Socks"
+        },
+        "17": {
+            "GXT": "CLO_X6F_F_10_17",
+            "Localized": "Blue Big Lightning Ugglies & Socks"
+        },
+        "18": {
+            "GXT": "CLO_X6F_F_10_18",
+            "Localized": "Green Big Lightning Ugglies & Socks"
+        },
+        "19": {
+            "GXT": "CLO_X6F_F_10_19",
+            "Localized": "Orange Big Lightning Ugglies & Socks"
+        },
+        "20": {
+            "GXT": "CLO_X6F_F_10_20",
+            "Localized": "Purple Big Lightning Ugglies & Socks"
+        },
+        "21": {
+            "GXT": "CLO_X6F_F_10_21",
+            "Localized": "Blue Marble Ugglies & Socks"
+        },
+        "22": {
+            "GXT": "CLO_X6F_F_10_22",
+            "Localized": "White Marble Ugglies & Socks"
+        },
+        "23": {
+            "GXT": "CLO_X6F_F_10_23",
+            "Localized": "Gray Marble Ugglies & Socks"
+        },
+        "24": {
+            "GXT": "CLO_X6F_F_10_24",
+            "Localized": "Chocolate Marble Ugglies & Socks"
+        },
+        "25": {
+            "GXT": "CLO_X6F_F_10_25",
+            "Localized": "Black SC Baroque Ugglies & Socks"
+        }
+    },
+    "126": {
+        "0": {
+            "GXT": "CLO_X6F_F_11_0",
+            "Localized": "Blue SC Baroque Ugglies & Socks"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_11_1",
+            "Localized": "Pink SC Baroque Ugglies & Socks"
+        }
+    },
+    "127": {
+        "0": {
+            "GXT": "CLO_X6F_F_12_0",
+            "Localized": "Black Enema Flourish Ugglies"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_12_1",
+            "Localized": "Cyan Enema Flourish Ugglies"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_12_2",
+            "Localized": "Magenta Enema Flourish Ugglies"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_12_3",
+            "Localized": "Green Flames Ugglies"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_12_4",
+            "Localized": "Orange Flames Ugglies"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_12_5",
+            "Localized": "Pink Flames Ugglies"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_12_6",
+            "Localized": "Purple Flames Ugglies"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_12_7",
+            "Localized": "Red Flames Ugglies"
+        },
+        "8": {
+            "GXT": "CLO_X6F_F_12_8",
+            "Localized": "Green Big Flames Ugglies"
+        },
+        "9": {
+            "GXT": "CLO_X6F_F_12_9",
+            "Localized": "Orange Big Flames Ugglies"
+        },
+        "10": {
+            "GXT": "CLO_X6F_F_12_10",
+            "Localized": "Purple Big Flames Ugglies"
+        },
+        "11": {
+            "GXT": "CLO_X6F_F_12_11",
+            "Localized": "Red Big Flames Ugglies"
+        },
+        "12": {
+            "GXT": "CLO_X6F_F_12_12",
+            "Localized": "Blue Lightning Ugglies"
+        },
+        "13": {
+            "GXT": "CLO_X6F_F_12_13",
+            "Localized": "Green Lightning Ugglies"
+        },
+        "14": {
+            "GXT": "CLO_X6F_F_12_14",
+            "Localized": "Orange Lightning Ugglies"
+        },
+        "15": {
+            "GXT": "CLO_X6F_F_12_15",
+            "Localized": "Purple Lightning Ugglies"
+        },
+        "16": {
+            "GXT": "CLO_X6F_F_12_16",
+            "Localized": "Pink Lightning Ugglies"
+        },
+        "17": {
+            "GXT": "CLO_X6F_F_12_17",
+            "Localized": "Blue Big Lightning Ugglies"
+        },
+        "18": {
+            "GXT": "CLO_X6F_F_12_18",
+            "Localized": "Green Big Lightning Ugglies"
+        },
+        "19": {
+            "GXT": "CLO_X6F_F_12_19",
+            "Localized": "Orange Big Lightning Ugglies"
+        },
+        "20": {
+            "GXT": "CLO_X6F_F_12_20",
+            "Localized": "Purple Big Lightning Ugglies"
+        },
+        "21": {
+            "GXT": "CLO_X6F_F_12_21",
+            "Localized": "Blue Marble Ugglies"
+        },
+        "22": {
+            "GXT": "CLO_X6F_F_12_22",
+            "Localized": "White Marble Ugglies"
+        },
+        "23": {
+            "GXT": "CLO_X6F_F_12_23",
+            "Localized": "Gray Marble Ugglies"
+        },
+        "24": {
+            "GXT": "CLO_X6F_F_12_24",
+            "Localized": "Chocolate Marble Ugglies"
+        },
+        "25": {
+            "GXT": "CLO_X6F_F_12_25",
+            "Localized": "Black SC Baroque Ugglies"
+        }
+    },
+    "128": {
+        "0": {
+            "GXT": "CLO_X6F_F_13_0",
+            "Localized": "Blue SC Baroque Ugglies"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_13_1",
+            "Localized": "Pink SC Baroque Ugglies"
+        }
+    },
+    "129": {
+        "0": {
+            "GXT": "CLO_X6F_F_14_0",
+            "Localized": "Black Blagueurs Ugglies & Socks"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_14_1",
+            "Localized": "Blue Blagueurs Ugglies & Socks"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_14_2",
+            "Localized": "Red Blagueurs Ugglies & Socks"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_14_3",
+            "Localized": "White Blagueurs Ugglies & Socks"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_14_4",
+            "Localized": "Blue DS Ugglies & Socks"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_14_5",
+            "Localized": "Blue DS Tiger Ugglies & Socks"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_14_6",
+            "Localized": "White Signs Squash Ugglies & Socks"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_14_7",
+            "Localized": "Cluckin' Bell Ugglies & Socks"
+        }
+    },
+    "130": {
+        "0": {
+            "GXT": "CLO_X6F_F_15_0",
+            "Localized": "Black Blagueurs Ugglies"
+        },
+        "1": {
+            "GXT": "CLO_X6F_F_15_1",
+            "Localized": "Blue Blagueurs Ugglies"
+        },
+        "2": {
+            "GXT": "CLO_X6F_F_15_2",
+            "Localized": "Red Blagueurs Ugglies"
+        },
+        "3": {
+            "GXT": "CLO_X6F_F_15_3",
+            "Localized": "White Blagueurs Ugglies"
+        },
+        "4": {
+            "GXT": "CLO_X6F_F_15_4",
+            "Localized": "Blue DS Ugglies"
+        },
+        "5": {
+            "GXT": "CLO_X6F_F_15_5",
+            "Localized": "Blue DS Tiger Ugglies"
+        },
+        "6": {
+            "GXT": "CLO_X6F_F_15_6",
+            "Localized": "White Signs Squash Ugglies"
+        },
+        "7": {
+            "GXT": "CLO_X6F_F_15_7",
+            "Localized": "Cluckin' Bell Ugglies"
+        }
+    },
+    "131": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

@@ -6512,5 +6512,171 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "215": {
+        "0": {
+            "GXT": "CLO_X6F_B_0_0",
+            "Localized": "Traditional Painted Rabbit"
+        },
+        "1": {
+            "GXT": "CLO_X6F_B_0_1",
+            "Localized": "Twilight Painted Rabbit"
+        },
+        "2": {
+            "GXT": "CLO_X6F_B_0_2",
+            "Localized": "Noh Painted Rabbit"
+        }
+    },
+    "216": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "217": {
+        "0": {
+            "GXT": "CLO_X6F_B_2_0",
+            "Localized": "Black Bigness Ski"
+        },
+        "1": {
+            "GXT": "CLO_X6F_B_2_1",
+            "Localized": "White Bigness Ski"
+        },
+        "2": {
+            "GXT": "CLO_X6F_B_2_2",
+            "Localized": "Purple Bigness Ski"
+        },
+        "3": {
+            "GXT": "CLO_X6F_B_2_3",
+            "Localized": "Black Blagueurs Ski"
+        },
+        "4": {
+            "GXT": "CLO_X6F_B_2_4",
+            "Localized": "Blue Blagueurs Ski"
+        },
+        "5": {
+            "GXT": "CLO_X6F_B_2_5",
+            "Localized": "Red Blagueurs Ski"
+        },
+        "6": {
+            "GXT": "CLO_X6F_B_2_6",
+            "Localized": "White Blagueurs Ski"
+        },
+        "7": {
+            "GXT": "CLO_X6F_B_2_7",
+            "Localized": "Black Enema Flourish Ski"
+        },
+        "8": {
+            "GXT": "CLO_X6F_B_2_8",
+            "Localized": "Teal Enema Flourish Ski"
+        },
+        "9": {
+            "GXT": "CLO_X6F_B_2_9",
+            "Localized": "Magenta Enema Flourish Ski"
+        },
+        "10": {
+            "GXT": "CLO_X6F_B_2_10",
+            "Localized": "Green Flames Ski"
+        },
+        "11": {
+            "GXT": "CLO_X6F_B_2_11",
+            "Localized": "Orange Flames Ski"
+        },
+        "12": {
+            "GXT": "CLO_X6F_B_2_12",
+            "Localized": "Pink Flames Ski"
+        },
+        "13": {
+            "GXT": "CLO_X6F_B_2_13",
+            "Localized": "Purple Flames Ski"
+        },
+        "14": {
+            "GXT": "CLO_X6F_B_2_14",
+            "Localized": "Red Flames Ski"
+        },
+        "15": {
+            "GXT": "CLO_X6F_B_2_15",
+            "Localized": "Blue Lightning Ski"
+        },
+        "16": {
+            "GXT": "CLO_X6F_B_2_16",
+            "Localized": "White Lightning Ski"
+        },
+        "17": {
+            "GXT": "CLO_X6F_B_2_17",
+            "Localized": "Green Lightning Ski"
+        },
+        "18": {
+            "GXT": "CLO_X6F_B_2_18",
+            "Localized": "Orange Lightning Ski"
+        },
+        "19": {
+            "GXT": "CLO_X6F_B_2_19",
+            "Localized": "Purple Lightning Ski"
+        },
+        "20": {
+            "GXT": "CLO_X6F_B_2_20",
+            "Localized": "Pink Lightning Ski"
+        },
+        "21": {
+            "GXT": "CLO_X6F_B_2_21",
+            "Localized": "Gray Camo Sand Castle Ski"
+        },
+        "22": {
+            "GXT": "CLO_X6F_B_2_22",
+            "Localized": "Aqua Camo Sand Castle Ski"
+        },
+        "23": {
+            "GXT": "CLO_X6F_B_2_23",
+            "Localized": "Contrast Camo Sand Castle Ski"
+        },
+        "24": {
+            "GXT": "CLO_X6F_B_2_24",
+            "Localized": "Gray Dazzle Sand Castle Ski"
+        },
+        "25": {
+            "GXT": "CLO_X6F_B_2_25",
+            "Localized": "Aqua Dazzle Sand Castle Ski"
+        }
+    },
+    "218": {
+        "0": {
+            "GXT": "CLO_X6F_B_3_0",
+            "Localized": "Contrast Dazzle Sand Castle Ski"
+        },
+        "1": {
+            "GXT": "CLO_X6F_B_3_1",
+            "Localized": "Gray Camo Yeti Ski"
+        },
+        "2": {
+            "GXT": "CLO_X6F_B_3_2",
+            "Localized": "Camo Yeti Ski"
+        },
+        "3": {
+            "GXT": "CLO_X6F_B_3_3",
+            "Localized": "Pink Camo Yeti Ski"
+        }
+    },
+    "219": {
+        "0": {
+            "GXT": "CLO_X6F_B_4_0",
+            "Localized": "The Gooch"
+        }
+    },
+    "220": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "221": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
