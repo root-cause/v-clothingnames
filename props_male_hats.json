@@ -7580,5 +7580,197 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "195": {
+        "0": {
+            "GXT": "CLO_SCM_PH_0_0",
+            "Localized": "LS Pounders Cap"
+        }
+    },
+    "196": {
+        "0": {
+            "GXT": "CLO_SCM_PH_1_0",
+            "Localized": "LS Pounders Cap"
+        }
+    },
+    "197": {
+        "0": {
+            "GXT": "CLO_SCM_PH_2_0",
+            "Localized": "Alpine Hat"
+        }
+    },
+    "198": {
+        "0": {
+            "GXT": "CLO_SCM_PH_3_0",
+            "Localized": "LS Car Meet Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCM_PH_3_1",
+            "Localized": "VIP Charter Jets Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCM_PH_3_2",
+            "Localized": "Cliffford Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCM_PH_3_3",
+            "Localized": "Maisonette Cap"
+        },
+        "4": {
+            "GXT": "CLO_SCM_PH_3_4",
+            "Localized": "Rootin' Tootin' Cap"
+        },
+        "5": {
+            "GXT": "CLO_SCM_PH_3_5",
+            "Localized": "LS Angels Cap"
+        },
+        "6": {
+            "GXT": "CLO_SCM_PH_3_6",
+            "Localized": "IAA Cap"
+        },
+        "7": {
+            "GXT": "CLO_SCM_PH_3_7",
+            "Localized": "Captain Cap"
+        },
+        "8": {
+            "GXT": "CLO_SCM_PH_3_8",
+            "Localized": "PDM Cap"
+        },
+        "9": {
+            "GXT": "CLO_SCM_PH_3_9",
+            "Localized": "Flying Bravo Andreas Cap"
+        },
+        "10": {
+            "GXT": "CLO_SCM_PH_3_10",
+            "Localized": "Green LS Cap"
+        },
+        "11": {
+            "GXT": "CLO_SCM_PH_3_11",
+            "Localized": "Peter Cap"
+        },
+        "12": {
+            "GXT": "CLO_SCM_PH_3_12",
+            "Localized": "Survivalist Cap"
+        },
+        "13": {
+            "GXT": "CLO_SCM_PH_3_13",
+            "Localized": "Grotti Furia Cap"
+        },
+        "14": {
+            "GXT": "CLO_SCM_PH_3_14",
+            "Localized": "Black Eagle Cap"
+        },
+        "15": {
+            "GXT": "CLO_SCM_PH_3_15",
+            "Localized": "Deathmatch Cap"
+        }
+    },
+    "199": {
+        "0": {
+            "GXT": "CLO_SCM_PH_4_0",
+            "Localized": "LS Car Meet Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCM_PH_4_1",
+            "Localized": "VIP Charter Jets Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCM_PH_4_2",
+            "Localized": "Cliffford Logo Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCM_PH_4_3",
+            "Localized": "Maisonette Cap"
+        },
+        "4": {
+            "GXT": "CLO_SCM_PH_4_4",
+            "Localized": "Rootin' Tootin' Cap"
+        },
+        "5": {
+            "GXT": "CLO_SCM_PH_4_5",
+            "Localized": "LS Angels Cap"
+        },
+        "6": {
+            "GXT": "CLO_SCM_PH_4_6",
+            "Localized": "IAA Cap"
+        },
+        "7": {
+            "GXT": "CLO_SCM_PH_4_7",
+            "Localized": "Captain Cap"
+        },
+        "8": {
+            "GXT": "CLO_SCM_PH_4_8",
+            "Localized": "PDM Cap"
+        },
+        "9": {
+            "GXT": "CLO_SCM_PH_4_9",
+            "Localized": "Flying Bravo Cap"
+        },
+        "10": {
+            "GXT": "CLO_SCM_PH_4_10",
+            "Localized": "Green LS Cap"
+        },
+        "11": {
+            "GXT": "CLO_SCM_PH_4_11",
+            "Localized": "Peter Cap"
+        },
+        "12": {
+            "GXT": "CLO_SCM_PH_4_12",
+            "Localized": "Survivalist Cap"
+        },
+        "13": {
+            "GXT": "CLO_SCM_PH_4_13",
+            "Localized": "Grotti Furia Cap"
+        },
+        "14": {
+            "GXT": "CLO_SCM_PH_4_14",
+            "Localized": "Black Eagle Cap"
+        },
+        "15": {
+            "GXT": "CLO_SCM_PH_4_15",
+            "Localized": "Deathmatch Cap"
+        }
+    },
+    "200": {
+        "0": {
+            "GXT": "CLO_SCM_PH_5_0",
+            "Localized": "Vom Feuer Camo Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCM_PH_5_1",
+            "Localized": "Western MC Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCM_PH_5_2",
+            "Localized": "Red & White Ammu-Nation Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCM_PH_5_3",
+            "Localized": "Santo Capra Cap"
+        }
+    },
+    "201": {
+        "0": {
+            "GXT": "CLO_SCM_PH_6_0",
+            "Localized": "Vom Feuer Camo Cap"
+        },
+        "1": {
+            "GXT": "CLO_SCM_PH_6_1",
+            "Localized": "Western MC Cap"
+        },
+        "2": {
+            "GXT": "CLO_SCM_PH_6_2",
+            "Localized": "Red & White Ammu-Nation Cap"
+        },
+        "3": {
+            "GXT": "CLO_SCM_PH_6_3",
+            "Localized": "Santo Capra Cap"
+        }
+    },
+    "202": {
+        "0": {
+            "GXT": "CLO_SCM_PH_7_0",
+            "Localized": "Junk Energy Helmet"
+        }
     }
 }
