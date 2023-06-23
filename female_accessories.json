@@ -2262,5 +2262,95 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "136": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "137": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "138": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "139": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "140": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "141": {
+        "0": {
+            "GXT": "CLO_SCF_T_5_0",
+            "Localized": "Silver Lock Pendant"
+        },
+        "1": {
+            "GXT": "CLO_SCF_T_5_1",
+            "Localized": "Dark Silver Lock Pendant"
+        },
+        "2": {
+            "GXT": "CLO_SCF_T_5_2",
+            "Localized": "Gold Lock Pendant"
+        },
+        "3": {
+            "GXT": "CLO_SCF_T_5_3",
+            "Localized": "Rose Gold Lock Pendant"
+        },
+        "4": {
+            "GXT": "CLO_SCF_T_5_4",
+            "Localized": "Copper Lock Pendant"
+        }
+    },
+    "142": {
+        "0": {
+            "GXT": "CLO_SCF_T_5_0",
+            "Localized": "Silver Lock Pendant"
+        },
+        "1": {
+            "GXT": "CLO_SCF_T_5_1",
+            "Localized": "Dark Silver Lock Pendant"
+        },
+        "2": {
+            "GXT": "CLO_SCF_T_5_2",
+            "Localized": "Gold Lock Pendant"
+        },
+        "3": {
+            "GXT": "CLO_SCF_T_5_3",
+            "Localized": "Rose Gold Lock Pendant"
+        },
+        "4": {
+            "GXT": "CLO_SCF_T_5_4",
+            "Localized": "Copper Lock Pendant"
+        }
+    },
+    "143": {
+        "0": {
+            "GXT": "CLO_SCF_T_7_0",
+            "Localized": "Cliffford Remote"
+        }
+    },
+    "144": {
+        "0": {
+            "GXT": "CLO_SCF_T_7_0",
+            "Localized": "Cliffford Remote"
+        }
     }
 }

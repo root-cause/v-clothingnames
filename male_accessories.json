@@ -3284,5 +3284,89 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "167": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "168": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "169": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "170": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "171": {
+        "0": {
+            "GXT": "CLO_SCM_T_4_0",
+            "Localized": "Silver Lock Pendant"
+        },
+        "1": {
+            "GXT": "CLO_SCM_T_4_1",
+            "Localized": "Dark Silver Lock Pendant"
+        },
+        "2": {
+            "GXT": "CLO_SCM_T_4_2",
+            "Localized": "Gold Lock Pendant"
+        },
+        "3": {
+            "GXT": "CLO_SCM_T_4_3",
+            "Localized": "Rose Gold Lock Pendant"
+        },
+        "4": {
+            "GXT": "CLO_SCM_T_4_4",
+            "Localized": "Copper Lock Pendant"
+        }
+    },
+    "172": {
+        "0": {
+            "GXT": "CLO_SCM_T_4_0",
+            "Localized": "Silver Lock Pendant"
+        },
+        "1": {
+            "GXT": "CLO_SCM_T_4_1",
+            "Localized": "Dark Silver Lock Pendant"
+        },
+        "2": {
+            "GXT": "CLO_SCM_T_4_2",
+            "Localized": "Gold Lock Pendant"
+        },
+        "3": {
+            "GXT": "CLO_SCM_T_4_3",
+            "Localized": "Rose Gold Lock Pendant"
+        },
+        "4": {
+            "GXT": "CLO_SCM_T_4_4",
+            "Localized": "Copper Lock Pendant"
+        }
+    },
+    "173": {
+        "0": {
+            "GXT": "CLO_SCM_T_6_0",
+            "Localized": "Cliffford Remote"
+        }
+    },
+    "174": {
+        "0": {
+            "GXT": "CLO_SCM_T_6_0",
+            "Localized": "Cliffford Remote"
+        }
     }
 }

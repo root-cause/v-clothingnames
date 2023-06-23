@@ -5822,5 +5822,185 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "132": {
+        "0": {
+            "GXT": "CLO_SCF_F_0_0",
+            "Localized": "Black Designer Lace-Up"
+        },
+        "1": {
+            "GXT": "CLO_SCF_F_0_1",
+            "Localized": "Dark Gray Designer Lace-Up"
+        },
+        "2": {
+            "GXT": "CLO_SCF_F_0_2",
+            "Localized": "Gray Designer Lace-Up"
+        },
+        "3": {
+            "GXT": "CLO_SCF_F_0_3",
+            "Localized": "Ice Designer Lace-Up"
+        },
+        "4": {
+            "GXT": "CLO_SCF_F_0_4",
+            "Localized": "Beige Designer Lace-Up"
+        },
+        "5": {
+            "GXT": "CLO_SCF_F_0_5",
+            "Localized": "Chocolate Designer Lace-Up"
+        },
+        "6": {
+            "GXT": "CLO_SCF_F_0_6",
+            "Localized": "Burgundy Designer Lace-Up"
+        },
+        "7": {
+            "GXT": "CLO_SCF_F_0_7",
+            "Localized": "Hot Pink Designer Lace-Up"
+        },
+        "8": {
+            "GXT": "CLO_SCF_F_0_8",
+            "Localized": "Scarlet Designer Lace-Up"
+        },
+        "9": {
+            "GXT": "CLO_SCF_F_0_9",
+            "Localized": "Orange Designer Lace-Up"
+        },
+        "10": {
+            "GXT": "CLO_SCF_F_0_10",
+            "Localized": "Amber Designer Lace-Up"
+        },
+        "11": {
+            "GXT": "CLO_SCF_F_0_11",
+            "Localized": "Lemon Designer Lace-Up"
+        },
+        "12": {
+            "GXT": "CLO_SCF_F_0_12",
+            "Localized": "Royal Blue Designer Lace-Up"
+        },
+        "13": {
+            "GXT": "CLO_SCF_F_0_13",
+            "Localized": "Blue Designer Lace-Up"
+        },
+        "14": {
+            "GXT": "CLO_SCF_F_0_14",
+            "Localized": "Teal Designer Lace-Up"
+        },
+        "15": {
+            "GXT": "CLO_SCF_F_0_15",
+            "Localized": "Cyan Designer Lace-Up"
+        },
+        "16": {
+            "GXT": "CLO_SCF_F_0_16",
+            "Localized": "Light Blue Designer Lace-Up"
+        },
+        "17": {
+            "GXT": "CLO_SCF_F_0_17",
+            "Localized": "Lilac Designer Lace-Up"
+        },
+        "18": {
+            "GXT": "CLO_SCF_F_0_18",
+            "Localized": "Dark Green Designer Lace-Up"
+        },
+        "19": {
+            "GXT": "CLO_SCF_F_0_19",
+            "Localized": "Emerald Designer Lace-Up"
+        },
+        "20": {
+            "GXT": "CLO_SCF_F_0_20",
+            "Localized": "Moss Designer Lace-Up"
+        },
+        "21": {
+            "GXT": "CLO_SCF_F_0_21",
+            "Localized": "Lime Designer Lace-Up"
+        },
+        "22": {
+            "GXT": "CLO_SCF_F_0_22",
+            "Localized": "Peach Designer Lace-Up"
+        },
+        "23": {
+            "GXT": "CLO_SCF_F_0_23",
+            "Localized": "Lavender Designer Lace-Up"
+        },
+        "24": {
+            "GXT": "CLO_SCF_F_0_24",
+            "Localized": "Purple Designer Lace-Up"
+        },
+        "25": {
+            "GXT": "CLO_SCF_F_0_25",
+            "Localized": "Magenta Designer Lace-Up"
+        }
+    },
+    "133": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "134": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "135": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "136": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "137": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "138": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "139": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "140": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "141": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "142": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "143": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

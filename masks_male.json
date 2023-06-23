@@ -6672,5 +6672,117 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "221": {
+        "0": {
+            "GXT": "CLO_SCM_B_0_0",
+            "Localized": "Scarlet Vintage Devil Mask"
+        },
+        "1": {
+            "GXT": "CLO_SCM_B_0_1",
+            "Localized": "Amber Vintage Devil Mask"
+        },
+        "2": {
+            "GXT": "CLO_SCM_B_0_2",
+            "Localized": "Green Vintage Devil Mask"
+        }
+    },
+    "222": {
+        "0": {
+            "GXT": "CLO_SCM_B_1_0",
+            "Localized": "Orange Vintage Werewolf Mask"
+        },
+        "1": {
+            "GXT": "CLO_SCM_B_1_1",
+            "Localized": "Blue Vintage Werewolf Mask"
+        },
+        "2": {
+            "GXT": "CLO_SCM_B_1_2",
+            "Localized": "Brown Vintage Werewolf Mask"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "CLO_SCM_B_2_0",
+            "Localized": "Green Vintage Witch Mask"
+        },
+        "1": {
+            "GXT": "CLO_SCM_B_2_1",
+            "Localized": "Yellow Vintage Witch Mask"
+        },
+        "2": {
+            "GXT": "CLO_SCM_B_2_2",
+            "Localized": "Orange Vintage Witch Mask"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "CLO_SCM_B_3_0",
+            "Localized": "Green Vintage Zombie Mask"
+        },
+        "1": {
+            "GXT": "CLO_SCM_B_3_1",
+            "Localized": "Brown Vintage Zombie Mask"
+        },
+        "2": {
+            "GXT": "CLO_SCM_B_3_2",
+            "Localized": "Teal Vintage Zombie Mask"
+        }
+    },
+    "225": {
+        "0": {
+            "GXT": "CLO_SCM_B_4_0",
+            "Localized": "Green Vintage Skull Mask"
+        },
+        "1": {
+            "GXT": "CLO_SCM_B_4_1",
+            "Localized": "White Vintage Skull Mask"
+        },
+        "2": {
+            "GXT": "CLO_SCM_B_4_2",
+            "Localized": "Brown Vintage Skull Mask"
+        }
+    },
+    "226": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "227": {
+        "0": {
+            "GXT": "CLO_SCM_B_6_0",
+            "Localized": "Golden Balaclava"
+        }
+    },
+    "228": {
+        "0": {
+            "GXT": "CLO_SCM_B_7_0",
+            "Localized": "Turkey Mask"
+        }
+    },
+    "229": {
+        "0": {
+            "GXT": "CLO_SCM_B_8_0",
+            "Localized": "Luchadora's Mask"
+        }
+    },
+    "230": {
+        "0": {
+            "GXT": "CLO_SCM_B_9_0",
+            "Localized": "Royal Calacas Mask"
+        },
+        "1": {
+            "GXT": "CLO_SCM_B_9_1",
+            "Localized": "Maritime Calacas Mask"
+        },
+        "2": {
+            "GXT": "CLO_SCM_B_9_2",
+            "Localized": "Romance Calacas Mask"
+        },
+        "3": {
+            "GXT": "CLO_SCM_B_9_3",
+            "Localized": "Floral Calacas Mask"
+        }
     }
 }

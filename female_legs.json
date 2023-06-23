@@ -7214,5 +7214,365 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "172": {
+        "0": {
+            "GXT": "CLO_SCF_L_0_0",
+            "Localized": "Zebra Mini"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_0_1",
+            "Localized": "Pink Zebra Mini"
+        },
+        "2": {
+            "GXT": "CLO_SCF_L_0_2",
+            "Localized": "Black Blagueurs Mini"
+        },
+        "3": {
+            "GXT": "CLO_SCF_L_0_3",
+            "Localized": "Blue Blagueurs Mini"
+        },
+        "4": {
+            "GXT": "CLO_SCF_L_0_4",
+            "Localized": "Red Blagueurs Mini"
+        },
+        "5": {
+            "GXT": "CLO_SCF_L_0_5",
+            "Localized": "White Blagueurs Mini"
+        },
+        "6": {
+            "GXT": "CLO_SCF_L_0_6",
+            "Localized": "Black Enema Mini"
+        },
+        "7": {
+            "GXT": "CLO_SCF_L_0_7",
+            "Localized": "Cyan Enema Mini"
+        },
+        "8": {
+            "GXT": "CLO_SCF_L_0_8",
+            "Localized": "Magenta Enema Mini"
+        },
+        "9": {
+            "GXT": "CLO_SCF_L_0_9",
+            "Localized": "Green Flames Mini"
+        },
+        "10": {
+            "GXT": "CLO_SCF_L_0_10",
+            "Localized": "Orange Flames Mini"
+        },
+        "11": {
+            "GXT": "CLO_SCF_L_0_11",
+            "Localized": "Pink Flames Mini"
+        },
+        "12": {
+            "GXT": "CLO_SCF_L_0_12",
+            "Localized": "Purple Flames Mini"
+        },
+        "13": {
+            "GXT": "CLO_SCF_L_0_13",
+            "Localized": "Red Flames Mini"
+        },
+        "14": {
+            "GXT": "CLO_SCF_L_0_14",
+            "Localized": "Blue Lightning Mini"
+        },
+        "15": {
+            "GXT": "CLO_SCF_L_0_15",
+            "Localized": "Gray Lightning Mini"
+        },
+        "16": {
+            "GXT": "CLO_SCF_L_0_16",
+            "Localized": "Green Lightning Mini"
+        },
+        "17": {
+            "GXT": "CLO_SCF_L_0_17",
+            "Localized": "Orange Lightning Mini"
+        },
+        "18": {
+            "GXT": "CLO_SCF_L_0_18",
+            "Localized": "Purple Lightning Mini"
+        },
+        "19": {
+            "GXT": "CLO_SCF_L_0_19",
+            "Localized": "Red Lightning Mini"
+        },
+        "20": {
+            "GXT": "CLO_SCF_L_0_20",
+            "Localized": "Blue Marble Mini"
+        },
+        "21": {
+            "GXT": "CLO_SCF_L_0_21",
+            "Localized": "White Marble Mini"
+        },
+        "22": {
+            "GXT": "CLO_SCF_L_0_22",
+            "Localized": "Pink Marble Mini"
+        },
+        "23": {
+            "GXT": "CLO_SCF_L_0_23",
+            "Localized": "Wine Red SD Mini"
+        },
+        "24": {
+            "GXT": "CLO_SCF_L_0_24",
+            "Localized": "Yellow SD Mini"
+        },
+        "25": {
+            "GXT": "CLO_SCF_L_0_25",
+            "Localized": "Camo Yeti Mini"
+        }
+    },
+    "173": {
+        "0": {
+            "GXT": "CLO_SCF_L_1_0",
+            "Localized": "Gray Camo Yeti Mini"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_1_1",
+            "Localized": "Pink Camo Yeti Mini"
+        }
+    },
+    "174": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "175": {
+        "0": {
+            "GXT": "CLO_SCF_L_3_0",
+            "Localized": "PRB Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_3_1",
+            "Localized": "Bleedin' Tasty Shorts"
+        }
+    },
+    "176": {
+        "0": {
+            "GXT": "CLO_SCF_L_4_0",
+            "Localized": "Cluckin' Bell Cuffed Sweats"
+        }
+    },
+    "177": {
+        "0": {
+            "GXT": "CLO_SCF_L_5_0",
+            "Localized": "Santo Capra x Manor Chinos"
+        }
+    },
+    "178": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "179": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "180": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "181": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "182": {
+        "0": {
+            "GXT": "CLO_SCF_L_10_0",
+            "Localized": "Hinterland Shorts"
+        }
+    },
+    "183": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "184": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "185": {
+        "0": {
+            "GXT": "CLO_SCF_L_13_0",
+            "Localized": "Black Snap Joggers"
+        },
+        "1": {
+            "GXT": "CLO_SCF_L_13_1",
+            "Localized": "Dark Gray Snap Joggers"
+        },
+        "2": {
+            "GXT": "CLO_SCF_L_13_2",
+            "Localized": "Gray Snap Joggers"
+        },
+        "3": {
+            "GXT": "CLO_SCF_L_13_3",
+            "Localized": "Ice Snap Joggers"
+        },
+        "4": {
+            "GXT": "CLO_SCF_L_13_4",
+            "Localized": "Beige Snap Joggers"
+        },
+        "5": {
+            "GXT": "CLO_SCF_L_13_5",
+            "Localized": "Chocolate Snap Joggers"
+        },
+        "6": {
+            "GXT": "CLO_SCF_L_13_6",
+            "Localized": "Burgundy Snap Joggers"
+        },
+        "7": {
+            "GXT": "CLO_SCF_L_13_7",
+            "Localized": "Hot Pink Snap Joggers"
+        },
+        "8": {
+            "GXT": "CLO_SCF_L_13_8",
+            "Localized": "Scarlet Snap Joggers"
+        },
+        "9": {
+            "GXT": "CLO_SCF_L_13_9",
+            "Localized": "Orange Snap Joggers"
+        },
+        "10": {
+            "GXT": "CLO_SCF_L_13_10",
+            "Localized": "Amber Snap Joggers"
+        },
+        "11": {
+            "GXT": "CLO_SCF_L_13_11",
+            "Localized": "Lemon Snap Joggers"
+        },
+        "12": {
+            "GXT": "CLO_SCF_L_13_12",
+            "Localized": "Royal Blue Snap Joggers"
+        },
+        "13": {
+            "GXT": "CLO_SCF_L_13_13",
+            "Localized": "Blue Snap Joggers"
+        },
+        "14": {
+            "GXT": "CLO_SCF_L_13_14",
+            "Localized": "Teal Snap Joggers"
+        },
+        "15": {
+            "GXT": "CLO_SCF_L_13_15",
+            "Localized": "Cyan Snap Joggers"
+        },
+        "16": {
+            "GXT": "CLO_SCF_L_13_16",
+            "Localized": "Light Blue Snap Joggers"
+        },
+        "17": {
+            "GXT": "CLO_SCF_L_13_17",
+            "Localized": "Lilac Snap Joggers"
+        },
+        "18": {
+            "GXT": "CLO_SCF_L_13_18",
+            "Localized": "Dark Green Snap Joggers"
+        },
+        "19": {
+            "GXT": "CLO_SCF_L_13_19",
+            "Localized": "Emerald Snap Joggers"
+        },
+        "20": {
+            "GXT": "CLO_SCF_L_13_20",
+            "Localized": "Moss Snap Joggers"
+        },
+        "21": {
+            "GXT": "CLO_SCF_L_13_21",
+            "Localized": "Lime Snap Joggers"
+        },
+        "22": {
+            "GXT": "CLO_SCF_L_13_22",
+            "Localized": "Peach Snap Joggers"
+        },
+        "23": {
+            "GXT": "CLO_SCF_L_13_23",
+            "Localized": "Lavender Snap Joggers"
+        },
+        "24": {
+            "GXT": "CLO_SCF_L_13_24",
+            "Localized": "Purple Snap Joggers"
+        },
+        "25": {
+            "GXT": "CLO_SCF_L_13_25",
+            "Localized": "Magenta Snap Joggers"
+        }
+    },
+    "186": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "187": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "188": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "189": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "190": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "191": {
+        "0": {
+            "GXT": "CLO_SCF_L_19_0",
+            "Localized": "Alien Tracksuit Pants"
+        }
+    },
+    "192": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "193": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
