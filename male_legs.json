@@ -6922,5 +6922,137 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "180": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "181": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "182": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "183": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "184": {
+        "0": {
+            "GXT": "CLO_X7M_L_4_0",
+            "Localized": "Graffiti Jeans"
+        }
+    },
+    "185": {
+        "0": {
+            "GXT": "CLO_X7M_L_5_0",
+            "Localized": "Black Lunar New Year Pants"
+        },
+        "1": {
+            "GXT": "CLO_X7M_L_5_1",
+            "Localized": "Red Lunar New Year Pants"
+        }
+    },
+    "186": {
+        "0": {
+            "GXT": "CLO_X7M_L_6_0",
+            "Localized": "St Patrick's Day Pants"
+        },
+        "1": {
+            "GXT": "CLO_X7M_L_6_1",
+            "Localized": "New Year's Pants"
+        },
+        "2": {
+            "GXT": "CLO_X7M_L_6_2",
+            "Localized": "Independence Day Pants"
+        }
+    },
+    "187": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "188": {
+        "0": {
+            "GXT": "CLO_X7M_L_8_0",
+            "Localized": "Western MC Pants"
+        }
+    },
+    "189": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "190": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "191": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "192": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "193": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "194": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "195": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

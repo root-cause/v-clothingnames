@@ -6770,19 +6770,153 @@
     "230": {
         "0": {
             "GXT": "CLO_SCM_B_9_0",
-            "Localized": "Royal Calacas Mask"
+            "Localized": "Royal Calaca Mask"
         },
         "1": {
             "GXT": "CLO_SCM_B_9_1",
-            "Localized": "Maritime Calacas Mask"
+            "Localized": "Maritime Calaca Mask"
         },
         "2": {
             "GXT": "CLO_SCM_B_9_2",
-            "Localized": "Romance Calacas Mask"
+            "Localized": "Romance Calaca Mask"
         },
         "3": {
             "GXT": "CLO_SCM_B_9_3",
-            "Localized": "Floral Calacas Mask"
+            "Localized": "Floral Calaca Mask"
+        }
+    },
+    "231": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "232": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "233": {
+        "0": {
+            "GXT": "CLO_X7M_B_2_0",
+            "Localized": "Cinco de Mayo Mask"
+        }
+    },
+    "234": {
+        "0": {
+            "GXT": "CLO_X7M_B_3_0",
+            "Localized": "Wooden Dragon Mask"
+        },
+        "1": {
+            "GXT": "CLO_X7M_B_3_1",
+            "Localized": "Contrast Dragon Mask"
+        },
+        "2": {
+            "GXT": "CLO_X7M_B_3_2",
+            "Localized": "Regal Dragon Mask"
+        },
+        "3": {
+            "GXT": "CLO_X7M_B_3_3",
+            "Localized": "Midnight Dragon Mask"
+        }
+    },
+    "235": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "236": {
+        "0": {
+            "GXT": "CLO_X7M_B_5_0",
+            "Localized": "LS Customs Bandana"
+        }
+    },
+    "237": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "238": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "239": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "CLO_X7M_B_8_1",
+            "Localized": "Strapz Bandana"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "240": {
+        "0": {
+            "GXT": "CLO_X7M_B_9_0",
+            "Localized": "Carnival Bandana"
+        }
+    },
+    "241": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         }
     }
 }

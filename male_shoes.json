@@ -5980,5 +5980,365 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "137": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "138": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "139": {
+        "0": {
+            "GXT": "CLO_X7M_F_2_0",
+            "Localized": "Black Cloth Clogs"
+        },
+        "1": {
+            "GXT": "CLO_X7M_F_2_1",
+            "Localized": "Dark Gray Cloth Clogs"
+        },
+        "2": {
+            "GXT": "CLO_X7M_F_2_2",
+            "Localized": "Gray Cloth Clogs"
+        },
+        "3": {
+            "GXT": "CLO_X7M_F_2_3",
+            "Localized": "Ice Cloth Clogs"
+        },
+        "4": {
+            "GXT": "CLO_X7M_F_2_4",
+            "Localized": "Beige Cloth Clogs"
+        },
+        "5": {
+            "GXT": "CLO_X7M_F_2_5",
+            "Localized": "Chocolate Cloth Clogs"
+        },
+        "6": {
+            "GXT": "CLO_X7M_F_2_6",
+            "Localized": "Burgundy Cloth Clogs"
+        },
+        "7": {
+            "GXT": "CLO_X7M_F_2_7",
+            "Localized": "Hot Pink Cloth Clogs"
+        },
+        "8": {
+            "GXT": "CLO_X7M_F_2_8",
+            "Localized": "Scarlet Cloth Clogs"
+        },
+        "9": {
+            "GXT": "CLO_X7M_F_2_9",
+            "Localized": "Orange Cloth Clogs"
+        },
+        "10": {
+            "GXT": "CLO_X7M_F_2_10",
+            "Localized": "Amber Cloth Clogs"
+        },
+        "11": {
+            "GXT": "CLO_X7M_F_2_11",
+            "Localized": "Lemon Cloth Clogs"
+        },
+        "12": {
+            "GXT": "CLO_X7M_F_2_12",
+            "Localized": "Royal Blue Cloth Clogs"
+        },
+        "13": {
+            "GXT": "CLO_X7M_F_2_13",
+            "Localized": "Blue Cloth Clogs"
+        },
+        "14": {
+            "GXT": "CLO_X7M_F_2_14",
+            "Localized": "Teal Cloth Clogs"
+        },
+        "15": {
+            "GXT": "CLO_X7M_F_2_15",
+            "Localized": "Cyan Cloth Clogs"
+        },
+        "16": {
+            "GXT": "CLO_X7M_F_2_16",
+            "Localized": "Light Blue Cloth Clogs"
+        },
+        "17": {
+            "GXT": "CLO_X7M_F_2_17",
+            "Localized": "Lilac Cloth Clogs"
+        },
+        "18": {
+            "GXT": "CLO_X7M_F_2_18",
+            "Localized": "Dark Green Cloth Clogs"
+        },
+        "19": {
+            "GXT": "CLO_X7M_F_2_19",
+            "Localized": "Emerald Cloth Clogs"
+        },
+        "20": {
+            "GXT": "CLO_X7M_F_2_20",
+            "Localized": "Moss Cloth Clogs"
+        },
+        "21": {
+            "GXT": "CLO_X7M_F_2_21",
+            "Localized": "Lime Cloth Clogs"
+        },
+        "22": {
+            "GXT": "CLO_X7M_F_2_22",
+            "Localized": "Peach Cloth Clogs"
+        },
+        "23": {
+            "GXT": "CLO_X7M_F_2_23",
+            "Localized": "Lavender Cloth Clogs"
+        },
+        "24": {
+            "GXT": "CLO_X7M_F_2_24",
+            "Localized": "Purple Cloth Clogs"
+        },
+        "25": {
+            "GXT": "CLO_X7M_F_2_25",
+            "Localized": "Magenta Cloth Clogs"
+        }
+    },
+    "140": {
+        "0": {
+            "GXT": "CLO_X7M_F_3_0",
+            "Localized": "Mono Winter Boots"
+        },
+        "1": {
+            "GXT": "CLO_X7M_F_3_1",
+            "Localized": "Dark Gray Winter Boots"
+        },
+        "2": {
+            "GXT": "CLO_X7M_F_3_2",
+            "Localized": "Light Gray Winter Boots"
+        },
+        "3": {
+            "GXT": "CLO_X7M_F_3_3",
+            "Localized": "Ice Winter Boots"
+        },
+        "4": {
+            "GXT": "CLO_X7M_F_3_4",
+            "Localized": "Beige Winter Boots"
+        },
+        "5": {
+            "GXT": "CLO_X7M_F_3_5",
+            "Localized": "Chocolate Winter Boots"
+        },
+        "6": {
+            "GXT": "CLO_X7M_F_3_6",
+            "Localized": "Fuchsia Winter Boots"
+        },
+        "7": {
+            "GXT": "CLO_X7M_F_3_7",
+            "Localized": "Neon Pink Winter Boots"
+        },
+        "8": {
+            "GXT": "CLO_X7M_F_3_8",
+            "Localized": "Scarlet Winter Boots"
+        },
+        "9": {
+            "GXT": "CLO_X7M_F_3_9",
+            "Localized": "Orange Winter Boots"
+        },
+        "10": {
+            "GXT": "CLO_X7M_F_3_10",
+            "Localized": "Amber Winter Boots"
+        },
+        "11": {
+            "GXT": "CLO_X7M_F_3_11",
+            "Localized": "Lemon Winter Boots"
+        },
+        "12": {
+            "GXT": "CLO_X7M_F_3_12",
+            "Localized": "Royal Blue Winter Boots"
+        },
+        "13": {
+            "GXT": "CLO_X7M_F_3_13",
+            "Localized": "Cobalt Winter Boots"
+        },
+        "14": {
+            "GXT": "CLO_X7M_F_3_14",
+            "Localized": "Teal Winter Boots"
+        },
+        "15": {
+            "GXT": "CLO_X7M_F_3_15",
+            "Localized": "Cyan Winter Boots"
+        },
+        "16": {
+            "GXT": "CLO_X7M_F_3_16",
+            "Localized": "Light Blue Winter Boots"
+        },
+        "17": {
+            "GXT": "CLO_X7M_F_3_17",
+            "Localized": "Lilac Winter Boots"
+        },
+        "18": {
+            "GXT": "CLO_X7M_F_3_18",
+            "Localized": "Dark Green Winter Boots"
+        },
+        "19": {
+            "GXT": "CLO_X7M_F_3_19",
+            "Localized": "Emerald Winter Boots"
+        },
+        "20": {
+            "GXT": "CLO_X7M_F_3_20",
+            "Localized": "Moss Winter Boots"
+        },
+        "21": {
+            "GXT": "CLO_X7M_F_3_21",
+            "Localized": "Lime Winter Boots"
+        },
+        "22": {
+            "GXT": "CLO_X7M_F_3_22",
+            "Localized": "Peach Winter Boots"
+        },
+        "23": {
+            "GXT": "CLO_X7M_F_3_23",
+            "Localized": "Lavender Winter Boots"
+        },
+        "24": {
+            "GXT": "CLO_X7M_F_3_24",
+            "Localized": "Purple Winter Boots"
+        },
+        "25": {
+            "GXT": "CLO_X7M_F_3_25",
+            "Localized": "Magenta Winter Boots"
+        }
+    },
+    "141": {
+        "0": {
+            "GXT": "CLO_X7M_F_3_0",
+            "Localized": "Mono Winter Boots"
+        },
+        "1": {
+            "GXT": "CLO_X7M_F_3_1",
+            "Localized": "Dark Gray Winter Boots"
+        },
+        "2": {
+            "GXT": "CLO_X7M_F_3_2",
+            "Localized": "Light Gray Winter Boots"
+        },
+        "3": {
+            "GXT": "CLO_X7M_F_3_3",
+            "Localized": "Ice Winter Boots"
+        },
+        "4": {
+            "GXT": "CLO_X7M_F_3_4",
+            "Localized": "Beige Winter Boots"
+        },
+        "5": {
+            "GXT": "CLO_X7M_F_3_5",
+            "Localized": "Chocolate Winter Boots"
+        },
+        "6": {
+            "GXT": "CLO_X7M_F_3_6",
+            "Localized": "Fuchsia Winter Boots"
+        },
+        "7": {
+            "GXT": "CLO_X7M_F_3_7",
+            "Localized": "Neon Pink Winter Boots"
+        },
+        "8": {
+            "GXT": "CLO_X7M_F_3_8",
+            "Localized": "Scarlet Winter Boots"
+        },
+        "9": {
+            "GXT": "CLO_X7M_F_3_9",
+            "Localized": "Orange Winter Boots"
+        },
+        "10": {
+            "GXT": "CLO_X7M_F_3_10",
+            "Localized": "Amber Winter Boots"
+        },
+        "11": {
+            "GXT": "CLO_X7M_F_3_11",
+            "Localized": "Lemon Winter Boots"
+        },
+        "12": {
+            "GXT": "CLO_X7M_F_3_12",
+            "Localized": "Royal Blue Winter Boots"
+        },
+        "13": {
+            "GXT": "CLO_X7M_F_3_13",
+            "Localized": "Cobalt Winter Boots"
+        },
+        "14": {
+            "GXT": "CLO_X7M_F_3_14",
+            "Localized": "Teal Winter Boots"
+        },
+        "15": {
+            "GXT": "CLO_X7M_F_3_15",
+            "Localized": "Cyan Winter Boots"
+        },
+        "16": {
+            "GXT": "CLO_X7M_F_3_16",
+            "Localized": "Light Blue Winter Boots"
+        },
+        "17": {
+            "GXT": "CLO_X7M_F_3_17",
+            "Localized": "Lilac Winter Boots"
+        },
+        "18": {
+            "GXT": "CLO_X7M_F_3_18",
+            "Localized": "Dark Green Winter Boots"
+        },
+        "19": {
+            "GXT": "CLO_X7M_F_3_19",
+            "Localized": "Emerald Winter Boots"
+        },
+        "20": {
+            "GXT": "CLO_X7M_F_3_20",
+            "Localized": "Moss Winter Boots"
+        },
+        "21": {
+            "GXT": "CLO_X7M_F_3_21",
+            "Localized": "Lime Winter Boots"
+        },
+        "22": {
+            "GXT": "CLO_X7M_F_3_22",
+            "Localized": "Peach Winter Boots"
+        },
+        "23": {
+            "GXT": "CLO_X7M_F_3_23",
+            "Localized": "Lavender Winter Boots"
+        },
+        "24": {
+            "GXT": "CLO_X7M_F_3_24",
+            "Localized": "Purple Winter Boots"
+        },
+        "25": {
+            "GXT": "CLO_X7M_F_3_25",
+            "Localized": "Magenta Winter Boots"
+        }
+    },
+    "142": {
+        "0": {
+            "GXT": "CLO_X7M_F_5_0",
+            "Localized": "Vespucci Beach Flip-Flops"
+        }
+    },
+    "143": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "144": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "145": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "146": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
