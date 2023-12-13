@@ -7758,5 +7758,383 @@
             "GXT": "CLO_SCF_PH_7_0",
             "Localized": "Junk Energy Helmet"
         }
+    },
+    "202": {
+        "0": {
+            "GXT": "CLO_X7F_PH_0_0",
+            "Localized": "Rockstar Helmet"
+        }
+    },
+    "203": {
+        "0": {
+            "GXT": "CLO_X7F_PH_0_0",
+            "Localized": "Rockstar Helmet"
+        }
+    },
+    "204": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "205": {
+        "0": {
+            "GXT": "CLO_X7F_PH_3_0",
+            "Localized": "Fireworks Bucket Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_3_1",
+            "Localized": "Stars and Stripes Bucket Hat"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_3_2",
+            "Localized": "Lady Liberty Bucket Hat"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_3_3",
+            "Localized": "Bigness Carnival Bucket Hat"
+        }
+    },
+    "206": {
+        "0": {
+            "GXT": "CLO_X7F_PH_4_0",
+            "Localized": "CMYK Glitch HSW Helmet"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_4_1",
+            "Localized": "Sunset Glitch HSW Helmet"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_4_2",
+            "Localized": "Vibrant Pixel HSW Helmet"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_4_3",
+            "Localized": "Cool Pixel HSW Helmet"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_4_4",
+            "Localized": "Bright Noise HSW Helmet"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PH_4_5",
+            "Localized": "Cool Noise HSW Helmet"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PH_4_6",
+            "Localized": "Red Geo HSW Helmet"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PH_4_7",
+            "Localized": "Yellow Geo HSW Helmet"
+        },
+        "8": {
+            "GXT": "CLO_X7F_PH_4_8",
+            "Localized": "Orange Trip HSW Helmet"
+        },
+        "9": {
+            "GXT": "CLO_X7F_PH_4_9",
+            "Localized": "Blue Trip HSW Helmet"
+        },
+        "10": {
+            "GXT": "CLO_X7F_PH_4_10",
+            "Localized": "Bold Shock HSW Helmet"
+        },
+        "11": {
+            "GXT": "CLO_X7F_PH_4_11",
+            "Localized": "Vibrant Shock HSW Helmet"
+        },
+        "12": {
+            "GXT": "CLO_X7F_PH_4_12",
+            "Localized": "Vivid Torn HSW Helmet"
+        },
+        "13": {
+            "GXT": "CLO_X7F_PH_4_13",
+            "Localized": "Neon Torn HSW Helmet"
+        },
+        "14": {
+            "GXT": "CLO_X7F_PH_4_14",
+            "Localized": "Warm Warped HSW Helmet"
+        },
+        "15": {
+            "GXT": "CLO_X7F_PH_4_15",
+            "Localized": "Wild Warped HSW Helmet"
+        }
+    },
+    "207": {
+        "0": {
+            "GXT": "CLO_X7F_PH_4_0",
+            "Localized": "CMYK Glitch HSW Helmet"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_4_1",
+            "Localized": "Sunset Glitch HSW Helmet"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_4_2",
+            "Localized": "Vibrant Pixel HSW Helmet"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_4_3",
+            "Localized": "Cool Pixel HSW Helmet"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_4_4",
+            "Localized": "Bright Noise HSW Helmet"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PH_4_5",
+            "Localized": "Cool Noise HSW Helmet"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PH_4_6",
+            "Localized": "Red Geo HSW Helmet"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PH_4_7",
+            "Localized": "Yellow Geo HSW Helmet"
+        },
+        "8": {
+            "GXT": "CLO_X7F_PH_4_8",
+            "Localized": "Orange Trip HSW Helmet"
+        },
+        "9": {
+            "GXT": "CLO_X7F_PH_4_9",
+            "Localized": "Blue Trip HSW Helmet"
+        },
+        "10": {
+            "GXT": "CLO_X7F_PH_4_10",
+            "Localized": "Bold Shock HSW Helmet"
+        },
+        "11": {
+            "GXT": "CLO_X7F_PH_4_11",
+            "Localized": "Vibrant Shock HSW Helmet"
+        },
+        "12": {
+            "GXT": "CLO_X7F_PH_4_12",
+            "Localized": "Vivid Torn HSW Helmet"
+        },
+        "13": {
+            "GXT": "CLO_X7F_PH_4_13",
+            "Localized": "Neon Torn HSW Helmet"
+        },
+        "14": {
+            "GXT": "CLO_X7F_PH_4_14",
+            "Localized": "Warm Warped HSW Helmet"
+        },
+        "15": {
+            "GXT": "CLO_X7F_PH_4_15",
+            "Localized": "Wild Warped HSW Helmet"
+        }
+    },
+    "208": {
+        "0": {
+            "GXT": "CLO_X7F_PH_6_0",
+            "Localized": "Black Los Santos Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_6_1",
+            "Localized": "Black LS Customs Forwards Cap"
+        }
+    },
+    "209": {
+        "0": {
+            "GXT": "CLO_X7F_PH_7_0",
+            "Localized": "Black Los Santos Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_7_1",
+            "Localized": "Black LS Customs Backwards Cap"
+        }
+    },
+    "210": {
+        "0": {
+            "GXT": "CLO_X7F_PH_8_0",
+            "Localized": "Brown Festive Reindeer Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_8_1",
+            "Localized": "White Festive Reindeer Hat"
+        }
+    },
+    "211": {
+        "0": {
+            "GXT": "CLO_X7F_PH_9_0",
+            "Localized": "Green Festive Tree Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_9_1",
+            "Localized": "Red Festive Tree Hat"
+        }
+    },
+    "212": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "213": {
+        "0": {
+            "GXT": "CLO_X7F_PH_11_0",
+            "Localized": "1 Party Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_11_1",
+            "Localized": "2 Party Hat"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_11_2",
+            "Localized": "3 Party Hat"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_11_3",
+            "Localized": "4 Party Hat"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_11_4",
+            "Localized": "5 Party Hat"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PH_11_5",
+            "Localized": "6 Party Hat"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PH_11_6",
+            "Localized": "7 Party Hat"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PH_11_7",
+            "Localized": "8 Party Hat"
+        },
+        "8": {
+            "GXT": "CLO_X7F_PH_11_8",
+            "Localized": "9 Party Hat"
+        },
+        "9": {
+            "GXT": "CLO_X7F_PH_11_9",
+            "Localized": "10 Party Hat"
+        },
+        "10": {
+            "GXT": "CLO_X7F_PH_1110",
+            "Localized": "11 Party Hat"
+        },
+        "11": {
+            "GXT": "CLO_X7F_PH_1111",
+            "Localized": "12 Party Hat"
+        },
+        "12": {
+            "GXT": "CLO_X7F_PH_1112",
+            "Localized": "13 Party Hat"
+        },
+        "13": {
+            "GXT": "CLO_X7F_PH_1113",
+            "Localized": "14 Party Hat"
+        },
+        "14": {
+            "GXT": "CLO_X7F_PH_1114",
+            "Localized": "15 Party Hat"
+        }
+    },
+    "214": {
+        "0": {
+            "GXT": "CLO_X7F_PH_12_0",
+            "Localized": "Heartbreakers Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_12_1",
+            "Localized": "Red's Cap"
+        }
+    },
+    "215": {
+        "0": {
+            "GXT": "CLO_X7F_PH_13_0",
+            "Localized": "Heartbreakers Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_13_1",
+            "Localized": "Red's Cap"
+        }
+    },
+    "216": {
+        "0": {
+            "GXT": "CLO_X7F_PH_14_0",
+            "Localized": "Bronze New Year's Hat"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PH_14_1",
+            "Localized": "Gold New Year's Hat"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PH_14_2",
+            "Localized": "Silver New Year's Hat"
+        }
+    },
+    "217": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_15_3",
+            "Localized": "Strapz Cap"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_15_4",
+            "Localized": "Black 420 Forwards Cap"
+        }
+    },
+    "218": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PH_16_3",
+            "Localized": "Strapz Cap"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PH_16_4",
+            "Localized": "Black 420 Backwards Cap"
+        }
+    },
+    "219": {
+        "0": {
+            "GXT": "CLO_X7F_PH_17_0",
+            "Localized": "Cluckin' Bell Forwards Cap"
+        }
+    },
+    "220": {
+        "0": {
+            "GXT": "CLO_X7F_PH_18_0",
+            "Localized": "Cluckin' Bell Backwards Cap"
+        }
     }
 }

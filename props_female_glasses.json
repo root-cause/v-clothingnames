@@ -2432,5 +2432,67 @@
             "GXT": "CLO_SCF_EY_5_0",
             "Localized": "Junk Energy Goggles"
         }
+    },
+    "55": {
+        "0": {
+            "GXT": "CLO_X7F_PE_0_0",
+            "Localized": "Pink Heart Shades"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PE_0_1",
+            "Localized": "Red Heart Shades"
+        },
+        "2": {
+            "GXT": "CLO_X7F_PE_0_2",
+            "Localized": "Orange Heart Shades"
+        },
+        "3": {
+            "GXT": "CLO_X7F_PE_0_3",
+            "Localized": "Yellow Heart Shades"
+        },
+        "4": {
+            "GXT": "CLO_X7F_PE_0_4",
+            "Localized": "Green Heart Shades"
+        },
+        "5": {
+            "GXT": "CLO_X7F_PE_0_5",
+            "Localized": "Blue Heart Shades"
+        },
+        "6": {
+            "GXT": "CLO_X7F_PE_0_6",
+            "Localized": "Purple Heart Shades"
+        },
+        "7": {
+            "GXT": "CLO_X7F_PE_0_7",
+            "Localized": "Black Heart Shades"
+        }
+    },
+    "56": {
+        "0": {
+            "GXT": "CLO_X7F_PE_1_0",
+            "Localized": "Black Retro Aviator Shades"
+        },
+        "1": {
+            "GXT": "CLO_X7F_PE_1_1",
+            "Localized": "Shell Retro Aviator Shades"
+        }
+    },
+    "57": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
