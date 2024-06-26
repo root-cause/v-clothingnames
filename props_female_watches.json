@@ -640,5 +640,49 @@
             "GXT": "CLO_X6F_LW_1_4",
             "Localized": "Dark Bracelet Ensemble"
         }
+    },
+    "37": {
+        "0": {
+            "GXT": "CLO_SDF_LW_0_0",
+            "Localized": "Thick Silver Chain Bracelet (L)"
+        },
+        "1": {
+            "GXT": "CLO_SDF_LW_0_1",
+            "Localized": "Thick Dark Chain Bracelet (L)"
+        },
+        "2": {
+            "GXT": "CLO_SDF_LW_0_2",
+            "Localized": "Thick Gold Chain Bracelet (L)"
+        },
+        "3": {
+            "GXT": "CLO_SDF_LW_0_3",
+            "Localized": "Thick Rose Chain Bracelet (L)"
+        },
+        "4": {
+            "GXT": "CLO_SDF_LW_0_4",
+            "Localized": "Thick Bronze Chain Bracelet (L)"
+        }
+    },
+    "38": {
+        "0": {
+            "GXT": "CLO_SDF_LW_1_0",
+            "Localized": "Silver Bangle Cuff Bracelet (L)"
+        },
+        "1": {
+            "GXT": "CLO_SDF_LW_1_1",
+            "Localized": "Dark Bangle Cuff Bracelet (L)"
+        },
+        "2": {
+            "GXT": "CLO_SDF_LW_1_2",
+            "Localized": "Gold Bangle Cuff Bracelet (L)"
+        },
+        "3": {
+            "GXT": "CLO_SDF_LW_1_3",
+            "Localized": "Rose Bangle Cuff Bracelet (L)"
+        },
+        "4": {
+            "GXT": "CLO_SDF_LW_1_4",
+            "Localized": "Bronze Bangle Cuff Bracelet (L)"
+        }
     }
 }

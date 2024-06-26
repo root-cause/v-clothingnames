@@ -2494,5 +2494,95 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "58": {
+        "0": {
+            "GXT": "CLO_SDF_PE_0_0",
+            "Localized": "Gold & Black Round"
+        },
+        "1": {
+            "GXT": "CLO_SDF_PE_0_1",
+            "Localized": "Brown & Gold Round"
+        },
+        "2": {
+            "GXT": "CLO_SDF_PE_0_2",
+            "Localized": "Gold & Red Round"
+        },
+        "3": {
+            "GXT": "CLO_SDF_PE_0_3",
+            "Localized": "Silver & Black Round"
+        },
+        "4": {
+            "GXT": "CLO_SDF_PE_0_4",
+            "Localized": "Silver & Pink Round"
+        },
+        "5": {
+            "GXT": "CLO_SDF_PE_0_5",
+            "Localized": "Silver & Aqua Round"
+        },
+        "6": {
+            "GXT": "CLO_SDF_PE_0_6",
+            "Localized": "Dark Silver & Black Round"
+        },
+        "7": {
+            "GXT": "CLO_SDF_PE_0_7",
+            "Localized": "Black & Indigo Round"
+        },
+        "8": {
+            "GXT": "CLO_SDF_PE_0_8",
+            "Localized": "Dark Silver & Green Round"
+        }
+    },
+    "59": {
+        "0": {
+            "GXT": "CLO_SDF_PE_1_0",
+            "Localized": "Black Shields"
+        },
+        "1": {
+            "GXT": "CLO_SDF_PE_1_1",
+            "Localized": "Black & Amber Shields"
+        },
+        "2": {
+            "GXT": "CLO_SDF_PE_1_2",
+            "Localized": "Black & Yellow Shields"
+        },
+        "3": {
+            "GXT": "CLO_SDF_PE_1_3",
+            "Localized": "White & Gray Shields"
+        },
+        "4": {
+            "GXT": "CLO_SDF_PE_1_4",
+            "Localized": "White & Amber Shields"
+        },
+        "5": {
+            "GXT": "CLO_SDF_PE_1_5",
+            "Localized": "White & Yellow Shields"
+        },
+        "6": {
+            "GXT": "CLO_SDF_PE_1_6",
+            "Localized": "Black Tortoiseshell Shields"
+        },
+        "7": {
+            "GXT": "CLO_SDF_PE_1_7",
+            "Localized": "Amber Tortoiseshell Shields"
+        }
+    },
+    "60": {
+        "0": {
+            "GXT": "CLO_SDF_PE_2_0",
+            "Localized": "Black Sunrise Shields"
+        },
+        "1": {
+            "GXT": "CLO_SDF_PE_2_1",
+            "Localized": "Black Twilight Shields"
+        },
+        "2": {
+            "GXT": "CLO_SDF_PE_2_2",
+            "Localized": "White Sunrise Shields"
+        },
+        "3": {
+            "GXT": "CLO_SDF_PE_2_3",
+            "Localized": "White Twilight Shields"
+        }
     }
 }

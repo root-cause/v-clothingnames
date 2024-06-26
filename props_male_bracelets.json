@@ -256,5 +256,49 @@
             "GXT": "CLO_SCM_RW_0_5",
             "Localized": "Rust Hippy Bracelet"
         }
+    },
+    "15": {
+        "0": {
+            "GXT": "CLO_SDM_RW_0_0",
+            "Localized": "Thick Silver Chain Bracelet (R)"
+        },
+        "1": {
+            "GXT": "CLO_SDM_RW_0_1",
+            "Localized": "Thick Dark Chain Bracelet (R)"
+        },
+        "2": {
+            "GXT": "CLO_SDM_RW_0_2",
+            "Localized": "Thick Gold Chain Bracelet (R)"
+        },
+        "3": {
+            "GXT": "CLO_SDM_RW_0_3",
+            "Localized": "Thick Rose Chain Bracelet (R)"
+        },
+        "4": {
+            "GXT": "CLO_SDM_RW_0_4",
+            "Localized": "Thick Bronze Chain Bracelet (R)"
+        }
+    },
+    "16": {
+        "0": {
+            "GXT": "CLO_SDM_RW_1_0",
+            "Localized": "Silver Bangle Cuff Bracelet (R)"
+        },
+        "1": {
+            "GXT": "CLO_SDM_RW_1_1",
+            "Localized": "Dark Bangle Cuff Bracelet (R)"
+        },
+        "2": {
+            "GXT": "CLO_SDM_RW_1_2",
+            "Localized": "Gold Bangle Cuff Bracelet (R)"
+        },
+        "3": {
+            "GXT": "CLO_SDM_RW_1_3",
+            "Localized": "Rose Bangle Cuff Bracelet (R)"
+        },
+        "4": {
+            "GXT": "CLO_SDM_RW_1_4",
+            "Localized": "Bronze Bangle Cuff Bracelet (R)"
+        }
     }
 }
