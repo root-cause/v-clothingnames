@@ -6478,5 +6478,155 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "156": {
+        "0": {
+            "GXT": "CLO_SDF_F_0_0",
+            "Localized": "Blue & Green Zebra Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_SDF_F_0_1",
+            "Localized": "Black & White Zebra Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_SDF_F_0_2",
+            "Localized": "Aqua Geo SC Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_SDF_F_0_3",
+            "Localized": "Gray Geo SC Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_SDF_F_0_4",
+            "Localized": "Contrast Camo SC Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_SDF_F_0_5",
+            "Localized": "Gray Camo SC Sneakers"
+        },
+        "6": {
+            "GXT": "CLO_SDF_F_0_6",
+            "Localized": "Bronze Honeycomb Sneakers"
+        },
+        "7": {
+            "GXT": "CLO_SDF_F_0_7",
+            "Localized": "Blue Honeycomb Sneakers"
+        },
+        "8": {
+            "GXT": "CLO_SDF_F_0_8",
+            "Localized": "Aqua Wave Sneakers"
+        },
+        "9": {
+            "GXT": "CLO_SDF_F_0_9",
+            "Localized": "Black Wave Sneakers"
+        },
+        "10": {
+            "GXT": "CLO_SDF_F_0_10",
+            "Localized": "Blue Check Sneakers"
+        },
+        "11": {
+            "GXT": "CLO_SDF_F_0_11",
+            "Localized": "Black Check Sneakers"
+        },
+        "12": {
+            "GXT": "CLO_SDF_F_0_12",
+            "Localized": "Aqua Pixel Camo Sneakers"
+        },
+        "13": {
+            "GXT": "CLO_SDF_F_0_13",
+            "Localized": "Black Pixel Camo Sneakers"
+        }
+    },
+    "157": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "158": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "159": {
+        "0": {
+            "GXT": "CLO_SDF_F_3_0",
+            "Localized": "Black Hi Top 69 Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_SDF_F_3_1",
+            "Localized": "White Hi Top 69 Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_SDF_F_3_2",
+            "Localized": "Red Hi Top 69 Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_SDF_F_3_3",
+            "Localized": "Light Blue Hi Top 69 Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_SDF_F_3_4",
+            "Localized": "Yellow Hi Top Panic Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_SDF_F_3_5",
+            "Localized": "Purple Hi Top Panic Sneakers"
+        },
+        "6": {
+            "GXT": "CLO_SDF_F_3_6",
+            "Localized": "Pink Hi Top 69 Sneakers"
+        },
+        "7": {
+            "GXT": "CLO_SDF_F_3_7",
+            "Localized": "Green Hi Top 69 Sneakers"
+        },
+        "8": {
+            "GXT": "CLO_SDF_F_3_8",
+            "Localized": "B&W Hi Top 69 Sneakers"
+        },
+        "9": {
+            "GXT": "CLO_SDF_F_3_9",
+            "Localized": "White Flame Hi Top Sneakers"
+        },
+        "10": {
+            "GXT": "CLO_SDF_F_3_10",
+            "Localized": "O&G Hi Top 69 Sneakers"
+        },
+        "11": {
+            "GXT": "CLO_SDF_F_3_11",
+            "Localized": "P&W Hi Top 69 Sneakers"
+        },
+        "12": {
+            "GXT": "CLO_SDF_F_3_12",
+            "Localized": "Blue Hi Top 69 Sneakers"
+        }
+    },
+    "160": {
+        "0": {
+            "GXT": "CLO_SDF_F_4_0",
+            "Localized": "Cyan Güffy Hi Top Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_SDF_F_4_1",
+            "Localized": "Magenta Güffy Hi Top Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_SDF_F_4_2",
+            "Localized": "B&Y Hi Top Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_SDF_F_4_3",
+            "Localized": "Pastel Retro Hi Top Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_SDF_F_4_4",
+            "Localized": "Abstract Hi Top Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_SDF_F_4_5",
+            "Localized": "Military Hi Top Sneakers"
+        }
     }
 }

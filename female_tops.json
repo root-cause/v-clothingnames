@@ -21742,7 +21742,7 @@
         },
         "24": {
             "GXT": "CLO_X7F_U_4_24",
-            "Localized": "Green Debawchee Racer"
+            "Localized": "Green Dewbauchee Racer"
         },
         "25": {
             "GXT": "CLO_X7F_U_4_25",
@@ -22195,6 +22195,476 @@
         "0": {
             "GXT": "NO_LABEL",
             "Localized": "NULL"
+        }
+    },
+    "575": {
+        "0": {
+            "GXT": "CLO_SDF_U_0_0",
+            "Localized": "Black Dotted Tank"
+        },
+        "1": {
+            "GXT": "CLO_SDF_U_0_1",
+            "Localized": "Dark Gray Dotted Tank"
+        },
+        "2": {
+            "GXT": "CLO_SDF_U_0_2",
+            "Localized": "Gray Dotted Tank"
+        },
+        "3": {
+            "GXT": "CLO_SDF_U_0_3",
+            "Localized": "Ice Dotted Tank"
+        },
+        "4": {
+            "GXT": "CLO_SDF_U_0_4",
+            "Localized": "Beige Dotted Tank"
+        },
+        "5": {
+            "GXT": "CLO_SDF_U_0_5",
+            "Localized": "Chocolate Dotted Tank"
+        },
+        "6": {
+            "GXT": "CLO_SDF_U_0_6",
+            "Localized": "Burgundy Dotted Tank"
+        },
+        "7": {
+            "GXT": "CLO_SDF_U_0_7",
+            "Localized": "Hot Pink Dotted Tank"
+        },
+        "8": {
+            "GXT": "CLO_SDF_U_0_8",
+            "Localized": "Scarlet Dotted Tank"
+        },
+        "9": {
+            "GXT": "CLO_SDF_U_0_9",
+            "Localized": "Orange Dotted Tank"
+        },
+        "10": {
+            "GXT": "CLO_SDF_U_0_10",
+            "Localized": "Amber Dotted Tank"
+        },
+        "11": {
+            "GXT": "CLO_SDF_U_0_11",
+            "Localized": "Lemon Dotted Tank"
+        },
+        "12": {
+            "GXT": "CLO_SDF_U_0_12",
+            "Localized": "Royal Blue Dotted Tank"
+        },
+        "13": {
+            "GXT": "CLO_SDF_U_0_13",
+            "Localized": "Blue Dotted Tank"
+        },
+        "14": {
+            "GXT": "CLO_SDF_U_0_14",
+            "Localized": "Teal Dotted Tank"
+        },
+        "15": {
+            "GXT": "CLO_SDF_U_0_15",
+            "Localized": "Cyan Dotted Tank"
+        },
+        "16": {
+            "GXT": "CLO_SDF_U_0_16",
+            "Localized": "Light Blue Dotted Tank"
+        },
+        "17": {
+            "GXT": "CLO_SDF_U_0_17",
+            "Localized": "Lilac Dotted Tank"
+        },
+        "18": {
+            "GXT": "CLO_SDF_U_0_18",
+            "Localized": "Dark Green Dotted Tank"
+        },
+        "19": {
+            "GXT": "CLO_SDF_U_0_19",
+            "Localized": "Emerald Dotted Tank"
+        },
+        "20": {
+            "GXT": "CLO_SDF_U_0_20",
+            "Localized": "Moss Dotted Tank"
+        },
+        "21": {
+            "GXT": "CLO_SDF_U_0_21",
+            "Localized": "Lime Dotted Tank"
+        },
+        "22": {
+            "GXT": "CLO_SDF_U_0_22",
+            "Localized": "Peach Dotted Tank"
+        },
+        "23": {
+            "GXT": "CLO_SDF_U_0_23",
+            "Localized": "Lavender Dotted Tank"
+        },
+        "24": {
+            "GXT": "CLO_SDF_U_0_24",
+            "Localized": "Purple Dotted Tank"
+        },
+        "25": {
+            "GXT": "CLO_SDF_U_0_25",
+            "Localized": "Magenta Dotted Tank"
+        }
+    },
+    "576": {
+        "0": {
+            "GXT": "CLO_SDF_U_1_0",
+            "Localized": "Black Biker Gilet"
+        },
+        "1": {
+            "GXT": "CLO_SDF_U_1_1",
+            "Localized": "Gray Biker Gilet"
+        },
+        "2": {
+            "GXT": "CLO_SDF_U_1_2",
+            "Localized": "Ash Biker Gilet"
+        },
+        "3": {
+            "GXT": "CLO_SDF_U_1_3",
+            "Localized": "Ice Biker Gilet"
+        },
+        "4": {
+            "GXT": "CLO_SDF_U_1_4",
+            "Localized": "Ox Blood Biker Gilet"
+        },
+        "5": {
+            "GXT": "CLO_SDF_U_1_5",
+            "Localized": "Scarlet Biker Gilet"
+        },
+        "6": {
+            "GXT": "CLO_SDF_U_1_6",
+            "Localized": "Dark Green Biker Gilet"
+        },
+        "7": {
+            "GXT": "CLO_SDF_U_1_7",
+            "Localized": "Red Biker Gilet"
+        },
+        "8": {
+            "GXT": "CLO_SDF_U_1_8",
+            "Localized": "Orange Biker Gilet"
+        },
+        "9": {
+            "GXT": "CLO_SDF_U_1_9",
+            "Localized": "Mustard Biker Gilet"
+        },
+        "10": {
+            "GXT": "CLO_SDF_U_1_10",
+            "Localized": "Chestnut Biker Gilet"
+        },
+        "11": {
+            "GXT": "CLO_SDF_U_1_11",
+            "Localized": "Dark Nut Biker Gilet"
+        },
+        "12": {
+            "GXT": "CLO_SDF_U_1_12",
+            "Localized": "Dark Blue Biker Gilet"
+        },
+        "13": {
+            "GXT": "CLO_SDF_U_1_13",
+            "Localized": "Light Blue Biker Gilet"
+        }
+    },
+    "577": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "578": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "579": {
+        "0": {
+            "GXT": "CLO_SDF_U_4_0",
+            "Localized": "Rockstar Red Logo Sweater"
+        }
+    },
+    "580": {
+        "0": {
+            "GXT": "CLO_SDF_U_5_0",
+            "Localized": "Mid Autumn Festival Sundress"
+        }
+    },
+    "581": {
+        "0": {
+            "GXT": "CLO_SDF_U_6_0",
+            "Localized": "Mid Autumn Festival Shirt"
+        }
+    },
+    "582": {
+        "0": {
+            "GXT": "CLO_SDF_U_6_0",
+            "Localized": "Mid Autumn Festival Shirt"
+        }
+    },
+    "583": {
+        "0": {
+            "GXT": "CLO_SDF_U_8_0",
+            "Localized": "Black Romper"
+        },
+        "1": {
+            "GXT": "CLO_SDF_U_8_1",
+            "Localized": "Dark Gray Romper"
+        },
+        "2": {
+            "GXT": "CLO_SDF_U_8_2",
+            "Localized": "Gray Romper"
+        },
+        "3": {
+            "GXT": "CLO_SDF_U_8_3",
+            "Localized": "Ice Romper"
+        },
+        "4": {
+            "GXT": "CLO_SDF_U_8_4",
+            "Localized": "Beige Romper"
+        },
+        "5": {
+            "GXT": "CLO_SDF_U_8_5",
+            "Localized": "Chocolate Romper"
+        },
+        "6": {
+            "GXT": "CLO_SDF_U_8_6",
+            "Localized": "Burgundy Romper"
+        },
+        "7": {
+            "GXT": "CLO_SDF_U_8_7",
+            "Localized": "Hot Pink Romper"
+        },
+        "8": {
+            "GXT": "CLO_SDF_U_8_8",
+            "Localized": "Scarlet Romper"
+        },
+        "9": {
+            "GXT": "CLO_SDF_U_8_9",
+            "Localized": "Orange Romper"
+        },
+        "10": {
+            "GXT": "CLO_SDF_U_8_10",
+            "Localized": "Amber Romper"
+        },
+        "11": {
+            "GXT": "CLO_SDF_U_8_11",
+            "Localized": "Lemon Romper"
+        },
+        "12": {
+            "GXT": "CLO_SDF_U_8_12",
+            "Localized": "Royal Blue Romper"
+        },
+        "13": {
+            "GXT": "CLO_SDF_U_8_13",
+            "Localized": "Blue Romper"
+        },
+        "14": {
+            "GXT": "CLO_SDF_U_8_14",
+            "Localized": "Teal Romper"
+        },
+        "15": {
+            "GXT": "CLO_SDF_U_8_15",
+            "Localized": "Cyan Romper"
+        },
+        "16": {
+            "GXT": "CLO_SDF_U_8_16",
+            "Localized": "Light Blue Romper"
+        },
+        "17": {
+            "GXT": "CLO_SDF_U_8_17",
+            "Localized": "Lilac Romper"
+        },
+        "18": {
+            "GXT": "CLO_SDF_U_8_18",
+            "Localized": "Dark Green Romper"
+        },
+        "19": {
+            "GXT": "CLO_SDF_U_8_19",
+            "Localized": "Emerald Romper"
+        },
+        "20": {
+            "GXT": "CLO_SDF_U_8_20",
+            "Localized": "Moss Romper"
+        },
+        "21": {
+            "GXT": "CLO_SDF_U_8_21",
+            "Localized": "Lime Romper"
+        },
+        "22": {
+            "GXT": "CLO_SDF_U_8_22",
+            "Localized": "Peach Romper"
+        },
+        "23": {
+            "GXT": "CLO_SDF_U_8_23",
+            "Localized": "Lavender Romper"
+        },
+        "24": {
+            "GXT": "CLO_SDF_U_8_24",
+            "Localized": "Purple Romper"
+        },
+        "25": {
+            "GXT": "CLO_SDF_U_8_25",
+            "Localized": "Magenta Romper"
+        }
+    },
+    "584": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "585": {
+        "0": {
+            "GXT": "CLO_SDF_U_10_0",
+            "Localized": "Cobalt Jackal Racing Jersey"
+        }
+    },
+    "586": {
+        "0": {
+            "GXT": "CLO_SDF_U_11_0",
+            "Localized": "Purple Güffy Cardigan"
+        }
+    },
+    "587": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "588": {
+        "0": {
+            "GXT": "CLO_SDF_U_13_0",
+            "Localized": "Demon Biker Jacket"
+        }
+    },
+    "589": {
+        "0": {
+            "GXT": "CLO_SDF_U_14_0",
+            "Localized": "SA Denim Biker Jacket"
+        }
+    },
+    "590": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "591": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "592": {
+        "0": {
+            "GXT": "CLO_SDF_U_17_0",
+            "Localized": "Black Yeti Fall Sweater"
+        },
+        "1": {
+            "GXT": "CLO_SDF_U_17_1",
+            "Localized": "White Yeti Fall Sweater"
+        },
+        "2": {
+            "GXT": "CLO_SDF_U_17_2",
+            "Localized": "Red Yeti Fall Sweater"
+        }
+    },
+    "593": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "9": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "10": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "11": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "12": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "13": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "14": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "594": {
+        "0": {
+            "GXT": "CLO_SDF_U_19_0",
+            "Localized": "Bottom Dollar Jacket"
+        }
+    },
+    "595": {
+        "0": {
+            "GXT": "CLO_SDF_U_19_0",
+            "Localized": "Bottom Dollar Jacket"
+        }
+    },
+    "596": {
+        "0": {
+            "GXT": "CLO_SDF_U_21_0",
+            "Localized": "Barbed Wire Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SDF_U_21_1",
+            "Localized": "Green 247 Shirt"
+        }
+    },
+    "597": {
+        "0": {
+            "GXT": "CLO_SDF_U_21_0",
+            "Localized": "Barbed Wire Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SDF_U_21_1",
+            "Localized": "Green 247 Shirt"
         }
     }
 }

@@ -6842,7 +6842,7 @@
     "236": {
         "0": {
             "GXT": "CLO_X7M_B_5_0",
-            "Localized": "LS Customs Bandana"
+            "Localized": "LS Customs Neck Gaiter"
         }
     },
     "237": {
@@ -6896,7 +6896,7 @@
         },
         "1": {
             "GXT": "CLO_X7M_B_8_1",
-            "Localized": "Strapz Bandana"
+            "Localized": "Strapz Neck Gaiter"
         },
         "2": {
             "GXT": "NO_LABEL",
@@ -6910,13 +6910,87 @@
     "240": {
         "0": {
             "GXT": "CLO_X7M_B_9_0",
-            "Localized": "Carnival Bandana"
+            "Localized": "Carnival Neck Gaiter"
         }
     },
     "241": {
         "0": {
             "GXT": "NO_LABEL",
             "Localized": "NULL"
+        }
+    },
+    "242": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "243": {
+        "0": {
+            "GXT": "CLO_SDM_B_1_0",
+            "Localized": "Black Demon Goat Mask"
+        },
+        "1": {
+            "GXT": "CLO_SDM_B_1_1",
+            "Localized": "Red Demon Goat Mask"
+        },
+        "2": {
+            "GXT": "CLO_SDM_B_1_2",
+            "Localized": "Tan Demon Goat Mask"
+        }
+    },
+    "244": {
+        "0": {
+            "GXT": "CLO_SDM_B_2_0",
+            "Localized": "Black Creepy Cat Mask"
+        },
+        "1": {
+            "GXT": "CLO_SDM_B_2_1",
+            "Localized": "Gray Creepy Cat Mask"
+        },
+        "2": {
+            "GXT": "CLO_SDM_B_2_2",
+            "Localized": "Brown Creepy Cat Mask"
+        }
+    },
+    "245": {
+        "0": {
+            "GXT": "CLO_SDM_B_3_0",
+            "Localized": "Gray Hooded Skull Mask"
+        },
+        "1": {
+            "GXT": "CLO_SDM_B_3_1",
+            "Localized": "Red Hooded Skull Mask"
+        },
+        "2": {
+            "GXT": "CLO_SDM_B_3_2",
+            "Localized": "Blue Hooded Skull Mask"
+        }
+    },
+    "246": {
+        "0": {
+            "GXT": "CLO_SDM_B_4_0",
+            "Localized": "Red Flaming Skull Mask"
+        },
+        "1": {
+            "GXT": "CLO_SDM_B_4_1",
+            "Localized": "Green Flaming Skull Mask"
+        },
+        "2": {
+            "GXT": "CLO_SDM_B_4_2",
+            "Localized": "Orange Flaming Skull Mask"
+        }
+    },
+    "247": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "248": {
+        "0": {
+            "GXT": "CLO_SDM_B_6_0",
+            "Localized": "Ride or Die Gaiter"
         }
     }
 }

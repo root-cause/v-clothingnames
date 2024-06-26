@@ -2390,5 +2390,257 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "148": {
+        "0": {
+            "GXT": "CLO_SDF_T_0_0",
+            "Localized": "Silver Layered Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_0_1",
+            "Localized": "Black Layered Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_0_2",
+            "Localized": "Gold Layered Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_0_3",
+            "Localized": "Rose Layered Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_0_4",
+            "Localized": "Bronze Layered Necklace"
+        }
+    },
+    "149": {
+        "0": {
+            "GXT": "CLO_SDF_T_0_0",
+            "Localized": "Silver Layered Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_0_1",
+            "Localized": "Black Layered Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_0_2",
+            "Localized": "Gold Layered Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_0_3",
+            "Localized": "Rose Layered Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_0_4",
+            "Localized": "Bronze Layered Necklace"
+        }
+    },
+    "150": {
+        "0": {
+            "GXT": "CLO_SDF_T_2_0",
+            "Localized": "Silver DS Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_2_1",
+            "Localized": "Black DS Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_2_2",
+            "Localized": "Gold DS Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_2_3",
+            "Localized": "Rose DS Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_2_4",
+            "Localized": "Bronze DS Necklace"
+        }
+    },
+    "151": {
+        "0": {
+            "GXT": "CLO_SDF_T_2_0",
+            "Localized": "Silver DS Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_2_1",
+            "Localized": "Black DS Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_2_2",
+            "Localized": "Gold DS Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_2_3",
+            "Localized": "Rose DS Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_2_4",
+            "Localized": "Bronze DS Necklace"
+        }
+    },
+    "152": {
+        "0": {
+            "GXT": "CLO_SDF_T_4_0",
+            "Localized": "Silver Moon Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_4_1",
+            "Localized": "Black Moon Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_4_2",
+            "Localized": "Gold Moon Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_4_3",
+            "Localized": "Rose Moon Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_4_4",
+            "Localized": "Bronze Moon Necklace"
+        }
+    },
+    "153": {
+        "0": {
+            "GXT": "CLO_SDF_T_4_0",
+            "Localized": "Silver Moon Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_4_1",
+            "Localized": "Black Moon Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_4_2",
+            "Localized": "Gold Moon Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_4_3",
+            "Localized": "Rose Moon Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_4_4",
+            "Localized": "Bronze Moon Necklace"
+        }
+    },
+    "154": {
+        "0": {
+            "GXT": "CLO_SDF_T_6_0",
+            "Localized": "Marble Stone Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_6_1",
+            "Localized": "Turquoise Stone Necklace"
+        }
+    },
+    "155": {
+        "0": {
+            "GXT": "CLO_SDF_T_6_0",
+            "Localized": "Marble Stone Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_6_1",
+            "Localized": "Turquoise Stone Necklace"
+        }
+    },
+    "156": {
+        "0": {
+            "GXT": "CLO_SDF_T_8_0",
+            "Localized": "Thick Silver Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_8_1",
+            "Localized": "Thick Black Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_8_2",
+            "Localized": "Thick Gold Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_8_3",
+            "Localized": "Thick Rose Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_8_4",
+            "Localized": "Thick Bronze Necklace"
+        }
+    },
+    "157": {
+        "0": {
+            "GXT": "CLO_SDF_T_8_0",
+            "Localized": "Thick Silver Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_8_1",
+            "Localized": "Thick Black Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_8_2",
+            "Localized": "Thick Gold Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_8_3",
+            "Localized": "Thick Rose Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_8_4",
+            "Localized": "Thick Bronze Necklace"
+        }
+    },
+    "158": {
+        "0": {
+            "GXT": "CLO_SDF_T_10_0",
+            "Localized": "Silver Gun Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_10_1",
+            "Localized": "Black Gun Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_10_2",
+            "Localized": "Gold Gun Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_10_3",
+            "Localized": "Rose Gun Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_10_4",
+            "Localized": "Bronze Gun Necklace"
+        }
+    },
+    "159": {
+        "0": {
+            "GXT": "CLO_SDF_T_10_0",
+            "Localized": "Silver Gun Necklace"
+        },
+        "1": {
+            "GXT": "CLO_SDF_T_10_1",
+            "Localized": "Black Gun Necklace"
+        },
+        "2": {
+            "GXT": "CLO_SDF_T_10_2",
+            "Localized": "Gold Gun Necklace"
+        },
+        "3": {
+            "GXT": "CLO_SDF_T_10_3",
+            "Localized": "Rose Gun Necklace"
+        },
+        "4": {
+            "GXT": "CLO_SDF_T_10_4",
+            "Localized": "Bronze Gun Necklace"
+        }
+    },
+    "160": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "161": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }
