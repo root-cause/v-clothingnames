@@ -1340,5 +1340,13 @@
             "HairTattooCollection": 1099237437,
             "HairTattooOverlay": 2123891426
         }
+    },
+    "86": {
+        "0": {
+            "GXT": "CLO_X8F_H_0_0",
+            "Localized": "Shaggy Octopus",
+            "HairTattooCollection": -648258913,
+            "HairTattooOverlay": 1486011911
+        }
     }
 }

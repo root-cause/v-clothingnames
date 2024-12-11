@@ -7826,5 +7826,189 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "220": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "221": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "222": {
+        "0": {
+            "GXT": "CLO_X8F_L_2_0",
+            "Localized": "Bigness Sketches Jeans"
+        },
+        "1": {
+            "GXT": "CLO_X8F_L_2_1",
+            "Localized": "Strapz Patterned Jeans"
+        },
+        "2": {
+            "GXT": "CLO_X8F_L_2_2",
+            "Localized": "Los Santos Tattoo Jeans"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "225": {
+        "0": {
+            "GXT": "CLO_X8F_L_5_0",
+            "Localized": "Champagne Pop Pants"
+        },
+        "1": {
+            "GXT": "CLO_X8F_L_5_1",
+            "Localized": "Gold Star Pants"
+        }
+    },
+    "226": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "227": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "228": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "229": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "230": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "231": {
+        "0": {
+            "GXT": "CLO_X8F_L_11_0",
+            "Localized": "Lilac Tie-Dye Bigness Shorts"
+        },
+        "1": {
+            "GXT": "CLO_X8F_L_11_1",
+            "Localized": "White Tie-Dye Bigness Shorts"
+        },
+        "2": {
+            "GXT": "CLO_X8F_L_11_2",
+            "Localized": "Blue Tie-Dye Squash Shorts"
+        },
+        "3": {
+            "GXT": "CLO_X8F_L_11_3",
+            "Localized": "Pink Tie-Dye Squash Shorts"
+        },
+        "4": {
+            "GXT": "CLO_X8F_L_11_4",
+            "Localized": "Moss Tie-Dye Manor Shorts"
+        },
+        "5": {
+            "GXT": "CLO_X8F_L_11_5",
+            "Localized": "Black Tie-Dye Manor Shorts"
+        },
+        "6": {
+            "GXT": "CLO_X8F_L_11_6",
+            "Localized": "Hot Pink Tie-Dye Güffy Shorts"
+        },
+        "7": {
+            "GXT": "CLO_X8F_L_11_7",
+            "Localized": "Emerald Tie-Dye Güffy Shorts"
+        },
+        "8": {
+            "GXT": "CLO_X8F_L_11_8",
+            "Localized": "Teal Grid Sand Castle Shorts"
+        },
+        "9": {
+            "GXT": "CLO_X8F_L_11_9",
+            "Localized": "Black Grid Sand Castle Shorts"
+        },
+        "10": {
+            "GXT": "CLO_X8F_L_11_10",
+            "Localized": "Lilac Leopard Bigness Shorts"
+        },
+        "11": {
+            "GXT": "CLO_X8F_L_11_11",
+            "Localized": "Orange Leopard Bigness Shorts"
+        },
+        "12": {
+            "GXT": "CLO_X8F_L_11_12",
+            "Localized": "Blue Leopard Bigness Shorts"
+        },
+        "13": {
+            "GXT": "CLO_X8F_L_11_13",
+            "Localized": "Orange Leopard Strapz Shorts"
+        },
+        "14": {
+            "GXT": "CLO_X8F_L_11_14",
+            "Localized": "Blue Leopard Strapz Shorts"
+        },
+        "15": {
+            "GXT": "CLO_X8F_L_11_15",
+            "Localized": "Pink Camo Yeti Shorts"
+        },
+        "16": {
+            "GXT": "CLO_X8F_L_11_16",
+            "Localized": "Gray Camo Yeti Shorts"
+        },
+        "17": {
+            "GXT": "CLO_X8F_L_11_17",
+            "Localized": "Woodland Camo Yeti Shorts"
+        },
+        "18": {
+            "GXT": "CLO_X8F_L_11_18",
+            "Localized": "Blue Zebra Heat Shorts"
+        },
+        "19": {
+            "GXT": "CLO_X8F_L_11_19",
+            "Localized": "Black Zebra Heat Shorts"
+        }
     }
 }

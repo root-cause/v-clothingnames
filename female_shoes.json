@@ -6628,5 +6628,43 @@
             "GXT": "CLO_SDF_F_4_5",
             "Localized": "Military Hi Top Sneakers"
         }
+    },
+    "161": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "162": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "163": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "164": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "165": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

@@ -6992,5 +6992,11 @@
             "GXT": "CLO_SDM_B_6_0",
             "Localized": "Ride or Die Gaiter"
         }
+    },
+    "249": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

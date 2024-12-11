@@ -22666,5 +22666,401 @@
             "GXT": "CLO_SDF_U_21_1",
             "Localized": "Green 247 Shirt"
         }
+    },
+    "598": {
+        "0": {
+            "GXT": "CLO_X8F_U_0_0",
+            "Localized": "LD Organics 420 Hockey Jersey"
+        }
+    },
+    "599": {
+        "0": {
+            "GXT": "CLO_X8F_U_1_0",
+            "Localized": "Bigness Sketches Shirt"
+        }
+    },
+    "600": {
+        "0": {
+            "GXT": "CLO_X8F_U_2_0",
+            "Localized": "LS Panic Varsity Jacket"
+        }
+    },
+    "601": {
+        "0": {
+            "GXT": "CLO_X8F_U_2_0",
+            "Localized": "LS Panic Varsity Jacket"
+        }
+    },
+    "602": {
+        "0": {
+            "GXT": "CLO_X8F_U_4_0",
+            "Localized": "Güffy Drug Rug Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_X8F_U_4_1",
+            "Localized": "Yeti Earth Day Hoodie"
+        }
+    },
+    "603": {
+        "0": {
+            "GXT": "CLO_X8F_U_4_0",
+            "Localized": "Güffy Drug Rug Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_X8F_U_4_1",
+            "Localized": "Yeti Earth Day Hoodie"
+        }
+    },
+    "604": {
+        "0": {
+            "GXT": "CLO_X8F_U_6_0",
+            "Localized": "Krampus Sweater"
+        }
+    },
+    "605": {
+        "0": {
+            "GXT": "CLO_X8F_U_7_0",
+            "Localized": "Blue Two-Tone Denim Dress"
+        }
+    },
+    "606": {
+        "0": {
+            "GXT": "CLO_X8F_U_8_0",
+            "Localized": "Red Serpent Leather Jacket"
+        }
+    },
+    "607": {
+        "0": {
+            "GXT": "CLO_X8F_U_9_0",
+            "Localized": "Strapz Patterned Sweatshirt"
+        }
+    },
+    "608": {
+        "0": {
+            "GXT": "CLO_X8F_U_10_0",
+            "Localized": "Honkers Tie-Dye Hoodie"
+        }
+    },
+    "609": {
+        "0": {
+            "GXT": "CLO_X8F_U_10_0",
+            "Localized": "Honkers Tie-Dye Hoodie"
+        }
+    },
+    "610": {
+        "0": {
+            "GXT": "CLO_X8F_U_12_0",
+            "Localized": "Los Santos Tattoo Tee"
+        }
+    },
+    "611": {
+        "0": {
+            "GXT": "CLO_X8F_U_13_0",
+            "Localized": "Heartbreaker Bustier"
+        }
+    },
+    "612": {
+        "0": {
+            "GXT": "CLO_X8F_U_14_0",
+            "Localized": "Heartbreaker Robe"
+        }
+    },
+    "613": {
+        "0": {
+            "GXT": "CLO_X8F_U_15_0",
+            "Localized": "Carnival Feather Dress"
+        }
+    },
+    "614": {
+        "0": {
+            "GXT": "CLO_X8F_U_16_0",
+            "Localized": "Pavel's Tank Top"
+        }
+    },
+    "615": {
+        "0": {
+            "GXT": "CLO_X8F_U_17_0",
+            "Localized": "Blarneys Stout Tee"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "616": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "617": {
+        "0": {
+            "GXT": "CLO_X8F_U_19_0",
+            "Localized": "Navy Eberhard Bomber"
+        }
+    },
+    "618": {
+        "0": {
+            "GXT": "CLO_X8F_U_19_0",
+            "Localized": "Navy Eberhard Bomber"
+        }
+    },
+    "619": {
+        "0": {
+            "GXT": "CLO_X8F_U_21_0",
+            "Localized": "Champagne Pop Fitted"
+        },
+        "1": {
+            "GXT": "CLO_X8F_U_21_1",
+            "Localized": "Gold Star Fitted"
+        }
+    },
+    "620": {
+        "0": {
+            "GXT": "CLO_X8F_U_21_0",
+            "Localized": "Champagne Pop Fitted"
+        },
+        "1": {
+            "GXT": "CLO_X8F_U_21_1",
+            "Localized": "Gold Star Fitted"
+        }
+    },
+    "621": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "622": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "623": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "624": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_X8F_U_26_4",
+            "Localized": "Green Vomit Barfs Hoodie"
+        },
+        "5": {
+            "GXT": "CLO_X8F_U_26_5",
+            "Localized": "Burgundy Vomit Barfs Hoodie"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "CLO_X8F_U_26_8",
+            "Localized": "Gray Spider HS Hoodie"
+        },
+        "9": {
+            "GXT": "CLO_X8F_U_26_9",
+            "Localized": "Lilac Tie-Dye Bigness Hoodie"
+        },
+        "10": {
+            "GXT": "CLO_X8F_U_26_10",
+            "Localized": "Gray Tie-Dye Bigness Hoodie"
+        },
+        "11": {
+            "GXT": "CLO_X8F_U_26_11",
+            "Localized": "Blue Tie-Dye Squash Hoodie"
+        },
+        "12": {
+            "GXT": "CLO_X8F_U_26_12",
+            "Localized": "Pink Tie-Dye Squash Hoodie"
+        },
+        "13": {
+            "GXT": "CLO_X8F_U_26_13",
+            "Localized": "Moss Tie-Dye Manor Hoodie"
+        },
+        "14": {
+            "GXT": "CLO_X8F_U_26_14",
+            "Localized": "Hot Pink Tie-Dye Güffy Hoodie"
+        },
+        "15": {
+            "GXT": "CLO_X8F_U_26_15",
+            "Localized": "Emerald Tie-Dye Güffy Hoodie"
+        },
+        "16": {
+            "GXT": "CLO_X8F_U_26_16",
+            "Localized": "Teal Grid Sand Castle Hoodie"
+        },
+        "17": {
+            "GXT": "CLO_X8F_U_26_17",
+            "Localized": "Black Grid Sand Castle Hoodie"
+        }
+    },
+    "625": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "CLO_X8F_U_26_4",
+            "Localized": "Green Vomit Barfs Hoodie"
+        },
+        "5": {
+            "GXT": "CLO_X8F_U_26_5",
+            "Localized": "Burgundy Vomit Barfs Hoodie"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "7": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "8": {
+            "GXT": "CLO_X8F_U_26_8",
+            "Localized": "Gray Spider HS Hoodie"
+        },
+        "9": {
+            "GXT": "CLO_X8F_U_26_9",
+            "Localized": "Lilac Tie-Dye Bigness Hoodie"
+        },
+        "10": {
+            "GXT": "CLO_X8F_U_26_10",
+            "Localized": "Gray Tie-Dye Bigness Hoodie"
+        },
+        "11": {
+            "GXT": "CLO_X8F_U_26_11",
+            "Localized": "Blue Tie-Dye Squash Hoodie"
+        },
+        "12": {
+            "GXT": "CLO_X8F_U_26_12",
+            "Localized": "Pink Tie-Dye Squash Hoodie"
+        },
+        "13": {
+            "GXT": "CLO_X8F_U_26_13",
+            "Localized": "Moss Tie-Dye Manor Hoodie"
+        },
+        "14": {
+            "GXT": "CLO_X8F_U_26_14",
+            "Localized": "Hot Pink Tie-Dye Güffy Hoodie"
+        },
+        "15": {
+            "GXT": "CLO_X8F_U_26_15",
+            "Localized": "Emerald Tie-Dye Güffy Hoodie"
+        },
+        "16": {
+            "GXT": "CLO_X8F_U_26_16",
+            "Localized": "Teal Grid Sand Castle Hoodie"
+        },
+        "17": {
+            "GXT": "CLO_X8F_U_26_17",
+            "Localized": "Black Grid Sand Castle Hoodie"
+        }
+    },
+    "626": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "627": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "4": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "5": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "6": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

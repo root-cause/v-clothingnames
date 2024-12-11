@@ -3658,5 +3658,83 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "192": {
+        "0": {
+            "GXT": "CLO_X8M_T_0_0",
+            "Localized": "Gold 420 Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X8M_T_0_1",
+            "Localized": "Silver 420 Pendant"
+        },
+        "2": {
+            "GXT": "CLO_X8M_T_0_2",
+            "Localized": "Rose Gold 420 Pendant"
+        }
+    },
+    "193": {
+        "0": {
+            "GXT": "CLO_X8M_T_0_0",
+            "Localized": "Gold 420 Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X8M_T_0_1",
+            "Localized": "Silver 420 Pendant"
+        },
+        "2": {
+            "GXT": "CLO_X8M_T_0_2",
+            "Localized": "Rose Gold 420 Pendant"
+        }
+    },
+    "194": {
+        "0": {
+            "GXT": "CLO_X8M_T_2_0",
+            "Localized": "Gold Reindeer Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X8M_T_2_1",
+            "Localized": "Silver Reindeer Pendant"
+        }
+    },
+    "195": {
+        "0": {
+            "GXT": "CLO_X8M_T_2_0",
+            "Localized": "Gold Reindeer Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X8M_T_2_1",
+            "Localized": "Silver Reindeer Pendant"
+        }
+    },
+    "196": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "197": {
+        "0": {
+            "GXT": "CLO_X8M_T_5_0",
+            "Localized": "Snake Soul Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X8M_T_5_1",
+            "Localized": "Snake King Pendant"
+        }
+    },
+    "198": {
+        "0": {
+            "GXT": "CLO_X8M_T_5_0",
+            "Localized": "Snake Soul Pendant"
+        },
+        "1": {
+            "GXT": "CLO_X8M_T_5_1",
+            "Localized": "Snake King Pendant"
+        }
     }
 }
