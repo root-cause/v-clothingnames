@@ -8270,5 +8270,243 @@
             "GXT": "CLO_SDF_PH_6_20",
             "Localized": "Pink Camo Yeti Bucket"
         }
+    },
+    "228": {
+        "0": {
+            "GXT": "CLO_X8F_PH_0_0",
+            "Localized": "Highway Patrol Helmet"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_0_1",
+            "Localized": "Highway Patrol Helmet"
+        }
+    },
+    "229": {
+        "0": {
+            "GXT": "CLO_X8F_PH_1_0",
+            "Localized": "Park Ranger Cap"
+        }
+    },
+    "230": {
+        "0": {
+            "GXT": "CLO_X8F_PH_2_0",
+            "Localized": "LD Organics 420 Forwards Cap"
+        }
+    },
+    "231": {
+        "0": {
+            "GXT": "CLO_X8F_PH_3_0",
+            "Localized": "LD Organics 420 Backwards Cap"
+        }
+    },
+    "232": {
+        "0": {
+            "GXT": "CLO_X8F_PH_4_0",
+            "Localized": "LS Panic Varsity Cap"
+        }
+    },
+    "233": {
+        "0": {
+            "GXT": "CLO_X8F_PH_5_0",
+            "Localized": "LS Panic Varsity Cap"
+        }
+    },
+    "234": {
+        "0": {
+            "GXT": "CLO_X8F_PH_6_0",
+            "Localized": "Gong Xi Fa Cai Forwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_6_1",
+            "Localized": "Red Snake Soul Forwards Cap"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_6_2",
+            "Localized": "Gray Snake King Forwards Cap"
+        }
+    },
+    "235": {
+        "0": {
+            "GXT": "CLO_X8F_PH_7_0",
+            "Localized": "Gong Xi Fa Cai Backwards Cap"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_7_1",
+            "Localized": "Red Snake Soul Backwards Cap"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_7_2",
+            "Localized": "Gray Snake King Backwards Cap"
+        }
+    },
+    "236": {
+        "0": {
+            "GXT": "CLO_X8F_PH_8_0",
+            "Localized": "Pavel's Garrison Cap"
+        }
+    },
+    "237": {
+        "0": {
+            "GXT": "CLO_X8F_PH_9_0",
+            "Localized": "Honkers Tie-Dye Hat"
+        }
+    },
+    "238": {
+        "0": {
+            "GXT": "CLO_X8F_PH_10_0",
+            "Localized": "Blue Two-Tone Denim Cowgirl Hat"
+        }
+    },
+    "239": {
+        "0": {
+            "GXT": "CLO_X8F_PH_11_0",
+            "Localized": "McKenzie Field Cap"
+        }
+    },
+    "240": {
+        "0": {
+            "GXT": "CLO_X8F_PH_12_0",
+            "Localized": "McKenzie Field Cap"
+        }
+    },
+    "241": {
+        "0": {
+            "GXT": "CLO_X8F_PH_13_0",
+            "Localized": "Green 420 Festival Hat"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_13_1",
+            "Localized": "Multicolor 420 Festival Hat"
+        }
+    },
+    "242": {
+        "0": {
+            "GXT": "CLO_X8F_PH_14_0",
+            "Localized": "Black Barfs Beanie"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_14_1",
+            "Localized": "PRB Sword Boy Beanie"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_14_2",
+            "Localized": "PRB Princess Beanie"
+        },
+        "3": {
+            "GXT": "CLO_X8F_PH_14_3",
+            "Localized": "PRB Wasabi Kitty Beanie"
+        },
+        "4": {
+            "GXT": "CLO_X8F_PH_14_4",
+            "Localized": "Green Vomit Barfs Beanie"
+        },
+        "5": {
+            "GXT": "CLO_X8F_PH_14_5",
+            "Localized": "Black Turbo Güffy Beanie"
+        },
+        "6": {
+            "GXT": "CLO_X8F_PH_14_6",
+            "Localized": "White Turbo Güffy Beanie"
+        },
+        "7": {
+            "GXT": "CLO_X8F_PH_14_7",
+            "Localized": "PRB Master Hentai Beanie"
+        },
+        "8": {
+            "GXT": "CLO_X8F_PH_14_8",
+            "Localized": "PRB Humpy Beanie"
+        },
+        "9": {
+            "GXT": "CLO_X8F_PH_14_9",
+            "Localized": "Burgundy Vomit Barfs Beanie"
+        },
+        "10": {
+            "GXT": "CLO_X8F_PH_1410",
+            "Localized": "White Barfs Beanie"
+        }
+    },
+    "243": {
+        "0": {
+            "GXT": "CLO_X8F_PH_15_0",
+            "Localized": "Lilac Leopard Bigness Forwards"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_15_1",
+            "Localized": "Orange Leopard Bigness Forwards"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_15_2",
+            "Localized": "Blue Leopard Bigness Forwards"
+        },
+        "3": {
+            "GXT": "CLO_X8F_PH_15_3",
+            "Localized": "Orange Leopard Strapz Forwards"
+        },
+        "4": {
+            "GXT": "CLO_X8F_PH_15_4",
+            "Localized": "Blue Leopard Strapz Forwards"
+        },
+        "5": {
+            "GXT": "CLO_X8F_PH_15_5",
+            "Localized": "Pink Camo Yeti Forwards"
+        },
+        "6": {
+            "GXT": "CLO_X8F_PH_15_6",
+            "Localized": "Gray Camo Yeti Forwards"
+        },
+        "7": {
+            "GXT": "CLO_X8F_PH_15_7",
+            "Localized": "Woodland Camo Yeti Forwards"
+        },
+        "8": {
+            "GXT": "CLO_X8F_PH_15_8",
+            "Localized": "Blue Zebra Heat Forwards"
+        },
+        "9": {
+            "GXT": "CLO_X8F_PH_15_9",
+            "Localized": "Black Zebra Heat Forwards"
+        }
+    },
+    "244": {
+        "0": {
+            "GXT": "CLO_X8F_PH_16_0",
+            "Localized": "Lilac Leopard Bigness Backwards"
+        },
+        "1": {
+            "GXT": "CLO_X8F_PH_16_1",
+            "Localized": "Orange Leopard Bigness Backwards"
+        },
+        "2": {
+            "GXT": "CLO_X8F_PH_16_2",
+            "Localized": "Blue Leopard Bigness Backwards"
+        },
+        "3": {
+            "GXT": "CLO_X8F_PH_16_3",
+            "Localized": "Orange Leopard Strapz Backwards"
+        },
+        "4": {
+            "GXT": "CLO_X8F_PH_16_4",
+            "Localized": "Blue Leopard Strapz Backwards"
+        },
+        "5": {
+            "GXT": "CLO_X8F_PH_16_5",
+            "Localized": "Pink Camo Yeti Backwards"
+        },
+        "6": {
+            "GXT": "CLO_X8F_PH_16_6",
+            "Localized": "Gray Camo Yeti Backwards"
+        },
+        "7": {
+            "GXT": "CLO_X8F_PH_16_7",
+            "Localized": "Woodland Camo Yeti Backwards"
+        },
+        "8": {
+            "GXT": "CLO_X8F_PH_16_8",
+            "Localized": "Blue Zebra Heat Backwards"
+        },
+        "9": {
+            "GXT": "CLO_X8F_PH_16_9",
+            "Localized": "Black Zebra Heat Backwards"
+        }
     }
 }
