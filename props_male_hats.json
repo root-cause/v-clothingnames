@@ -8522,5 +8522,67 @@
             "GXT": "CLO_X8M_PH_16_9",
             "Localized": "Black Zebra Heat Backwards"
         }
+    },
+    "246": {
+        "0": {
+            "GXT": "CLO_SEM_PH_0_0",
+            "Localized": "Buccaneer Hat"
+        }
+    },
+    "247": {
+        "0": {
+            "GXT": "CLO_SEM_PH_1_0",
+            "Localized": "Ghosts Exposed Forwards Cap"
+        }
+    },
+    "248": {
+        "0": {
+            "GXT": "CLO_SEM_PH_2_0",
+            "Localized": "Ghosts Exposed Backwards Cap"
+        }
+    },
+    "249": {
+        "0": {
+            "GXT": "CLO_SEM_PH_3_0",
+            "Localized": "Hands On Car Wash Cap"
+        },
+        "1": {
+            "GXT": "CLO_SEM_PH_3_1",
+            "Localized": "Camo Jack Sheepe Cap"
+        }
+    },
+    "250": {
+        "0": {
+            "GXT": "CLO_SEM_PH_4_0",
+            "Localized": "Hands On Car Wash Cap"
+        },
+        "1": {
+            "GXT": "CLO_SEM_PH_4_1",
+            "Localized": "Camo Jack Sheepe Cap"
+        }
+    },
+    "251": {
+        "0": {
+            "GXT": "CLO_SEM_PH_5_0",
+            "Localized": "Atomic Racing Cap"
+        }
+    },
+    "252": {
+        "0": {
+            "GXT": "CLO_SEM_PH_6_0",
+            "Localized": "Atomic Racing Cap"
+        }
+    },
+    "253": {
+        "0": {
+            "GXT": "CLO_SEM_PH_7_0",
+            "Localized": "Red Yeti Fall Cap"
+        }
+    },
+    "254": {
+        "0": {
+            "GXT": "CLO_SEM_PH_8_0",
+            "Localized": "Red Yeti Fall Cap"
+        }
     }
 }
