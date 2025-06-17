@@ -8010,5 +8010,53 @@
             "GXT": "CLO_X8F_L_11_19",
             "Localized": "Black Zebra Heat Shorts"
         }
+    },
+    "232": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "233": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "234": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "235": {
+        "0": {
+            "GXT": "CLO_SEF_L_3_0",
+            "Localized": "Magnetics Track Pants"
+        },
+        "1": {
+            "GXT": "CLO_SEF_L_3_1",
+            "Localized": "Camo Jack Sheepe Track Pants"
+        },
+        "2": {
+            "GXT": "CLO_SEF_L_3_2",
+            "Localized": "Santa Skull Track Pants"
+        }
+    },
+    "236": {
+        "0": {
+            "GXT": "CLO_SEF_L_4_0",
+            "Localized": "LS Death Metal Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SEF_L_4_1",
+            "Localized": "Blue Manor Shorts"
+        }
+    },
+    "237": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

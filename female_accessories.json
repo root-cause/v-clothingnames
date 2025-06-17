@@ -2720,5 +2720,21 @@
             "GXT": "CLO_X8F_T_5_1",
             "Localized": "Snake King Pendant"
         }
+    },
+    "169": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "170": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

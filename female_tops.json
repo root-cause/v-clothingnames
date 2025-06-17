@@ -23062,5 +23062,125 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "628": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "629": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "630": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "631": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "CLO_SEF_U_3_1",
+            "Localized": "Black On The Pisswasser Tee"
+        },
+        "2": {
+            "GXT": "CLO_SEF_U_3_2",
+            "Localized": "Red On The Pisswasser Tee"
+        }
+    },
+    "632": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "633": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "3": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "634": {
+        "0": {
+            "GXT": "CLO_SEF_U_6_0",
+            "Localized": "Pluck Me Sweater"
+        }
+    },
+    "635": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "636": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "637": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "638": {
+        "0": {
+            "GXT": "CLO_SEF_U_10_0",
+            "Localized": "Santa Skull Sweater"
+        }
+    },
+    "639": {
+        "0": {
+            "GXT": "CLO_SEF_U_11_0",
+            "Localized": "Atomic Racing Bomber Zipped"
+        },
+        "1": {
+            "GXT": "CLO_SEF_U_11_1",
+            "Localized": "Magnetics Bomber Zipped"
+        }
+    },
+    "640": {
+        "0": {
+            "GXT": "CLO_SEF_U_12_0",
+            "Localized": "R* Community Series Varsity"
+        }
+    },
+    "641": {
+        "0": {
+            "GXT": "CLO_SEF_U_12_0",
+            "Localized": "R* Community Series Varsity"
+        }
     }
 }

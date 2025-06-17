@@ -7004,5 +7004,25 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "251": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "252": {
+        "0": {
+            "GXT": "CLO_SEF_B_1_0",
+            "Localized": "Brown Jumping Spider Mask"
+        },
+        "1": {
+            "GXT": "CLO_SEF_B_1_1",
+            "Localized": "Gray Jumping Spider Mask"
+        },
+        "2": {
+            "GXT": "CLO_SEF_B_1_2",
+            "Localized": "Purple Jumping Spider Mask"
+        }
     }
 }

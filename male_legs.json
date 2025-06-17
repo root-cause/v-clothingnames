@@ -7368,5 +7368,53 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "219": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "220": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "221": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "222": {
+        "0": {
+            "GXT": "CLO_SEM_L_3_0",
+            "Localized": "Magnetics Track Pants"
+        },
+        "1": {
+            "GXT": "CLO_SEM_L_3_1",
+            "Localized": "Camo Jack Sheepe Track Pants"
+        },
+        "2": {
+            "GXT": "CLO_SEM_L_3_2",
+            "Localized": "Santa Skull Track Pants"
+        }
+    },
+    "223": {
+        "0": {
+            "GXT": "CLO_SEM_L_4_0",
+            "Localized": "LS Death Metal Shorts"
+        },
+        "1": {
+            "GXT": "CLO_SEM_L_4_1",
+            "Localized": "Blue Manor Shorts"
+        }
+    },
+    "224": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

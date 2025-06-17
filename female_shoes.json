@@ -6666,5 +6666,97 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "166": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "167": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "168": {
+        "0": {
+            "GXT": "CLO_SDF_F_4_0",
+            "Localized": "Cyan Güffy Hi Top Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_SDF_F_4_1",
+            "Localized": "Magenta Güffy Hi Top Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_SDF_F_4_2",
+            "Localized": "B&Y Hi Top Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_SDF_F_4_3",
+            "Localized": "Pastel Retro Hi Top Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_SDF_F_4_4",
+            "Localized": "Abstract Hi Top Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_SDF_F_4_5",
+            "Localized": "Military Hi Top Sneakers"
+        }
+    },
+    "169": {
+        "0": {
+            "GXT": "CLO_SDF_F_3_0",
+            "Localized": "Black Hi Top 69 Sneakers"
+        },
+        "1": {
+            "GXT": "CLO_SDF_F_3_1",
+            "Localized": "White Hi Top 69 Sneakers"
+        },
+        "2": {
+            "GXT": "CLO_SDF_F_3_2",
+            "Localized": "Red Hi Top 69 Sneakers"
+        },
+        "3": {
+            "GXT": "CLO_SDF_F_3_3",
+            "Localized": "Light Blue Hi Top 69 Sneakers"
+        },
+        "4": {
+            "GXT": "CLO_SDF_F_3_4",
+            "Localized": "Yellow Hi Top Panic Sneakers"
+        },
+        "5": {
+            "GXT": "CLO_SDF_F_3_5",
+            "Localized": "Purple Hi Top Panic Sneakers"
+        },
+        "6": {
+            "GXT": "CLO_SDF_F_3_6",
+            "Localized": "Pink Hi Top 69 Sneakers"
+        },
+        "7": {
+            "GXT": "CLO_SDF_F_3_7",
+            "Localized": "Green Hi Top 69 Sneakers"
+        },
+        "8": {
+            "GXT": "CLO_SDF_F_3_8",
+            "Localized": "B&W Hi Top 69 Sneakers"
+        },
+        "9": {
+            "GXT": "CLO_SDF_F_3_9",
+            "Localized": "White Flame Hi Top Sneakers"
+        },
+        "10": {
+            "GXT": "CLO_SDF_F_3_10",
+            "Localized": "O&G Hi Top 69 Sneakers"
+        },
+        "11": {
+            "GXT": "CLO_SDF_F_3_11",
+            "Localized": "P&W Hi Top 69 Sneakers"
+        },
+        "12": {
+            "GXT": "CLO_SDF_F_3_12",
+            "Localized": "Blue Hi Top 69 Sneakers"
+        }
     }
 }
