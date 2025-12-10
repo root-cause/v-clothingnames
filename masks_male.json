@@ -7018,5 +7018,17 @@
             "GXT": "CLO_SEM_B_1_2",
             "Localized": "Purple Jumping Spider Mask"
         }
+    },
+    "252": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "253": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

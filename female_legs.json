@@ -6627,12 +6627,12 @@
     },
     "157": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_L_0_0",
+            "Localized": "Apricot Perseus Track Pants"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_L_0_1",
+            "Localized": "Manor Geo Track Pants"
         }
     },
     "158": {
@@ -8054,6 +8054,62 @@
         }
     },
     "237": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "238": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "239": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "240": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "241": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "242": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "243": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "244": {
+        "0": {
+            "GXT": "CLO_X9F_L_6_0",
+            "Localized": "Junk x Jackal Wide"
+        },
+        "1": {
+            "GXT": "CLO_X9F_L_6_1",
+            "Localized": "Bigness Crowned Wide"
+        }
+    },
+    "245": {
         "0": {
             "GXT": "NO_LABEL",
             "Localized": "NULL"

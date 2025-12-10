@@ -6473,28 +6473,28 @@
     },
     "210": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_0_0",
+            "Localized": "Gray Cracked Puppet"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_0_1",
+            "Localized": "Blushed Cracked Puppet"
         }
     },
     "211": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_1_0",
+            "Localized": "Grimy Stitched"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_1_1",
+            "Localized": "Pale Stitched"
         }
     },
     "212": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_2_0",
+            "Localized": "President"
         }
     },
     "213": {
@@ -6505,12 +6505,12 @@
     },
     "214": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_4_0",
+            "Localized": "Green Emissive Lady Liberty"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_B_4_1",
+            "Localized": "Blue Emissive Lady Liberty"
         }
     },
     "215": {
@@ -7023,6 +7023,18 @@
         "2": {
             "GXT": "CLO_SEF_B_1_2",
             "Localized": "Purple Jumping Spider Mask"
+        }
+    },
+    "253": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "254": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         }
     }
 }

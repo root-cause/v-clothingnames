@@ -6758,5 +6758,17 @@
             "GXT": "CLO_SDF_F_3_12",
             "Localized": "Blue Hi Top 69 Sneakers"
         }
+    },
+    "170": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "171": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
     }
 }

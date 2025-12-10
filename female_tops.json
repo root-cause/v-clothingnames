@@ -19301,40 +19301,40 @@
     },
     "442": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_1_0",
+            "Localized": "Pumpkin Hoodie"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_1_1",
+            "Localized": "Manor Geo Hoodie"
         }
     },
     "443": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_2_0",
+            "Localized": "Pumpkin Hoodie"
         },
         "1": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_2_1",
+            "Localized": "Manor Geo Hoodie"
         }
     },
     "444": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_3_0",
+            "Localized": "Hand-Drawn Biker Bomber"
         }
     },
     "445": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_3_0",
+            "Localized": "Hand-Drawn Biker Bomber"
         }
     },
     "446": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_5_0",
+            "Localized": "LS Smoking Jacket"
         }
     },
     "447": {
@@ -19345,14 +19345,14 @@
     },
     "448": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_7_0",
+            "Localized": "Still Slipping Tie-dye Tucked Tee"
         }
     },
     "449": {
         "0": {
-            "GXT": "NO_LABEL",
-            "Localized": "NULL"
+            "GXT": "CLO_E1F_U_8_0",
+            "Localized": "Still Slipping Tie-dye Tee"
         }
     },
     "450": {
@@ -23181,6 +23181,180 @@
         "0": {
             "GXT": "CLO_SEF_U_12_0",
             "Localized": "R* Community Series Varsity"
+        }
+    },
+    "642": {
+        "0": {
+            "GXT": "CLO_X9F_U_0_0",
+            "Localized": "FIB Bomber"
+        }
+    },
+    "643": {
+        "0": {
+            "GXT": "CLO_X9F_U_0_0",
+            "Localized": "FIB Bomber"
+        }
+    },
+    "644": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "645": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "646": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "647": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "648": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "649": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        },
+        "1": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "650": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "651": {
+        "0": {
+            "GXT": "CLO_X9F_U_9_0",
+            "Localized": "Season's Greetings Sweater"
+        },
+        "1": {
+            "GXT": "CLO_X9F_U_9_1",
+            "Localized": "Burgundy Rockstar Varsity Crewneck"
+        },
+        "2": {
+            "GXT": "CLO_X9F_U_9_2",
+            "Localized": "Black Rockstar Varsity Crewneck"
+        },
+        "3": {
+            "GXT": "CLO_X9F_U_9_3",
+            "Localized": "Navy Rockstar Varsity Crewneck"
+        }
+    },
+    "652": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "653": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "654": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "655": {
+        "0": {
+            "GXT": "CLO_X9F_U_13_0",
+            "Localized": "Pfister Chore Jacket"
+        }
+    },
+    "656": {
+        "0": {
+            "GXT": "CLO_X9F_U_13_0",
+            "Localized": "Pfister Chore Jacket"
+        }
+    },
+    "657": {
+        "0": {
+            "GXT": "CLO_X9F_U_15_0",
+            "Localized": "Los Santos Soccer Jersey"
+        }
+    },
+    "658": {
+        "0": {
+            "GXT": "CLO_X9F_U_16_0",
+            "Localized": "LS Golf Club Varsity"
+        },
+        "1": {
+            "GXT": "CLO_X9F_U_16_1",
+            "Localized": "Bigness Crowned Varsity"
+        }
+    },
+    "659": {
+        "0": {
+            "GXT": "CLO_X9F_U_16_0",
+            "Localized": "LS Golf Club Varsity"
+        },
+        "1": {
+            "GXT": "CLO_X9F_U_16_1",
+            "Localized": "Bigness Crowned Varsity"
+        }
+    },
+    "660": {
+        "0": {
+            "GXT": "CLO_X9F_U_18_0",
+            "Localized": "KnoWay Hoodie"
+        }
+    },
+    "661": {
+        "0": {
+            "GXT": "CLO_X9F_U_18_0",
+            "Localized": "KnoWay Hoodie"
+        }
+    },
+    "662": {
+        "0": {
+            "GXT": "CLO_X9F_U_20_0",
+            "Localized": "Orange Camo Yeti Tee"
+        },
+        "1": {
+            "GXT": "CLO_X9F_U_20_1",
+            "Localized": "Junk x Jackal Tee"
+        },
+        "2": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "663": {
+        "0": {
+            "GXT": "CLO_X9F_U_21_0",
+            "Localized": "Feud Anniversary Baseball Shirt"
+        }
+    },
+    "664": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
         }
     }
 }
