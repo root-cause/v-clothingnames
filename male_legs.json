@@ -7472,5 +7472,87 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "233": {
+        "0": {
+            "GXT": "CLO_SFM_L_0_0",
+            "Localized": "Sprunk Cuffed Sweats"
+        },
+        "1": {
+            "GXT": "CLO_SFM_L_0_1",
+            "Localized": "eCola Cuffed Sweats"
+        },
+        "2": {
+            "GXT": "CLO_SFM_L_0_2",
+            "Localized": "Junk Cuffed Sweats"
+        },
+        "3": {
+            "GXT": "CLO_SFM_L_0_3",
+            "Localized": "WCC Cuffed Sweats"
+        },
+        "4": {
+            "GXT": "CLO_SFM_L_0_4",
+            "Localized": "Camo Ammu-Nation Cuffed Sweats"
+        },
+        "5": {
+            "GXT": "CLO_SFM_L_0_5",
+            "Localized": "Retro Fruit Cuffed Sweats"
+        },
+        "6": {
+            "GXT": "CLO_SFM_L_0_6",
+            "Localized": "Impotent Rage Cuffed Sweats"
+        },
+        "7": {
+            "GXT": "CLO_SFM_L_0_7",
+            "Localized": "Yeti x LS Customs Cuffed Sweats"
+        },
+        "8": {
+            "GXT": "CLO_SFM_L_0_8",
+            "Localized": "Rebel Radio Cuffed Sweats"
+        },
+        "9": {
+            "GXT": "CLO_SFM_L_0_9",
+            "Localized": "Princess Racing Cuffed Sweats"
+        }
+    },
+    "234": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "235": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "236": {
+        "0": {
+            "GXT": "CLO_SFM_L_3_0",
+            "Localized": "Ride or Die Jeans"
+        },
+        "1": {
+            "GXT": "CLO_SFM_L_3_1",
+            "Localized": "Bigness Patchwork Jeans"
+        }
+    },
+    "237": {
+        "0": {
+            "GXT": "CLO_SFM_L_4_0",
+            "Localized": "Blagueurs Star Cuffed Sweats"
+        },
+        "1": {
+            "GXT": "CLO_SFM_L_4_1",
+            "Localized": "Blue Fade Güffy Cuffed Sweats"
+        },
+        "2": {
+            "GXT": "CLO_SFM_L_4_2",
+            "Localized": "Blue Camo Yeti Cuffed Sweats"
+        },
+        "3": {
+            "GXT": "CLO_SFM_L_4_3",
+            "Localized": "Trickster Skull Cuffed Sweats"
+        }
     }
 }

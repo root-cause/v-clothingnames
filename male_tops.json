@@ -21148,5 +21148,199 @@
             "GXT": "NO_LABEL",
             "Localized": "NULL"
         }
+    },
+    "621": {
+        "0": {
+            "GXT": "CLO_SFM_U_0_0",
+            "Localized": "Sprunk Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_0_1",
+            "Localized": "Camo Ammu-Nation Hoodie"
+        },
+        "2": {
+            "GXT": "CLO_SFM_U_0_2",
+            "Localized": "Impotent Rage Hoodie"
+        },
+        "3": {
+            "GXT": "CLO_SFM_U_0_3",
+            "Localized": "Rebel Radio Hoodie"
+        }
+    },
+    "622": {
+        "0": {
+            "GXT": "CLO_SFM_U_0_0",
+            "Localized": "Sprunk Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_0_1",
+            "Localized": "Camo Ammu-Nation Hoodie"
+        },
+        "2": {
+            "GXT": "CLO_SFM_U_0_2",
+            "Localized": "Impotent Rage Hoodie"
+        },
+        "3": {
+            "GXT": "CLO_SFM_U_0_3",
+            "Localized": "Rebel Radio Hoodie"
+        }
+    },
+    "623": {
+        "0": {
+            "GXT": "CLO_SFM_U_2_0",
+            "Localized": "eCola Track Jacket"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_2_1",
+            "Localized": "Junk Track Jacket"
+        },
+        "2": {
+            "GXT": "CLO_SFM_U_2_2",
+            "Localized": "WCC Track Jacket"
+        },
+        "3": {
+            "GXT": "CLO_SFM_U_2_3",
+            "Localized": "Retro Fruit Track Jacket"
+        },
+        "4": {
+            "GXT": "CLO_SFM_U_2_4",
+            "Localized": "Yeti x LS Customs Track Jacket"
+        },
+        "5": {
+            "GXT": "CLO_SFM_U_2_5",
+            "Localized": "Princess Racing Track Jacket"
+        }
+    },
+    "624": {
+        "0": {
+            "GXT": "CLO_SFM_U_3_0",
+            "Localized": "Beige Dog Blagueurs T-Shirt"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_3_1",
+            "Localized": "Trickster Skull T-Shirt"
+        },
+        "2": {
+            "GXT": "CLO_SFM_U_3_2",
+            "Localized": "Kortz T-Shirt"
+        }
+    },
+    "625": {
+        "0": {
+            "GXT": "CLO_SFM_U_4_0",
+            "Localized": "Beige Dog Blagueurs Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_4_1",
+            "Localized": "Haute Couture Blagueurs Hoodie"
+        }
+    },
+    "626": {
+        "0": {
+            "GXT": "CLO_SFM_U_4_0",
+            "Localized": "Beige Dog Blagueurs Hoodie"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_4_1",
+            "Localized": "Haute Couture Blagueurs Hoodie"
+        }
+    },
+    "627": {
+        "0": {
+            "GXT": "CLO_SFM_U_6_0",
+            "Localized": "Kortz Bomber Jacket"
+        }
+    },
+    "628": {
+        "0": {
+            "GXT": "CLO_SFM_U_6_0",
+            "Localized": "Kortz Bomber Jacket"
+        }
+    },
+    "629": {
+        "0": {
+            "GXT": "CLO_SFM_U_8_0",
+            "Localized": "Ghosts Exposed Jacket"
+        }
+    },
+    "630": {
+        "0": {
+            "GXT": "NO_LABEL",
+            "Localized": "NULL"
+        }
+    },
+    "631": {
+        "0": {
+            "GXT": "CLO_SFM_U_10_0",
+            "Localized": "Light Blue SN Varsity"
+        }
+    },
+    "632": {
+        "0": {
+            "GXT": "CLO_SFM_U_10_0",
+            "Localized": "Light Blue SN Varsity"
+        }
+    },
+    "633": {
+        "0": {
+            "GXT": "CLO_SFM_U_12_0",
+            "Localized": "Brown Go Hard! Leather Jacket"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_12_1",
+            "Localized": "Ride or Die Chore"
+        }
+    },
+    "634": {
+        "0": {
+            "GXT": "CLO_SFM_U_12_0",
+            "Localized": "Brown Go Hard! Leather Jacket"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_12_1",
+            "Localized": "Ride or Die Chore"
+        }
+    },
+    "635": {
+        "0": {
+            "GXT": "CLO_SFM_U_14_0",
+            "Localized": "Pop Art Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_14_1",
+            "Localized": "Bigness Patchwork Revere Collar"
+        }
+    },
+    "636": {
+        "0": {
+            "GXT": "CLO_SFM_U_14_0",
+            "Localized": "Pop Art Revere Collar"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_14_1",
+            "Localized": "Bigness Patchwork Revere Collar"
+        }
+    },
+    "637": {
+        "0": {
+            "GXT": "CLO_SFM_U_16_0",
+            "Localized": "Blagueurs Star Bomber Zipped"
+        },
+        "1": {
+            "GXT": "CLO_SFM_U_16_1",
+            "Localized": "Blue Fade Güffy Bomber Zipped"
+        },
+        "2": {
+            "GXT": "CLO_SFM_U_16_2",
+            "Localized": "Orange Manor Bomber Zipped"
+        },
+        "3": {
+            "GXT": "CLO_SFM_U_16_3",
+            "Localized": "Blue Camo Yeti Bomber Zipped"
+        },
+        "4": {
+            "GXT": "CLO_SFM_U_16_4",
+            "Localized": "Pink SN x PRB Bomber Zipped"
+        }
     }
 }
